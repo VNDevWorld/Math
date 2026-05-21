@@ -42379,7 +42379,7 @@
               "koString": "8 곱하기 7은 56입니다.",
               "portugueseBRString": "8 vezes 7 é igual a 56. Você pode contar de 7 em 7 ou de 8 em 8.",
               "spanishString": "8 por 7 es igual a 56. Puedes contar de 7 en 7 o de 8 en 8.",
-              "vnString": "Để giải 'Một phép chia mà số chia là số hai chữ số nhỏ nhất, thương là 3, và số dư là số dư lớn nhất có thể. Tìm số chia?', sử dụng số hai chữ số nhỏ nhất, 10, và điều chỉnh để có số dư lớn nhất. Đáp án đúng là '33'."
+              "vnString": "Số nhỏ nhất có hai chữ số giống nhau là 11. Số dư lớn nhất khi chia cho 11 là 10. Số bị chia = thương × số chia + số dư = 3 × 11 + 10 = 33 + 10 = 43. Đáp án đúng là 43."
             },
             "id": 11,
             "question": {
@@ -42475,7 +42475,7 @@
               "koString": "7 × 6 = 42이므로, 42를 7로 나누면 6이 됩니다.",
               "portugueseBRString": "Como 7 × 6 = 42, dividir 42 por 7 resulta em 6.",
               "spanishString": "Como 7 × 6 = 42, al dividir 42 entre 7 obtienes 6.",
-              "vnString": "Để giải 'Giá trị của chữ số 6 trong 206 là', tìm giá trị vị trí của chữ số 6 trong số 206. Đáp án đúng là '60'."
+              "vnString": "Trong số 206, chữ số 6 đứng ở hàng đơn vị, nên giá trị của nó là 6. Đáp án đúng là 6."
             },
             "id": 12,
             "question": {
@@ -43639,7 +43639,7 @@
               "koString": "12 × 3은 12를 세 번 더한 값과 같습니다: 12 + 12 + 12 = 36.",
               "portugueseBRString": "12 × 3 significa 12 somado 3 vezes: 12 + 12 + 12 = 36.",
               "spanishString": "12 × 3 significa 12 sumado 3 veces: 12 + 12 + 12 = 36.",
-              "vnString": "Để giải 'Một hình chữ nhật có chiều rộng 8m, chiều dài gấp đôi chiều rộng. Tính chu vi của hình chữ nhật.', tìm chiều dài, sau đó sử dụng công thức chu vi: 2(cạnh dài + cạnh rộng). Đáp án đúng là '32'."
+              "vnString": "Chiều dài = 8 × 2 = 16m. Chu vi = 2 × (chiều dài + chiều rộng) = 2 × (16 + 8) = 2 × 24 = 48m. Đáp án đúng là 48m."
             },
             "id": 24,
             "question": {
@@ -46267,7 +46267,7 @@
               "koString": "5 × 4 = 20이고 22 - 20 = 2가 남습니다. 따라서 22 ÷ 5 = 4...2입니다.",
               "portugueseBRString": "5 × 4 = 20. 22 - 20 = 2 de sobra. Logo 22 ÷ 5 = 4 R2.",
               "spanishString": "5 × 4 = 20. 22 - 20 = 2 sobrantes. Por lo tanto, 22 ÷ 5 = 4 R2.",
-              "vnString": "Để so sánh 6 x 6 và 30 + 5, đầu tiên tính cả hai bên: 6 x 6 = 36 và 30 + 5 = 35. Vì 36 > 35, đáp án đúng là <."
+              "vnString": "Tính cả hai vế: 6 × 6 = 36 và 30 + 5 = 35. Vì 36 > 35, đáp án đúng là dấu >."
             },
             "id": 51,
             "question": {
@@ -47527,7 +47527,7 @@
               "koString": "나눗셈은 곱셈의 반대입니다. 27 ÷ 3 = 9입니다.",
               "portugueseBRString": "A divisão desfaz a multiplicação. 27 ÷ 3 = 9.",
               "spanishString": "La división deshace la multiplicación. 27 ÷ 3 = 9.",
-              "vnString": "Để giải x : 7 = 21 dư 3, đầu tiên tính 21 x 7 + 3 = 147. Đáp án đúng là 147."
+              "vnString": "Áp dụng công thức: x = thương × số chia + số dư = 21 × 7 + 3 = 147 + 3 = 150. Đáp án đúng là 150."
             },
             "id": 64,
             "question": {
@@ -47917,7 +47917,7 @@
               "koString": "3의 배수는 3, 6, 9, 12...입니다.",
               "portugueseBRString": "Os múltiplos de 3 são 3, 6, 9, 12, 15, etc.",
               "spanishString": "Los múltiplos de 3 son 3, 6, 9, 12, 15, etc.",
-              "vnString": "Để tìm x trong 24 – 4 × x = 8, đầu tiên thực hiện phép nhân 4 × x = 16, sau đó trừ từ 24: 24 - 16 = 8. Kết quả là x = 2. Đáp án đúng là 2."
+              "vnString": "Để tìm x trong 24 – 4 × x = 8: 4 × x = 24 – 8 = 16, suy ra x = 16 ÷ 4 = 4. Đáp án đúng là 4."
             },
             "id": 68,
             "question": {
@@ -48211,7 +48211,7 @@
               "koString": "5 × 6 = 30이므로 사과는 모두 30개입니다.",
               "portugueseBRString": "5 × 6 = 30, logo existem 30 maçãs.",
               "spanishString": "5 × 6 = 30, por lo tanto hay 30 manzanas.",
-              "vnString": "Để so sánh 6m 5 cm và 603 m, chuyển đổi cả hai số thành m: 6m 5 cm = 6.05 m và 603 m. Vì 6.05 m < 603 m, đáp án đúng là <."
+              "vnString": "Đổi 6m 5cm ra cm: 6m 5cm = 600cm + 5cm = 605cm. So sánh 605cm … 603cm → 605 > 603. Đáp án đúng là dấu >."
             },
             "id": 71,
             "question": {
@@ -48307,7 +48307,7 @@
               "koString": "8 × 4 = 32이므로 연필은 모두 32자루입니다.",
               "portugueseBRString": "8 × 4 = 32, logo existem 32 lápis.",
               "spanishString": "8 × 4 = 32, así que hay 32 lápices.",
-              "vnString": "Để giải 1 m 5 cm + 60 cm, chuyển đổi 1 m 5 cm thành cm: 105 cm và cộng thêm 60 cm: 105 cm + 60 cm = 165 cm. Đáp án đúng là 165 cm."
+              "vnString": "Đổi 2m 5cm ra cm: 2m 5cm = 200cm + 5cm = 205cm. So sánh 205cm … 205cm → 205cm = 205cm. Đáp án đúng là dấu =."
             },
             "id": 72,
             "question": {
@@ -48403,7 +48403,7 @@
               "koString": "7 × 9 = 63이므로 옥수수는 모두 63그루입니다.",
               "portugueseBRString": "7 × 9 = 63, logo existem 63 plantas de milho.",
               "spanishString": "7 × 9 = 63, por lo tanto hay 63 plantas de maíz.",
-              "vnString": "Để giải 80 cm + 6 m 5 cm, chuyển đổi 6 m 5 cm thành cm: 605 cm và cộng thêm 80 cm: 80 cm + 605 cm = 685 cm. Đáp án đúng là 685 cm."
+              "vnString": "Số cam sau khi giảm 4 lần: 84 ÷ 4 = 21 quả. Số cam đã bán: 84 - 21 = 63 quả. Đáp án đúng là 63 quả cam."
             },
             "id": 73,
             "question": {
@@ -48499,7 +48499,7 @@
               "koString": "3 × 12 = 36이므로 오렌지는 모두 36개입니다.",
               "portugueseBRString": "3 × 12 = 36, logo existem 36 laranjas.",
               "spanishString": "3 × 12 = 36, así que hay 36 naranjas.",
-              "vnString": "Để giải 2m 7 cm + 9 cm, chuyển đổi 2m 7 cm thành cm: 207 cm và cộng thêm 9 cm: 207 cm + 9 cm = 216 cm. Đáp án đúng là 216 cm."
+              "vnString": "Số đoạn dây cắt được: 150 cm ÷ 10 cm = 15 đoạn. Đáp án đúng là 15 đoạn."
             },
             "id": 74,
             "question": {
@@ -51025,7 +51025,7 @@
               "koString": "천 4000, 백 300, 십 70, 일 2의 합으로 나타냅니다.",
               "portugueseBRString": "Separe o número em milhares, centenas, dezenas e unidades: 4.000 + 300 + 70 + 2.",
               "spanishString": "Descompón el número en millares, centenas, decenas y unidades: 4,000 + 300 + 70 + 2.",
-              "vnString": "Nếu tổng của hai số là 96, và khi trừ 2 từ số lớn hơn sẽ được số nhỏ hơn, hiệu số là 88. Đáp án đúng là 88."
+              "vnString": "Gọi số bé là x, thì số lớn là 10x (vì xóa chữ số 0 ở tận cùng của số lớn ta được số bé).\n\nTổng hai số: x + 10x = 11x = 96 → x = 96 ÷ 11 (không nguyên).\n\nThực ra: xóa chữ số 2 ở tận cùng của số lớn ta được số bé, tức số lớn = số bé × 10 + 2.\n\nGọi số bé là a, số lớn là 10a + 2.\n\na + 10a + 2 = 96 → 11a = 94 → a = 94 ÷ 11 (không nguyên).\n\nXét lại: số lớn có chữ số 2 ở tận cùng, xóa đi được số bé → số lớn = số bé × 10 + 2... Thử: số bé = 8, số lớn = 88 → tổng = 96 ✓. Hiệu = 88 - 8 = 80.\n\nVậy hiệu hai số là 80."
             },
             "id": 100,
             "question": {
@@ -51696,7 +51696,7 @@
               "koString": "3.65",
               "portugueseBRString": "3.65",
               "spanishString": "3.65",
-              "vnString": "500"
+              "vnString": "50"
             },
             "hint": {
               "arString": "قارن الأجزاء من عشرة أولاً: 3.5 مقابل 3.6 ← 3.6 هو الأكبر. لذا 3.65 هو الأكبر.",
@@ -51984,7 +51984,7 @@
               "koString": "2 시간",
               "portugueseBRString": "2 hours",
               "spanishString": "2 horas",
-              "vnString": "45"
+              "vnString": "55"
             },
             "hint": {
               "arString": "60 دقيقة = ساعة واحدة، لذا 120 ÷ 60 = ساعتان.",
@@ -52182,7 +52182,7 @@
               "koString": "822",
               "portugueseBRString": "822",
               "spanishString": "822",
-              "vnString": "7"
+              "vnString": "8"
             },
             "hint": {
               "arString": "استلف عند الحاجة: 0 - 8 (استلف) = 2، 9 - 7 = 2، 4 - 6 (استلف) = 8، 0 - 0 = 0. المجموع = 822.",
@@ -52374,7 +52374,7 @@
               "koString": "12",
               "portugueseBRString": "12",
               "spanishString": "12",
-              "vnString": "74"
+              "vnString": "64"
             },
             "hint": {
               "arString": "12 ضرب 12 يساوي 144، لذا 144 ÷ 12 = 12.",
@@ -53442,7 +53442,7 @@
               "koString": "6.5",
               "portugueseBRString": "6.5",
               "spanishString": "6.5",
-              "vnString": "45"
+              "vnString": "44"
             },
             "hint": {
               "arString": "اجمع الكسور العشرية: 3.7 + 2.8 = 6.5.",
@@ -56847,17 +56847,17 @@
               "vnString": "5.2 mét"
             },
             "hint": {
-              "arString": "اطرح الكسور العشرية: 15.6 - 7.25 = 8.35 لتر.",
-              "cnTraditionalString": "小數相減：20.8 - 12.45 = 8.35 公升。",
-              "enString": "Subtract decimals: 15.6 - 7.25 = 8.35 liters.",
-              "frenchString": "Soustraire les décimaux : 15,6 − 7,25 = 8,35 litres.",
-              "germanString": "Subtrahiere die Dezimalzahlen: 15,60 - 7,25 = 8,35 Liter.",
-              "italiaString": "Sottrai i decimali: 15,6 - 7,25 = 8,35 litri.",
-              "jaString": "小数を引く：15.6 − 7.25 = 8.35 L。",
-              "koString": "소수의 뺄셈: 15.6 - 7.25 = 8.35L입니다.",
-              "portugueseBRString": "Subtraia os decimais: 15,6 - 7,25 = 8,35 litros.",
-              "spanishString": "Resta decimales: 15.6 - 7.25 = 8.35 litros.",
-              "vnString": "Trừ số thập phân: 15.6 - 7.25 = 8.35 lít."
+              "arString": "اطرح الكسور العشرية: 12.5 - 7.3 = 5.2 متر.",
+              "cnTraditionalString": "小數相減：12.5 - 7.3 = 5.2 公尺。",
+              "enString": "Subtract decimals: 12.5 - 7.3 = 5.2 meters.",
+              "frenchString": "Soustraire les décimaux : 12,5 − 7,3 = 5,2 mètres.",
+              "germanString": "Subtrahiere die Dezimalzahlen: 12,5 - 7,3 = 5,2 Meter.",
+              "italiaString": "Sottrai i decimali: 12,5 - 7,3 = 5,2 metri.",
+              "jaString": "小数を引く：12.5 − 7.3 = 5.2 m。",
+              "koString": "소수의 뺄셈: 12.5 - 7.3 = 5.2m입니다.",
+              "portugueseBRString": "Subtraia os decimais: 12,5 - 7,3 = 5,2 metros.",
+              "spanishString": "Resta decimales: 12.5 - 7.3 = 5.2 metros.",
+              "vnString": "Trừ số thập phân: 12.5 - 7.3 = 5.2 mét."
             },
             "id": 160,
             "question": {
@@ -57819,17 +57819,17 @@
               "vnString": "8.35 lít"
             },
             "hint": {
-              "arString": "اطرح الكسور العشرية: 18.9 - 9.75 = 9.15 متر.",
-              "cnTraditionalString": "小數相減：18.9 - 9.75 = 9.15 公尺。",
-              "enString": "Subtract decimals: 18.9 - 9.75 = 9.15 meters.",
-              "frenchString": "Soustraire les décimaux : 18,9 − 9,75 = 9,15 mètres.",
-              "germanString": "Subtrahiere die Dezimalzahlen: 18,90 - 9,75 = 9,15 Meter.",
-              "italiaString": "Sottrai i decimali: 18,9 - 9,75 = 9,15 metri.",
-              "jaString": "小数を引く：18.9 − 9.75 = 9.15 m。",
-              "koString": "소수의 뺄셈: 18.9 - 9.75 = 9.15m입니다.",
-              "portugueseBRString": "Subtraia os decimais: 18,9 - 9,75 = 9,15 metros.",
-              "spanishString": "Resta decimales: 18.9 - 9.75 = 9.15 metros.",
-              "vnString": "Trừ số thập phân: 18.9 - 9.75 = 9.15 mét."
+              "arString": "اطرح الكسور العشرية: 15.6 - 7.25 = 8.35 لتر.",
+              "cnTraditionalString": "小數相減：15.6 - 7.25 = 8.35 公升。",
+              "enString": "Subtract decimals: 15.6 - 7.25 = 8.35 liters.",
+              "frenchString": "Soustraire les décimaux : 15,6 − 7,25 = 8,35 litres.",
+              "germanString": "Subtrahiere die Dezimalzahlen: 15,60 - 7,25 = 8,35 Liter.",
+              "italiaString": "Sottrai i decimali: 15,6 - 7,25 = 8,35 litri.",
+              "jaString": "小数を引く：15.6 − 7.25 = 8.35 L。",
+              "koString": "소수의 뺄셈: 15.6 - 7.25 = 8.35L입니다.",
+              "portugueseBRString": "Subtraia os decimais: 15,6 - 7,25 = 8,35 litros.",
+              "spanishString": "Resta decimales: 15.6 - 7.25 = 8.35 litros.",
+              "vnString": "Trừ số thập phân: 15.6 - 7.25 = 8.35 lít."
             },
             "id": 170,
             "question": {
@@ -94195,7 +94195,7 @@
               "koString": "21/24와 20/24를 비교하면 7/8이 더 큽니다.",
               "portugueseBRString": "7/8 = 21/24, 5/6 = 20/24 → 7/8 > 5/6.",
               "spanishString": "7/8 = 21/24, 5/6 = 20/24 → 7/8 > 5/6.",
-              "vnString": "Tính lãi suất bằng cách nhân 40.000 với 0.005 để có 200 USD. Cộng thêm vào tiền gửi ban đầu: 40.000 + 200 = 40.200 USD. Đáp án đúng là 40.200 USD."
+              "vnString": "Tiền lãi sau một tháng: 40 000 000 × 0,5% = 40 000 000 × 0,005 = 200 000 đồng.\n\nSố tiền bố mẹ nhận được cả gốc lẫn lãi: 40 000 000 + 200 000 = 40 200 000 đồng.\n\nVậy đáp án đúng là 40 200 000 đồng."
             },
             "id": 134,
             "question": {
@@ -99443,15 +99443,15 @@
             "hint": {
               "arString": "الأعداد الطبيعية x التي تحقق 4 < x ≤ 9 أو x أكبر من 4 وأقل من أو تساوي 9 هي: 5، 6، 7، 8، 9.\n\nنكتب المجموعة A بسرد العناصر فنحصل على: A = {5; 6; 7; 8; 9}.\n\nنكتب المجموعة A بذكر الخاصية المميزة: A = {x ∈ N | 4 < x ≤ 9}.",
               "cnTraditionalString": "滿足 4 < x ≤ 9 的自然數為：5, 6, 7, 8, 9。\n\n用列舉元素法寫集合 A：A = {5; 6; 7; 8; 9}。\n\n用特徵性質法寫集合 A：A = {x ∈ ℕ | 4 < x ≤ 9}。；",
-              "enString": "The natural numbers x satisfying 4 < x ≤ 9 or x greater than 4 and less than or equal to 9 are: 5, 6, 7, 8, 9.\n\nWe write the set A by listing the elements we get: A = {5; 6; 7; 8; 9}.\n\nWe write the set A by stating the characteristic sign: A = {x ∈ N | x < 7}.",
-              "frenchString": "Les nombres naturels x satisfaisant 4 < x ≤ 9 ou x supérieur à 4 et inférieur ou égal à 9 sont : 5, 6, 7, 8, 9.\n\nOn écrit l'ensemble A en listant les éléments obtenus : A = {5 ; 6 ; 7; 8; 9}.\n\nOn écrit l'ensemble A en énonçant le signe caractéristique : A = {x ∈ N | x < 7}.",
+              "enString": "The natural numbers x satisfying 4 < x ≤ 9 or x greater than 4 and less than or equal to 9 are: 5, 6, 7, 8, 9.\n\nWe write the set A by listing the elements we get: A = {5; 6; 7; 8; 9}.\n\nWe write the set A by stating the characteristic sign: A = {x ∈ N | 4 < x ≤ 9}.",
+              "frenchString": "Les nombres naturels x satisfaisant 4 < x ≤ 9 ou x supérieur à 4 et inférieur ou égal à 9 sont : 5, 6, 7, 8, 9.\n\nOn écrit l'ensemble A en listant les éléments obtenus : A = {5 ; 6 ; 7; 8; 9}.\n\nOn écrit l'ensemble A en énonçant le signe caractéristique : A = {x ∈ N | 4 < x ≤ 9}.",
               "germanString": "Die natürlichen Zahlen x, die 4 < x ≤ 9 erfüllen, sind: 5, 6, 7, 8, 9.\n\nAls Liste geschrieben: A = {5; 6; 7; 8; 9}.\n\nDurch Angabe der charakteristischen Eigenschaft: A = {x ∈ ℕ | 4 < x ≤ 9}.",
               "italiaString": "I numeri naturali x che soddisfano 4 < x ≤ 9, ovvero x maggiore di 4 e minore o uguale a 9, sono: 5, 6, 7, 8, 9.\n\nScriviamo l'insieme A elencando gli elementi ottenuti: A = {5; 6; 7; 8; 9}.\n\nScriviamo l'insieme A indicando la proprietà caratteristica: A = {x ∈ N | 4 < x ≤ 9}.",
-              "jaString": "4 < x ≤ 9 を満たす自然数 x は 5、6、7、8、9 です。  \n集合 A を要素の列挙で書くと：A = {5, 6, 7, 8, 9}  \n特性記号で書くと：A = {x ∈ N | 4 < x ≤ 9}（問題の x < 7 は誤りと仮定）。",
+              "jaString": "4 < x ≤ 9 を満たす自然数 x は 5、6、7、8、9 です。  \n集合 A を要素の列挙で書くと：A = {5, 6, 7, 8, 9}  \n特性記号で書くと：A = {x ∈ N | 4 < x ≤ 9}。",
               "koString": "4 < x ≤ 9 를 만족하거나 4보다 크고 9보다 작거나 같은 자연수 x는: 5, 6, 7, 8, 9 입니다.\n\n원소를 나열하여 집합 A를 쓰면 다음과 같습니다: A = {5; 6; 7; 8; 9}.\n\n특성 징후를 명시하여 집합 A를 쓰면 다음과 같습니다: A = {x ∈ N | 4 < x ≤ 9}.",
               "portugueseBRString": "Os números naturais x que satisfazem 4 < x ≤ 9 (ou x maior que 4 e menor ou igual a 9) são: 5, 6, 7, 8, 9.\n\nAo escrever o conjunto A listando os elementos, obtemos: A = {5; 6; 7; 8; 9}.\n\nAo escrever o conjunto A indicando a propriedade característica, temos: A = {x ∈ N | 4 < x ≤ 9}.",
               "spanishString": "Los números naturales x que satisfacen 4 < x ≤ 9 (o x mayor que 4 y menor o igual a 9) son: 5, 6, 7, 8, 9.\n\nEscribimos el conjunto A listando los elementos: A = {5; 6; 7; 8; 9}.\n\nEscribimos el conjunto A mediante su propiedad característica: A = {x ∈ ℕ | 4 < x ≤ 9}.",
-              "vnString": "Các số tự nhiên x thỏa mãn 4 < x ≤ 9 hay x lớn hơn 4 và nhỏ hơn hoặc bằng 9 là: 5, 6, 7, 8, 9.\n\nTa viết tập hợp A bằng cách liệt kê các phần tử ta được: A = {5; 6; 7; 8; 9}.\n\nTa viết tập hợp A bằng cách nêu dấu hiệu đặc trưng: A = {x ∈ N | x < 7}."
+              "vnString": "Các số tự nhiên x thỏa mãn 4 < x ≤ 9 hay x lớn hơn 4 và nhỏ hơn hoặc bằng 9 là: 5, 6, 7, 8, 9.\n\nTa viết tập hợp A bằng cách liệt kê các phần tử ta được: A = {5; 6; 7; 8; 9}.\n\nTa viết tập hợp A bằng cách nêu dấu hiệu đặc trưng: A = {x ∈ N | 4 < x ≤ 9}."
             },
             "id": 13,
             "question": {
