@@ -149369,7 +149369,7 @@
             },
             "answers": [
               {
-                "vnString": "['-3'",
+                "vnString": "-3",
                 "enString": "-3",
                 "arString": "-3",
                 "cnTraditionalString": "-3",
@@ -149382,7 +149382,7 @@
                 "spanishString": "-3"
               },
               {
-                "vnString": "'2'",
+                "vnString": "2",
                 "enString": "2",
                 "arString": "2",
                 "cnTraditionalString": "2",
@@ -149395,7 +149395,7 @@
                 "spanishString": "2"
               },
               {
-                "vnString": "'3'",
+                "vnString": "3",
                 "enString": "3",
                 "arString": "3",
                 "cnTraditionalString": "3",
@@ -149408,7 +149408,7 @@
                 "spanishString": "3"
               },
               {
-                "vnString": "'-2']",
+                "vnString": "-2",
                 "enString": "-2",
                 "arString": "-2",
                 "cnTraditionalString": "-2",
@@ -149422,7 +149422,7 @@
               }
             ],
             "correctAnswer": {
-              "vnString": "['-3'",
+              "vnString": "-3",
               "enString": "-3",
               "arString": "-3",
               "cnTraditionalString": "-3",
@@ -150341,7 +150341,7 @@
             },
             "answers": [
               {
-                "vnString": "['-4'",
+                "vnString": "-4",
                 "enString": "-4",
                 "arString": "-4",
                 "cnTraditionalString": "-4",
@@ -150354,7 +150354,7 @@
                 "spanishString": "-4"
               },
               {
-                "vnString": "'-3'",
+                "vnString": "-3",
                 "enString": "-3",
                 "arString": "-3",
                 "cnTraditionalString": "-3",
@@ -150367,7 +150367,7 @@
                 "spanishString": "-3"
               },
               {
-                "vnString": "'-2'",
+                "vnString": "-2",
                 "enString": "-2",
                 "arString": "-2",
                 "cnTraditionalString": "-2",
@@ -150380,7 +150380,7 @@
                 "spanishString": "-2"
               },
               {
-                "vnString": "'0']",
+                "vnString": "0",
                 "enString": "0",
                 "arString": "0",
                 "cnTraditionalString": "0",
@@ -150394,7 +150394,7 @@
               }
             ],
             "correctAnswer": {
-              "vnString": "['-4'",
+              "vnString": "-4",
               "enString": "-4",
               "arString": "-4",
               "cnTraditionalString": "-4",
