@@ -108917,30 +108917,17 @@
             },
             "answers": [
               {
-                "vnString": "2/5",
-                "enString": "2/5",
-                "arString": "2/5",
-                "cnTraditionalString": "2/5",
-                "frenchString": "2/5",
-                "germanString": "2/5",
-                "italiaString": "2/5",
-                "jaString": "2/5",
-                "koString": "2/5",
-                "portugueseBRString": "2/5",
-                "spanishString": "2/5"
-              },
-              {
-                "vnString": "4/10",
-                "enString": "4/10",
-                "arString": "4/10",
-                "cnTraditionalString": "4/10",
-                "frenchString": "4/10",
-                "germanString": "4/10",
-                "italiaString": "4/10",
-                "jaString": "4/10",
-                "koString": "4/10",
-                "portugueseBRString": "4/10",
-                "spanishString": "4/10"
+                "vnString": "3/10",
+                "enString": "3/10",
+                "arString": "3/10",
+                "cnTraditionalString": "3/10",
+                "frenchString": "3/10",
+                "germanString": "3/10",
+                "italiaString": "3/10",
+                "jaString": "3/10",
+                "koString": "3/10",
+                "portugueseBRString": "3/10",
+                "spanishString": "3/10"
               },
               {
                 "vnString": "2/5",
@@ -108967,6 +108954,19 @@
                 "koString": "3/5",
                 "portugueseBRString": "3/5",
                 "spanishString": "3/5"
+              },
+              {
+                "vnString": "1/5",
+                "enString": "1/5",
+                "arString": "1/5",
+                "cnTraditionalString": "1/5",
+                "frenchString": "1/5",
+                "germanString": "1/5",
+                "italiaString": "1/5",
+                "jaString": "1/5",
+                "koString": "1/5",
+                "portugueseBRString": "1/5",
+                "spanishString": "1/5"
               }
             ],
             "correctAnswer": {
@@ -108983,17 +108983,17 @@
               "spanishString": "2/5"
             },
             "hint": {
-              "vnString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "enString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "arString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "cnTraditionalString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "frenchString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "germanString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "italiaString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "jaString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "koString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "portugueseBRString": "1/2 × 4/5 = 4/10 = 2/5.",
-              "spanishString": "1/2 × 4/5 = 4/10 = 2/5."
+              "vnString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Rút gọn: 4/10 = 2/5. Chọn đáp án đã rút gọn: 2/5.",
+              "enString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "arString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "cnTraditionalString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "frenchString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "germanString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "italiaString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "jaString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "koString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "portugueseBRString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5.",
+              "spanishString": "1/2 × 4/5 = (1×4)/(2×5) = 4/10. Simplify: 4/10 = 2/5. Choose the simplified answer: 2/5."
             }
           },
           {
