@@ -135447,18 +135447,28 @@
           {
             "id": 80034,
             "question": {
-              "vnString": "Tam giác ABC có AB = AC = 5 cm, BC = 6 cm. Đường cao AH xuống BC có độ dài:",
-              "enString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "arString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "cnTraditionalString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "frenchString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "germanString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "italiaString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "jaString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "koString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "portugueseBRString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?",
-              "spanishString": "Triangle ABC: AB=AC=5, BC=6. Height AH to BC?"
-            },
+    "vnString": "Tam giác ABC có AB = AC = 5 cm, BC = 6 cm.\nAH là đường cao kẻ từ A xuống BC.\nTính độ dài AH.",
+
+    "enString": "In triangle ABC, AB = AC = 5 and BC = 6.\nAH is the altitude from A to BC.\nFind AH.",
+
+    "arString": "في المثلث ABC، لدينا AB = AC = 5 و BC = 6.\nيمثل AH الارتفاع المرسوم من A على BC.\nأوجد طول AH.",
+
+    "cnTraditionalString": "在三角形 ABC 中，AB = AC = 5，BC = 6。\nAH 是從 A 向 BC 作的高。\n求 AH 的長度。",
+
+    "frenchString": "Dans le triangle ABC, AB = AC = 5 et BC = 6.\nAH est la hauteur issue de A sur BC.\nCalculez AH.",
+
+    "germanString": "Im Dreieck ABC gilt: AB = AC = 5 und BC = 6.\nAH ist die Höhe von A auf BC.\nBerechne AH.",
+
+    "italiaString": "Nel triangolo ABC, AB = AC = 5 e BC = 6.\nAH è l'altezza tracciata da A a BC.\nCalcola AH.",
+
+    "jaString": "三角形ABCにおいて、AB = AC = 5、BC = 6です。\nAHはAからBCに引いた高さです。\nAHの長さを求めなさい。",
+
+    "koString": "삼각형 ABC에서 AB = AC = 5, BC = 6이다.\nAH는 A에서 BC에 내린 높이이다.\nAH의 길이를 구하시오.",
+
+    "portugueseBRString": "No triângulo ABC, AB = AC = 5 e BC = 6.\nAH é a altura traçada de A até BC.\nDetermine AH.",
+
+    "spanishString": "En el triángulo ABC, AB = AC = 5 y BC = 6.\nAH es la altura trazada desde A hasta BC.\nCalcula AH."
+  },
             "answers": [
               {
                 "vnString": "3 cm",
