@@ -3421,7 +3421,7 @@
               "brazilString": "8 - … = 8",
               "taiwanString": "8 - … = 8",
               "saudiString": "8 - ... = 8",
-              "spainString": "8-…=8"
+              "spainString": "8- … = 8"
             },
             "answers": [
               {
@@ -53679,17 +53679,17 @@
           {
             "id": 3,
             "question": {
-              "enString": "Two number of total is the great number of two character., Know the first number is a small number of the two letter. Find the second number.",
-              "frenchString": "Deux nombres dont la somme est le plus grand nombre à deux chiffres, sachant que le premier nombre est le plus petit nombre à deux chiffres. Trouvez le second nombre.",
-              "germanString": "Zwei Zahlen haben die größte zweistellige Summe, wobei die erste Zahl die kleinste zweistellige Zahl ist. Finde die zweite Zahl.",
+              "enString": "The sum of two numbers is the greatest two-digit number. Knowing that the first number is the smallest two-digit number. Find the second number",
+              "frenchString": "La somme de deux nombres est le plus grand nombre à deux chiffres. Sachant que le premier nombre est le plus petit nombre à deux chiffres. Trouvez le deuxième nombre.",
+              "germanString": "Die Summe zweier Zahlen ist die größte zweistellige Zahl. Die erste Zahl ist die kleinste zweistellige Zahl. Finde die zweite Zahl.",
               "vnString": "Hai số có tổng là số lớn nhất có hai chữ số, biết số thứ nhất là số nhỏ nhất có hai chữ số. Tìm số thứ hai.",
-              "mexicoString": "Dos números del total es el gran número de dos caracteres. Sepa que el primer número es un número pequeño de las dos letras. Encuentra el segundo número.",
-              "koreaString": "총 두 개의 숫자는 두 글자의 큰 숫자입니다., 첫 번째 숫자는 두 글자의 작은 숫자임을 알 수 있습니다. 두 번째 숫자를 찾으세요.",
-              "italiaString": "Due numeri in totale sono il numero massimo di due caratteri. Il primo numero è un piccolo numero di due lettere. Trova il secondo numero.",
-              "brazilString": "Dois números do total é o grande número de dois caracteres. Saiba que o primeiro número é um número pequeno das duas letras. Encontre o segundo número.",
-              "taiwanString": "兩個數和就是兩個字元的大數，知道第一個數是兩個字母的小數。找到第二個數字。",
-              "saudiString": "رقمان من المجموع هو العدد الكبير من حرفين.، أعرف أن الرقم الأول هو عدد صغير من الحرفين. ابحث عن الرقم الثاني.",
-              "spainString": "Dos números del total es el gran número de dos caracteres. Sepa que el primer número es un número pequeño de las dos letras. Encuentra el segundo número."
+              "mexicoString": "La suma de dos números es el mayor número de dos dígitos. Sabiendo que el primer número es el menor número de dos dígitos. Encuentra el segundo número.",
+              "koreaString": "두 수의 합은 가장 큰 두 자리 수입니다. 첫 번째 수가 가장 작은 두 자리 수일 때, 두 번째 수를 구하세요.",
+              "italiaString": "La somma di due numeri è il più grande numero a due cifre. Sapendo che il primo numero è il più piccolo numero a due cifre. Trova il secondo numero.",
+              "brazilString": "A soma de dois números é o maior número de dois dígitos. Sabendo que o primeiro número é o menor número de dois dígitos. Encontre o segundo número.",
+              "taiwanString": "兩個數的和是最大的兩位數。已知第一個數是最小的兩位數。求第二個數。",
+              "saudiString": "مجموع عددين هو أكبر عدد مكوّن من رقمين. إذا علمت أن العدد الأول هو أصغر عدد مكوّن من رقمين. أوجد العدد الثاني.",
+              "spainString": "La suma de dos números es el mayor número de dos dígitos. Sabiendo que el primer número es el menor número de dos dígitos. Encuentra el segundo número."
             },
             "answers": [
               {
