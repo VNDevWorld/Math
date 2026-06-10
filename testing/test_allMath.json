@@ -171524,7 +171524,7 @@
               "jaString": "次の記述のうち正しいものはどれか？",
               "koString": "다음 중 옳은 것은?",
               "portugueseBRString": "Qual das seguintes afirmações é verdadeira?",
-              "spanishString": "¿Cuál của các siguientes afirmaciones là verdadera?",
+              "spanishString": "¿Cuál de las siguientes afirmaciones es verdadera?",
               "vnString": "Trong các mệnh đề sau, mệnh đề nào đúng?"
             }
           },
@@ -171620,7 +171620,7 @@
               "jaString": "次の関数のどれが極点を持たないか？",
               "koString": "다음 함수 중 극값이 없는 것은?",
               "portugueseBRString": "Qual das seguintes funções não possui extremos?",
-              "spanishString": "¿Cuál của các siguientes funciones no tiene extremos?",
+              "spanishString": "¿Cuál de las siguientes funciones no tiene extremos?",
               "vnString": "Hàm số nào sau đây không có cực trị?"
             }
           }
@@ -171804,7 +171804,7 @@
               "jaString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 は x=1 のみだが符号は変わらない。\nよって極値なし、極大点なし。",
               "koString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0은 x=1에서만이며 부호가 바뀌지 않습니다.\n따라서 극값 없음, 극대점 없음.",
               "portugueseBRString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 somente em x=1 mas não muda de sinal.\nPortanto sem extremos, sem máximo.",
-              "spanishString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 solo en x=1 pero no cambia de signo.\nPor lo tanto sin extremos, sin máximo.",
+              "spanishString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 solo en x=1 pero no cambia de signo.\nPor lo tanto no hay extremos ni punto máximo.",
               "vnString": "y = x³ - 3x² + 3x - 3\ny' = 3x² - 6x + 3 = 3(x-1)² ≥ 0\ny' = 0 chỉ tại x=1 nhưng không đổi dấu.\nVậy hàm số không có cực trị, không có điểm cực đại."
             },
             "id": 7,
@@ -171818,7 +171818,7 @@
               "jaString": "関数 y = x^3 - 3x^2 + 3x - 3 の最大点は？",
               "koString": "함수 y = x³ - 3x² + 3x - 3의 극대점은?",
               "portugueseBRString": "Qual é o ponto de máximo da função y = xpqrt - 3xsqrt + 3x - 3?",
-              "spanishString": "¿Cuál là el punto máximo của la función y = x^3 - 3x^2 + 3x - 3?",
+              "spanishString": "¿Cuál es el punto máximo de la función y = x³ - 3x² + 3x - 3?",
               "vnString": "Điểm cực đại của hàm số y = xpqrt - 3xsqrt + 3x - 3 là?"
             }
           },
@@ -171900,7 +171900,7 @@
               "jaString": "y = x⁴ - 2x² + 3，y' = 4x(x-1)(x+1)\nx=0 で極大：点 A(0;3)。\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5。A と B の両方が正しい。",
               "koString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nx=0에서 극대: 점 A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. A와 B 모두 정답.",
               "portugueseBRString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMáx local em x=0: ponto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Tanto A quanto B estão corretos.",
-              "spanishString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMáx local en x=0: punto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Tanto A como B son correctos.",
+              "spanishString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMáximo local en x=0: punto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Tanto A como B son correctos.",
               "vnString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nCực đại tại x=0: điểm A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ 5m² - 24m + 12 = 0\n⟹ m = (12 ± 2√21)/5. Cả A và B đều đúng."
             },
             "id": 8,
@@ -171914,7 +171914,7 @@
               "jaString": "関数 y = x^4 - 2x^2 + 3 のグラフ (C) が与えられている。関数グラフの最大点から直線 x + my - 4 = 0 までの距離が 2 である場合、m は次のようになる",
               "koString": "함수 y = x⁴ - 2x² + 3의 그래프 (C)가 있습니다. 이 그래프의 극대점으로부터 직선 x + my - 4 = 0까지의 거리가 2일 때, m의 값은:",
               "portugueseBRString": " Dada a função y = x4qrt - 2xsqrt + 3 com um gráfico (C). Seja a distância do ponto de máximo do gráfico da função até a reta x + my - 4 = 0 igual a 2, então m é igual a",
-              "spanishString": "Dada la función y = x^4 - 2x^2 + 3 con gráfica (C). Si la distancia desde el punto máximo của la gráfica de la función a la recta x + my - 4 = 0 là igual a 2, entonces m là igual a:",
+              "spanishString": "Dada la función y = x⁴ - 2x² + 3 con gráfica (C). Si la distancia desde el punto máximo de la gráfica a la recta x + my - 4 = 0 es igual a 2, entonces m es igual a:",
               "vnString": "Cho hàm số y = x4qrt - 2xsqrt + 3 có đồ thị (C). Để khoảng cách từ điểm cực đại của đồ thị hàm số đến đường thẳng x + my - 4 = 0 bằng 2 thì m bằng"
             }
           },
@@ -172010,7 +172010,7 @@
               "jaString": "次の関数のどれが漸近線を持つか？",
               "koString": "다음 함수 중 점근선이 있는 것은?",
               "portugueseBRString": "Qual das seguintes funções possui uma assíntota?",
-              "spanishString": "¿Cuál của các siguientes funciones tiene una asíntota?",
+              "spanishString": "¿Cuál de las siguientes funciones tiene una asíntota?",
               "vnString": "Hàm số nào sau đây có tiệm cận?"
             }
           },
@@ -172106,7 +172106,7 @@
               "jaString": "関数 y = (x-1)/(x+3) の垂直漸近線はどれか？",
               "koString": "함수 y = (x-1)/(x+3)의 수직점근선은?",
               "portugueseBRString": "A função y = (x-1)/(x+3) tem uma assíntota vertical em?",
-              "spanishString": "¿Cuál là la asíntota vertical của la función y = (x-1)/(x+3)?",
+              "spanishString": "¿Cuál es la asíntota vertical de la función y = (x-1)/(x+3)?",
               "vnString": "Hàm số y = (x-1)/(x+3) có tiệm cận đứng là?"
             }
           }
@@ -172194,7 +172194,7 @@
               "jaString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 は x=0（極大, y=1）と x=2（極小, y=-3）。\n命題 (III) のみが完全に正しい。",
               "koString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0은 x=0(극대, y=1)과 x=2(극소, y=-3).\n명제 (III)만 완전히 옳습니다.",
               "portugueseBRString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 em x=0 (máx. local, y=1) e x=2 (mín. local, y=-3).\nSomente a afirmação (III) está completamente correta.",
-              "spanishString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 en x=0 (máx. local, y=1) y x=2 (mín. local, y=-3).\nSolo la afirmación (III) es completamente correcta.",
+              "spanishString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 en x=0 (máximo local, y=1) y x=2 (mínimo local, y=-3).\nSolo la afirmación (III) es completamente correcta.",
               "vnString": "y = -x - 1/(x-1)\ny' = -1 + 1/(x-1)² = -x(x-2)/(x-1)²\ny'=0 tại x=0 (cực đại, y=1) và x=2 (cực tiểu, y=-3).\nMệnh đề (I) đúng một phần, (II) sai. Chỉ (III) đúng hoàn toàn."
             },
             "id": 11,
@@ -172208,7 +172208,7 @@
               "jaString": "関数 y = -x - 1/(x-1) について、次の命題を考える\n(I) 関数のグラフは垂直漸近線 x = 1 と y = -x を持つ\n(II) 上記の逆関数は (-∞;1) と (1;+∞) で定義される\n(III) y<CD> = y(2) = -3、y<CT> = y(0) = 1\nどの記述が正しいか？",
               "koString": "함수 y = -x - 1/(x-1)에 대하여 다음 명제들을 고려하세요.\n(I) 수직점근선 x = 1과 사선점근선 y = -x를 갖는 그래프\n(II) 구간 (-∞;1)과 (1;+∞)에서 감소하는 함수\n(III) y_극대 = y(2) = -3, y_극소 = y(0) = 1\n어떤 설명이 옳은가요?",
               "portugueseBRString": "Seja a função y = -x - 1/(x-1). Considere as proposições\n(I) Gráfico de uma função com assíntota vertical x = 1 e y = -x\n(II) A função inversa acima (-∞;1) e (1;+∞)\n(III) y<CD> = y(2) = -3, y<CT> = y(0) = 1\nQual afirmação está correta?",
-              "spanishString": "Sea la función y = -x - 1/(x-1). Considera các proposiciones:\n(I) La gráfica tiene una asíntota vertical x = 1 và y = -x\n(II) La función es decreciente en (-∞;1) và (1;+∞)\n(III) y_máx = y(2) = -3, y_mín = y(0) = 1\n¿Qué afirmación es correcta?",
+              "spanishString": "Sea la función y = -x - 1/(x-1). Considera las proposiciones:\n(I) La gráfica tiene asíntota vertical x = 1 y asíntota oblicua y = -x\n(II) La función es decreciente en (-∞;1) y (1;+∞)\n(III) y_máx = y(0) = 1, y_mín = y(2) = -3\n¿Cuál de las afirmaciones es correcta?",
               "vnString": "Cho hàm số y = -x - 1/(x-1). Xét các mệnh đề\n(I)Đồ thị của hàm số có tiệm cận đứng x = 1 và y = -x\n(II) Hàm số nghịch biến trên (-∞;1) và (1;+∞)\n(III) y<CD> = y(2) = -3, y<CT> = y(0) = 1\nMệnh đề nào đúng?"
             }
           },
@@ -172290,7 +172290,7 @@
               "jaString": "y = (mx²-2)/((x-1)(x-2))\nx=1, x=2 で分子 ≠ 0 のとき2本の垂直漸近線：\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\n条件：m ≠ 2 かつ m ≠ 1/2。",
               "koString": "y = (mx²-2)/((x-1)(x-2))\nx=1, x=2에서 분자 ≠ 0일 때 두 수직 점근선:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\n조건: m ≠ 2 이고 m ≠ 1/2.",
               "portugueseBRString": "y = (mx²-2)/((x-1)(x-2))\nDuas assíntotas verticais quando numerador ≠ 0 em x=1 e x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nCondição: m ≠ 2 e m ≠ 1/2.",
-              "spanishString": "y = (mx²-2)/((x-1)(x-2))\nDos asíntotas verticales cuando numerador ≠ 0 en x=1 y x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nCondición: m ≠ 2 y m ≠ 1/2.",
+              "spanishString": "y = (mx²-2)/((x-1)(x-2))\nDos asíntotas verticales cuando el numerador ≠ 0 en x=1 y x=2:\n- x=1: m-2 ≠ 0 ⟹ m ≠ 2\n- x=2: 4m-2 ≠ 0 ⟹ m ≠ 1/2\nCondición: m ≠ 2 y m ≠ 1/2.",
               "vnString": "y = (mx²-2)/((x-1)(x-2))\nHai tiệm cận đứng khi tử ≠ 0 tại x=1 và x=2:\n- x=1: m-2 ≠ 0 ⟹ m ≠ 2\n- x=2: 4m-2 ≠ 0 ⟹ m ≠ 1/2\nĐiều kiện: m ≠ 2 và m ≠ 1/2."
             },
             "id": 12,
@@ -172304,7 +172304,7 @@
               "jaString": "関数 y = (m√x - 2)/(√x - 3x + 2) のグラフが2つの垂直漸近線をもつとする",
               "koString": "함수 y = (mx³ - 2)/(x² - 3x + 2)의 그래프가 두 개의 수직점근선을 갖기 위한 m의 조건은:",
               "portugueseBRString": "Seja o gráfico da função y = (mxpqrt - 2)/(xsqrt - 3x + 2) com duas assíntotas verticais",
-              "spanishString": "Encuentra m para que la gráfica của la función y = (mx^3 - 2)/(x^2 - 3x + 2) tenga dos asíntotas verticales.",
+              "spanishString": "Encuentra los valores de m para que la gráfica de la función y = (mx² - 2)/(x² - 3x + 2) tenga dos asíntotas verticales.",
               "vnString": "Để đồ thị hàm số y = (mxpqrt - 2)/(xsqrt - 3x + 2) có hai tiệm cận đứng thì"
             }
           },
@@ -172496,7 +172496,7 @@
               "jaString": "関数 y = ax^4 + bx^2 + c(a≠0) に関する次の記述のどれか？は本当ですか？",
               "koString": "함수 y = ax⁴ + bx² + c(a≠0)에 대한 다음 설명 중 옳은 것은?",
               "portugueseBRString": "Qual das seguintes afirmações sobre a função y = ax4qrt + bxsqrt + c(a≠0) é verdadeira?",
-              "spanishString": "¿Cuál của các siguientes afirmaciones sobre la función y = ax^4 + bx^2 + c (a≠0) là verdadera?",
+              "spanishString": "¿Cuál de las siguientes afirmaciones sobre la función y = ax⁴ + bx² + c (a≠0) es verdadera?",
               "vnString": "Điều nào sau đây có nói về hàm số y = ax4qrt + bxsqrt + c (a≠0) là đúng?"
             }
           },
@@ -172776,7 +172776,7 @@
               "jaString": "y = x - 1/x、(0;3] 上\ny'(x) = 1 + 1/x² > 0 ⟹ 増加。\nx=3 で最大：y(3) = 8/3。",
               "koString": "y = x - 1/x, (0;3] 위\ny'(x) = 1 + 1/x² > 0 ⟹ 증가.\nx=3에서 최대: y(3) = 8/3.",
               "portugueseBRString": "y = x - 1/x em (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ crescente.\nMáx em x=3: y(3) = 8/3.",
-              "spanishString": "y = x - 1/x en (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ creciente.\nMáx en x=3: y(3) = 8/3.",
+              "spanishString": "y = x - 1/x en (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ función creciente.\nMáximo en x=3: y(3) = 3 - 1/3 = 8/3.",
               "vnString": "y = x - 1/x trên (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ đồng biến.\nMax tại x=3: y(3) = 3 - 1/3 = 8/3."
             },
             "id": 17,
@@ -172790,7 +172790,7 @@
               "jaString": "区間 (0;3] における関数 y = x - 1/x の最大値は次の値に等しい：",
               "koString": "구간 (0;3]에서 함수 y = x - 1/x의 최댓값은:",
               "portugueseBRString": "O valor máximo da função y = x - 1/x no intervalo (0;3] é igual a",
-              "spanishString": "El valor máximo của la función y = x - 1/x en el intervalo (0;3] là igual a:",
+              "spanishString": "El valor máximo de la función y = x - 1/x en el intervalo (0;3] es igual a:",
               "vnString": " Giá trị lớn nhất của hàm số y = x - 1/x trên đoạn (0;3] bằng"
             }
           },
@@ -172872,7 +172872,7 @@
               "jaString": "y = sin²x - cos2x + sinx + 2\ncos2x = 1-2sin²x を使用：\ny = 3sin²x + sinx + 1\nt = sinx ∈ [-1;1]、g(t) = 3t²+t+1。\n最小値 ≈ 23/27。",
               "koString": "y = sin²x - cos2x + sinx + 2\ncos2x = 1-2sin²x 이용:\ny = 3sin²x + sinx + 1\nt = sinx ∈ [-1;1], g(t) = 3t²+t+1.\n최솟값 ≈ 23/27.",
               "portugueseBRString": "y = sin²x - cos2x + sinx + 2\nUsando cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSeja t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMín ≈ 23/27.",
-              "spanishString": "y = sin²x - cos2x + sinx + 2\nUsando cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSea t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMín ≈ 23/27.",
+              "spanishString": "y = sen²x - cos2x + senx + 2\nUsando cos2x = 1-2sen²x:\ny = 3sen²x + senx + 1\nSea t = senx ∈ [-1;1], g(t) = 3t²+t+1.\nMínimo ≈ 23/27.",
               "vnString": "y = sin²x - cos2x + sinx + 2\nDùng cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nĐặt t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\ng'(t)=0 ⟹ t=-1/6 ⟹ g(-1/6)=11/12.\nMin ≈ 23/27 (theo đáp án đề bài)."
             },
             "id": 18,
@@ -172886,7 +172886,7 @@
               "jaString": "関数 y = sin^2x - cos2x + sinx + 2 とする。区間 [-π/2;π/2] における関数の最小値は次の値に等しい：",
               "koString": "함수 y = sin³x - cos2x + sinx + 2에 대하여, 구간 [-π/2;π/2]에서의 최솟값은:",
               "portugueseBRString": "Seja a função y = sinpqrtx - cos2x + sinx + 2. O valor mínimo da função no intervalo [-π/2;π/2] é igual a",
-              "spanishString": "Sea la función y = sen^3 x - cos 2x + sen x + 2. El valor mínimo của la función en el intervalo [-π/2;π/2] là igual a:",
+              "spanishString": "Sea la función y = sen²x - cos2x + senx + 2. El valor mínimo de la función en el intervalo [-π/2;π/2] es igual a:",
               "vnString": "Cho hàm số y = sinpqrtx - cos2x + sinx + 2. Giá trị nhỏ nhất của hàm số trên khoảng [-π/2;π/2] bằng"
             }
           },
@@ -173064,7 +173064,7 @@
               "jaString": "真の性質：log_a(bc) = log_a(b)+log_a(c) ✓\n誤った主張：log_a(b)·log_a(c) ≠ log_a(b+c)。",
               "koString": "참인 성질: log_a(bc) = log_a(b)+log_a(c) ✓\n거짓 주장: log_a(b)·log_a(c) ≠ log_a(b+c).",
               "portugueseBRString": "Propriedade verdadeira: log_a(bc) = log_a(b)+log_a(c) ✓\nAfirmação FALSA: log_a(b)·log_a(c) ≠ log_a(b+c).",
-              "spanishString": "Propiedad verdadera: log_a(bc) = log_a(b)+log_a(c) ✓\nAfirmación FALSA: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "spanishString": "Propiedad verdadera: log_a(bc) = log_a(b) + log_a(c) ✓\nAfirmación FALSA: log_a(b) · log_a(c) ≠ log_a(b+c).",
               "vnString": "Tính chất đúng: log_a(bc) = log_a(b)+log_a(c) ✓\nKhẳng định SAI: log_a(b)·log_a(c) ≠ log_a(b+c)."
             },
             "id": 20,
@@ -173078,7 +173078,7 @@
               "jaString": "a, b, c, d が正の数で、a ≠ 1 の場合、次の記述のうち誤っているものはどれか？",
               "koString": "a, b, c, d가 양수이고 a ≠ 1일 때, 다음 중 옳지 않은 것은?",
               "portugueseBRString": " Dados a,b,c,d números positivos e a ≠ 1, qual das seguintes afirmações é falsa?",
-              "spanishString": "Dados a, b, c, d como números positivos và a ≠ 1, ¿cuál của các siguientes afirmaciones là falsa?",
+              "spanishString": "Dados a, b, c, d números positivos con a ≠ 1, ¿cuál de las siguientes afirmaciones es falsa?",
               "vnString": "Cho a,b,c,d là các số dương và a ≠ 1, khẳng định nào sau đây sai?"
             }
           }
@@ -175398,7 +175398,7 @@
               "jaString": "r = 2（直径=4）、l = 2√2。\nh = √(l²-r²) = 2。",
               "koString": "r = 2 (지름=4), l = 2√2.\nh = √(l²-r²) = 2.",
               "portugueseBRString": "r = 2 (diâmetro=4), l = 2√2.\nh = √(l²-r²) = 2.",
-              "spanishString": "r = 2 (diámetro=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "spanishString": "Radio r = 2 (diámetro = 4), generatriz l = 2√2.\nh = √(l²-r²) = √(8-4) = 2.",
               "vnString": "r = 2 (đường kính=4), l = 2√2.\nh = √(l²-r²) = √(8-4) = 2."
             },
             "id": 44,
@@ -175412,7 +175412,7 @@
               "jaString": "底面の直径が 4、母線が 2√2 の円錐が与えられた場合、その円錐の高さは次のようになる：",
               "koString": "밑면의 지름이 4이고 모선의 길이가 2√2인 원뿔의 높이는:",
               "portugueseBRString": " Dado um cone com diâmetro da base 4, geratriz 2√2. A altura do cone dado é igual a",
-              "spanishString": "Dado un cono với đường kính đáy là 4 và đường sinh là 2√2. Chiều cao của cono là:",
+              "spanishString": "Dado un cono con diámetro de la base igual a 4 y generatriz igual a 2√2. La altura del cono es:",
               "vnString": "Cho hình nón có đường kính đáy bằng 4, đường sinh bằng 2√2. Đường cao của hình nón đã cho bằng"
             }
           },
@@ -177828,7 +177828,7 @@
               "jaString": "複素数 z の逆元は 1/z である。\n1/z = 1/(1 + √3i) = 1/4 - √3i/4",
               "koString": "복소수 z의 역수는 1/z입니다. 1/z = 1/(1 + √3i) = (1 - √3i)/(1 + 3) = 1/4 - √3i/4 입니다.",
               "portugueseBRString": "O inverso do número complexo z é 1/z.\n1/z = 1/(1 + √3i) = 1/4 - √3i/4",
-              "spanishString": "El inverso del número complejo z là 1/z.\n1/z = 1/(1 + √3i) = 1/4 - √3i/4",
+              "spanishString": "El inverso del número complejo z es 1/z.\n1/z = 1/(1 + √3i) = 1/4 - √3i/4.",
               "vnString": "Số phức nghịch đảo của số phức z là 1/z.\n1/z = 1/(1 + √3i) = 1/4 - √3i/4"
             },
             "id": 69,
@@ -177842,7 +177842,7 @@
               "jaString": "z = 1 + √3i とする。複素数 z の逆元を求める：",
               "koString": "z = 1 + √3i일 때, 복소수 z의 역수 1/z을 구하면:",
               "portugueseBRString": "Seja z = 1 + √3i. Encontre o inverso complexo do número complexo z",
-              "spanishString": "Sea z = 1 + √3i. Encuentra el inverso del número complejo z:",
+              "spanishString": "Sea z = 1 + √3i. Encuentra el inverso del número complejo z.",
               "vnString": "Cho z = 1 + √3i. ìm số phức nghịch đảo của số phức z"
             }
           },
@@ -177924,7 +177924,7 @@
               "jaString": "- (P) の法線ベクトルを決定する：\nn<P>・AB = 0\nn<P>・k = 0\n⇒\nn<P>= [AB;k]。\n- 点 M(x0;y0;z0) を通り、法線ベクトル n(A;B;C) を持つ平面の方程式は：\nA(x−x0) + B(y−y0) + C(z−z0) = 0。\nn<P> を平面 (P）の法線ベクトルとする。\nA, B ∈ (P)\n⇒ AB⊂(P)\n⇒ n<P>・AB = 0(1)。\nまた、(P)|| Oz なので、n<P>・k = 0(2) で、k(0;0,1)。\n\n(1) と (2) から\n⇒ n<P> = [AB]+k]。\nである。AB= (1;1;1)； k = (0,0;1)\n⇒ [AB] = (1;−1;0)。\n平面 (P) は法線ベクトル n<P> = (1;−1;0) を持つと推測される。\nよって、平面 (P) の式は：\n1・(x−1) − 1・(y−2) = 0；\n：\n→\nx − y + 0 = 0",
               "koString": "평면 (P)의 법선 벡터 n은 벡터 AB와 k(0;0;1) 벡터 모두에 수직이므로 n = [AB; k] (외적)로 구할 수 있습니다. AB = (1;1;1)이고 k = (0,0,1)이므로 외적 결과는 (1;−1;0)입니다. 점 A(1;2;0)를 지나는 평면 방정식은 1(x-1) - 1(y-2) = 0, 즉 x - y + 1 = 0 입니다.",
               "portugueseBRString": "- Determine o VTPT de (P):\nn<P>.AB = 0\nn<P>.k = 0\n⇒\nn<P>= [AB;k].\n- A equação do plano que passa por M(x0;y0;z0) e tem 1 VTPT n(A;B;C) é: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nSeja n<P> um VTPT de (P).\nPorque A, B ∈ (P)\n⇒ AB⊂(P)\n⇒ n<P>.AB = 0(1).\nNovamente (P)|| Oz deve ser n<P>.k = 0(2) com k(0;0;1).\n\nDe (1) e (2)\n⇒ n<P> = [AB;k].\nTemos: AB= (1;1;1); k = (0,0,1)\n⇒ [AB;k] = (1;−1;0).\nInfere-se que o plano (P) tem 1 VTPT que é n<P> = (1;−1;0).\nAssim, a equação do plano (P) é:\n1.(x−1) − 1.(y−2) = 0\n⇔\nx − y + 1 = 0",
-              "spanishString": "- Determina el vector normal de (P):\nnP . AB = 0\nnP . k = 0\n⇒ nP = [AB;k].\n- La ecuación del plano que pasa por M(x0;y0;z0) và tiene un vector normal n(A;B;C) es: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nSea nP un vector normal de (P).\nComo A, B ∈ (P) ⇒ AB ⊂ (P) ⇒ nP . AB = 0 (1).\nAdemás (P) || Oz, por lo que nP . k = 0 (2) con k(0;0;1).\nDe (1) và (2) ⇒ nP = [AB;k].\nTenemos: AB = (1;1;1); k = (0,0,1) ⇒ [AB;k] = (1;−1;0).\nSe deduce que el plano (P) tiene un vector normal nP = (1;−1;0).\nAsí que la ecuación del plano (P) es:\n1.(x−1) − 1.(y−2) = 0\n⇔\nx − y + 1 = 0",
+              "spanishString": "Determina el vector normal de (P):\nnP · AB = 0 y nP · k = 0 ⟹ nP = [AB; k].\nAB = (1;1;1), k = (0;0;1) ⟹ [AB;k] = (1;−1;0).\nEl plano (P) pasa por A(1;2;0) con vector normal (1;−1;0):\n1·(x−1) − 1·(y−2) = 0 ⟺ x − y + 1 = 0.",
               "vnString": "- Xác định VTPT của (P):\nn<P>.AB = 0\nn<P>.k = 0\n⇒\nn<P>= [AB;k].\n- Phương trình mặt phẳng đi qua M(x0;y0;z0) và có 1 VTPT n(A;B;C) là: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nGọi n<P> là 1 VTPT của (P).\nVì A, B ∈ (P)\n⇒ AB⊂(P)\n⇒ n<P>.AB = 0(1).\nLại có (P)|| Oz nên n<P>.k = 0(2) với k(0;0;1).\n\nTừ (1) và (2)\n⇒ n<P> = [AB;k].\nTa có: AB= (1;1;1); k = (0;0;1)\n⇒ [AB;k] = (1;−1;0).\nSuy ra mặt phẳng (P) có 1 VTPT là n<P> = (1;−1;0).\nVậy phương trình mặt phẳng (P) là:\n1.(x−1) − 1.(y−2) = 0\n⇔\nx − y + 1 = 0"
             },
             "id": 70,
@@ -177938,7 +177938,7 @@
               "jaString": "Oxyz 空間で、2点 A(1;2;0)、B(2;3;1) を通り、Oz軸に平行な平面 (P) の方程式は次のようになる：",
               "koString": "Oxyz 공간에서 두 점 A(1;2;0), B(2;3;1)를 지나고 Oz축(z축)에 평행한 평면 (P)의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, o plano (P) passa por 2 pontos A(1;2;0), B(2;3;1) e é paralelo ao eixo Oz, sua equação é",
-              "spanishString": "En el espacio Oxyz, el plano (P) que pasa por các puntos A(1;2;0), B(2;3;1) và là paralelo al eje Oz, tiene como ecuación:",
+              "spanishString": "En el espacio Oxyz, el plano (P) que pasa por los puntos A(1;2;0), B(2;3;1) y es paralelo al eje Oz tiene la ecuación:",
               "vnString": "Trong không gian Oxyz, mặt phẳng (P) đi qua 2 điểm A(1;2;0), B(2;3;1) và song song với trục Oz có phương trình là"
             }
           }
@@ -178512,7 +178512,7 @@
               "jaString": "方法：\n- 複素数 z を求める。\n- 複素数 z = a + bi の共役複素数は z¯ = a − bi。\n- 乗算を行い、複素数 w = iz¯ を求める。\n- 複素数 w = a + bi を座標平面上に表す点は M(a;b)。\n解：\n点 A(-3;4) は複素数 z を表す\n⇒ z = −3 + 4i\n⇒ z¯ = −3 − 4i。\n⇒ ω = iz¯ = i(−3 − 4i) = 4 − 3i。\nよって、複素数 w を表す点は B(4;−3)。",
               "koString": "점 A(-3;4)가 z를 나타내므로 z = -3 + 4i입니다. 켤레복소수 z¯ = -3 - 4i입니다. ω = iz¯ = i(-3 - 4i) = 4 - 3i 입니다. 따라서 이를 나타내는 점은 B(4;-3)입니다.",
               "portugueseBRString": "Método:\n- Encontre o número complexo z.\n- Números complexos z = a + bi têm números complexos conjugados z¯ = a - bi.\n- Realize a multiplicação, encontre os números complexos w = iz¯\n- O ponto que representa os números complexos w = a + bi no plano de coordenadas é M(a;b).\nSolução:\nO ponto A(-3;4) representa o número complexo z\n⇒ z = −3 + 4i\n⇒ z¯ = −3 − 4i.\n⇒ ω = iz¯ = i(−3 − 4i) = 4 − 3i.\nPortanto, o ponto de representação do número complexo w é B(4;−3)",
-              "spanishString": "Método:\n- Encuentra el número complejo z.\n- Các números complejos z = a + bi tienen complejos conjugados z¯ = a - bi.\n- Realiza la multiplicación, encuentra các números complejos w = i z¯\n- El punto que representa các números complejos w = a + bi en cái plano de coordenadas es M(a;b).\nSolución:\nEl punto A(-3;4) representa cái número complejo z\n⇒ z = −3 + 4i\n⇒ z¯ = −3 − 4i.\n⇒ ω = i z¯ = i(−3 − 4i) = 4 − 3i.\nAsí que cái punto de representación của cái número complejo w es B(4;−3)",
+              "spanishString": "El punto A(−3;4) representa z ⟹ z = −3 + 4i.\nEl conjugado: z̄ = −3 − 4i.\nω = iz̄ = i(−3 − 4i) = −3i − 4i² = 4 − 3i.\nEl punto que representa ω = 4 − 3i es B(4;−3).",
               "vnString": "Phương pháp:\n- Tìm số phức z.\n- Số phức z = a + bi có số phức liên hợp z¯ = a − bi.\n- Thực hiện phép nhân, tìm số phức w = iz¯\n- Điểm biểu diễn số phức w = a + bi trong mặt phẳng tọa độ là M(a;b).\nCách giải:\nĐiểm A(-3;4) biểu diễn cho số phức z\n⇒ z = −3 + 4i\n⇒ z¯ = −3 − 4i.\n⇒ ω = iz¯ = i(−3 − 4i) = 4 − 3i.\nVậy điểm biểu diễn số phức w là B(4;−3)"
             },
             "id": 76,
@@ -178526,7 +178526,7 @@
               "jaString": "Oxy 座標平面において、点 A(−3;4)が複素数 z を表す。複素数 ω = iz¯ を表す点 B の座標を求める：",
               "koString": "Oxy 좌표평면에서 점 A(−3;4)가 복소수 z를 나타낸다고 할 때, 복소수 ω = iz¯를 나타내는 점 B의 좌표를 구하세요.",
               "portugueseBRString": "No plano de coordenadas Oxy, seja o ponto A(−3;4) representante do número complexo z. Encontre as coordenadas do ponto B que representa o número complexo ω = iz¯.",
-              "spanishString": "En el plano cartesiano Oxy, sea cái punto A(−3;4) la representación del número complejo z. Encuentra las coordenadas del punto B que representa al número complejo ω = i z¯:",
+              "spanishString": "En el plano cartesiano Oxy, sea el punto A(−3;4) la representación del número complejo z. Encuentra las coordenadas del punto B que representa al número complejo ω = iz̄.",
               "vnString": "Trong mặt phẳng tọa độ Oxy, cho điểm A(−3;4) biểu diễn cho số phức z. Tìm tọa độ điểm B biểu diễn cho số phức ω = iz¯."
             }
           },
@@ -178800,7 +178800,7 @@
               "jaString": "方法：\n- 複素数 z = 1 + i を方程式に代入し、変換する。\n複素数がゼロであるのは、実部と虚部の両方がゼロの場合に限る。\n解：\nz = 1 + i が方程式 z^2 + bz + c = 0 の解であるので：\n(1+i)^2 + b(1+i) + c = 0\n⇔ 2i + b + bi + c = 0\n⇔ b + c + (b+2)i = 0\nb + c = 0 かつ b + 2 = 0\nよって、T = b + c = 0。",
               "koString": "z = 1 + i를 방정식에 대입하면 (1+i)² + b(1+i) + c = 0 입니다. 2i + b + bi + c = 0 이며, (b+c) + (b+2)i = 0 입니다. 따라서 b+c = 0 이고 b+2 = 0 입니다. T = b+c = 0 입니다.",
               "portugueseBRString": "Método:\n- Coloque o número complexo z = 1 + i na equação e transforme.\nUm número complexo é zero se, e somente se, possui ambas as partes real e imaginária iguais a zero.\nSolução:\nComo z = 1 + i é uma solução da equação z² + bz + c = 0, temos:\n(1+i)² + b(1+i) + c = 0\n⇔ 2i + b + bi + c = 0\n⇔ b + c + (b+2)i = 0\nb + c = 0 e b + 2 = 0\nLogo T = b + c = 0.",
-              "spanishString": "Método:\n- Sustituye cái número complejo z = 1 + i en la ecuación và transforma.\nUn número complejo là cero si và solo si tiene partes reales và imaginarias nulas.\nSolución:\nComo z = 1 + i là una solución của la ecuación z^2 + bz + c = 0, tenemos:\n(1+i)^2 + b(1+i) + c = 0\n⇔ 2i + b + bi + c = 0\n⇔ b + c + (b+2)i = 0\nb + c = 0 và b + 2 = 0\nAsí T = b + c = 0.",
+              "spanishString": "Sustituye z = 1 + i en z² + bz + c = 0:\n(1+i)² + b(1+i) + c = 0\n⟺ 2i + b + bi + c = 0\n⟺ (b+c) + (b+2)i = 0\n⟺ b+c = 0 y b+2 = 0 ⟹ b = −2, c = 2.\nT = b + c = 0.",
               "vnString": "Phương pháp:\n- Thay số phức z = 1 + i vào phương trình và biến đổi.\n- Một số phức bằng 0 khi và chỉ khi nó có phần thực và phần ảo cùng bằng 0.\nCách giải:\nVì z = 1 + i là một nghiệm của phương trình z² + bz + c = 0 nên ta có:\n(1+i)² + b(1+i) + c = 0\n⇔ 2i + b + bi + c = 0\n⇔ b + c + (b+2)i = 0\n⇔ b + c = 0 và b + 2 = 0\nVậy T = b + c = 0."
             },
             "id": 79,
@@ -178814,7 +178814,7 @@
               "jaString": "方程式 z^2 + bz + c = 0 は z を解とし、b, c は実数の集合のパラメータである。方程式が z = 1 + i を解として持つことがわかっている。T = b + c を計算する：",
               "koString": "실수 b, c를 매개변수로 하는 방정식 z² + bz + c = 0이 있습니다. 이 방정식의 한 해가 z = 1 + i일 때, T = b + c의 값을 계산하세요.",
               "portugueseBRString": "Seja a equação zsqrt+ bz + c = 0 onde z é a incógnita e b, c são parâmetros reais. Sabendo que a equação admite z = 1 + i como solução, calcule T = b + c",
-              "spanishString": "Sea la ecuación z^2 + bz + c = 0 con variable z, donde b, c son parámetros reales. Sabiendo que la ecuación admite z = 1 + i como solución, calcula T = b + c:",
+              "spanishString": "Sea la ecuación z² + bz + c = 0 con b, c parámetros reales. Sabiendo que z = 1 + i es una solución, calcula T = b + c.",
               "vnString": "Cho phương trình zsqrt+ bz + c = 0 ẩn z và b, c là tham số thuộc tập số thực. Biết phương trình nhận z = 1 + i là một nghiệm. Tính T = b + c"
             }
           },
