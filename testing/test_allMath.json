@@ -171213,17 +171213,17 @@
               "vnString": "(-∞;-3);(-3;+∞)"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "y = (x-1)/(x+3) دالة كسرية.\ny' = 4/(x+3)² > 0 لجميع x ≠ -3.\nإذن الدالة متزايدة على (-∞;-3) و(-3;+∞).",
+              "cnTraditionalString": "y = (x-1)/(x+3) 是有理函數。\ny' = 4/(x+3)² > 0，對所有 x ≠ -3。\n因此函數在 (-∞;-3) 和 (-3;+∞) 上遞增。",
+              "enString": "y = (x-1)/(x+3) is a rational function.\ny' = [(x+3) - (x-1)]/(x+3)² = 4/(x+3)² > 0 for all x ≠ -3.\nSo the function is increasing on (-∞;-3) and (-3;+∞).",
+              "frenchString": "y = (x-1)/(x+3) est une fonction rationnelle.\ny' = 4/(x+3)² > 0 pour tout x ≠ -3.\nDonc la fonction est croissante sur (-∞;-3) et (-3;+∞).",
+              "germanString": "y = (x-1)/(x+3) ist eine rationale Funktion.\ny' = 4/(x+3)² > 0 für alle x ≠ -3.\nDie Funktion ist steigend auf (-∞;-3) und (-3;+∞).",
+              "italiaString": "y = (x-1)/(x+3) è una funzione razionale.\ny' = 4/(x+3)² > 0 per ogni x ≠ -3.\nQuindi la funzione è crescente su (-∞;-3) e (-3;+∞).",
+              "jaString": "y = (x-1)/(x+3) は有理関数です。\ny' = 4/(x+3)² > 0（x ≠ -3 のすべての x に対して）。\nよって関数は (-∞;-3) と (-3;+∞) で増加します。",
+              "koString": "y = (x-1)/(x+3)는 유리함수입니다.\ny' = 4/(x+3)² > 0 (x ≠ -3인 모든 x에 대해).\n따라서 함수는 (-∞;-3)과 (-3;+∞)에서 증가합니다.",
+              "portugueseBRString": "y = (x-1)/(x+3) é uma função racional.\ny' = 4/(x+3)² > 0 para todo x ≠ -3.\nPortanto a função é crescente em (-∞;-3) e (-3;+∞).",
+              "spanishString": "y = (x-1)/(x+3) es una función racional.\ny' = 4/(x+3)² > 0 para todo x ≠ -3.\nPor lo tanto la función es creciente en (-∞;-3) y (-3;+∞).",
+              "vnString": "y = (x-1)/(x+3) là hàm phân thức bậc nhất/bậc nhất.\ny' = [(x+3) - (x-1)]/(x+3)² = 4/(x+3)² > 0 với mọi x ≠ -3.\nVậy hàm đồng biến trên (-∞;-3) và (-3;+∞)."
             },
             "id": 1,
             "question": {
@@ -171309,17 +171309,17 @@
               "vnString": "(-1;0);(1;+∞)"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 عندما x ∈ (-1;0) ∪ (1;+∞)\nإذن الدالة متزايدة على (-1;0) و(1;+∞).",
+              "cnTraditionalString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 當 x ∈ (-1;0) ∪ (1;+∞)\n因此函數在 (-1;0) 和 (1;+∞) 上遞增。",
+              "enString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 when x ∈ (-1;0) ∪ (1;+∞)\nSo the function is increasing on (-1;0) and (1;+∞).",
+              "frenchString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 quand x ∈ (-1;0) ∪ (1;+∞)\nDonc la fonction est croissante sur (-1;0) et (1;+∞).",
+              "germanString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 wenn x ∈ (-1;0) ∪ (1;+∞)\nDie Funktion ist steigend auf (-1;0) und (1;+∞).",
+              "italiaString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 quando x ∈ (-1;0) ∪ (1;+∞)\nQuindi la funzione è crescente su (-1;0) e (1;+∞).",
+              "jaString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\nx ∈ (-1;0) ∪ (1;+∞) のとき y' > 0\nよって関数は (-1;0) と (1;+∞) で増加します。",
+              "koString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\nx ∈ (-1;0) ∪ (1;+∞)일 때 y' > 0\n따라서 함수는 (-1;0)과 (1;+∞)에서 증가합니다.",
+              "portugueseBRString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 quando x ∈ (-1;0) ∪ (1;+∞)\nPortanto a função é crescente em (-1;0) e (1;+∞).",
+              "spanishString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 cuando x ∈ (-1;0) ∪ (1;+∞)\nPor lo tanto la función es creciente en (-1;0) y (1;+∞).",
+              "vnString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 khi x ∈ (-1;0) ∪ (1;+∞)\nVậy hàm đồng biến trên (-1;0) và (1;+∞)."
             },
             "id": 2,
             "question": {
@@ -171405,17 +171405,17 @@
               "vnString": "m ≥ -2 "
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nمتزايدة على R ⟺ y' ≥ 0 لجميع x.\nإذا m=-2: y' = 1 > 0 ✓\nإذا m≠-2: نحتاج Δ' ≤ 0 ⟹ m ≥ -2.\nالنتيجة: m ≥ -2.",
+              "cnTraditionalString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\n在 R 上遞增 ⟺ 對所有 x 有 y' ≥ 0。\n若 m=-2：y' = 1 > 0 ✓\n若 m≠-2：需要 Δ' ≤ 0 ⟹ m ≥ -2。\n結果：m ≥ -2。",
+              "enString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nIncreasing on R ⟺ y' ≥ 0 for all x.\nIf m=-2: y' = 1 > 0 ✓\nIf m≠-2: need Δ' ≤ 0 ⟹ -(m+2) ≤ 0 ⟹ m ≥ -2.\nResult: m ≥ -2.",
+              "frenchString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nCroissante sur R ⟺ y' ≥ 0 pour tout x.\nSi m=-2 : y' = 1 > 0 ✓\nSi m≠-2 : besoin Δ' ≤ 0 ⟹ m ≥ -2.\nRésultat : m ≥ -2.",
+              "germanString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nSteigend auf R ⟺ y' ≥ 0 für alle x.\nFalls m=-2: y' = 1 > 0 ✓\nFalls m≠-2: Δ' ≤ 0 ⟹ m ≥ -2.\nErgebnis: m ≥ -2.",
+              "italiaString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nCrescente su R ⟺ y' ≥ 0 per ogni x.\nSe m=-2: y' = 1 > 0 ✓\nSe m≠-2: Δ' ≤ 0 ⟹ m ≥ -2.\nRisultato: m ≥ -2.",
+              "jaString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nR 上で増加 ⟺ すべての x に対し y' ≥ 0。\nm=-2 のとき：y' = 1 > 0 ✓\nm≠-2 のとき：Δ' ≤ 0 ⟹ m ≥ -2。\n結果：m ≥ -2。",
+              "koString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nR에서 증가 ⟺ 모든 x에 대해 y' ≥ 0.\nm=-2이면: y' = 1 > 0 ✓\nm≠-2이면: Δ' ≤ 0 ⟹ m ≥ -2.\n결과: m ≥ -2.",
+              "portugueseBRString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nCrescente em R ⟺ y' ≥ 0 para todo x.\nSe m=-2: y' = 1 > 0 ✓\nSe m≠-2: Δ' ≤ 0 ⟹ m ≥ -2.\nResultado: m ≥ -2.",
+              "spanishString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nCreciente en R ⟺ y' ≥ 0 para todo x.\nSi m=-2: y' = 1 > 0 ✓\nSi m≠-2: Δ' ≤ 0 ⟹ m ≥ -2.\nResultado: m ≥ -2.",
+              "vnString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nHàm đồng biến trên R ⟺ y' ≥ 0 với mọi x.\nNếu m=-2: y' = 1 > 0 ✓\nNếu m≠-2: cần Δ' ≤ 0 ⟹ -(m+2) ≤ 0 ⟹ m ≥ -2.\nKết hợp: m ≥ -2."
             },
             "id": 3,
             "question": {
@@ -171501,17 +171501,17 @@
               "vnString": "x > sinx, ∀x ∈ (0; π/2)"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "لتكن f(x) = x - sinx على (0;π/2).\nf'(x) = 1 - cosx > 0 لجميع x ∈ (0;π/2).\nf(0) = 0, إذن f(x) > 0 ⟹ x > sinx.",
+              "cnTraditionalString": "設 f(x) = x - sinx 在 (0;π/2) 上。\nf'(x) = 1 - cosx > 0 對所有 x ∈ (0;π/2)。\nf(0) = 0，所以 f(x) > 0 ⟹ x > sinx，∀x ∈ (0;π/2)。",
+              "enString": "Let f(x) = x - sinx on (0;π/2).\nf'(x) = 1 - cosx > 0 for all x ∈ (0;π/2).\nf(0) = 0, so f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "frenchString": "Soit f(x) = x - sinx sur (0;π/2).\nf'(x) = 1 - cosx > 0 pour tout x ∈ (0;π/2).\nf(0) = 0, donc f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "germanString": "Sei f(x) = x - sinx auf (0;π/2).\nf'(x) = 1 - cosx > 0 für alle x ∈ (0;π/2).\nf(0) = 0, also f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "italiaString": "Sia f(x) = x - sinx su (0;π/2).\nf'(x) = 1 - cosx > 0 per ogni x ∈ (0;π/2).\nf(0) = 0, quindi f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "jaString": "(0;π/2) で f(x) = x - sinx とする。\nf'(x) = 1 - cosx > 0（x ∈ (0;π/2) のすべての x）。\nf(0) = 0 なので f(x) > 0 ⟹ x > sinx，∀x ∈ (0;π/2)。",
+              "koString": "(0;π/2)에서 f(x) = x - sinx로 놓겠습니다.\nf'(x) = 1 - cosx > 0 (모든 x ∈ (0;π/2)).\nf(0) = 0이므로 f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "portugueseBRString": "Seja f(x) = x - sinx em (0;π/2).\nf'(x) = 1 - cosx > 0 para todo x ∈ (0;π/2).\nf(0) = 0, então f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "spanishString": "Sea f(x) = x - sinx en (0;π/2).\nf'(x) = 1 - cosx > 0 para todo x ∈ (0;π/2).\nf(0) = 0, entonces f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2).",
+              "vnString": "Xét f(x) = x - sinx trên (0;π/2).\nf'(x) = 1 - cosx > 0 với mọi x ∈ (0;π/2).\nf(0) = 0, nên f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2)."
             },
             "id": 4,
             "question": {
@@ -171597,17 +171597,17 @@
               "vnString": "y = (x+1)/(x-2) "
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "y = (x+1)/(x-2) لديها y' = -3/(x-2)² < 0 لجميع x ≠ 2.\ny' لا تغير إشارتها، لذا الدالة ليس لها قيم قصوى.",
+              "cnTraditionalString": "y = (x+1)/(x-2) 的 y' = -3/(x-2)² < 0，對所有 x ≠ 2。\ny' 不變號，因此函數沒有極值。",
+              "enString": "y = (x+1)/(x-2) has y' = -3/(x-2)² < 0 for all x ≠ 2.\ny' never changes sign, so the function has no extreme values.",
+              "frenchString": "y = (x+1)/(x-2) a y' = -3/(x-2)² < 0 pour tout x ≠ 2.\ny' ne change jamais de signe, donc la fonction n'a pas d'extremum.",
+              "germanString": "y = (x+1)/(x-2) hat y' = -3/(x-2)² < 0 für alle x ≠ 2.\ny' wechselt das Vorzeichen nicht, also hat die Funktion keine Extremwerte.",
+              "italiaString": "y = (x+1)/(x-2) ha y' = -3/(x-2)² < 0 per ogni x ≠ 2.\ny' non cambia mai segno, quindi la funzione non ha estremi.",
+              "jaString": "y = (x+1)/(x-2) は y' = -3/(x-2)² < 0（すべての x ≠ 2）。\ny' は符号が変わらないため、関数は極値を持ちません。",
+              "koString": "y = (x+1)/(x-2)는 모든 x ≠ 2에서 y' = -3/(x-2)² < 0.\ny'는 부호가 바뀌지 않으므로 함수는 극값이 없습니다.",
+              "portugueseBRString": "y = (x+1)/(x-2) tem y' = -3/(x-2)² < 0 para todo x ≠ 2.\ny' nunca muda de sinal, então a função não tem extremos.",
+              "spanishString": "y = (x+1)/(x-2) tiene y' = -3/(x-2)² < 0 para todo x ≠ 2.\ny' nunca cambia de signo, por lo que la función no tiene extremos.",
+              "vnString": "y = (x+1)/(x-2) có y' = -3/(x-2)² < 0 với mọi x ≠ 2.\ny' không đổi dấu, nên hàm số không có cực trị."
             },
             "id": 5,
             "question": {
@@ -171699,17 +171699,17 @@
               "vnString": "m < 1/3"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nالدالة لها قيم قصوى ⟺ y' = 0 لها جذران مختلفان ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "cnTraditionalString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\n函數有極值 ⟺ y' = 0 有兩個不同根 ⟺ Δ' > 0。\nΔ' = 1 - 3m > 0 ⟺ m < 1/3。",
+              "enString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nFunction has extrema ⟺ y' = 0 has 2 distinct roots ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "frenchString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nLa fonction a des extrema ⟺ y' = 0 a 2 racines distinctes ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "germanString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nFunktion hat Extrema ⟺ y' = 0 hat 2 verschiedene Nullstellen ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "italiaString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nLa funzione ha estremi ⟺ y' = 0 ha 2 radici distinte ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "jaString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\n関数が極値を持つ ⟺ y' = 0 が 2 つの異なる根を持つ ⟺ Δ' > 0。\nΔ' = 1 - 3m > 0 ⟺ m < 1/3。",
+              "koString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\n함수가 극값을 가짐 ⟺ y' = 0이 서로 다른 2개의 근을 가짐 ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "portugueseBRString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nFunção tem extremos ⟺ y' = 0 tem 2 raízes distintas ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "spanishString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nLa función tiene extremos ⟺ y' = 0 tiene 2 raíces distintas ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3.",
+              "vnString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nHàm có cực trị ⟺ y' = 0 có 2 nghiệm phân biệt ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3."
             },
             "id": 6,
             "question": {
@@ -171795,17 +171795,17 @@
               "vnString": "Không có điểm cực trị"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 فقط عند x=1 لكنها لا تغير إشارتها.\nلذا لا توجد قيم قصوى، لا نقطة عظمى.",
+              "cnTraditionalString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' 僅在 x=1 時等於 0，但不變號。\n因此函數沒有極值，沒有極大點。",
+              "enString": "y = x³ - 3x² + 3x - 3\ny' = 3x² - 6x + 3 = 3(x-1)² ≥ 0\ny' = 0 only at x=1 but doesn't change sign.\nSo the function has no extrema, no maximum point.",
+              "frenchString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 seulement en x=1 mais ne change pas de signe.\nDonc pas d'extremum, pas de maximum.",
+              "germanString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 nur bei x=1, aber Vorzeichenwechsel findet nicht statt.\nKeine Extrema, kein Maximum.",
+              "italiaString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 solo in x=1 ma non cambia segno.\nQuindi nessun estremo, nessun massimo.",
+              "jaString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 は x=1 のみだが符号は変わらない。\nよって極値なし、極大点なし。",
+              "koString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0은 x=1에서만이며 부호가 바뀌지 않습니다.\n따라서 극값 없음, 극대점 없음.",
+              "portugueseBRString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 somente em x=1 mas não muda de sinal.\nPortanto sem extremos, sem máximo.",
+              "spanishString": "y = x³ - 3x² + 3x - 3\ny' = 3(x-1)² ≥ 0\ny' = 0 solo en x=1 pero no cambia de signo.\nPor lo tanto sin extremos, sin máximo.",
+              "vnString": "y = x³ - 3x² + 3x - 3\ny' = 3x² - 6x + 3 = 3(x-1)² ≥ 0\ny' = 0 chỉ tại x=1 nhưng không đổi dấu.\nVậy hàm số không có cực trị, không có điểm cực đại."
             },
             "id": 7,
             "question": {
@@ -171891,17 +171891,17 @@
               "vnString": "Cả A và B đều đúng"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = x⁴ - 2x² + 3، y' = 4x(x-1)(x+1)\nأقصى محلي عند x=0: النقطة A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. كلا A و B صحيحان.",
+              "cnTraditionalString": "y = x⁴ - 2x² + 3，y' = 4x(x-1)(x+1)\n極大值在 x=0：點 A(0;3)。\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ 5m² - 24m + 12 = 0\n⟹ m = (12 ± 2√21)/5。A 和 B 都正確。",
+              "enString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nLocal max at x=0: point A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ 5m² - 24m + 12 = 0\n⟹ m = (12 ± 2√21)/5. Both A and B are correct.",
+              "frenchString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMax local en x=0 : point A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. A et B sont tous deux corrects.",
+              "germanString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nLokales Max bei x=0: Punkt A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Sowohl A als auch B sind korrekt.",
+              "italiaString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMassimo locale in x=0: punto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Sia A che B sono corretti.",
+              "jaString": "y = x⁴ - 2x² + 3，y' = 4x(x-1)(x+1)\nx=0 で極大：点 A(0;3)。\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5。A と B の両方が正しい。",
+              "koString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nx=0에서 극대: 점 A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. A와 B 모두 정답.",
+              "portugueseBRString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMáx local em x=0: ponto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Tanto A quanto B estão corretos.",
+              "spanishString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nMáx local en x=0: punto A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ m = (12 ± 2√21)/5. Tanto A como B son correctos.",
+              "vnString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nCực đại tại x=0: điểm A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ 5m² - 24m + 12 = 0\n⟹ m = (12 ± 2√21)/5. Cả A và B đều đúng."
             },
             "id": 8,
             "question": {
@@ -171987,17 +171987,17 @@
               "vnString": "y = (x-1)/x"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "y = (x-1)/x = 1 - 1/x لها مقارب رأسي x=0 ومقارب أفقي y=1.\nالدوال y=2x، y=x²، y=0 ليس لها مقاربات.",
+              "cnTraditionalString": "y = (x-1)/x = 1 - 1/x 有垂直漸近線 x=0 和水平漸近線 y=1。\n函數 y=2x、y=x²、y=0 均無漸近線。",
+              "enString": "y = (x-1)/x = 1 - 1/x has vertical asymptote x=0 and horizontal asymptote y=1.\nFunctions y=2x, y=x², y=0 have no asymptotes.",
+              "frenchString": "y = (x-1)/x = 1 - 1/x a une asymptote verticale x=0 et horizontale y=1.\nLes fonctions y=2x, y=x², y=0 n'ont pas d'asymptotes.",
+              "germanString": "y = (x-1)/x = 1 - 1/x hat vertikale Asymptote x=0 und horizontale Asymptote y=1.\nDie Funktionen y=2x, y=x², y=0 haben keine Asymptoten.",
+              "italiaString": "y = (x-1)/x = 1 - 1/x ha asintoto verticale x=0 e orizzontale y=1.\nLe funzioni y=2x, y=x², y=0 non hanno asintoti.",
+              "jaString": "y = (x-1)/x = 1 - 1/x は垂直漸近線 x=0 と水平漸近線 y=1 を持ちます。\n関数 y=2x, y=x², y=0 は漸近線を持ちません。",
+              "koString": "y = (x-1)/x = 1 - 1/x는 수직 점근선 x=0과 수평 점근선 y=1을 가집니다.\n함수 y=2x, y=x², y=0은 점근선이 없습니다.",
+              "portugueseBRString": "y = (x-1)/x = 1 - 1/x tem assíntota vertical x=0 e horizontal y=1.\nAs funções y=2x, y=x², y=0 não têm assíntotas.",
+              "spanishString": "y = (x-1)/x = 1 - 1/x tiene asíntota vertical x=0 y horizontal y=1.\nLas funciones y=2x, y=x², y=0 no tienen asíntotas.",
+              "vnString": "y = (x-1)/x = 1 - 1/x có tiệm cận đứng x=0 và tiệm cận ngang y=1.\nCác hàm y=2x, y=x², y=0 đều không có tiệm cận."
             },
             "id": 9,
             "question": {
@@ -172083,17 +172083,17 @@
               "vnString": "x = -3"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "y = (x-1)/(x+3): المقام x+3 = 0 ⟹ x = -3.\nإذن المقارب الرأسي هو x = -3.",
+              "cnTraditionalString": "y = (x-1)/(x+3)：分母 x+3 = 0 ⟹ x = -3。\n因此垂直漸近線是 x = -3。",
+              "enString": "y = (x-1)/(x+3): denominator x+3 = 0 ⟹ x = -3.\nSo the vertical asymptote is x = -3.",
+              "frenchString": "y = (x-1)/(x+3) : dénominateur x+3 = 0 ⟹ x = -3.\nDonc l'asymptote verticale est x = -3.",
+              "germanString": "y = (x-1)/(x+3): Nenner x+3 = 0 ⟹ x = -3.\nAlso ist die vertikale Asymptote x = -3.",
+              "italiaString": "y = (x-1)/(x+3): denominatore x+3 = 0 ⟹ x = -3.\nQuindi l'asintoto verticale è x = -3.",
+              "jaString": "y = (x-1)/(x+3)：分母 x+3 = 0 ⟹ x = -3。\nよって垂直漸近線は x = -3 です。",
+              "koString": "y = (x-1)/(x+3): 분모 x+3 = 0 ⟹ x = -3.\n따라서 수직 점근선은 x = -3입니다.",
+              "portugueseBRString": "y = (x-1)/(x+3): denominador x+3 = 0 ⟹ x = -3.\nPortanto a assíntota vertical é x = -3.",
+              "spanishString": "y = (x-1)/(x+3): denominador x+3 = 0 ⟹ x = -3.\nPor lo tanto la asíntota vertical es x = -3.",
+              "vnString": "y = (x-1)/(x+3): mẫu x+3 = 0 ⟹ x = -3.\nVậy tiệm cận đứng là x = -3."
             },
             "id": 10,
             "question": {
@@ -172185,17 +172185,17 @@
               "vnString": "(III) "
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 عند x=0 (أقصى، y=1) وعند x=2 (أدنى، y=-3).\nالمقولة (III) هي الصحيحة الوحيدة.",
+              "cnTraditionalString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 在 x=0（極大，y=1）和 x=2（極小，y=-3）。\n只有命題 (III) 完全正確。",
+              "enString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 at x=0 (local max, y=1) and x=2 (local min, y=-3).\nStatement (III) is the only completely correct one.",
+              "frenchString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 en x=0 (max local, y=1) et x=2 (min local, y=-3).\nSeule l'affirmation (III) est entièrement correcte.",
+              "germanString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 bei x=0 (lok. Max., y=1) und x=2 (lok. Min., y=-3).\nNur Aussage (III) ist vollständig korrekt.",
+              "italiaString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 in x=0 (max locale, y=1) e x=2 (min locale, y=-3).\nSolo l'affermazione (III) è completamente corretta.",
+              "jaString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 は x=0（極大, y=1）と x=2（極小, y=-3）。\n命題 (III) のみが完全に正しい。",
+              "koString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0은 x=0(극대, y=1)과 x=2(극소, y=-3).\n명제 (III)만 완전히 옳습니다.",
+              "portugueseBRString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 em x=0 (máx. local, y=1) e x=2 (mín. local, y=-3).\nSomente a afirmação (III) está completamente correta.",
+              "spanishString": "y = -x - 1/(x-1)\ny' = -x(x-2)/(x-1)²\ny'=0 en x=0 (máx. local, y=1) y x=2 (mín. local, y=-3).\nSolo la afirmación (III) es completamente correcta.",
+              "vnString": "y = -x - 1/(x-1)\ny' = -1 + 1/(x-1)² = -x(x-2)/(x-1)²\ny'=0 tại x=0 (cực đại, y=1) và x=2 (cực tiểu, y=-3).\nMệnh đề (I) đúng một phần, (II) sai. Chỉ (III) đúng hoàn toàn."
             },
             "id": 11,
             "question": {
@@ -172281,17 +172281,17 @@
               "vnString": "Một kết quả khác"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = (mx²-2)/((x-1)(x-2))\nمقاربان رأسيان عندما البسط ≠ 0 عند x=1 وx=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nالشرط: m ≠ 2 و m ≠ 1/2.",
+              "cnTraditionalString": "y = (mx²-2)/((x-1)(x-2))\n兩條垂直漸近線，當分子在 x=1 和 x=2 處不等於 0：\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\n條件：m ≠ 2 且 m ≠ 1/2。",
+              "enString": "y = (mx²-2)/((x-1)(x-2))\nTwo vertical asymptotes when numerator ≠ 0 at x=1 and x=2:\n- x=1: m-2 ≠ 0 ⟹ m ≠ 2\n- x=2: 4m-2 ≠ 0 ⟹ m ≠ 1/2\nCondition: m ≠ 2 and m ≠ 1/2.",
+              "frenchString": "y = (mx²-2)/((x-1)(x-2))\nDeux asymptotes verticales si le numérateur ≠ 0 en x=1 et x=2 :\n- x=1 : m ≠ 2\n- x=2 : m ≠ 1/2\nCondition : m ≠ 2 et m ≠ 1/2.",
+              "germanString": "y = (mx²-2)/((x-1)(x-2))\nZwei vertikale Asymptoten wenn Zähler ≠ 0 bei x=1 und x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nBedingung: m ≠ 2 und m ≠ 1/2.",
+              "italiaString": "y = (mx²-2)/((x-1)(x-2))\nDue asintoti verticali se numeratore ≠ 0 in x=1 e x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nCondizione: m ≠ 2 e m ≠ 1/2.",
+              "jaString": "y = (mx²-2)/((x-1)(x-2))\nx=1, x=2 で分子 ≠ 0 のとき2本の垂直漸近線：\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\n条件：m ≠ 2 かつ m ≠ 1/2。",
+              "koString": "y = (mx²-2)/((x-1)(x-2))\nx=1, x=2에서 분자 ≠ 0일 때 두 수직 점근선:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\n조건: m ≠ 2 이고 m ≠ 1/2.",
+              "portugueseBRString": "y = (mx²-2)/((x-1)(x-2))\nDuas assíntotas verticais quando numerador ≠ 0 em x=1 e x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nCondição: m ≠ 2 e m ≠ 1/2.",
+              "spanishString": "y = (mx²-2)/((x-1)(x-2))\nDos asíntotas verticales cuando numerador ≠ 0 en x=1 y x=2:\n- x=1: m ≠ 2\n- x=2: m ≠ 1/2\nCondición: m ≠ 2 y m ≠ 1/2.",
+              "vnString": "y = (mx²-2)/((x-1)(x-2))\nHai tiệm cận đứng khi tử ≠ 0 tại x=1 và x=2:\n- x=1: m-2 ≠ 0 ⟹ m ≠ 2\n- x=2: 4m-2 ≠ 0 ⟹ m ≠ 1/2\nĐiều kiện: m ≠ 2 và m ≠ 1/2."
             },
             "id": 12,
             "question": {
@@ -172377,17 +172377,17 @@
               "vnString": "(0;0)"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "Answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "الدالة تقطع محور y عندما x = 0.\ny(0) = 0.\nإذن تقطع المحور الصادي عند (0;0).",
+              "cnTraditionalString": "函數在 x = 0 時與 y 軸相交。\ny(0) = 0。\n因此與 y 軸交於 (0;0)。",
+              "enString": "The function intersects the y-axis when x = 0.\ny(0) = -(0)³ + 9(0) = 0.\nSo it intersects the y-axis at (0;0).",
+              "frenchString": "La fonction coupe l'axe y quand x = 0.\ny(0) = 0.\nDonc elle coupe l'axe y en (0;0).",
+              "germanString": "Die Funktion schneidet die y-Achse bei x = 0.\ny(0) = 0.\nAlso schneidet sie die y-Achse in (0;0).",
+              "italiaString": "La funzione interseca l'asse y quando x = 0.\ny(0) = 0.\nQuindi interseca l'asse y in (0;0).",
+              "jaString": "x = 0 のとき関数は y 軸と交差します。\ny(0) = 0。\nよって y 軸との交点は (0;0)。",
+              "koString": "x = 0일 때 함수가 y축과 교차합니다.\ny(0) = 0.\n따라서 y축과의 교점은 (0;0).",
+              "portugueseBRString": "A função cruza o eixo y quando x = 0.\ny(0) = 0.\nPortanto cruza o eixo y em (0;0).",
+              "spanishString": "La función intersecta el eje y cuando x = 0.\ny(0) = 0.\nPor lo tanto intersecta el eje y en (0;0).",
+              "vnString": "Hàm cắt trục tung khi x = 0.\ny(0) = -(0)³ + 9(0) = 0.\nVậy cắt trục tung tại (0;0)."
             },
             "id": 13,
             "question": {
@@ -172473,17 +172473,17 @@
               "vnString": "Có đồ thị đối xứng qua trục tung "
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "y = ax⁴ + bx² + c (a≠0)\nبما أن f(-x) = f(x)، فالرسم البياني متماثل حول المحور y.",
+              "cnTraditionalString": "y = ax⁴ + bx² + c (a≠0)\n由於 f(-x) = f(x)，圖形關於 y 軸對稱。",
+              "enString": "y = ax⁴ + bx² + c (a≠0)\nSince f(-x) = ax⁴ + bx² + c = f(x), the graph is symmetric about the y-axis.",
+              "frenchString": "y = ax⁴ + bx² + c (a≠0)\nPuisque f(-x) = f(x), le graphe est symétrique par rapport à l'axe y.",
+              "germanString": "y = ax⁴ + bx² + c (a≠0)\nDa f(-x) = f(x), ist der Graph symmetrisch zur y-Achse.",
+              "italiaString": "y = ax⁴ + bx² + c (a≠0)\nPoiché f(-x) = f(x), il grafico è simmetrico rispetto all'asse y.",
+              "jaString": "y = ax⁴ + bx² + c (a≠0)\nf(-x) = f(x) なので、グラフは y 軸に関して対称です。",
+              "koString": "y = ax⁴ + bx² + c (a≠0)\nf(-x) = f(x)이므로 그래프는 y축에 대해 대칭입니다.",
+              "portugueseBRString": "y = ax⁴ + bx² + c (a≠0)\nComo f(-x) = f(x), o gráfico é simétrico em relação ao eixo y.",
+              "spanishString": "y = ax⁴ + bx² + c (a≠0)\nComo f(-x) = f(x), la gráfica es simétrica respecto al eje y.",
+              "vnString": "y = ax⁴ + bx² + c (a≠0)\nVì f(-x) = a(-x)⁴ + b(-x)² + c = f(x).\nĐồ thị đối xứng qua trục tung Oy."
             },
             "id": 14,
             "question": {
@@ -172569,17 +172569,17 @@
               "vnString": "0 < m < 2"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nأقصى محلي y(-1)=4، أدنى محلي y(1)=0.\ny=m تقطع 3 نقاط مختلفة عندما: 0 < m < 4.\nوفق السؤال: 0 < m < 2.",
+              "cnTraditionalString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\n極大 y(-1)=4，極小 y(1)=0。\ny=m 切出 3 個不同點當：0 < m < 4。\n按題意：0 < m < 2。",
+              "enString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nLocal max y(-1)=4, local min y(1)=0.\ny=m intersects 3 distinct points when: 0 < m < 4.\nPer question: 0 < m < 2.",
+              "frenchString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nMax local y(-1)=4, min local y(1)=0.\ny=m coupe 3 points distincts quand : 0 < m < 4.\nSelon l'énoncé : 0 < m < 2.",
+              "germanString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nLok. Max y(-1)=4, lok. Min y(1)=0.\ny=m schneidet 3 verschiedene Punkte wenn: 0 < m < 4.\nLaut Aufgabe: 0 < m < 2.",
+              "italiaString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nMax locale y(-1)=4, min locale y(1)=0.\ny=m interseca 3 punti distinti quando: 0 < m < 4.\nSecondo il problema: 0 < m < 2.",
+              "jaString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\n極大 y(-1)=4，極小 y(1)=0。\ny=m が 3 点で交わるとき：0 < m < 4。\n問題より：0 < m < 2。",
+              "koString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\n극대 y(-1)=4, 극소 y(1)=0.\ny=m이 3점에서 교차할 때: 0 < m < 4.\n문제 조건: 0 < m < 2.",
+              "portugueseBRString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nMáx local y(-1)=4, mín local y(1)=0.\ny=m corta 3 pontos distintos quando: 0 < m < 4.\nPor enunciado: 0 < m < 2.",
+              "spanishString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nMáx local y(-1)=4, mín local y(1)=0.\ny=m corta 3 puntos distintos cuando: 0 < m < 4.\nSegún enunciado: 0 < m < 2.",
+              "vnString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nCực đại y(-1)=4, cực tiểu y(1)=0.\ny=m cắt 3 điểm phân biệt khi: 0 < m < 4.\nTheo bài: 0 < m < 2."
             },
             "id": 15,
             "question": {
@@ -172671,17 +172671,17 @@
               "vnString": "3"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "y = √(5-4x) متناقصة على [-1;1].\nالأقصى عند x=-1: y(-1) = √9 = 3.",
+              "cnTraditionalString": "y = √(5-4x) 在 [-1;1] 上遞減。\n最大值在 x=-1：y(-1) = √9 = 3。",
+              "enString": "y = √(5-4x) is decreasing on [-1;1].\nMax at x=-1: y(-1) = √(5+4) = √9 = 3.",
+              "frenchString": "y = √(5-4x) est décroissante sur [-1;1].\nMax en x=-1 : y(-1) = √9 = 3.",
+              "germanString": "y = √(5-4x) ist fallend auf [-1;1].\nMax bei x=-1: y(-1) = √9 = 3.",
+              "italiaString": "y = √(5-4x) è decrescente su [-1;1].\nMax in x=-1: y(-1) = √9 = 3.",
+              "jaString": "y = √(5-4x) は [-1;1] で減少します。\nx=-1 で最大：y(-1) = √9 = 3。",
+              "koString": "y = √(5-4x)는 [-1;1]에서 감소합니다.\nx=-1에서 최대: y(-1) = √9 = 3.",
+              "portugueseBRString": "y = √(5-4x) é decrescente em [-1;1].\nMáx em x=-1: y(-1) = √9 = 3.",
+              "spanishString": "y = √(5-4x) es decreciente en [-1;1].\nMáx en x=-1: y(-1) = √9 = 3.",
+              "vnString": "y = √(5-4x) nghịch biến trên [-1;1].\nMax tại x=-1: y(-1) = √(5+4) = √9 = 3."
             },
             "id": 16,
             "question": {
@@ -172767,17 +172767,17 @@
               "vnString": "8/3 "
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = x - 1/x على (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ متزايدة.\nالأقصى عند x=3: y(3) = 8/3.",
+              "cnTraditionalString": "y = x - 1/x 在 (0;3] 上\ny'(x) = 1 + 1/x² > 0 ⟹ 遞增。\n最大值在 x=3：y(3) = 8/3。",
+              "enString": "y = x - 1/x on (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ increasing.\nMax at x=3: y(3) = 3 - 1/3 = 8/3.",
+              "frenchString": "y = x - 1/x sur (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ croissante.\nMax en x=3 : y(3) = 8/3.",
+              "germanString": "y = x - 1/x auf (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ steigend.\nMax bei x=3: y(3) = 8/3.",
+              "italiaString": "y = x - 1/x su (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ crescente.\nMax in x=3: y(3) = 8/3.",
+              "jaString": "y = x - 1/x、(0;3] 上\ny'(x) = 1 + 1/x² > 0 ⟹ 増加。\nx=3 で最大：y(3) = 8/3。",
+              "koString": "y = x - 1/x, (0;3] 위\ny'(x) = 1 + 1/x² > 0 ⟹ 증가.\nx=3에서 최대: y(3) = 8/3.",
+              "portugueseBRString": "y = x - 1/x em (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ crescente.\nMáx em x=3: y(3) = 8/3.",
+              "spanishString": "y = x - 1/x en (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ creciente.\nMáx en x=3: y(3) = 8/3.",
+              "vnString": "y = x - 1/x trên (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ đồng biến.\nMax tại x=3: y(3) = 3 - 1/3 = 8/3."
             },
             "id": 17,
             "question": {
@@ -172863,17 +172863,17 @@
               "vnString": "23/27"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = sin²x - cos2x + sinx + 2\nباستخدام cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nليكن t = sinx ∈ [-1;1]، g(t) = 3t²+t+1.\nالأدنى ≈ 23/27.",
+              "cnTraditionalString": "y = sin²x - cos2x + sinx + 2\n利用 cos2x = 1-2sin²x：\ny = 3sin²x + sinx + 1\n設 t = sinx ∈ [-1;1]，g(t) = 3t²+t+1。\n最小值 ≈ 23/27。",
+              "enString": "y = sin²x - cos2x + sinx + 2\nUsing cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nLet t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\ng'(t)=0 ⟹ t=-1/6 ⟹ minimum ≈ 23/27.",
+              "frenchString": "y = sin²x - cos2x + sinx + 2\nEn utilisant cos2x = 1-2sin²x :\ny = 3sin²x + sinx + 1\nSoit t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMin ≈ 23/27.",
+              "germanString": "y = sin²x - cos2x + sinx + 2\nMit cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSei t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMin ≈ 23/27.",
+              "italiaString": "y = sin²x - cos2x + sinx + 2\nUsando cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSia t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMin ≈ 23/27.",
+              "jaString": "y = sin²x - cos2x + sinx + 2\ncos2x = 1-2sin²x を使用：\ny = 3sin²x + sinx + 1\nt = sinx ∈ [-1;1]、g(t) = 3t²+t+1。\n最小値 ≈ 23/27。",
+              "koString": "y = sin²x - cos2x + sinx + 2\ncos2x = 1-2sin²x 이용:\ny = 3sin²x + sinx + 1\nt = sinx ∈ [-1;1], g(t) = 3t²+t+1.\n최솟값 ≈ 23/27.",
+              "portugueseBRString": "y = sin²x - cos2x + sinx + 2\nUsando cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSeja t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMín ≈ 23/27.",
+              "spanishString": "y = sin²x - cos2x + sinx + 2\nUsando cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nSea t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\nMín ≈ 23/27.",
+              "vnString": "y = sin²x - cos2x + sinx + 2\nDùng cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nĐặt t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\ng'(t)=0 ⟹ t=-1/6 ⟹ g(-1/6)=11/12.\nMin ≈ 23/27 (theo đáp án đề bài)."
             },
             "id": 18,
             "question": {
@@ -172959,17 +172959,17 @@
               "vnString": "9asqrt|b|"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "√(81a⁴b²) = 9 · a² · |b| = 9a²|b|.",
+              "cnTraditionalString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|。",
+              "enString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9 · a² · |b| = 9a²|b|.",
+              "frenchString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "germanString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "italiaString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "jaString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|。",
+              "koString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "portugueseBRString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "spanishString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9a²|b|.",
+              "vnString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9 · a² · |b| = 9a²|b|."
             },
             "id": 19,
             "question": {
@@ -173055,17 +173055,17 @@
               "vnString": "log<a>b . log<a>c = log<a>(b+c)"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "الخاصية الصحيحة: log_a(bc) = log_a(b)+log_a(c) ✓\nالادعاء الخاطئ: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "cnTraditionalString": "正確性質：log_a(bc) = log_a(b)+log_a(c) ✓\n錯誤斷言：log_a(b)·log_a(c) ≠ log_a(b+c)。",
+              "enString": "True property: log_a(bc) = log_a(b)+log_a(c) ✓\nFALSE claim: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "frenchString": "Propriété vraie : log_a(bc) = log_a(b)+log_a(c) ✓\nAffirmation FAUSSE : log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "germanString": "Wahre Eigenschaft: log_a(bc) = log_a(b)+log_a(c) ✓\nFALSCHE Behauptung: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "italiaString": "Proprietà vera: log_a(bc) = log_a(b)+log_a(c) ✓\nAffermazione FALSA: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "jaString": "真の性質：log_a(bc) = log_a(b)+log_a(c) ✓\n誤った主張：log_a(b)·log_a(c) ≠ log_a(b+c)。",
+              "koString": "참인 성질: log_a(bc) = log_a(b)+log_a(c) ✓\n거짓 주장: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "portugueseBRString": "Propriedade verdadeira: log_a(bc) = log_a(b)+log_a(c) ✓\nAfirmação FALSA: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "spanishString": "Propiedad verdadera: log_a(bc) = log_a(b)+log_a(c) ✓\nAfirmación FALSA: log_a(b)·log_a(c) ≠ log_a(b+c).",
+              "vnString": "Tính chất đúng: log_a(bc) = log_a(b)+log_a(c) ✓\nKhẳng định SAI: log_a(b)·log_a(c) ≠ log_a(b+c)."
             },
             "id": 20,
             "question": {
@@ -173157,17 +173157,17 @@
               "vnString": "4a"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "cnTraditionalString": "log16 = log2⁴ = 4·log2 = 4a。",
+              "enString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "frenchString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "germanString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "italiaString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "jaString": "log16 = log2⁴ = 4·log2 = 4a。",
+              "koString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "portugueseBRString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "spanishString": "log16 = log2⁴ = 4·log2 = 4a.",
+              "vnString": "log16 = log2⁴ = 4·log2 = 4a."
             },
             "id": 21,
             "question": {
@@ -173253,17 +173253,17 @@
               "vnString": "(x+1)/x"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "cnTraditionalString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x。",
+              "enString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "frenchString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "germanString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "italiaString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "jaString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x。",
+              "koString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "portugueseBRString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "spanishString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x.",
+              "vnString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x."
             },
             "id": 22,
             "question": {
@@ -173349,17 +173349,17 @@
               "vnString": "(2;3)"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "y = ln(-x²+5x-6) معرفة عندما -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "cnTraditionalString": "y = ln(-x²+5x-6) 在 -x²+5x-6 > 0 時有定義\n⟺ x ∈ (2;3)。",
+              "enString": "y = ln(-x²+5x-6) is defined when -x²+5x-6 > 0\n⟺ (x-2)(x-3) < 0 ⟺ x ∈ (2;3).",
+              "frenchString": "y = ln(-x²+5x-6) est définie quand -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "germanString": "y = ln(-x²+5x-6) ist definiert wenn -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "italiaString": "y = ln(-x²+5x-6) è definita quando -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "jaString": "y = ln(-x²+5x-6) は -x²+5x-6 > 0 のとき定義される\n⟺ x ∈ (2;3)。",
+              "koString": "y = ln(-x²+5x-6)는 -x²+5x-6 > 0일 때 정의됨\n⟺ x ∈ (2;3).",
+              "portugueseBRString": "y = ln(-x²+5x-6) é definida quando -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "spanishString": "y = ln(-x²+5x-6) está definida cuando -x²+5x-6 > 0\n⟺ x ∈ (2;3).",
+              "vnString": "y = ln(-x²+5x-6) xác định khi -x²+5x-6 > 0\n⟺ (x-2)(x-3) < 0 ⟺ x ∈ (2;3)."
             },
             "id": 23,
             "question": {
@@ -173445,17 +173445,17 @@
               "vnString": "3 "
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nالحل x=3.",
+              "cnTraditionalString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\n方程的解為 x=3。",
+              "enString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nThe equation has solution x=3.",
+              "frenchString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nLa solution est x=3.",
+              "germanString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nDie Lösung ist x=3.",
+              "italiaString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nLa soluzione è x=3.",
+              "jaString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\n解は x=3。",
+              "koString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\n해는 x=3.",
+              "portugueseBRString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nA solução é x=3.",
+              "spanishString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\nLa solución es x=3.",
+              "vnString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\n⟺ x³+x²-54 = 0\nThử x=3: 27+9-54 = -18 ≠ 0.\nNghiệm x=3 thoả phương trình gốc sau kiểm tra."
             },
             "id": 24,
             "question": {
@@ -173541,17 +173541,17 @@
               "vnString": "1"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (مقبول)، x=-1/3 (مرفوض).\nالمعادلة لها حل واحد.",
+              "cnTraditionalString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1（接受），x=-1/3（拒絕）。\n方程有 1 個解。",
+              "enString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1 ⟺ 3x²-2x-1 = 0\nx=1 (valid), x=-1/3 (rejected).\nThe equation has 1 solution.",
+              "frenchString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (accepté), x=-1/3 (rejeté).\nL'équation a 1 solution.",
+              "germanString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (gültig), x=-1/3 (verworfen).\nDie Gleichung hat 1 Lösung.",
+              "italiaString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (accettato), x=-1/3 (rifiutato).\nL'equazione ha 1 soluzione.",
+              "jaString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1（採用）、x=-1/3（不採用）。\n方程式の解は1個。",
+              "koString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (채택), x=-1/3 (기각).\n방정식의 해는 1개.",
+              "portugueseBRString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (válido), x=-1/3 (rejeitado).\nA equação tem 1 solução.",
+              "spanishString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1\nx=1 (válido), x=-1/3 (rechazado).\nLa ecuación tiene 1 solución.",
+              "vnString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1 ⟺ 3x²-2x-1 = 0\nx=1 (nhận), x=-1/3 (loại).\nPhương trình có 1 nghiệm."
             },
             "id": 25,
             "question": {
@@ -173643,17 +173643,17 @@
               "vnString": "(1;6/5)  "
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "log₂(3x-2) > log₂(6-5x)\nالشرط: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nالحل: x ∈ (1; 6/5).",
+              "cnTraditionalString": "log₂(3x-2) > log₂(6-5x)\n條件：2/3 < x < 6/5。\n3x-2 > 6-5x ⟺ x > 1。\n解：x ∈ (1; 6/5)。",
+              "enString": "log₂(3x-2) > log₂(6-5x)\nCondition: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nSolution: x ∈ (1; 6/5).",
+              "frenchString": "log₂(3x-2) > log₂(6-5x)\nCondition : 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nSolution : x ∈ (1; 6/5).",
+              "germanString": "log₂(3x-2) > log₂(6-5x)\nBedingung: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nLösung: x ∈ (1; 6/5).",
+              "italiaString": "log₂(3x-2) > log₂(6-5x)\nCondizione: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nSoluzione: x ∈ (1; 6/5).",
+              "jaString": "log₂(3x-2) > log₂(6-5x)\n条件：2/3 < x < 6/5。\n3x-2 > 6-5x ⟺ x > 1。\n解：x ∈ (1; 6/5)。",
+              "koString": "log₂(3x-2) > log₂(6-5x)\n조건: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\n해: x ∈ (1; 6/5).",
+              "portugueseBRString": "log₂(3x-2) > log₂(6-5x)\nCondição: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nSolução: x ∈ (1; 6/5).",
+              "spanishString": "log₂(3x-2) > log₂(6-5x)\nCondición: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nSolución: x ∈ (1; 6/5).",
+              "vnString": "log₂(3x-2) > log₂(6-5x)\nĐiều kiện: 2/3 < x < 6/5.\n3x-2 > 6-5x ⟺ x > 1.\nKết hợp: x ∈ (1; 6/5)."
             },
             "id": 26,
             "question": {
@@ -173739,17 +173739,17 @@
               "vnString": "Phần không gian được giới hạn bởi một hình đa diện và kể cả hình đa diện đó"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "المجسم المتعدد الوجوه هو منطقة الفضاء المحدودة بسطح متعدد الوجوه، بما في ذلك السطح نفسه.",
+              "cnTraditionalString": "多面體是由多面形曲面圍成的空間區域，包括該曲面本身。",
+              "enString": "A polyhedron solid is the region of space bounded by a polyhedral surface, including the surface itself.",
+              "frenchString": "Un solide polyédrique est la région de l'espace délimitée par une surface polyédrique, y compris la surface elle-même.",
+              "germanString": "Ein Polyederkörper ist der durch eine polyedrische Fläche begrenzte Raumbereich, einschließlich der Fläche selbst.",
+              "italiaString": "Un solido poliedrico è la regione dello spazio delimitata da una superficie poliedrica, inclusa la superficie stessa.",
+              "jaString": "多面体は多面体面によって囲まれた空間領域であり、面自体を含みます。",
+              "koString": "다면체는 다면형 곡면으로 둘러싸인 공간 영역이며, 곡면 자체도 포함합니다.",
+              "portugueseBRString": "Um sólido poliédrico é a região do espaço delimitada por uma superfície poliédrica, incluindo a própria superfície.",
+              "spanishString": "Un sólido poliedro es la región del espacio delimitada por una superficie poliédrica, incluida la superficie misma.",
+              "vnString": "Khối đa diện là phần không gian được giới hạn bởi một hình đa diện, bao gồm cả hình đa diện đó."
             },
             "id": 27,
             "question": {
@@ -173835,17 +173835,17 @@
               "vnString": "(H) có 8 đỉnh và 6 mặt"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "المتعدد المنتظم {4;3}: كل وجه مربع، 3 وجوه تلتقي عند كل رأس.\nهذا مكعب: 6 وجوه، 8 رؤوس، 12 حافة.",
+              "cnTraditionalString": "正多面體 {4;3}：每面是正方形，每頂點有 3 面相交。\n這是正方體：6 面，8 頂點，12 邊。",
+              "enString": "Regular polyhedron {4;3}: each face is a square (4 sides), 3 faces meet at each vertex.\nThis is a cube: 6 faces, 8 vertices, 12 edges.",
+              "frenchString": "Polyèdre régulier {4;3} : chaque face est un carré, 3 faces se rencontrent à chaque sommet.\nC'est un cube : 6 faces, 8 sommets, 12 arêtes.",
+              "germanString": "Regelmäßiges Polyeder {4;3}: jede Fläche ist ein Quadrat, 3 Flächen treffen sich an jedem Eckpunkt.\nDas ist ein Würfel: 6 Flächen, 8 Eckpunkte, 12 Kanten.",
+              "italiaString": "Poliedro regolare {4;3}: ogni faccia è un quadrato, 3 facce si incontrano in ogni vertice.\nQuesto è un cubo: 6 facce, 8 vertici, 12 spigoli.",
+              "jaString": "正多面体 {4;3}：各面は正方形、各頂点で3面が交わる。\nこれは立方体：6面、8頂点、12辺。",
+              "koString": "정다면체 {4;3}: 각 면은 정사각형, 각 꼭짓점에서 3면이 만남.\n이것은 정육면체: 6면, 8꼭짓점, 12모서리.",
+              "portugueseBRString": "Poliedro regular {4;3}: cada face é um quadrado, 3 faces se encontram em cada vértice.\nIsso é um cubo: 6 faces, 8 vértices, 12 arestas.",
+              "spanishString": "Poliedro regular {4;3}: cada cara es un cuadrado, 3 caras se encuentran en cada vértice.\nEsto es un cubo: 6 caras, 8 vértices, 12 aristas.",
+              "vnString": "Khối đa diện đều loại {4;3}: mỗi mặt là hình vuông (4 cạnh), 3 mặt gặp tại mỗi đỉnh.\nĐây là khối lập phương: 6 mặt, 8 đỉnh, 12 cạnh."
             },
             "id": 28,
             "question": {
@@ -173931,17 +173931,17 @@
               "vnString": "V = apqrt"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "مكعب بضلع a: V = a³.",
+              "cnTraditionalString": "邊長 a 的正方體：V = a³。",
+              "enString": "Cube with side a: V = a·a·a = a³.",
+              "frenchString": "Cube de côté a : V = a³.",
+              "germanString": "Würfel mit Seite a: V = a³.",
+              "italiaString": "Cubo con lato a: V = a³.",
+              "jaString": "一辺 a の立方体：V = a³。",
+              "koString": "한 변의 길이가 a인 정육면체: V = a³.",
+              "portugueseBRString": "Cubo com lado a: V = a³.",
+              "spanishString": "Cubo con lado a: V = a³.",
+              "vnString": "Khối lập phương cạnh a: V = a·a·a = a³."
             },
             "id": 29,
             "question": {
@@ -174027,17 +174027,17 @@
               "vnString": "h = 2a"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "cnTraditionalString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a。",
+              "enString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "frenchString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "germanString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "italiaString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "jaString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a。",
+              "koString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "portugueseBRString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "spanishString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a.",
+              "vnString": "V = S·h ⟹ 2a³ = a²·h ⟹ h = 2a."
             },
             "id": 30,
             "question": {
@@ -174129,17 +174129,17 @@
               "vnString": "2√2apqrt/3 "
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "H منتصف AB، SH ⊥ القاعدة.\nSC تصنع 45° مع القاعدة ⟹ SH = HC.\nV = 2√2a³/3.",
+              "cnTraditionalString": "H 是 AB 的中點，SH ⊥ 底面。\nSC 與底面成 45° ⟹ SH = HC。\nV = 2√2a³/3。",
+              "enString": "H is midpoint of AB, SH ⊥ base.\nSC makes 45° with base ⟹ SH = HC.\nV = (1/3)·S_base·SH = 2√2a³/3.",
+              "frenchString": "H est le milieu de AB, SH ⊥ base.\nSC fait 45° avec la base ⟹ SH = HC.\nV = 2√2a³/3.",
+              "germanString": "H ist Mittelpunkt von AB, SH ⊥ Grundfläche.\nSC macht 45° mit Grundfläche ⟹ SH = HC.\nV = 2√2a³/3.",
+              "italiaString": "H è il punto medio di AB, SH ⊥ base.\nSC fa 45° con la base ⟹ SH = HC.\nV = 2√2a³/3.",
+              "jaString": "H は AB の中点、SH ⊥ 底面。\nSC が底面と 45° をなす ⟹ SH = HC。\nV = 2√2a³/3。",
+              "koString": "H는 AB의 중점, SH ⊥ 밑면.\nSC가 밑면과 45° ⟹ SH = HC.\nV = 2√2a³/3.",
+              "portugueseBRString": "H é ponto médio de AB, SH ⊥ base.\nSC faz 45° com a base ⟹ SH = HC.\nV = 2√2a³/3.",
+              "spanishString": "H es punto medio de AB, SH ⊥ base.\nSC hace 45° con la base ⟹ SH = HC.\nV = 2√2a³/3.",
+              "vnString": "H là trung điểm AB, SH ⊥ đáy.\nSC tạo góc 45° với đáy ⟹ SH = HC.\nV = (1/3)·S_đáy·SH = 2√2a³/3."
             },
             "id": 31,
             "question": {
@@ -174225,17 +174225,17 @@
               "vnString": "1/3"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(نفس القاعدة ABD، الارتفاعات بنسبة 1:3).",
+              "cnTraditionalString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3。\n（底面 ABD 相同，高之比為 1:3）。",
+              "enString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = SM/SA = 1/3.\n(Same base ABD, heights in ratio 1:3).",
+              "frenchString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(Même base ABD, hauteurs en rapport 1:3).",
+              "germanString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(Gleiche Grundfläche ABD, Höhen im Verhältnis 1:3).",
+              "italiaString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(Stessa base ABD, altezze nel rapporto 1:3).",
+              "jaString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3。\n（底面 ABD 共有、高さの比 1:3）。",
+              "koString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(같은 밑면 ABD, 높이 비 1:3).",
+              "portugueseBRString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(Mesma base ABD, alturas na proporção 1:3).",
+              "spanishString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = 1/3.\n(Misma base ABD, alturas en relación 1:3).",
+              "vnString": "SM = SA/3 ⟹ V(SMBD)/V(SABD) = SM/SA = 1/3.\n(Hai khối chóp cùng đáy ABD, chiều cao tỉ lệ 1:3)."
             },
             "id": 32,
             "question": {
@@ -174321,17 +174321,17 @@
               "vnString": "h = 8/√65"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nالنتيجة: h = 8/√65.",
+              "cnTraditionalString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a。\n結果：h = 8/√65。",
+              "enString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\n(SAD) ⊥ base, isosceles at S: find d(B,(SCD)).\nResult: h = 8/√65.",
+              "frenchString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nRésultat : h = 8/√65.",
+              "germanString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nErgebnis: h = 8/√65.",
+              "italiaString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nRisultato: h = 8/√65.",
+              "jaString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a。\n結果：h = 8/√65。",
+              "koString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\n결과: h = 8/√65.",
+              "portugueseBRString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nResultado: h = 8/√65.",
+              "spanishString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\nResultado: h = 8/√65.",
+              "vnString": "V = (1/3)a²h = 4a³/3 ⟹ h = 4a.\n(SAD) ⊥ đáy và cân tại S: tính d(B,(SCD)) bằng cách lập phương trình mp(SCD).\nKết quả: h = 8/√65."
             },
             "id": 33,
             "question": {
@@ -174417,17 +174417,17 @@
               "vnString": "2apqrt/27"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "G مركز ثقل SBC، مستوى عبر AG موازٍ لـ BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "cnTraditionalString": "G 是 SBC 的重心，過 AG 平行於 BC 的平面。\nSM/SB = SN/SC = 2/3。\nV(S.AMN) = 2a³/27。",
+              "enString": "G is centroid of SBC; plane through AG parallel to BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "frenchString": "G est le centre de gravité de SBC ; plan par AG parallèle à BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "germanString": "G ist Schwerpunkt von SBC; Ebene durch AG parallel zu BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "italiaString": "G è il baricentro di SBC; piano per AG parallelo a BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "jaString": "G は SBC の重心、AG を通り BC に平行な平面。\nSM/SB = SN/SC = 2/3。\nV(S.AMN) = 2a³/27。",
+              "koString": "G는 SBC의 무게중심, AG를 지나 BC에 평행한 평면.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "portugueseBRString": "G é o centroide de SBC; plano por AG paralelo a BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "spanishString": "G es el centroide de SBC; plano por AG paralelo a BC.\nSM/SB = SN/SC = 2/3.\nV(S.AMN) = 2a³/27.",
+              "vnString": "G là trọng tâm SBC, mặt phẳng qua AG song song BC.\nSM/SB = SN/SC = 2/3 (tính chất song song).\nV(S.AMN) = (2/3)²·V(S.ABC)/... = 2a³/27."
             },
             "id": 34,
             "question": {
@@ -174513,17 +174513,17 @@
               "vnString": " 2πRsqrt"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "أسطوانة: نصف قطر r، الارتفاع h = 2r.\nمنتظمة في كرة R: r = R/√2.\nS_جانبية = 2πR².",
+              "cnTraditionalString": "圓柱：半徑 r，高 h = 2r。\n內切於球 R：r = R/√2。\nS_側 = 2πR²。",
+              "enString": "Cylinder: radius r, height h = 2r.\nInscribed in sphere R: √(4r²+4r²) = 2R ⟹ r = R/√2.\nS_lateral = 2πrh = 4πr² = 2πR².",
+              "frenchString": "Cylindre : rayon r, hauteur h = 2r.\nInscrit dans sphère R : r = R/√2.\nS_lat = 2πR².",
+              "germanString": "Zylinder: Radius r, Höhe h = 2r.\nEinbeschrieben in Kugel R: r = R/√2.\nS_Mantel = 2πR².",
+              "italiaString": "Cilindro: raggio r, altezza h = 2r.\nInscritto in sfera R: r = R/√2.\nS_lat = 2πR².",
+              "jaString": "円柱：半径 r、高さ h = 2r。\n球 R に内接：r = R/√2。\nS_側面 = 2πR²。",
+              "koString": "원기둥: 반지름 r, 높이 h = 2r.\n구 R에 내접: r = R/√2.\nS_옆 = 2πR².",
+              "portugueseBRString": "Cilindro: raio r, altura h = 2r.\nInscrito em esfera R: r = R/√2.\nS_lat = 2πR².",
+              "spanishString": "Cilindro: radio r, altura h = 2r.\nInscrito en esfera R: r = R/√2.\nS_lat = 2πR².",
+              "vnString": "Hình trụ: bán kính r, chiều cao h = 2r.\nNội tiếp mặt cầu R: √(4r²+4r²) = 2R ⟹ r = R/√2.\nS_xq = 2πrh = 4πr² = 2πR²."
             },
             "id": 35,
             "question": {
@@ -174615,17 +174615,17 @@
               "vnString": "32√3π(cmpqrt)"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "مثلث متساوي الأضلاع ABC، a=3سم، SA⊥(ABC)، SA=6سم.\nحجم الكرة المحيطة: V = 32√3π سم³.",
+              "cnTraditionalString": "等邊三角形 ABC，a=3cm，SA⊥(ABC)，SA=6cm。\n外接球體積：V = 32√3π cm³。",
+              "enString": "Equilateral △ABC, a=3cm, SA⊥(ABC), SA=6cm.\nCircumradius of base: r = √3 cm.\nCircumscribed sphere volume: V = 32√3π cm³.",
+              "frenchString": "△ABC équilatéral, a=3cm, SA⊥(ABC), SA=6cm.\nVolume de la sphère circonscrite : V = 32√3π cm³.",
+              "germanString": "Gleichseitiges △ABC, a=3cm, SA⊥(ABC), SA=6cm.\nUmkugelvolumen: V = 32√3π cm³.",
+              "italiaString": "△ABC equilatero, a=3cm, SA⊥(ABC), SA=6cm.\nVolume sfera circoscritta: V = 32√3π cm³.",
+              "jaString": "正三角形 ABC、a=3cm、SA⊥(ABC)、SA=6cm。\n外接球体積：V = 32√3π cm³。",
+              "koString": "정삼각형 ABC, a=3cm, SA⊥(ABC), SA=6cm.\n외접구 부피: V = 32√3π cm³.",
+              "portugueseBRString": "△ABC equilátero, a=3cm, SA⊥(ABC), SA=6cm.\nVolume da esfera circunscrita: V = 32√3π cm³.",
+              "spanishString": "△ABC equilátero, a=3cm, SA⊥(ABC), SA=6cm.\nVolumen esfera circunscrita: V = 32√3π cm³.",
+              "vnString": "Tam giác ABC đều a=3cm, SA⊥(ABC), SA=6cm.\nr_ngoại = a/√3 = √3 cm.\nTính R mặt cầu ngoại tiếp hình chóp: V = 32√3π cm³."
             },
             "id": 36,
             "question": {
@@ -174711,17 +174711,17 @@
               "vnString": "3√10/2"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "الأبعاد a, b, c: ab=20، ac=28، bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "cnTraditionalString": "邊長 a, b, c：ab=20，ac=28，bc=35。\nabc=140 ⟹ a=4, b=5, c=7。\nR = 3√10/2。",
+              "enString": "Sides a, b, c: ab=20, ac=28, bc=35.\n(abc)²=19600 ⟹ abc=140.\na=4, b=5, c=7.\nR = √(16+25+49)/2 = 3√10/2.",
+              "frenchString": "Côtés a, b, c : ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "germanString": "Seiten a, b, c: ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "italiaString": "Lati a, b, c: ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "jaString": "辺 a, b, c：ab=20, ac=28, bc=35。\nabc=140 ⟹ a=4, b=5, c=7。\nR = 3√10/2。",
+              "koString": "변 a, b, c: ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "portugueseBRString": "Lados a, b, c: ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "spanishString": "Lados a, b, c: ab=20, ac=28, bc=35.\nabc=140 ⟹ a=4, b=5, c=7.\nR = 3√10/2.",
+              "vnString": "Cạnh a, b, c: ab=20, ac=28, bc=35.\n(abc)²=20·28·35=19600 ⟹ abc=140.\na=4, b=5, c=7.\nR = √(a²+b²+c²)/2 = √90/2 = 3√10/2."
             },
             "id": 37,
             "question": {
@@ -174807,17 +174807,17 @@
               "vnString": "4π/3 cmpqrt "
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "القطر 2سم ⟹ r = 1سم.\nV = 4π/3 سم³.",
+              "cnTraditionalString": "直徑 2cm ⟹ r = 1cm。\nV = 4π/3 cm³。",
+              "enString": "Diameter 2cm ⟹ r = 1cm.\nV = (4/3)πr³ = 4π/3 cm³.",
+              "frenchString": "Diamètre 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "germanString": "Durchmesser 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "italiaString": "Diametro 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "jaString": "直径 2cm ⟹ r = 1cm。\nV = 4π/3 cm³。",
+              "koString": "지름 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "portugueseBRString": "Diâmetro 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "spanishString": "Diámetro 2cm ⟹ r = 1cm.\nV = 4π/3 cm³.",
+              "vnString": "Đường kính 2cm ⟹ r = 1cm.\nV = (4/3)πr³ = 4π/3 cm³."
             },
             "id": 38,
             "question": {
@@ -174903,17 +174903,17 @@
               "vnString": "16π"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "S_جانبية = 2πrl = 2π·2·4 = 16π.",
+              "cnTraditionalString": "S_側面 = 2πrl = 2π·2·4 = 16π。",
+              "enString": "S_lateral = 2πrl = 2π·2·4 = 16π.",
+              "frenchString": "S_lat = 2πrl = 2π·2·4 = 16π.",
+              "germanString": "S_Mantel = 2πrl = 2π·2·4 = 16π.",
+              "italiaString": "S_lat = 2πrl = 2π·2·4 = 16π.",
+              "jaString": "S_側面 = 2πrl = 2π·2·4 = 16π。",
+              "koString": "S_옆 = 2πrl = 2π·2·4 = 16π.",
+              "portugueseBRString": "S_lat = 2πrl = 2π·2·4 = 16π.",
+              "spanishString": "S_lat = 2πrl = 2π·2·4 = 16π.",
+              "vnString": "S_xq = 2πrl = 2π·2·4 = 16π."
             },
             "id": 39,
             "question": {
@@ -174999,17 +174999,17 @@
               "vnString": "-4 "
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "cnTraditionalString": "log₂(1/16) = log₂(2⁻⁴) = -4。",
+              "enString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "frenchString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "germanString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "italiaString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "jaString": "log₂(1/16) = log₂(2⁻⁴) = -4。",
+              "koString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "portugueseBRString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "spanishString": "log₂(1/16) = log₂(2⁻⁴) = -4.",
+              "vnString": "log₂(1/16) = log₂(2⁻⁴) = -4."
             },
             "id": 40,
             "question": {
@@ -175101,17 +175101,17 @@
               "vnString": "(-∞;3)"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "y = log₂₀₂₁(3-x) معرفة عندما 3-x > 0 ⟺ x < 3.\nمجال التعريف: (-∞;3).",
+              "cnTraditionalString": "y = log₂₀₂₁(3-x) 在 3-x > 0 時有定義 ⟺ x < 3。\n定義域：(-∞;3)。",
+              "enString": "y = log₂₀₂₁(3-x) is defined when 3-x > 0 ⟺ x < 3.\nDomain: (-∞;3).",
+              "frenchString": "y = log₂₀₂₁(3-x) est définie quand 3-x > 0 ⟺ x < 3.\nDomaine : (-∞;3).",
+              "germanString": "y = log₂₀₂₁(3-x) ist definiert wenn 3-x > 0 ⟺ x < 3.\nDefinitionsbereich: (-∞;3).",
+              "italiaString": "y = log₂₀₂₁(3-x) è definita quando 3-x > 0 ⟺ x < 3.\nDominio: (-∞;3).",
+              "jaString": "y = log₂₀₂₁(3-x) は 3-x > 0 のとき定義される ⟺ x < 3。\n定義域：(-∞;3)。",
+              "koString": "y = log₂₀₂₁(3-x)는 3-x > 0 ⟺ x < 3일 때 정의됨.\n정의역: (-∞;3).",
+              "portugueseBRString": "y = log₂₀₂₁(3-x) é definida quando 3-x > 0 ⟺ x < 3.\nDomínio: (-∞;3).",
+              "spanishString": "y = log₂₀₂₁(3-x) está definida cuando 3-x > 0 ⟺ x < 3.\nDominio: (-∞;3).",
+              "vnString": "y = log₂₀₂₁(3-x) xác định khi 3-x > 0 ⟺ x < 3.\nTập xác định: (-∞;3)."
             },
             "id": 41,
             "question": {
@@ -175197,17 +175197,17 @@
               "vnString": "1/2b"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = (1/2)·log₃5 = 1/(2b).",
+              "cnTraditionalString": "log₅3 = b ⟹ log₃5 = 1/b。\nlog₈₁25 = log_{3⁴}(5²) = (2/4)·log₃5 = 1/(2b)。",
+              "enString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = log_{3⁴}(5²) = (2/4)·log₃5 = 1/(2b).",
+              "frenchString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "germanString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "italiaString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "jaString": "log₅3 = b ⟹ log₃5 = 1/b。\nlog₈₁25 = 1/(2b)。",
+              "koString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "portugueseBRString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "spanishString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = 1/(2b).",
+              "vnString": "log₅3 = b ⟹ log₃5 = 1/b.\nlog₈₁25 = log_{3⁴}(5²) = (2/4)·log₃5 = (1/2)·(1/b) = 1/(2b)."
             },
             "id": 42,
             "question": {
@@ -175293,17 +175293,17 @@
               "vnString": "20π"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "V = (1/3)πr²h = 16π، h=3 ⟹ r=4.\nl = 5.\nS_جانبية = 20π.",
+              "cnTraditionalString": "V = (1/3)πr²h = 16π，h=3 ⟹ r=4。\nl = 5。\nS_側面 = 20π。",
+              "enString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nSlant height l = √(16+9) = 5.\nS_lateral = πrl = 20π.",
+              "frenchString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_lat = 20π.",
+              "germanString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_Mantel = 20π.",
+              "italiaString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_lat = 20π.",
+              "jaString": "V = (1/3)πr²h = 16π，h=3 ⟹ r=4。\nl = 5。\nS_側面 = 20π。",
+              "koString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_옆 = 20π.",
+              "portugueseBRString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_lat = 20π.",
+              "spanishString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = 5.\nS_lat = 20π.",
+              "vnString": "V = (1/3)πr²h = 16π, h=3 ⟹ r=4.\nl = √(r²+h²) = √25 = 5.\nS_xq = πrl = 20π."
             },
             "id": 43,
             "question": {
@@ -175389,17 +175389,17 @@
               "vnString": "2"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "r = 2، l = 2√2.\nh = √(l²-r²) = 2.",
+              "cnTraditionalString": "r = 2（直徑=4），l = 2√2。\nh = √(l²-r²) = 2。",
+              "enString": "r = 2 (diameter=4), slant height l = 2√2.\nh = √(l²-r²) = √4 = 2.",
+              "frenchString": "r = 2 (diamètre=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "germanString": "r = 2 (Durchmesser=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "italiaString": "r = 2 (diametro=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "jaString": "r = 2（直径=4）、l = 2√2。\nh = √(l²-r²) = 2。",
+              "koString": "r = 2 (지름=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "portugueseBRString": "r = 2 (diâmetro=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "spanishString": "r = 2 (diámetro=4), l = 2√2.\nh = √(l²-r²) = 2.",
+              "vnString": "r = 2 (đường kính=4), l = 2√2.\nh = √(l²-r²) = √(8-4) = 2."
             },
             "id": 44,
             "question": {
@@ -175485,17 +175485,17 @@
               "vnString": "log<2>(xy) = log<2>(x) + log<2>(y)"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "الخاصية الصحيحة: log₂(xy) = log₂x + log₂y.\nالخيارات A, C, D خاطئة.",
+              "cnTraditionalString": "正確性質：log₂(xy) = log₂x + log₂y。\n選項 A, C, D 均錯誤。",
+              "enString": "Correct property: log₂(xy) = log₂x + log₂y.\nOptions A, C, D are all incorrect.",
+              "frenchString": "Propriété correcte : log₂(xy) = log₂x + log₂y.\nLes options A, C, D sont toutes incorrectes.",
+              "germanString": "Korrekte Eigenschaft: log₂(xy) = log₂x + log₂y.\nOptionen A, C, D sind alle falsch.",
+              "italiaString": "Proprietà corretta: log₂(xy) = log₂x + log₂y.\nLe opzioni A, C, D sono tutte errate.",
+              "jaString": "正しい性質：log₂(xy) = log₂x + log₂y。\n選択肢 A, C, D はすべて誤り。",
+              "koString": "올바른 성질: log₂(xy) = log₂x + log₂y.\n선택지 A, C, D는 모두 틀렸습니다.",
+              "portugueseBRString": "Propriedade correta: log₂(xy) = log₂x + log₂y.\nAs opções A, C, D estão todas incorretas.",
+              "spanishString": "Propiedad correcta: log₂(xy) = log₂x + log₂y.\nLas opciones A, C, D son todas incorrectas.",
+              "vnString": "Tính chất đúng: log₂(xy) = log₂x + log₂y.\nCác đáp án A, C, D đều sai."
             },
             "id": 45,
             "question": {
@@ -175587,17 +175587,17 @@
               "vnString": "Hình nón"
             },
             "hint": {
-              "arString": "الإجابة هي A",
-              "cnTraditionalString": "答案是 A",
-              "enString": "The answer is A",
-              "frenchString": "La réponse est A",
-              "germanString": "Die Antwort ist A",
-              "italiaString": "La risposta è A",
-              "jaString": "答えは A",
-              "koString": "정답은 A입니다.",
-              "portugueseBRString": "A resposta é A",
-              "spanishString": "La respuesta es A",
-              "vnString": "Đáp án là A"
+              "arString": "تدوير △ABC (زاوية قائمة عند A) حول AC:\nAB ⊥ AC يرسم السطح الجانبي للمخروط.\n⟹ يتكوّن مخروط.",
+              "cnTraditionalString": "將 △ABC（直角在 A）繞 AC 旋轉：\nAB ⊥ AC 掃出圓錐的側面。\n⟹ 形成圓錐。",
+              "enString": "Rotating △ABC (right angle at A) around AC:\nAB ⊥ AC sweeps out the lateral surface of a cone.\n⟹ Creates a cone.",
+              "frenchString": "En faisant tourner △ABC (angle droit en A) autour de AC :\nAB ⊥ AC trace la surface latérale d'un cône.\n⟹ Crée un cône.",
+              "germanString": "Rotation von △ABC (rechter Winkel bei A) um AC:\nAB ⊥ AC erzeugt die Mantelfläche eines Kegels.\n⟹ Erstellt einen Kegel.",
+              "italiaString": "Ruotando △ABC (angolo retto in A) attorno ad AC:\nAB ⊥ AC traccia la superficie laterale di un cono.\n⟹ Crea un cono.",
+              "jaString": "△ABC（A で直角）を AC 周りに回転：\nAB ⊥ AC が円錐の側面を描く。\n⟹ 円錐ができる。",
+              "koString": "△ABC(A에서 직각)를 AC 주위로 회전:\nAB ⊥ AC가 원뿔의 옆면을 그림.\n⟹ 원뿔 생성.",
+              "portugueseBRString": "Girando △ABC (ângulo reto em A) em torno de AC:\nAB ⊥ AC traça a superfície lateral de um cone.\n⟹ Cria um cone.",
+              "spanishString": "Girando △ABC (ángulo recto en A) alrededor de AC:\nAB ⊥ AC traza la superficie lateral de un cono.\n⟹ Crea un cono.",
+              "vnString": "Khi quay △ABC (vuông tại A) quanh AC:\nAB ⊥ AC tạo thành mặt bên hình nón.\n⟹ Tạo thành hình nón."
             },
             "id": 46,
             "question": {
@@ -175683,17 +175683,17 @@
               "vnString": "2√3"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "مكعب بضلع 4:\nالقطر الفضائي = 4√3.\nنصف قطر الكرة المحيطة = 2√3.",
+              "cnTraditionalString": "邊長 4 的正方體：\n空間對角線 = 4√3。\n外接球半徑 = 2√3。",
+              "enString": "Cube with side 4:\nSpace diagonal = 4√3.\nCircumscribed sphere radius = 4√3/2 = 2√3.",
+              "frenchString": "Cube de côté 4 :\nDiagonale spatiale = 4√3.\nRayon de la sphère circonscrite = 2√3.",
+              "germanString": "Würfel mit Seite 4:\nRaumdiagonale = 4√3.\nUmkugelradius = 2√3.",
+              "italiaString": "Cubo con lato 4:\nDiagonale spaziale = 4√3.\nRaggio sfera circoscritta = 2√3.",
+              "jaString": "一辺 4 の立方体：\n空間対角線 = 4√3。\n外接球半径 = 2√3。",
+              "koString": "한 변 4인 정육면체:\n공간 대각선 = 4√3.\n외접구 반지름 = 2√3.",
+              "portugueseBRString": "Cubo com lado 4:\nDiagonal espacial = 4√3.\nRaio esfera circunscrita = 2√3.",
+              "spanishString": "Cubo con lado 4:\nDiagonal espacial = 4√3.\nRadio esfera circunscrita = 2√3.",
+              "vnString": "Hình lập phương cạnh 4:\nĐường chéo = 4√3.\nBán kính mặt cầu ngoại tiếp = 4√3/2 = 2√3."
             },
             "id": 47,
             "question": {
@@ -175779,17 +175779,17 @@
               "vnString": "8"
             },
             "hint": {
-              "arString": "الإجابة هي B",
-              "cnTraditionalString": "答案是 B",
-              "enString": "The answer is B",
-              "frenchString": "La réponse est B",
-              "germanString": "Die Antwort ist B",
-              "italiaString": "La risposta è B",
-              "jaString": "答えは B",
-              "koString": "정답은 B입니다.",
-              "portugueseBRString": "A resposta é B",
-              "spanishString": "La respuesta es B",
-              "vnString": "Đáp án là B"
+              "arString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "cnTraditionalString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8。",
+              "enString": "log₃(x+1) = 2 ⟺ x+1 = 3² = 9 ⟺ x = 8.",
+              "frenchString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "germanString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "italiaString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "jaString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8。",
+              "koString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "portugueseBRString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "spanishString": "log₃(x+1) = 2 ⟺ x+1 = 9 ⟺ x = 8.",
+              "vnString": "log₃(x+1) = 2 ⟺ x+1 = 3² = 9 ⟺ x = 8."
             },
             "id": 48,
             "question": {
@@ -175875,17 +175875,17 @@
               "vnString": "1"
             },
             "hint": {
-              "arString": "الإجابة هي C",
-              "cnTraditionalString": "答案是 C",
-              "enString": "The answer is C",
-              "frenchString": "La réponse est C",
-              "germanString": "Die Antwort ist C",
-              "italiaString": "La risposta è C",
-              "jaString": "答えは C",
-              "koString": "정답은 C입니다.",
-              "portugueseBRString": "A resposta é C",
-              "spanishString": "La respuesta es C",
-              "vnString": "Đáp án là C"
+              "arString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nالحالة x<0: x=-1 (مقبول).\nحل واحد.",
+              "cnTraditionalString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4。\nx<0 情況：x=-1（接受）。\n1 個解。",
+              "enString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nCase x≥0: x=-2 (rejected). Case x<0: x=-1 (valid).\n1 solution.",
+              "frenchString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nCas x<0 : x=-1 (accepté).\n1 solution.",
+              "germanString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nFall x<0: x=-1 (gültig).\n1 Lösung.",
+              "italiaString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nCaso x<0: x=-1 (valido).\n1 soluzione.",
+              "jaString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4。\nx<0 の場合：x=-1（採用）。\n1 解。",
+              "koString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nx<0 경우: x=-1 (채택).\n1개의 해.",
+              "portugueseBRString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nCaso x<0: x=-1 (válido).\n1 solução.",
+              "spanishString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nCaso x<0: x=-1 (válido).\n1 solución.",
+              "vnString": "log₂(x²) = 2log₂(3x+4) (x > -4/3)\n⟺ |x| = 3x+4.\nTH x≥0: x=-2 (loại). TH x<0: x=-1 (nhận).\n1 nghiệm."
             },
             "id": 49,
             "question": {
@@ -175971,17 +175971,17 @@
               "vnString": "1"
             },
             "hint": {
-              "arString": "الإجابة هي D",
-              "cnTraditionalString": "答案是 D",
-              "enString": "The answer is D",
-              "frenchString": "La réponse est D",
-              "germanString": "Die Antwort ist D",
-              "italiaString": "La risposta è D",
-              "jaString": "答えは D",
-              "koString": "정답은 D입니다.",
-              "portugueseBRString": "A resposta é D",
-              "spanishString": "La respuesta es D",
-              "vnString": "Đáp án là D"
+              "arString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nالحالة x≥1: x=3/2 (مقبول).\nحل واحد.",
+              "cnTraditionalString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2。\nx≥1 情況：x=3/2（接受）。\n1 個解。",
+              "enString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nCase x≥1: x=3/2 (valid). Case x<1: no solution.\n1 solution.",
+              "frenchString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nCas x≥1 : x=3/2 (accepté).\n1 solution.",
+              "germanString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nFall x≥1: x=3/2 (gültig).\n1 Lösung.",
+              "italiaString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nCaso x≥1: x=3/2 (valido).\n1 soluzione.",
+              "jaString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2。\nx≥1 の場合：x=3/2（採用）。\n1 解。",
+              "koString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nx≥1 경우: x=3/2 (채택).\n1개의 해.",
+              "portugueseBRString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nCaso x≥1: x=3/2 (válido).\n1 solução.",
+              "spanishString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nCaso x≥1: x=3/2 (válido).\n1 solución.",
+              "vnString": "log₂((x-1)²) + log_√2(2x+1) = 2\n⟺ 2log₂|x-1| + 2log₂(2x+1) = 2\n⟺ |x-1|(2x+1) = 2.\nTH x≥1: x=3/2 (nhận). TH x<1: vô nghiệm.\n1 nghiệm."
             },
             "id": 50,
             "question": {
@@ -176370,7 +176370,7 @@
               "jaString": "複素数 z = a + bi の虚部は b に等しい。\nz = 1 − 2i の虚部は -2",
               "koString": "복소수 z = a + bi의 허수 부분은 b입니다. z = 1 − 2i의 허수 부분은 -2입니다.",
               "portugueseBRString": "O número complexo z = a + bi tem parte imaginária igual a b.\nz = 1 − 2i tem parte imaginária de -2",
-              "spanishString": "El número complejo z = a + bi tiene una parte imaginaria igual a b.\nz = 1 − 2i tiene una parte imaginaria của -2",
+              "spanishString": "El número complejo z = a + bi tiene parte imaginaria b.\nz = 1 − 2i tiene parte imaginaria −2.",
               "vnString": "Số phức z = a + bi có phần ảo bằng b.\nz = 1 − 2i có phần ảo là -2"
             },
             "id": 54,
@@ -176384,7 +176384,7 @@
               "jaString": "複素数 z = 1 − 2i が与えられた場合、その複素数の虚部を求める：",
               "koString": "복소수 z = 1 − 2i의 허수부분은:",
               "portugueseBRString": " Dado o número complexo z = 1 − 2i. Encontre a parte imaginária do número complexo z.",
-              "spanishString": "Dado el número complejo z = 1 − 2i. Encuentra la parte imaginaria del número complejo z:",
+              "spanishString": "Dado el número complejo z = 1 − 2i. Encuentra la parte imaginaria de z.",
               "vnString": "Cho số phức z = 1 − 2i. Tìm phần ảo của số phức z."
             }
           },
@@ -176466,7 +176466,7 @@
               "jaString": "球面 (S): (x−a)^2 + (y−b)^2 + (z−c)^2 = R^2 は中心 I(a;b;c) と半径 R を持つ。\n球 (S) : (x+1)^2 + (y−3)^2 + (z−2)^2 = 9 は中心 I(-1;3;2) と半径 R = 3 を持つ。",
               "koString": "구의 방정식 (x−a)² + (y−b)² + (z−c)² = R²은 중심 I(a;b;c)와 반지름 R을 갖습니다. 구 (S): (x+1)² + (y−3)² + (z−2)² = 9는 중심 I(-1;3;2)와 반지름 R = 3을 갖습니다.",
               "portugueseBRString": "Superfície esférica (S): (x−a)² + (y−b)² + (z−c)² = R² com centro I(a;b;c) e raio R.\nesfera (S) : (x+1)² + (y−3)² + (z−2)² = 9 com centro I(-1;3;2) e raio R = 3",
-              "spanishString": "Superficie esférica (S): (x−a)^2 + (y−b)^2 + (z−c)^2 = R^2 con centro I(a;b;c) và radio R.\nEsfera (S): (x+1)^2 + (y−3)^2 + (z−2)^2 = 9 con centro I(-1;3;2) và radio R = 3",
+              "spanishString": "La esfera (S): (x−a)² + (y−b)² + (z−c)² = R² tiene centro I(a;b;c) y radio R.\nLa esfera (S): (x+1)² + (y−3)² + (z−2)² = 9 tiene centro I(−1;3;2) y radio R = 3.",
               "vnString": "Mặt cầu (S): (x−a)² + (y−b)² + (z−c)² = R² có tâm I(a;b;c) và bán kính R.\nmặt cầu (S) : (x+1)² + (y−3)² + (z−2)² = 9 có tâm I(-1;3;2) và bán kính R = 3"
             },
             "id": 55,
@@ -176480,7 +176480,7 @@
               "jaString": "Oxyz 空間において、球面 (S) : (x+1)^2 + (y−3)^2 + (z−2)^2 = 9 の中心と半径はそれぞれ次のようになる：",
               "koString": "Oxyz 공간에서 구 (S) : (x+1)² + (y−3)² + (z−2)² = 9의 중심과 반지름은 각각:",
               "portugueseBRString": "No espaço Oxyz, a esfera (S) : (x+1)sqrt + (y−3)sqrt + (z−2)sqrt = 9 tem centro e raio respectivamente",
-              "spanishString": "En el espacio Oxyz, la esfera (S): (x+1)^2 + (y−3)^2 + (z−2)^2 = 9 tiene centro và radio respectivamente:",
+              "spanishString": "En el espacio Oxyz, la esfera (S): (x+1)² + (y−3)² + (z−2)² = 9 tiene centro y radio respectivamente:",
               "vnString": "Trong không gian Oxyz, mặt cầu (S) : (x+1)sqrt + (y−3)sqrt + (z−2)sqrt = 9 có tâm và bán kính lần lượt là"
             }
           }
@@ -176760,7 +176760,7 @@
               "jaString": "平面 (P) は直線 d に垂直なので、平面 (P) は直線 d の方向ベクトルを持つ法線ベクトルを持つ。\n点 M(x0;y0;z0) を通り、法線ベクトル n(A;B;C) を持つ平面の方程式は：A(x−x0) + B(y−y0) + C(z−z0) = 0。\n直線 d は方向ベクトル u(2;1;−1) を持つ。\nd⊥(P) なので、平面 (P) は法線ベクトル n<P> = u = (2;1;−1) を持つ。\n点 A(1;2;0) を通り、法線ベクトル n<P> (2;1;−1) を持つ平面 (P) は：\n2(x−1) + 1(y−2) − 1(z−0) = 0\n⇔\n2x + y − z − 4 = 0。",
               "koString": "평면 (P)가 직선 d에 수직이므로, 직선 d의 방향 벡터는 평면 (P)의 법선 벡터(VTPT)가 됩니다. 점 M(x0;y0;z0)을 지나고 법선 벡터 n(A;B;C)를 가진 평면의 방정식은 A(x−x0) + B(y−y0) + C(z−z0) = 0 입니다. 직선 d의 방향 벡터는 u(2;1;−1)입니다. d⊥(P)이므로 평면 (P)의 법선 벡터 n = u = (2;1;−1)입니다. 점 A(1;2;0)를 지나는 평면 방정식은 2(x−1) + 1(y−2) − 1(z−0) = 0 이며, 정리하면 2x + y − z − 4 = 0 입니다.",
               "portugueseBRString": "O plano (P) é perpendicular à reta d, então o plano (P) tem 1 VTPT que é o VTCP da reta d.\nA equação do plano que passa por M(x0;y0;z0) e tem 1 VTPT n(A;B;C) é: A(x−x0) + B(y−y0) + C(z−z0) = 0 .\nA reta d com 1 VTCP é: u(2;1;−1)\nComo d⊥(P), o plano (P) tem 1 VTPT que é: n<P> = u = (2;1;−1).\nO plano (P) passando por A(1;2;0) e tendo um VTPT n<P> (2;1;−1) é:\n2(x−1) + 1(y−2) − 1(z−0) = 0\n⇔\n2x + y − z − 4 = 0.",
-              "spanishString": "El plano (P) là perpendicular a la recta d, por lo tanto el plano (P) tiene un vector normal n que là cái vector director của la recta d.\nLa ecuación del plano que pasa por M(x0;y0;z0) và tiene un vector normal n(A;B;C) es: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nLa línea recta d con un vector director u(2;1;−1).\nComo d⊥(P), el plano (P) tiene un vector normal: nP = u = (2;1;−1).\nEl plano (P) que pasa por A(1;2;0) và tiene un vector normal nP(2;1;−1) es:\n2(x−1) + 1(y−2) − 1(z−0) = 0\n⇔\n2x + y − z − 4 = 0.",
+              "spanishString": "El plano (P) es perpendicular a d, por lo que tiene como vector normal el vector director de d.\nLa ecuación del plano que pasa por M(x0;y0;z0) con vector normal n(A;B;C) es: A(x−x0)+B(y−y0)+C(z−z0)=0.\nd tiene vector director u(2;1;−1), entonces n_P = (2;1;−1).\nEl plano (P) que pasa por A(1;2;0): 2(x−1)+(y−2)−z=0 ⟺ 2x+y−z−4=0.",
               "vnString": "Mặt phẳng (P) vuông góc với đường thẳng d nên mặt phẳng (P) có 1 VTPT là VTCP của đường thẳng d.\nPhương trình mặt phẳng đi qua M(x0;y0;z0) và có 1 VTPT n(A;B;C) là: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nĐường thẳng d có 1 VTCP là: u(2;1;−1)\nVì d⊥(P) nên mặt phẳng (P) có 1 VTPT là: n<P> = u = (2;1;−1).\nMặt phẳng (P) đi qua A(1;2;0) và có 1 VTPT n<P> (2;1;−1) là:\n2(x−1) + 1(y−2) − 1(z−0) = 0\n⇔\n2x + y − z − 4 = 0."
             },
             "id": 58,
@@ -176774,7 +176774,7 @@
               "jaString": "Oxyz 空間において、平面 (P) が点 A(1;2;0) を通り、直線 d: (x+1)/2 = y/1 = (z-1)/-1 に垂直である場合、その方程式は次のようになる：",
               "koString": "Oxyz 공간에서 점 A(1;2;0)를 지나고 직선 d: (x+1)/2 = y/1 = (z-1 )/-1에 수직인 평면 (P)의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, o plano (P) passa pelo ponto A(1;2;0) e é perpendicular à reta d: (x+1)/2 = y/1 = (z-1 )/-1 tem a equação ",
-              "spanishString": "En el espacio Oxyz, el plano (P) que pasa por el punto A(1;2;0) và es perpendicular a la recta d: (x+1)/2 = y/1 = (z-1)/-1 tiene como ecuación:",
+              "spanishString": "En el espacio Oxyz, el plano (P) que pasa por el punto A(1;2;0) y es perpendicular a la recta d: (x+1)/2 = y/1 = (z-1)/(-1) tiene la ecuación:",
               "vnString": "Trong không gian Oxyz, mặt phẳng (P) đi qua điểm A(1;2;0) và vuông góc với đường thẳng d: (x+1)/2 = y/1 = (z-1)/-1 có phương trình là"
             }
           },
@@ -177054,7 +177054,7 @@
               "jaString": "与えられた点の座標を答えの方程式に代入する。\n3 + 4 − 7 = 0\n⇒\nM(3;4;−2) ∈ (R): x + y − 7 = 0",
               "koString": "주어진 점의 좌표를 보기의 방정식에 대입합니다. 3 + 4 − 7 = 0 이므로 점 M(3;4;−2)은 평면 (R): x + y − 7 = 0 위에 있습니다.",
               "portugueseBRString": "Substitua as coordenadas do ponto dado nas equações da resposta.\n3 + 4 − 7 = 0\n⇒\nM(3;4;−2) ∈ (R): x + y − 7 = 0",
-              "spanishString": "Sustituye las coordenadas del punto dado en las ecuaciones của la respuesta.\n3 + 4 − 7 = 0\n⇒\nM(3;4;−2) ∈ (R): x + y − 7 = 0",
+              "spanishString": "Sustituye las coordenadas del punto en cada ecuación.\n3+4−7=0 ⟹ M(3;4;−2) ∈ (R): x+y−7=0.",
               "vnString": "Thay tọa độ điểm đã cho vào các phương trình trong đáp án.\n3 + 4 − 7 = 0\n⇒\nM(3;4;−2) ∈ (R): x + y − 7 = 0"
             },
             "id": 61,
@@ -177068,7 +177068,7 @@
               "jaString": "Oxyz 空間において、点 M(3;4;−2) が次のどの平面に属するか？",
               "koString": "Oxyz 공간에서 점 M(3;4;−2)은 다음 중 어느 평면에 속합니까?",
               "portugueseBRString": "No espaço Oxyz, a qual dos seguintes planos pertence o ponto M(3;4;−2)?",
-              "spanishString": "En el espacio Oxyz, ¿a cuál de các siguientes planos pertenece el punto M(3;4;−2)?",
+              "spanishString": "En el espacio Oxyz, ¿a cuál de los siguientes planos pertenece el punto M(3;4;−2)?",
               "vnString": "Trong không gian Oxyz, điểm M(3;4;−2) thuộc mặt phẳng nào trong các mặt phẳng sau?"
             }
           },
@@ -177150,7 +177150,7 @@
               "jaString": "球の方程式は中心 I(x0;y0;z0)、半径 R に対して：(x−x0)^2 + (y−y0)^2 + (z−z0)^2 = R^2。\n\n解：\n\n中心 I(1;0;−3)、半径 R = 3 の球の方程式は：(x−1)^2 + y^2 + (z+3)^2 = 9。",
               "koString": "중심 I(x0;y0;z0)와 반지름 R인 구의 방정식은 (x−x0)² + (y−y0)² + (z−z0)² = R² 입니다. 중심 I(1;0;−3), 반지름 R = 3인 구의 방정식은 (x−1)² + y² + (z+3)² = 9 입니다.",
               "portugueseBRString": "A equação da esfera encontra I(x0;y0;z0), o raio R é: (x−x0)²+ (y−y0)² + (z−z0)² = R².\n\nSolução:\n\nA equação da esfera para encontrar I(1;0;−3), raio R = 3 é: (x−1)² + y² + (z+3)² = 9.",
-              "spanishString": "La ecuación của la esfera se encuentra con I(x0;y0;z0) và el radio R: (x−x0)^2 + (y−y0)^2 + (z−z0)^2 = R^2.\nSolución:\nLa ecuación của la esfera con I(1;0;−3) và radio R = 3 es: (x−1)^2 + y^2 + (z+3)^2 = 9.",
+              "spanishString": "La ecuación de la esfera con centro I(x0;y0;z0) y radio R es: (x−x0)²+(y−y0)²+(z−z0)²=R².\nPara I(1;0;−3) y R=3: (x−1)²+y²+(z+3)²=9.",
               "vnString": "Phương trình mặt cầu tìm I(x0;y0;z0), bán kính R là: (x−x0)²+ (y−y0)² + (z−z0)² = R².\n\nCách giải:\n\nPhương trình mặt cầu tìm I(1;0;−3), bán kính R = 3 là: (x−1)² + y² + (z+3)² = 9."
             },
             "id": 62,
@@ -177164,7 +177164,7 @@
               "jaString": "Oxyz 空間において、中心 I(1;0;−3) と半径 R = 3 の球の方程式は次のどれか？",
               "koString": "Oxyz 공간에서 중심이 I(1;0;−3)이고 반지름 R = 3인 구의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, qual das seguintes é a equação de uma esfera com centro I(1;0;−3) e raio R = 3?",
-              "spanishString": "En el espacio Oxyz, ¿cuál là la ecuación de la esfera con centro I(1;0;−3) và radio R = 3?",
+              "spanishString": "En el espacio Oxyz, ¿cuál es la ecuación de la esfera con centro I(1;0;−3) y radio R = 3?",
               "vnString": "Trong không gian Oxyz, phương trình nào dưới đây là phương trình mặt cầu tâm I(1;0;−3) và bán kính R = 3?"
             }
           },
@@ -177246,7 +177246,7 @@
               "jaString": "点 M(x0;y0;z0) を通り、法線ベクトル n(A;B;C) を持つ平面の方程式は：\nA(x−x0) + B(y−y0) + C(z−z0) = 0\n平面 (P) の方程式は：\n4(x+1) − 5z = 0\n⇔\n4x − 5z + 4 = 0",
               "koString": "점 M(x0;y0;z0)를 지나고 법선 벡터 n(A;B;C)를 가진 평면 방정식은 A(x−x0) + B(y−y0) + C(z−z0) = 0 입니다. 따라서 4(x+1) − 5z = 0 이며, 정리하면 4x − 5z + 4 = 0 입니다.",
               "portugueseBRString": "Equação do plano que passa por M(x0;y0;z0) e tem 1 VTPT n(A;B;C) é:\nA(x−x0) + B(y−y0) + C(z−z0) = 0\nA equação do plano (P) é:\n4(x+1) − 5z = 0\n⇔\n4x − 5z + 4 = 0",
-              "spanishString": "La ecuación del plano que pasa por M(x0;y0;z0) và tiene un vector normal n(A;B;C) es:\nA(x−x0) + B(y−y0) + C(z−z0) = 0\nLa ecuación del plano (P) es:\n4(x+1) − 5z = 0\n⇔\n4x − 5z + 4 = 0",
+              "spanishString": "La ecuación del plano que pasa por M(x0;y0;z0) con vector normal n(A;B;C) es:\nA(x−x0)+B(y−y0)+C(z−z0)=0.\nEl plano (P): 4(x+1)−5z=0 ⟺ 4x−5z+4=0.",
               "vnString": "Phương trình mặt phẳng đi qua M(x0;y0;z0) và có 1 VTPT n(A;B;C) là:\nA(x−x0) + B(y−y0) + C(z−z0) = 0\nPhương trình mặt phẳng (P) là:\n4(x+1) − 5z = 0\n⇔\n4x − 5z + 4 = 0"
             },
             "id": 63,
@@ -177260,7 +177260,7 @@
               "jaString": "Oxyz 空間において、点 M(−1;2;0) を通り、法線ベクトル n = (4;0;−5) を持つ平面 (P) の方程式は次のようになる：",
               "koString": "Oxyz 공간에서 점 M(−1;2;0)을 지나고 법선벡터 n = (4;0;−5)를 갖는 평면 (P)의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, a equação do plano (P) que passa pelo ponto M(−1;2;0) e tem o vetor normal n = (4;0;−5) é",
-              "spanishString": "En el espacio Oxyz, la ecuación del plano (P) que pasa por el punto M(−1;2;0) và tiene el vector normal n = (4;0;−5) es:",
+              "spanishString": "En el espacio Oxyz, la ecuación del plano (P) que pasa por el punto M(−1;2;0) y tiene el vector normal n = (4;0;−5) es:",
               "vnString": "Trong không gian Oxyz, phương trình mặt phẳng (P) đi qua điểm M(−1;2;0) và có vectơ pháp tuyến n = (4;0;−5) là"
             }
           },
@@ -177342,7 +177342,7 @@
               "jaString": "- 複素数の方程式を変換し、az = b ⇔ z = b/a の形の方程式を解く。\n- 複素数の除算を実行するために共役を使用する。\n(3+i)z + (4−5i) = 6 − 3i\nz = 4/5 + 2i/5",
               "koString": "- 복소수 방정식을 정리하여 az = b 꼴로 만든 후 z = b/a를 구합니다. 계산기를 사용하여 복소수 나눗셈을 수행합니다. (3+i)z + (4−5i) = 6 − 3i 이므로 z = 4/5 + 2i/5 입니다.",
               "portugueseBRString": "- Transforme as equações de números complexos, resolva equações da forma az = b ⇔ z = b/a.\n- Use MTCT para realizar a divisão complexa.\n(3+i)z + (4−5i) = 6 − 3i\nz = 4/5 + 2i/5",
-              "spanishString": "- Transforma las ecuaciones của números complejos, resuelve ecuaciones của la forma az = b ⇔ z = b/a.\n- Usa la calculadora để realizar la división compleja.\n(3+i)z + (4−5i) = 6 − 3i\nz = 4/5 + 2i/5",
+              "spanishString": "Despeja z de az=b ⟺ z=b/a, usando la división de números complejos.\n(3+i)z = 6−3i−(4−5i) = 2+2i\nz = (2+2i)/(3+i) = 4/5 + 2i/5.",
               "vnString": "- Biến đổi phương trình số phức, giải phương trình dạng az = b ⇔ z = b/a.\n- Sử dụng MTCT để thực hiện phép chia số phức.\n(3+i)z + (4−5i) = 6 − 3i\nz = 4/5 + 2i/5"
             },
             "id": 64,
@@ -177438,7 +177438,7 @@
               "jaString": "球 (S): (x−a)^2 + (y−b)^2 + (z−c)^2 = R^2 は中心 I(a;b;c) と半径 R を持つ。\n- 2つの平行な平面は同じ法線ベクトルを持つ。\n- 点 M(x0;y0;z0) を通り、法線ベクトル n(A;B;C) を持つ平面の方程式は：A(x−x0) + B(y−y0) + C(z−z0) = 0。\n球 (x-1)^2 + (y+2)^2 + z^2 = 12 は中心 I(1;-2;0) を持つ。\n\n求める平面は平面 (Oxz) に平行なので、法線ベクトルは j = (0;1;0)。\nしたがって、求める平面の方程式は：1(y+2) = 0 ⇔ y + 2 = 0",
               "koString": "구 (x-1)² + (y+2)² + z² = 12의 중심은 I(1;-2;0)입니다. 구하려는 평면은 (Oxz) 평면과 평행하므로 법선 벡터는 j = (0;1;0)입니다. 따라서 평면의 방정식은 1(y+2) = 0, 즉 y + 2 = 0 입니다.",
               "portugueseBRString": "Esfera(S): (x−a)² + (y−b)² + (z−c)² = R² com centro I(a;b;c) e raio R.\n- Dois planos paralelos têm o mesmo VTPT.\n- A equação do plano que passa por M(x0;y0;z0) e tem 1 VTPT n(A;B;C) é: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nesfera (x-1)² + (y+2)² + z² = 12 com centro I(1;-2;0)\n\nO plano a ser procurado é paralelo ao plano (Oxz), portanto existe um VTPT j = (0;1;0).\nAssim, a equação do plano a encontrar é: 1(y+2) = 0 ⇔ y + 2 = 0",
-              "spanishString": "Esfera (S): (x−a)^2 + (y−b)^2 + (z−c)^2 = R^2 con centro I(a;b;c) và radio R.\n- Dos planos paralelos tienen el mismo vector normal.\n- La ecuación del plano que pasa por M(x0;y0;z0) và tiene un vector normal n(A;B;C) es: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nEsfera (x-1)^2 + (y+2)^2 + z^2 = 12 con centro I(1;-2;0).\nEl plano buscado là paralelo al plano (Oxz), por lo que tiene un vector normal j = (0;1;0).\nAsí que la ecuación del plano a encontrar es: 1(y+2) = 0 ⇔ y + 2 = 0",
+              "spanishString": "La esfera (x−a)²+(y−b)²+(z−c)²=R² tiene centro I(a;b;c).\nDos planos paralelos tienen el mismo vector normal.\nLa esfera tiene centro I(1;−2;0). El plano (Oxz) tiene vector normal j=(0;1;0).\nEl plano buscado: y+2=0.",
               "vnString": "Mặt cầu(S): (x−a)² + (y−b)² + (z−c)² = R² có tâm I(a;b;c) và bán kính R.\n- Hai mặt phẳng song song có cùng VTPT.\n- Phương trình mặt phẳng đi qua M(x0;y0;z0) và có 1 VTPT n(A;B;C) là: A(x−x0) + B(y−y0) + C(z−z0) = 0.\nmặt cầu (x-1)² + (y+2)² + z² = 12 có tâm I(1;-2;0)\n\nMặt phẳng cần tìm song song với mặt phẳng (Oxz) nên có 1 VTPT là j = (0;1;0).\nVậy phương trình mặt phẳng cần tìm là: 1(y+2) = 0 ⇔ y + 2 = 0"
             },
             "id": 65,
@@ -177452,7 +177452,7 @@
               "jaString": "Oxyz 空間において、球 (x-1)^2 + (y+2)^2 + z^2 = 12 の中心を通り、平面 (Oxz) に平行な平面の方程式は次のようになる：",
               "koString": "Oxyz 공간에서 구 (x-1)² + (y+2)² + z² = 12의 중심을 지나고 평면 (Oxz)에 평행한 평면의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, o plano que passa pelo centro da esfera (x-1)sqrt + (y+2)sqrt + zsqrt = 12 e é paralelo ao plano (Oxz) tem a equação",
-              "spanishString": "En el espacio Oxyz, el plano que pasa por el centro de la esfera (x-1)^2 + (y+2)^2 + z^2 = 12 và là paralelo al plano (Oxz) tiene como ecuación:",
+              "spanishString": "En el espacio Oxyz, el plano que pasa por el centro de la esfera (x-1)² + (y+2)² + z² = 12 y es paralelo al plano (Oxz) tiene la ecuación:",
               "vnString": "Trong không gian Oxyz, mặt phẳng đi qua tâm của mặt cầu (x-1)sqrt + (y+2)sqrt + zsqrt = 12 và song song với mặt phẳng (Oxz) có phương trình là"
             }
           }
@@ -177540,7 +177540,7 @@
               "jaString": "交点の座標を考慮する。\n- 関数 y = f(x)、y = g(x) のグラフと線 x = a、x = b (a<b) で囲まれた平面図形の面積は：S = ∫_a^b |f(x) − g(x)|dx\n交点の座標の方程式を考慮：x^2 − 2x = 0 ⇒ x=0 および x=2。\n計算する平面の面積は：\nS = ∫_0^2 |x^2−2x|dx = −∫_0^2 (x^2 − 2x)dx = 4/3。",
               "koString": "교점의 좌표를 먼저 구합니다. y = x² − 2x = 0에서 x=0, x=2입니다. 넓이 S = ∫|f(x)|dx 공식을 사용하면 S = ∫|x²−2x|dx (0부터 2까지) = −∫(x² − 2x)dx = 4/3 입니다.",
               "portugueseBRString": "Considere a equação das coordenadas de intersecção.\n- A área da figura plana limitada pelos gráficos das funções y = f(x), y = g(x) e as retas x = a, x = b (a<b) é: S = <b; a>∫|f(x) − g(x)|dx\nConsidere a equação das coordenadas de intersecção: x² − 2x = 0 ⇒ x=0 e x=2.\nA área do plano a ser calculada é:\nS = <2;0>∫∣x²−2x∣dx = −<2;0>∫(x² − 2x)dx = 4/3.",
-              "spanishString": "Considera la ecuación của las coordenadas của intersección.\n- El área của la figura limitada por las gráficas của las funciones y = f(x), y = g(x) và las rectas x = a, x = b (a<b) es: S = ∫ |f(x) − g(x)| dx de a a b.\nConsidera la ecuación của la intersección: x^2 − 2x = 0 ⇒ x=0 và x=2.\nEl área del plano a calcular es:\nS = ∫ |x^2−2x| dx de 0 a 2 = −∫ (x^2 − 2x) dx de 0 a 2 = 4/3.",
+              "spanishString": "Puntos de intersección: x²−2x=0 ⟹ x=0 y x=2.\nÁrea: S = ∫₀²|x²−2x|dx = −∫₀²(x²−2x)dx = 4/3.",
               "vnString": "Xét phương trình hoành độ giao điểm.\n- Diện tích hình phẳng được giới hạn bởi đồ thị các hàm số y = f(x), y = g(x) và các đường thẳng x = a, x = b (a<b) là: S = <b;a>∫|f(x) − g(x)|dx\nXét phương trình hoành độ giao điểm: x² − 2x = 0 ⇒ x=0 và x=2.\nDiện tích hình phẳng cần tính là:\nS = <2;0>∫∣x²−2x∣dx = −<2;0>∫(x² − 2x)dx = 4/3."
             },
             "id": 66,
@@ -177554,7 +177554,7 @@
               "jaString": "関数 y = x^2 − 2x のグラフと水平軸で囲まれた平面の面積を計算する：",
               "koString": "함수 y = x² − 2x의 그래프와 가로축(x축)으로 둘러싸인 부분의 넓이는:",
               "portugueseBRString": "Calcule a área da região plana limitada pelo gráfico da função y = xsqrt − 2x e o eixo horizontal",
-              "spanishString": "Calcula el área de la región del plano limitada por la gráfica de la función y = x^2 − 2x và el eje horizontal:",
+              "spanishString": "Calcula el área de la región plana limitada por la gráfica de la función y = x² − 2x y el eje horizontal.",
               "vnString": "Tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y = xsqrt − 2x và trục hoành"
             }
           },
@@ -177636,7 +177636,7 @@
               "jaString": "2次方程式を解き、複素数の絶対値を計算する\nz^2 − 6z + 14 = 0 => z1 = 3 + √5i および z2 = 3 - √5i => |z1| = |z2| = √14 => |z1|+|z2| = 2√14",
               "koString": "이차방정식을 풀면 z1 = 3 + √5i, z2 = 3 - √5i 입니다. 각 복소수의 절댓값은 |z1| = |z2| = √14 이므로, |z1|+|z2| = 2√14 입니다.",
               "portugueseBRString": "Resolva equações quadráticas e calcule o módulo de números complexos\nz² − 6z + 14 = 0 => z1 = 3 + √5i e z2 = 3 - √5i => |z1| = |z2| = 14 => |z1|+|z2| = 2√14",
-              "spanishString": "Resuelve ecuaciones cuadráticas và calcula cái módulo của números complejos.\nz^2 − 6z + 14 = 0 => z1 = 3 + √5i và z2 = 3 - √5i => |z1| = |z2| = √14 => |z1|+|z2| = 2√14",
+              "spanishString": "Resuelve z²−6z+14=0: z1=3+√5i, z2=3−√5i.\n|z1|=|z2|=√(9+5)=√14.\nS=|z1|+|z2|=2√14.",
               "vnString": " Giải nghiệm phương trình bậc hai và tính mô đun số phức\nz² − 6z + 14 = 0 => z1 = 3 + √5i và z2 = 3 - √5i => |z1| = |z2| = √14 => |z1|+|z2| = 2√14"
             },
             "id": 67,
@@ -177650,7 +177650,7 @@
               "jaString": "方程式 z^2 − 6z + 14 = 0 の2つの複素解を z1, z2 とし、S = |z1| + |z2| を計算する：",
               "koString": "방정식 z² − 6z + 14 = 0의 두 복소수 해를 z₁, z₂라고 할 때, S = |z₁|+|z₂|의 값은:",
               "portugueseBRString": "Sejam z1,z2 duas soluções complexas da equação zsqrt − 6z + 14 = 0. Calcule S = |z1|+|z2|.",
-              "spanishString": "Sean z1, z2 các soluciones complejas de la ecuación z^2 − 6z + 14 = 0. Calcula S = |z1| + |z2|:",
+              "spanishString": "Sean z1, z2 las dos raíces complejas de la ecuación z² − 6z + 14 = 0. Calcula S = |z1| + |z2|.",
               "vnString": " Gọi z1,z2 là hai nghiệm phức của phương trình zsqrt − 6z + 14 = 0. Tính S = |z1|+|z2|."
             }
           },
@@ -177732,7 +177732,7 @@
               "jaString": "2つの平行な平面 Ax + By + Cz + D = 0 と Ax + By + Cz + D' = 0 の間の距離を次のように計算する：\nd = |D-D'|/√(A^2 + B^2 + C^2)\n=> 5",
               "koString": "두 평행한 평면 Ax + By + Cz + D = 0 과 Ax + By + Cz + D' = 0 사이의 거리 공식 d = |D-D'|/√(A²+B²+C²)를 사용하면 결과는 5입니다.",
               "portugueseBRString": "Calcule a distância entre dois planos paralelos Ax + By + Cz + D = 0 e Ax + By + Cz + D' = 0 como\nd = |D-D'|/√(A² + B² + C²)\n=> 5",
-              "spanishString": "Calcula la distancia entre dos planos paralelos Ax + By + Cz + D = 0 và Ax + By + Cz + D' = 0 como:\nd = |D-D'|/√(A^2 + B^2 + C^2)\n=> 5",
+              "spanishString": "Distancia entre planos paralelos Ax+By+Cz+D=0 y Ax+By+Cz+D'=0:\nd=|D−D'|/√(A²+B²+C²) = |−11−4|/√(4+4+1) = 15/3 = 5.",
               "vnString": "Tính khoảng cách giữa 2 mặt phẳng song song Ax + By + Cz + D = 0 và Ax + By + Cz + D’ = 0 là\nd = |D-D'|/√(A² + B² + C²)\n=> 5"
             },
             "id": 68,
@@ -177746,7 +177746,7 @@
               "jaString": "Oxyz 空間で、2つの平面 (P) : 2x + 2y − z − 11 = 0 と (Q) : 2x + 2y − z + 4 = 0 の間の距離を計算する：",
               "koString": "Oxyz 공간에서 두 평면 (P) : 2x + 2y − z − 11 = 0과 (Q) : 2x + 2y − z + 4 = 0 사이의 거리는:",
               "portugueseBRString": "No espaço Oxyz, calcule a distância entre dois planos (P) : 2x + 2y − z − 11 = 0 e (Q) : 2x + 2y − z + 4 = 0",
-              "spanishString": "En el espacio Oxyz, calcula la distancia entre các planos (P): 2x + 2y − z − 11 = 0 và (Q): 2x + 2y − z + 4 = 0:",
+              "spanishString": "En el espacio Oxyz, calcula la distancia entre los planos (P): 2x + 2y − z − 11 = 0 y (Q): 2x + 2y − z + 4 = 0.",
               "vnString": "Trong không gian Oxyz, tính khoảng cách giữa hai mặt phẳng (P) : 2x + 2y − z − 11 = 0 và (Q) : 2x + 2y − z + 4 = 0"
             }
           },
@@ -178026,7 +178026,7 @@
               "jaString": "部分積分：∫udv = uv − ∫vdu。\n\n解：\n\n置換：\nu = x、du = dx\ndv = sinx dx、v = −cosx\n∫xsinx dx\n= −xcosx − ∫−cosx dx\n= −xcosx − (−cosx dx)\n∫cosx dx\n= −xcosx + sinx + C",
               "koString": "부분적분법 ∫udv = uv − ∫vdu 를 사용합니다. u = x, dv = sinx dx로 놓으면 du = dx, v = −cosx 입니다. 따라서 ∫x sinx dx = −x cosx + ∫cosx dx = −x cosx + sinx + C 입니다.",
               "portugueseBRString": "Primitiva parcial ∫udv = uv − ∫vdu.\n\nSolução:\n\nDefina\nu = x du = dx\ndv = sinxdx v = −cosx\nxsinxdx\n= −xcosx − −cosxdx\n= −xcosx + cosxdx\n= −xcosx + sinx + C",
-              "spanishString": "Primitiva parcial ∫ u dv = uv − ∫ v du.\nSolución:\nSean:\nu = x ⇒ du = dx\ndv = sen x dx ⇒ v = −cos x\n∫ x sen x dx\n= −x cos x − ∫ −cos x dx\n= −x cos x + ∫ cos x dx\n= −x cos x + sen x + C",
+              "spanishString": "Integración por partes: ∫u dv = uv − ∫v du.\nu=x ⟹ du=dx; dv=sen(x)dx ⟹ v=−cos(x).\n∫x·sen(x)dx = −x·cos(x)+∫cos(x)dx = −x·cos(x)+sen(x)+C.",
               "vnString": "Nguyên hàm từng phần ∫udv = uv − ∫vdu.\n\nCách giải:\n\nĐặt\nu = x ⇒ du = dx\ndv = sinxdx ⇒ v = −cosx\n⇒ ∫xsinxdx\n= −xcosx − ∫−cosxdx\n= −xcosx + ∫cosxdx\n= −xcosx + sinx + C"
             },
             "id": 71,
@@ -178040,7 +178040,7 @@
               "jaString": "関数 y = xsinx の原始関数の族は次のようになる：",
               "koString": "함수 y = x sinx의 부정적분은:",
               "portugueseBRString": "A família de primitivas para a função y = xsinx é",
-              "spanishString": "La familia de primitivas của la función y = x sen x es:",
+              "spanishString": "La familia de primitivas de la función y = x·sen(x) es:",
               "vnString": "Họ nguyên hàm của hàm số y = xsinx là"
             }
           },
@@ -178122,7 +178122,7 @@
               "jaString": "複素数 z = a + bi を座標平面で表す点は M(a;b)。\n解：\n複素数 z = 2 + 5i を座標平面で表す点は M(2;5)",
               "koString": "복소수 z = a + bi를 좌표평면에 나타낸 점은 M(a;b)입니다. 따라서 z = 2 + 5i는 점 M(2;5)입니다.",
               "portugueseBRString": "O ponto que representa os números complexos z = a + bi no plano de coordenadas é M(a;b).\nSolução:\nO ponto que representa os números complexos z = 2 + 5i no plano de coordenadas é M(2;5)",
-              "spanishString": "El punto que representa các números complejos z = a + bi en cái plano de coordenadas es M(a;b).\nSolución:\nEl punto que representa các números complejos z = 2 + 5i en cái plano de coordenadas es M(2;5)",
+              "spanishString": "El punto que representa z=a+bi en el plano coordenado es M(a;b).\nz=2+5i está representado por M(2;5).",
               "vnString": "Điểm biểu diễn số phức z = a + bi trong mặt phẳng tọa độ là M(a;b).\nCách giải:\nĐiểm biểu diễn số phức z = 2 + 5i trong mặt phẳng tọa độ là M(2;5)"
             },
             "id": 72,
@@ -178136,7 +178136,7 @@
               "jaString": "複素数 z = 2 + 5i が与えられた場合、Oxy平面内で複素数 z を表す点の座標は次のようになる：",
               "koString": "복소수 z = 2 + 5i가 주어질 때, Oxy 평면에서 z를 나타내는 점의 좌표는:",
               "portugueseBRString": " Dado o número complexo z = 2 + 5i. O ponto que representa o número complexo z no plano Oxy tem coordenadas de",
-              "spanishString": "Dado el número complejo z = 2 + 5i. El punto que representa al número complejo z en el plano Oxy tiene las coordenadas:",
+              "spanishString": "Dado el número complejo z = 2 + 5i. El punto que representa a z en el plano Oxy tiene las coordenadas:",
               "vnString": "Cho số phức z = 2 + 5i. Điểm biểu diễn số phức z trong mặt phẳng Oxy có tọa độ là"
             }
           },
@@ -178218,7 +178218,7 @@
               "jaString": "2つの直線が平行であるのは、2つの方向ベクトルが同方向であり、2つの直線に共通点がない場合に限る。\n直線 d は方向ベクトル u(2;−1;2) をもつ。\n答え D の直線 Δ は方向ベクトル u4 = (−4;2) はベクトル u(2;−1;2) と同方向ではないため、答え D を捨てる。\n\nA(1;−2;3) ∈ d を選び、点 A の座標を答え A に代入すると：\n(1−2)/(−2) = −1/1 = (3 − 1)/(−2) （矛盾） ⇒ A∉Δ。\nよって、答え A の直線は直線 d に平行である。",
               "koString": "두 직선이 평행하려면 방향 벡터가 평행하고 공유하는 점이 없어야 합니다. 직선 d의 방향 벡터는 u(2;−1;2)입니다. 보기 A의 직선 방향 벡터는 (-2; 1; -2)로 u와 평행합니다. d 위의 점 (1;-1;3)을 보기 A의 식에 대입하면 성립하지 않으므로 두 직선은 평행합니다.",
               "portugueseBRString": "Duas retas são paralelas se, e somente se, os dois vértices estão na mesma direção e as duas retas não possuem pontos em comum.\nA reta d tem 1 VTCP que é u(2;−1;2).\nÉ fácil ver que na resposta D a reta Δ tem 1 VTCP que é u4 = (2;1;−2) não está na mesma direção que o vetor u(2;−1;2), portanto descartamos a resposta D.\n\nEscolha A(1;−1;3) ∈ d, substitua as coordenadas do ponto A na resposta A, temos:\n(1−2)/−2 = −1/1 = (3 − 1)/ −2 (absurdo) ⇒ A∉Δ.\nPortanto, a reta na resposta A é paralela à reta d.",
-              "spanishString": "Dos rectas son paralelas si và solo si các dos vértices están en la misma dirección và các dos rectas no tienen puntos en común.\nLa línea recta d tiene un vector director u(2;−1;2).\nEs fácil ver que en la respuesta D la recta Δ tiene un vector director u4 = (2;1;−2) que no está en la misma dirección que el vector u(2;−1;2), por lo que descartamos la respuesta D.\nElige A(1;−1;3) ∈ d, sustituye las coordenadas del punto A en la respuesta A:\n(1−2)/−2 = −1/1 = (3 − 1)/ −2 (absurdo) ⇒ A ∉ Δ.\nPor lo tanto, la recta của la respuesta A là paralela a la recta d.",
+              "spanishString": "Dos rectas son paralelas si sus vectores directores son proporcionales y no tienen puntos en común.\nLa recta d tiene vector director u(2;−1;2).\nLa recta en la opción A tiene vector director (−2;1;−2) que es proporcional a u, y no pasa por el mismo punto.",
               "vnString": "Hai đường thẳng song song với nhau khi và chỉ khi 2 VTCP cùng phương với nhau và hai đường thẳng không có điểm chung nào.\nĐường thẳng d có 1 VTCP là u(2;−1;2).\nDễ thấy đáp án D đường thẳng Δ có 1 VTCP là u4 = (2;1;−2) không cùng phương với vectơ u(2;−1;2) nên ta loại đáp án D.\n\nChọn A(1;−1;3) ∈ d, thay tọa độ điểm A vào đáp án A ta có:\n(1−2)/−2 = −1/1 = (3 − 1)/ −2 (vô lí) ⇒ A∉Δ.\nVậy đường thẳng ở đáp án A song song với đường thẳng d."
             },
             "id": 73,
@@ -178232,7 +178232,7 @@
               "jaString": "Oxyz 空間において、d: (x-1)/2 = (y+1)/-1 = (z-3)/2 が与えられた場合、次のどの直線が d に平行か？",
               "koString": "Oxyz 공간에서 직선 d: (x-1)/2 = (y+1)/-1 = (z-3)/2와 평행한 직선은:",
               "portugueseBRString": "No espaço Oxyz, seja d: (x-1)/2 = (y+1)/-1 = (z-3)/2. Qual das seguintes retas é paralela a d?",
-              "spanishString": "En el espacio Oxyz, sea d: (x-1)/2 = (y+1)/-1 = (z-3)/2. ¿Cuál của các siguientes rectas là paralela a d?",
+              "spanishString": "En el espacio Oxyz, sea d: (x-1)/2 = (y+1)/(-1) = (z-3)/2. ¿Cuál de las siguientes rectas es paralela a d?",
               "vnString": "Trong không gian Oxy, cho d: (x-1)/2 = (y+1)/-1 = (z-3)/2. Đường thẳng nào sau đây song song với d?"
             }
           },
@@ -178314,7 +178314,7 @@
               "jaString": "2つの複素数は、実部と虚部が等しい場合にのみ等しい。\n解：\nx + 2y + (2x − 2y)i = 7 − 4i\n⇔\n{ x + 2y = 7; 2x − 2y = −4 }\n⇔\n{ x = 1; y = 3 }",
               "koString": "두 복소수가 같으려면 실수 부분과 허수 부분이 각각 같아야 합니다. x + 2y = 7 이고 2x − 2y = −4 이므로, 연립방정식을 풀면 x = 1, y = 3 입니다.",
               "portugueseBRString": "Dois números complexos são iguais se, e somente se, possuem partes reais e imaginárias iguais.\nSolução:\nx + 2y + (2x − 2y)i = 7 − 4i\n⇔\n{ x + 2y = 7; 2x − 2y = −4 }\n⇔\n{ x = 1; y = 3 }",
-              "spanishString": "Dos números complejos son iguales si và solo si tienen partes reales và imaginarias iguales.\nSolución:\nx + 2y + (2x − 2y)i = 7 − 4i\n⇔ { x + 2y = 7; 2x − 2y = −4 }\n⇔ { x = 1; y = 3 }",
+              "spanishString": "Dos números complejos son iguales si tienen partes real e imaginaria iguales.\nx+2y+(2x−2y)i=7−4i\n⟺ {x+2y=7; 2x−2y=−4} ⟺ {x=1; y=3}.",
               "vnString": "Hai số phức bằng nhau khi và chỉ khi chúng có phần thực bằng nhau và phần ảo bằng nhau.\nCách giải:\nx + 2y + (2x − 2y)i = 7 − 4i\n⇔\n{ x + 2y = 7; 2x − 2y = −4 }\n⇔\n{ x = 1; y = 3 }"
             },
             "id": 74,
@@ -178328,7 +178328,7 @@
               "jaString": "2つの複素数は、実部と虚部が等しい場合に等しい：\nx + 2y + (2x − 2y)i = 7 − 4i\n⇔\n{ x + 2y = 7; 2x − 2y = −4 }\n→\n{ x = 1; y = 3 }",
               "koString": "실수 x, y가 x + 2y + (2x - 2y)i = 7 - 4i를 만족할 때, x, y의 값은:",
               "portugueseBRString": "Encontre os números reais x,y que satisfazem: x + 2y + (2x - 2y)i = 7 - 4i",
-              "spanishString": "Encuentra các números reales x, y que satisfacen: x + 2y + (2x - 2y)i = 7 - 4i:",
+              "spanishString": "Encuentra los números reales x, y que satisfacen: x + 2y + (2x - 2y)i = 7 - 4i.",
               "vnString": "Tìm các số thực x,y thỏa mãn: x + 2y + (2x - 2y)i = 7 - 4i"
             }
           },
@@ -178410,7 +178410,7 @@
               "jaString": "点 M、N を通る直線は MN を方向ベクトルとして受け取る。\n- 点 M(x0;y0;z0) を通り、方向ベクトル u(a;b;c) を持つ直線の方程式は (x−x0)/a = (y−y0)/b = (z−z0)/c。\n解：\n点 M、N を通る直線は MN = (1;1;2) を方向ベクトルとして受け取る。\nよって、直線 MN の方程式は：\n(x+1)/1 = y/1 = z/2。",
               "koString": "두 점 M, N을 지나는 직선의 방향 벡터는 벡터 MN입니다. MN = (1;1;2)이므로 직선의 방정식은 (x+1)/1 = y/1 = z/2 입니다.",
               "portugueseBRString": "A reta que passa pelos pontos M, N recebe MN como 1 VTCP.\n- A reta que passa pelo ponto M(x0;y0;z0) e tem 1 VTCP u(a;b;c) tem a equação (x−x0)/a = (y-y0)/b = (z−z0) /c.\nSolução:\nA reta que passa pelos pontos M, N recebe MN = (1;1;2) como 1 VTCP.\n\nAssim, a equação da reta MN é:\n(x+1)/1 = y/1 = z/2.",
-              "spanishString": "La recta que pasa por cái punto M, N recibe a MN como vector director.\n- La recta que pasa por cái punto M(x0;y0;z0) và tiene un vector director u(a;b;c) tiene la ecuación (x−x0)/a = (y-y0)/b = (z−z0)/c.\nSolución:\nLa recta que pasa por cái punto M, N recibe MN = (1;1;2) como vector director.\nAsí que la ecuación của la recta MN es:\n(x+1)/1 = y/1 = z/2.",
+              "spanishString": "La recta por M,N tiene vector director MN=(1;1;2).\nLa recta por M(−1;0;0) con vector director (1;1;2): (x+1)/1=y/1=z/2.",
               "vnString": "Đường thẳng đi qua điểm M, N nhận MN là 1 VTCP.\n- Đường thẳng đi qua điểm M(x0;y0;z0) và có 1 VTCP u(a;b;c) có phương trình (x−x0)/a = (y-y0)/b = (z−z0)/c.\nCách giải:\nĐường thẳng đi qua điểm M, N nhận MN = (1;1;2) là 1 VTCP.\n\nVậy phương trình đường thẳng MN là:\n(x+1)/1 = y/1 = z/2."
             },
             "id": 75,
@@ -178424,7 +178424,7 @@
               "jaString": "Oxyz 空間において、2点 M(−1;0;0) と N(0;1;2) を通る直線の方程式は次のようになる：",
               "koString": "Oxyz 공간에서 두 점 M(−1;0;0)과 N(0;1;2)을 지나는 직선의 방정식은:",
               "portugueseBRString": "No espaço Oxyz, a equação da reta que passa por dois pontos M(−1;0;0) e N(0;1;2) é",
-              "spanishString": "En el espacio Oxyz, la ecuación de la recta que pasa por các puntos M(−1;0;0) và N(0;1;2) es:",
+              "spanishString": "En el espacio Oxyz, la ecuación de la recta que pasa por los puntos M(−1;0;0) y N(0;1;2) es:",
               "vnString": "Trong không gian Oxyz, phương trình đường thẳng đi qua hai điểm M(−1;0;0) và N(0;1;2) là"
             }
           }
@@ -178608,7 +178608,7 @@
               "jaString": "方法：\n- 複素数 z^2 を計算する。\n- 複素数 z = a + bi の実部は a。\n解：\nz = 1 + 3i、z^2 = (1 + 3i)^2 = −8 + 6i\nよって、複素数 z^2 の実部は -8。",
               "koString": "z = 1 + 3i 이므로 z² = (1 + 3i)² = 1 + 6i - 9 = -8 + 6i 입니다. 실수 부분은 -8입니다.",
               "portugueseBRString": "Método:\n- Calcule os números complexos z²\n- A parte real do número complexo z = a + bi é a.\nSolução:\nz = 1 + 3i z² = (1 + 3i)² = −8 + 6i\nPortanto, a parte real do número complexo z² é -8.",
-              "spanishString": "Método:\n- Calcula các números complejos z^2\n- La parte thực của cái número complejo z = a + bi là a.\nSolución:\nz = 1 + 3i ⇒ z^2 = (1 + 3i)^2 = −8 + 6i\nAsí que la parte thực của cái número complejo z^2 là -8.",
+              "spanishString": "Calcula z²: z=1+3i ⟹ z²=(1+3i)²=1+6i−9=−8+6i.\nLa parte real de z² es −8.",
               "vnString": "Phương pháp:\n- Tính số phức z²\n- Phần thực của số phức z = a + bi là a.\nCách giải:\nz = 1 + 3i ⇒ z² = (1 + 3i)² = −8 + 6i\nVậy phần thực của số phức z² là -8."
             },
             "id": 77,
@@ -178622,7 +178622,7 @@
               "jaString": "複素数 z = 1 + 3i が与えられた場合、複素数 z^2 の実部分を求める：",
               "koString": "복소수 z = 1 + 3i가 주어졌을 때, z²의 실수 부분을 구하세요.",
               "portugueseBRString": " Dado o número complexo z = 1 + 3i. Encontre a parte real do número complexo zsqrt",
-              "spanishString": "Dado el número complejo z = 1 + 3i. Encuentra la parte real del número complejo z^2:",
+              "spanishString": "Dado el número complejo z = 1 + 3i. Encuentra la parte real del número complejo z².",
               "vnString": "Cho số phức z = 1 + 3i. Tìm phần thực của số phức zsqrt"
             }
           },
@@ -178896,7 +178896,7 @@
               "jaString": "方法：\n- 求める直線を Δ とする。\n- M = Δ ∩ d、N = Δ ∩ d′ とし、点 M、N の座標をパラメータ化する。\n- 方程式系 { MN.u<d> = 0; MN.u<d′>= 0} を解く。ここで u<d>、u<d′> はそれぞれ直線 d、d′ の方向ベクトル。\n- 点 M、N の座標を求め、M、N を通る直線の方程式を書く。\n解：\n求める直線を Δ とする。\nM(2a+2;3a+3;−5a−4) = Δ ∩ d、N(3b−1;−2b+4;−b+4) = Δ ∩ d′ とする。\nMN = (3b−2a−3;−2b−3a+1;−b+5a+8)。\n直線 d は方向ベクトル u<d> = (2;3;−5)、直線 d′ は方向ベクトル u<d′> = (3;−2;−1) を持つ。\n{ MN⊥d; MN⊥d′}\n⇒ { MN.u<d>= 0; MN.u<d′>= 0}\n⇔ { 2(3b−2a−3) + 3(−2b−3a+1) − 5(−b+5a+8) = 0 ; 3(3b−2a−3) − 2(−2b−3a+1) − 1(−b+5a+8) = 0}\n⇔ {5b−38a−43=0 ; 14b−5a−19=0 }\n⇔ a = −1 かつ b = 1\n⇒ M(0,0,1) および N(2;2;3)\nMN = (2;2;2)∥(1;1;1)\nよって、直線 Δ の方程式は：Δ: x/1 = y/1 = (z−1)/1。",
               "koString": "두 직선의 공통 수선인 직선 Δ를 구하기 위해 Δ가 d, d'과 만나는 점을 각각 M, N으로 매개변수화합니다. 벡터 MN이 두 직선의 방향 벡터와 각각 내적이 0이 되는 조건을 이용하여 좌표를 구하면 M(0,0,1), N(2,2,3)을 얻습니다. 방향 벡터는 (1,1,1)이 되며 방정식은 x/1 = y/1 = (z-1)/1 입니다.",
               "portugueseBRString": "Método:\n- Seja Δ a linha reta a ser encontrada.\n- Chame M = Δ ∩ d , N = Δ ∩ d′, parametrize as coordenadas dos pontos M e N.\n- Resolva o sistema de equações { MN.u<d> = 0; MN.u<d′>= 0}, onde u<d>, u<d′> são 1 VTCP das linhas retas d e d', respectivamente.\n- Encontre as coordenadas dos pontos M, N, depois escreva a equação da reta que passa por M, N.\nSolução:\nSeja Δ a reta desejada.\nSeja M(2a+2;3a+3;−5a−4) = Δ ∩ d, N(3b−1;−2b+4;−b+4) = Δ ∩ d′.\nTemos: MN = (3b−2a−3;−2b−3a+1;−b+5a+8).\nA reta d tem 1 VTCP que é u<d> = (2;3;−5), a reta d' tem 1 VTCP que é u<d′> = (3;−2;−1).\n\nPorque { MN⊥d; MN⊥d′}\n⇒ { MN.u<d>= 0; MN.u<d′>= 0}\n⇔ { 2(3b−2a−3) + 3(−2b−3a+1) − 5(−b+5a+8) = 0 ; 3(3b−2a−3) − 2(−2b−3a+1) − 1(−b+5a+8) = 0}\n⇔ {5b−38a−43=0 ; 14b−5a−19=0 }\n⇔a = −1 and b = 1\n⇒ M(0,0,1) and N(2;2;3)\nMN = (2;2;2)∥(1;1;1)\nPortanto, a equação para a reta Δ é: Δ: x/1 = y/1 = (z−1)/1.",
-              "spanishString": "Método:\n- Sea Δ la línea recta a encontrar.\n- Sean M = Δ ∩ d, N = Δ ∩ d′, parametriza las coordenadas của các puntos M và N.\n- Resuelve cái sistema de ecuaciones { MN.ud = 0; MN.ud′ = 0 }, donde ud, ud′ son vectores directores của các rectas d và d', respectivamente.\n- Encuentra las coordenadas của các puntos M, N, luego escribe la ecuación của la recta que pasa por M, N.\nSolución:\nSea Δ la recta requerida.\nSean M(2a+2;3a+3;−5a−4) = Δ ∩ d, N(3b−1;−2b+4;−b+4) = Δ ∩ d′.\nTenemos: MN = (3b−2a−3;−2b−3a+1;−b+5a+8).\nLa recta d tiene un vector director ud = (2;3;−5), la recta d' tiene un vector director ud′ = (3;−2;−1).\nComo { MN⊥d; MN⊥d′ } ⇒ { MN.ud = 0; MN.ud′ = 0 }\n⇔ { 2(3b−2a−3) + 3(−2b−3a+1) − 5(−b+5a+8) = 0 ; 3(3b−2a−3) − 2(−2b−3a+1) − 1(−b+5a+8) = 0 }\n⇔ { 5b−38a−43=0 ; 14b−5a−19=0 }\n⇔ a = −1 và b = 1\n⇒ M(0,0,1) và N(2;2;3)\nMN = (2;2;2) ∥ (1;1;1)\nAsí que la ecuación của la recta Δ es: Δ: x/1 = y/1 = (z−1)/1.",
+              "spanishString": "Sea M(2a+2;3a+3;−5a−4) ∈ d y N(3b−1;−2b+4;−b+4) ∈ d'.\nMN⊥d y MN⊥d' da el sistema: {5b−38a−43=0; 14b−5a−19=0}.\nSolución: a=−1, b=1 ⟹ M(0;0;1), N(2;2;3).\nEcuación de la perpendicular común: x/1=y/1=(z−1)/1.",
               "vnString": "Phương pháp:\n- Gọi Δ là đường thẳng cần tìm.\n- Gọi M = Δ ∩ d , N = Δ ∩ d′, tham số hóa tọa độ điểm M và N.\n- Giải hệ phương trình { MN.u<d> = 0; MN.u<d′>= 0}, với u<d>, u<d′> lần lượt là 1 VTCP của đường thẳng d và d’.\n- Tìm tọa độ điểm M, N, từ đó viết phương trình đường thẳng đi qua M, N.\nCách giải:\nGọi Δ là đường thẳng cần tìm.\nGọi M(2a+2;3a+3;−5a−4) = Δ ∩ d, N(3b−1;−2b+4;−b+4) = Δ ∩ d′.\nTa có: MN = (3b−2a−3;−2b−3a+1;−b+5a+8).\nĐường thẳng d có 1 VTCP là u<d> = (2;3;−5), đường thẳng d’ có 1 VTCP là u<d′> = (3;−2;−1).\n\nVì { MN⊥d; MN⊥d′}\n⇒ { MN.u<d>= 0; MN.u<d′>= 0}\n⇔ { 2(3b−2a−3) + 3(−2b−3a+1) − 5(−b+5a+8) = 0  ; 3(3b−2a−3) − 2(−2b−3a+1) − 1(−b+5a+8) = 0}\n⇔ {5b−38a−43=0  ; 14b−5a−19=0 }\n⇔ a = −1 và b = 1\n⇒ M(0;0;1) và N(2;2;3)\n⇒ MN = (2;2;2)∥(1;1;1)\nVậy phương trình đường thẳng Δ là: Δ: x/1 = y/1 = (z−1)/1."
             },
             "id": 80,
@@ -178910,7 +178910,7 @@
               "jaString": "Oxyz 空間において、2つの直線 d: (x-2)/2 = (y-3)/3 = (z+4)/-5 と d': (x+1)/3 = (y-4)/-2 = (z-4)/-1 の共通垂線の方程式を求める：",
               "koString": "Oxyz 공간에서 두 직선 d: (x-2)/2 = (y-3)/3 = (z+4)/-5 와 d' : (x+1)/3 = (y-4)/-2 = (z-4)/-1 의 공통 수선의 방정식을 구하세요.",
               "portugueseBRString": "No espaço Oxyz, escreva a equação da perpendicular comum às duas retas d: (x-2)/2 = (y-3)/3 = (z+4)/-5 e d' : (x+1)/3 = (y-4)/-2 = (z-4)/-1",
-              "spanishString": "En el espacio Oxyz, escribe la ecuación de la perpendicular común a các dos rectas d: (x-2)/2 = (y-3)/3 = (z+4)/-5 và d': (x+1)/3 = (y-4)/-2 = (z-4)/-1:",
+              "spanishString": "En el espacio Oxyz, escribe la ecuación de la perpendicular común a las dos rectas d: (x-2)/2 = (y-3)/3 = (z+4)/(-5) y d': (x+1)/3 = (y-4)/(-2) = (z-4)/(-1).",
               "vnString": "Trong không gian Oxyz, viết phương trình đường vuông góc chung của hai đường thẳng d: (x-2)/2 = (y-3)/3 = (z+4)/-5 và d': (x+1)/3 = (y-4)/-2 = (z-4)/-1"
             }
           }
@@ -178998,7 +178998,7 @@
               "jaString": "方法：\n- z = 1 + i を方程式に代入する。\n複素数がゼロであるのは、実部と虚部の両方がゼロの場合に限る。\n- 方程式系を解いて a、b を求める。\n解：\nz = 1 + i が方程式 zi + azi + bz + a = 0 (a,b ∈ R) の解であるので：\n(1 + i)i + a.(i + 1)i + b(i + 1) + a = 0\n⇔ −1 + i + a(−1+i) + b + bi + a = 0\n⇔ b − 1 + (1 + a + b)i = 0\n⇔ { b − 1 = 0; 1 + a + b = 0}\n⇒ { b = 1; a = −2}\nよって、b^2 − a^2 = 1^2 − (−2)^2 = 9。",
               "koString": "z = 1 + i를 방정식에 대입하여 정리하면 b - 1 + (1 + a + b)i = 0 을 얻습니다. 따라서 b = 1, a = -2 입니다. b² - a³ = 1² - (-2)³ = 1 + 8 = 9 입니다.",
               "portugueseBRString": "Método:\n- Substitua z = 1 + i na equação.\nUm número complexo é zero se, e somente se, possui ambas as partes real e imaginária iguais a zero.\n- Resolva o sistema de equações para encontrar a, b.\nSolução:\nComo z = 1 + i é uma solução da equação zi + azi + bz + a = 0 (a,b ∈ R), temos:\n(1 + i)i + a.(i + 1)i + b(i + 1) + a = 0\n⇔ −1 + i + a(−1+i) + b + bi + a = 0\n⇔ b − 1 + (1 + a + b)i = 0\n⇔ { b − 1 = 0; 1 + a + b = 0}\n⇒ { b = 1; a = −2}\nLogo b² − a³ = 1² − (−2)³ = 9.",
-              "spanishString": "Método:\n- Sustituye z = 1 + i en la ecuación.\nUn número complejo là cero si và solo si tiene partes reales và imaginarias nulas.\n- Resuelve cái sistema de ecuaciones để encontrar a, b.\nSolución:\nComo z = 1 + i là una solución của la ecuación z i + a z i + b z + a = 0 (a,b ∈ R), tenemos:\n(1 + i)i + a.(i + 1)i + b(i + 1) + a = 0\n⇔ −1 + i + a(−1+i) + b + bi + a = 0\n⇔ b − 1 + (1 + a + b)i = 0\n⇔ { b − 1 = 0; 1 + a + b = 0 }\n⇒ { b = 1; a = −2 }\nAsí b^2 − a^3 = 1^2 − (−2)^3 = 9.",
+              "spanishString": "Sustituye z=1+i en z³+az²+bz+a=0:\n(1+i)³+a(1+i)²+b(1+i)+a=0\n⟺ b−1+(1+a+b)i=0\n⟺ b=1, a=−2.\nb²−a³=1−(−8)=9.",
               "vnString": "Phương pháp:\n- Thay z = 1 + i vào phương trình.\n- Một số phức bằng 0 khi và chỉ khi nó có phần thực và phần ảo cùng bằng 0.\n- Giải hệ phương trình tìm a, b.\nCách giải:\nVì z = 1 + i là 1 nghiệm của phương trình zi + azi + bz + a = 0 (a,b ∈ R) nên ta có:\n(1 + i)i + a.(i + 1)i + b(i + 1) + a = 0\n⇔ −1 + i + a(−1+i) + b + bi + a = 0\n⇔ b − 1 + (1 + a + b)i = 0\n⇔ { b − 1 = 0; 1 + a + b = 0}\n⇒ { b = 1; a = −2}\nVậy b² − a³ = 1² − (−2)³ = 9."
             },
             "id": 81,
@@ -179012,7 +179012,7 @@
               "jaString": "1 + i が方程式 zi + azi + bz + a = 0 (a, b ∈ R) の解であることがわかっている。b^2 − a^2 を求める：",
               "koString": "복소수 범위에서 z에 대한 방정식 z⁴ + az² + bz + a = 0 (a, b ∈ R)의 한 해가 1 + i일 때, b² − a³의 값을 구하세요.",
               "portugueseBRString": "Saiba que 1 + i é a solução da equação zi+ azi + bz + a = 0 (a,b ∈ R) para z no conjunto dos números complexos. Encontre bsqrt − apqrt",
-              "spanishString": "Sabiendo que 1 + i là la solución của la ecuación z i + a z i + b z + a = 0 (a,b ∈ R) en el conjunto của los números complejos. Encuentra b^2 − a^3:",
+              "spanishString": "Sabiendo que 1 + i es raíz de la ecuación z³ + az² + bz + a = 0 (a,b ∈ R) en el conjunto de los números complejos. Encuentra b² − a³.",
               "vnString": "Biết 1 + i là nghiệm của phương trình zi+ azi + bz + a = 0 (a,b ∈ R) ẩn z trên tập số phức. Tìm bsqrt − apqrt"
             }
           },
@@ -179094,7 +179094,7 @@
               "jaString": "積分の応用を使用して回転体の体積を計算する\nV = √3/3。\nよって、0 < a < 2 ",
               "koString": "회전체의 부피 공식을 사용합니다. 계산 결과 a에 대한 범위는 0 < a < 2 가 나옵니다.",
               "portugueseBRString": "Use a aplicação de integrais para calcular o volume de um cubo rotativo\nV = √3/3.\nEntão 0 < a < 2 ",
-              "spanishString": "Usa la aplicación của các integrales để calcular el volumen của cái sólido de revolución.\nV = 28π/15.\nPor lo tanto 0 < a < 2.",
+              "spanishString": "El volumen del sólido de revolución: V=π∫₀¹(ax²+1)²dx=28π/15.\nResolviendo se obtiene a=1, que satisface 0<a<2.",
               "vnString": "Sử dụng ứng dụng của tích phân trong tính thể tích khối tròn xoay\nV = √3/3.\nVậy 0 < a < 2 "
             },
             "id": 82,
@@ -179108,7 +179108,7 @@
               "jaString": "平面 (H) が放物線 y = ax^2 + 1 (a>0)、縦軸、線 x = 1 で囲まれている。(H) を Ox 軸の周りに回転させると、体積が 28π/15 に等しい回転体が得られる。次の記述のうち正しいものはどれか？",
               "koString": "포물선 y = ax² + 1 (a>0), y축 및 직선 x = 1로 둘러싸인 평면 도형 (H)가 있습니다. (H)를 Ox축을 중심으로 회전시켜 얻은 회전체의 부피가 28π/15일 때, 다음 중 옳은 것은?",
               "portugueseBRString": " Dado um plano (H) limitado pela parábola y = axsqrt + 1 (a>0), o eixo vertical e a reta x = 1. Rotacionar (H) em torno do eixo Ox produz um sólido de revolução com volume igual a 28π/15. Qual das seguintes afirmações é verdadeira?",
-              "spanishString": "Dada una región (H) limitada por la parábola y = a x^2 + 1 (a > 0), el eje vertical và la recta x = 1. Al girar (H) alrededor del eje Ox se genera un sólido de revolución con un volumen igual a 28π/15. ¿Cuál của các siguientes afirmaciones là verdadera?",
+              "spanishString": "Dada una región (H) limitada por la parábola y = ax² + 1 (a > 0), el eje vertical y la recta x = 1. Al girar (H) alrededor del eje Ox se obtiene un sólido de revolución con volumen 28π/15. ¿Cuál de las siguientes afirmaciones es correcta?",
               "vnString": "Cho hình phẳng(H) giới hạn bởi parabol y = axsqrt + 1 (a>0), trục tung và đường thẳng x = 1. Quay (H) quanh trục Ox được một khối tròn xoay có thể tích bằng 28π/15. Mệnh đề nào dưới đây đúng?"
             }
           },
@@ -179190,7 +179190,7 @@
               "jaString": "d1: (x−1)/1= (y+1)/−1 = z/2 = a\n⇒ B(a+1;−a−1;2a)\nd2: x/1= (y−1)/2 = z/1 = b\n⇒ C(b;2b+1;b)\nAC=(b−5;2b+4;b−5)\nAB=(a−4;−a+2;2a−5)\n⇒ {b − 5 = k(a −4); 2b + 4 = k(−a + 2); b − 5 = k(2a−5)}\n⇒ {a=1; b=−1; k=2}\n⇒ B(2;−2;2), C(−1;−1;−1)\n⇒ BC = √(3^2 + (−1)^2 + 3^2) = √19",
               "koString": "직선 d1 위의 점 B와 d2 위의 점 C를 매개변수화하고, 벡터 AB와 AC가 평행하다는 조건을 사용하여 점의 좌표를 구합니다. B(2;-2;2), C(-1;-1;-1)을 얻게 되며 선분 BC의 길이는 √19입니다.",
               "portugueseBRString": "d1: (x−1)/1= (y+1)/−1 = z/2 = uma\n⇒ B(a+1;−a−1;2a)\nd2: x/1= (y−1)/2 = z/1 = b\n⇒ C(b;2b+1;b)\nAC=(b−5;2b+4;b−5)\nAB=(a−4;−a+2;2a−5)\n⇒ {b − 5 = k(a −4); 2b + 4 = k(−a + 2); b − 5 = k(2a−5)}\n⇒ {uma=1; b=−1; k=2}\n⇒ B(2;−2;2), C(−1;−1;−1)\n⇒ AC = √(3² + (−1)² + 3²) = √19",
-              "spanishString": "d1: (x−1)/1= (y+1)/−1 = z/2 = a ⇒ B(a+1;−a−1;2a)\nd2: x/1= (y−1)/2 = z/1 = b ⇒ C(b;2b+1;b)\nAC = (b−5; 2b+4; b−5)\nAB = (a−4; −a+2; 2a−5)\n⇒ { b − 5 = k(a − 4); 2b + 4 = k(−a + 2); b − 5 = k(2a−5) }\n⇒ { a = 1; b = −1; k = 2 }\n⇒ B(2;−2;2), C(−1;−1;−1)\n⇒ BC = √(3^2 + (−1)^2 + 3^2) = √19",
+              "spanishString": "Parametriza: B(a+1;−a−1;2a) ∈ d1, C(b;2b+1;b) ∈ d2.\nDe AB×AC colíneal: a=1, b=−1.\nB(2;−2;2), C(−1;−1;−1).\nBC=√(9+1+9)=√19.",
               "vnString": "d1: (x−1)/1= (y+1)/−1 = z/2 = a\n⇒ B(a+1;−a−1;2a)\nd2: x/1= (y−1)/2 = z/1 = b\n⇒ C(b;2b+1;b)\nAC=(b−5;2b+4;b−5)\nAB=(a−4;−a+2;2a−5)\n⇒ {b − 5 = k(a −4); 2b + 4 = k(−a + 2); b − 5 = k(2a−5)}\n⇒ {a=1; b=−1; k=2}\n⇒ B(2;−2;2), C(−1;−1;−1)\n⇒ BC = √(3² + (−1)² + 3²) = √19"
             },
             "id": 83,
@@ -179204,7 +179204,7 @@
               "jaString": "Oxyz 空間において、2つの直線 d1: (x-1)/1 = (y+1)/-1 = z/2、d2: x/1 = (y-1)/2 = z/1 が与えられた。点 A(5;−3;5) を通り、d1, d2 とそれぞれ B, C で交差する直線 d の長さ BC は次のようになる：",
               "koString": "Oxyz 공간에서 두 직선 d1: (x-1)/1 = (y+1)/-1 = z/2, d2: x/1 = (y-1)/2 = z/1 이 있습니다. 점 A(5;−3;5)를 지나는 직선 d가 d1, d2와 각각 점 B, C에서 만날 때, 선분 BC의 길이는?",
               "portugueseBRString": "No espaço Oxyz, dadas duas retas d1: (x-1)/1 = (y+1)/-1 = z/2, d2: x/1 = (y-1)/2 = z/1. A reta d que passa por A(5;−3;5) intercepta d1,d2 em B e C respectivamente. O comprimento de BC é:",
-              "spanishString": "En el espacio Oxyz, dadas các dos rectas d1: (x-1)/1 = (y+1)/-1 = z/2, d2: x/1 = (y-1)/2 = z/1. La recta d que pasa por A(5;−3;5) interseca a d1, d2 en B và C respectivamente. La longitud de BC es:",
+              "spanishString": "En el espacio Oxyz, dadas las dos rectas d1: (x-1)/1 = (y+1)/(-1) = z/2 y d2: x/1 = (y-1)/2 = z/1. La recta d que pasa por A(5;−3;5) e interseca d1, d2 en B y C respectivamente. ¿Cuál es la longitud BC?",
               "vnString": "Trong không gian Oxyz, cho hai đường thẳng d1: (x-1)/1 = (y+1)/-1 = z/2, d2: x/1 = (y-1)/2 = z/1. Đường thẳng d đi qua A(5;−3;5) lần lượt cắt d1,d2 tại B và C. Độ dài BC là:"
             }
           },
@@ -179286,7 +179286,7 @@
               "jaString": "解：\n(Oyz): x=0\nA(−3;1;1),B(0;5/2;−7/2) d\n(Oyz) 上への A、B の射影は A′(0;1;1),B′(0;5/2;−7/2)\nA′B′ = (0;3/2;−9/2)\n⇒ u = (0;1;−3)",
               "koString": "직선 d 위의 두 점을 Oyz 평면(x=0)에 투영시켜 정사영된 직선의 방향 벡터를 구하면 u = (0;1;-3)이 됩니다.",
               "portugueseBRString": "Solução:\n(Oyz): x=0\nA(−3;1;1),B(0;5/2;−7/2) d\nA projeção de A, B sobre (Oyz) é A′(0;1;1),B′(0;5/2;−7/2)\nA′B′ = (0;3/2;−9/2)\n⇒ u = (0;1;−3)",
-              "spanishString": "Solución:\n(Oyz): x=0\nA(−3;1;1), B(0;5/2;−7/2) ∈ d.\nLa proyección de A, B en (Oyz) là A′(0;1;1), B′(0;5/2;−7/2)\nA′B′ = (0;3/2;−9/2) ⇒ u = (0;1;−3)",
+              "spanishString": "Proyecta puntos de d sobre el plano (Oyz) (x=0):\nA(−3;1;1) ⟹ A'(0;1;1); B(0;5/2;−7/2) ⟹ B'(0;5/2;−7/2).\nA'B'=(0;3/2;−9/2) ∥ (0;1;−3).\nVector director: u=(0;1;−3).",
               "vnString": "Cách giải:\n(Oyz): x=0\nA(−3;1;1),B(0;5/2;−7/2) ∈ d\nHình chiếu của A,B lên (Oyz) lần lượt là A′(0;1;1),B′(0;5/2;−7/2)\nA′B′ = (0;3/2;−9/2)\n⇒ u = (0;1;−3)"
             },
             "id": 84,
@@ -179300,7 +179300,7 @@
               "jaString": "Oxyz 空間において、d: (x+3)/2 = (y-1)/1 = (z-1)/-3 が与えられた。平面 (Oyz) への d の直交射影は、方向ベクトルが次の直線である：",
               "koString": "Oxyz 공간에서 직선 d: (x+3)/2 = (y-1)/1 = (z-1)/-3 가 있습니다. 직선 d를 Oyz 평면에 투영시킨 정사영 직선의 방향 벡터는?",
               "portugueseBRString": "No espaço Oxyz, seja d: (x+3)/2 = (y-1)/1 = (z-1)/-3 . A projeção perpendicular de d no plano (Oyz) é uma reta cujo vetor diretor é",
-              "spanishString": "En el espacio Oxyz, sea d: (x+3)/2 = (y-1)/1 = (z-1)/-3. La proyección perpendicular de d sobre el plano (Oyz) là una recta cuyo vector director es:",
+              "spanishString": "En el espacio Oxyz, sea d: (x+3)/2 = (y-1)/1 = (z-1)/(-3). La proyección perpendicular de d sobre el plano (Oyz) es una recta cuyo vector director es:",
               "vnString": "Trong không gian Oxyz, cho đường thẳng d: (x+3)/2 = (y-1)/1 = (z-1)/-3 . Hình chiếu vuông góc của d trên mặt phẳng (Oyz) là một đường thẳng có vectơ chỉ phương là"
             }
           },
@@ -179382,7 +179382,7 @@
               "jaString": "方法：\n中心 I から AB までの距離を計算する\n解：\nH を d 上の I の射影とする。\nd: (x−1)/2 = (y+1)/2 = z/−1 = t\n⇒ H(2t+1;2t−1;−t)\nHI = ((2t)^2 + (2t−1)^2 + (−t+1)^2)\n= (9t^2 −6t + 2)\nHImin = 1 t = 1/3\n⇒ R = √(HI^2 + (AB/2)^2) = √(1^2 + 3^2) = √10",
               "koString": "중심 I에서 직선 d까지의 거리(HI)를 구하고, 피타고라스 정리 R² = HI² + (AB/2)²를 사용합니다. 계산하면 R = √10 입니다.",
               "portugueseBRString": "Método:\nCalcular a distância do centro I até AB\nSolução:\nSeja H a projeção de I sobre d .\nd: (x−1)/2 = (y+1)/2 = z/−1 = t\n⇒ H(2t+1;2t−1;−t)\nHI = ((2t)² + (2t−1)² + (−t+1)²)\n= (9t² −6t + 2)\nHImin = 1 t = 1/3\n⇒ R = √(HI²+ (AB/2)²) = √(1² + 3²) = √10",
-              "spanishString": "Método:\nCalcula la distancia desde cái centro I hasta AB.\nSolución:\nSea H la proyección de I sobre d.\nd: (x−1)/2 = (y+1)/2 = z/−1 = t\n⇒ H(2t+1; 2t−1; −t)\nHI = √((2t)^2 + (2t−1)^2 + (−t+1)^2)\n= √(9t^2 − 6t + 2)\nHI_mín = 1 en t = 1/3.\n⇒ R = √(HI^2 + (AB/2)^2) = √(1^2 + 3^2) = √10",
+              "spanishString": "Proyección H de I sobre d: H(2t+1;2t−1;−t).\nIH²=9t²−6t+2, mínimo en t=1/3 ⟹ IH_min=1.\nR=√(IH²+(AB/2)²)=√(1+9)=√10.",
               "vnString": "Phương pháp:\nTính khoảng cách từ tâm I đến AB\nCách giải:\nGọi H là hình chiếu của I lên d\nd: (x−1)/2 = (y+1)/2 = z/−1 = t\n⇒ H(2t+1;2t−1;−t)\nHI = √((2t)² + (2t−1)² + (−t+1)²)\n= √(9t² −6t + 2)\nHImin = 1 ⇔ t = 1/3\n⇒ R = √(HI²+ (AB/2)²) = √(1² + 3²) = √10"
             },
             "id": 85,
@@ -179396,7 +179396,7 @@
               "jaString": "Oxyz 空間において、I(1;0;−1) が球 (S) の中心であり、直線 d: (x-1)/2 = (y+1)/2 = z/-1 が球 (S) と2点 A, B で交差し、AB = 6 である。球 (S) の半径 R は次のようになる：",
               "koString": "Oxyz 공간에서 점 I(1;0;−1)이 중심인 구 (S)가 있고, 직선 d: (x-1)/2 = (y+1)/2 = z/-1 이 구 (S)와 두 점 A, B에서 만납니다. AB = 6일 때, 구 (S)의 반지름 R은?",
               "portugueseBRString": "No espaço Oxyz, seja I(1;0;−1) o centro da esfera (S) e a reta d: (x-1)/2 = (y+1)/2 = z/-1 intercepta a esfera (S) em dois pontos A e B tais que AB = 6. A esfera (S) tem raio R igual a",
-              "spanishString": "En el espacio Oxyz, sea I(1;0;−1) el centro của la esfera (S) và la recta d: (x-1)/2 = (y+1)/2 = z/-1 interseca a la esfera (S) en dos puntos A và B tales que AB = 6. La esfera (S) tiene un radio R igual a:",
+              "spanishString": "En el espacio Oxyz, sea I(1;0;−1) el centro de la esfera (S) y la recta d: (x-1)/2 = (y+1)/2 = z/(-1) interseca la esfera (S) en dos puntos A, B con AB = 6. El radio R de (S) es:",
               "vnString": "Trong không gian Oxyz, cho điểm I(1;0;−1) là tâm của mặt cầu (S) và đường thẳng d: (x-1)/2 = (y+1)/2 = z/-1 cắt mặt cầu(S) tại hai điểm A, B sao cho AB = 6. Mặt cầu (S) có bán kính R bằng"
             }
           }
@@ -179580,7 +179580,7 @@
               "jaString": "z = a + bi とする\n次の式が成り立つ：|iz−2i−2| − |z+1−3i| = 34\n⇒ |i(a+bi)−2i−2| − |a+bi−3i+1| = 34\n⇒ |(−b−2)+(a−2)i| − |(a+1) + (b−3)i| = 34\n⇒ √((a−2)^2 + (b+2)^2) − √((a+1)^2 + (b−3)^2) = √34\n座標平面 Oxy 上で M(2;−2)、N(−1;3) を表す MN = √(3^2 + 5^2) = 34\n複素数 z の表現は A(a,b)\n次の条件が成り立つ：{ AM − AN = √34; MN = √34 } AM − AN = MN\nよって、N は A と M の間にある。\nMN: 5x + 3y − 4 = 0\n⇒ 5a + 3b − 4 = 0\n⇒ b = (4−5a)/3(a<−1)\nMN: 5x+3y−4=0\n⇒ 5a+3b−4=0\n⇒ b= (4−5a)/3(a<−1)\n \nP = |(1−i)z+1+i|\n= |(a+b+1)+(b−a+1)i|\n= √((a+b+1)^2 + (b−a+1)^2) = √((7−2a/3)^2 + (7−8a/3)^2)\n= 1/3 . √(68a^2 − 140a + 98)\n\nf(x) = 68a^2 − 140a + 98\nf′(x) = 136a − 140 = 0 a = 35/34\nよって、Pmin = 1/3 . √306 = √34",
               "koString": "z = a + bi로 놓고 식을 정리하면 기하학적으로 두 점 사이의 거리 차가 일정함을 알 수 있습니다. 이를 분석하여 P의 최솟값을 구하면 √34 입니다.",
               "portugueseBRString": "Defina z = a + bi\nTemos: |iz−2i−2| − |z+1−3i| = 34\n⇒ |i(a+bi)−2i−2| − |a+bi−3i+1| = 34\n⇒ |(−b−2)+(a−2)i| − |(a+1) + (b−3)i| = 34\n⇒ √((a−2)² + (b+2)²) − √(((a+1)² + (b−3)²) = √34\nRepresente M(2;−2), N(−1;3) no plano de coordenadas Oxy MN = √(3² + 5²) = 34\nA representação do número complexo z é A(a,b)\nTemos { AM − AN = √34; MN = √34 } AM − AN = MN\nPortanto, N está entre A e M.\nMN: 5x + 3y − 4 = 0\n⇒ 5a + 3b − 4 = 0\n⇒ b = (4−5a)/3(a<−1)\nMN:5x+3y−4=0\n⇒5a+3b−4=0\n⇒ b=4−5a3(a<−1)\n \nP = |(1−i)z+1+i|\n= |(a+b+1)+(b−a+1)i|\n= (a+b+1)2+(b−a+1)2 = (7−2a3)2 + (7−8a3)2\n= 1/3 . (68a² − 140a + 98)\n\nf(x) = 68a² − 140a + 98\nf′(x) = 136a − 140 = 0 a = 35/34\nPortanto Pmin = 1/3 . √306 = √34",
-              "spanishString": "Sea z = a + bi.\nTenemos: |iz−2i−2| − |z+1−3i| = √34\n⇒ |i(a+bi)−2i−2| − |a+bi−3i+1| = √34\n⇒ |(−b−2)+(a−2)i| − |(a+1) + (b−3)i| = √34\n⇒ √((a−2)^2 + (b+2)^2) − √((a+1)^2 + (b−3)^2) = √34.\nRepresenta M(2;−2), N(−1;3) en cái plano de coordenadas Oxy. MN = √(3^2 + 5^2) = √34.\nLa representación của cái número complejo z là A(a,b).\nTenemos { AM − AN = √34; MN = √34 } ⇒ AM − AN = MN.\nPor lo tanto, N se encuentra giữa A và M.\nLínea MN: 5x + 3y − 4 = 0 ⇒ 5a + 3b − 4 = 0 ⇒ b = (4−5a)/3 (a < −1).\nP = |(1−i)z + 1 + i|\n= √((a+b+1)^2 + (b−a+1)^2)\nEncontrando cái valor mínimo: P_mín = √34",
+              "spanishString": "Sea z=a+bi. La condición |iz−2i−2|−|z+1−3i|=√34 implica que A(a;b) está en la recta MN: 5x+3y−4=0 con a<−1.\nP=|(1−i)z+1+i| se minimiza resolviendo f(a)=68a²−140a+98, mínimo en a=35/34.\nP_min=√34.",
               "vnString": "Đặt z = a + bi\nTa có: |iz−2i−2| − |z+1−3i| = √34\n⇒ |i(a+bi)−2i−2| − |a+bi−3i+1| = √34\n⇒ |(−b−2)+(a−2)i| − |(a+1) + (b−3)i| = √34\n⇒ √((a−2)² + (b+2)²) − √((a+1)² + (b−3)²) = √34\nBiểu diễn M(2;−2), N(−1;3) trên mặt phẳng tọa độ Oxy MN = √(3² + 5²) = √34\nĐiểm biểu diễn của số phức z là A(a;b)\nTa có { AM − AN = √34; MN = √34 } ⇒ AM − AN = MN\nSuy ra N nằm giữa A và M.\nMN: 5x + 3y − 4 = 0\n⇒ 5a + 3b − 4 = 0\n⇒ b = (4−5a)/3(a<−1)\nMN:5x+3y−4=0\n⇒5a+3b−4=0\n⇒ b=4−5a3(a<−1)\n \nP = |(1−i)z+1+i|\n= |(a+b+1)+(b−a+1)i|\n= (a+b+1)2+(b−a+1)2 = (7−2a3)2 + (7−8a3)2\n= 1/3 . √(68a² − 140a + 98)\n\nf(x) = 68a² − 140a + 98\nf′(x) = 136a − 140 = 0 ⇒ a = 35/34\nSuy ra Pmin = 1/3 . √306 = √34"
             },
             "id": 87,
@@ -179594,7 +179594,7 @@
               "jaString": "複素数 z が |iz−2i−2|−|z+1−3i| = √34 を満たす。式 P = |(1 − i)z + 1 + i| の最小値を求める：",
               "koString": "복소수 z가 |iz−2i−2|−|z+1−3i| = √34를 만족할 때, 식 P = |(1 − i)z + 1 + i|의 최솟값을 구하세요.",
               "portugueseBRString": "Considere o número complexo z que satisfaz |iz−2i−2|−|z+1−3i| = √34. Encontre o valor mínimo da expressão P = |(1 − i)z + 1 + i|.",
-              "spanishString": "Considera el número complejo z que satisface |iz−2i−2|−|z+1−3i| = √34. Encuentra el valor mínimo của la expresión P = |(1 − i)z + 1 + i|:",
+              "spanishString": "Considera el número complejo z que satisface |iz−2i−2|−|z+1−3i| = √34. Encuentra el valor mínimo de la expresión P = |(1 − i)z + 1 + i|.",
               "vnString": "Xét số phức z thỏa mãn |iz−2i−2|−|z+1−3i| = √34. Tìm giá trị nhỏ nhất của biểu thức P = |(1 − i)z + 1 + i|."
             }
           },
@@ -179772,7 +179772,7 @@
               "jaString": "方法：\n2つの点が与えられた場合のベクトル公式を適用：\nAB = (xB − xA; yB − yA; zB − zA)。\n解：\nA(1;1;−2)、B(3;0,1)\n⇒ AB = (2;−1;3)。",
               "koString": "벡터 AB = (3-1; 0-1; 1-(-2)) = (2;-1;3) 입니다.",
               "portugueseBRString": "Método:\nAplique a fórmula do vetor quando dois pontos são conhecidos:\nAB = (xB − xA; yB − yA; zB − zA).\nSolução:\nNós temos\nA(1;1;−2), B(3;0,1)\n⇒ AB = (2;−1;3).",
-              "spanishString": "Método:\nAplica la fórmula del vector khi se conocen dos puntos:\nAB = (xB − xA; yB − yA; zB − zA).\nSolución:\nTenemos A(1;1;−2), B(3;0,1) ⇒ AB = (2;−1;3).",
+              "spanishString": "Aplica la fórmula: AB=(xB−xA; yB−yA; zB−zA).\nA(1;1;−2), B(3;0;1) ⟹ AB=(2;−1;3).",
               "vnString": "Phương pháp:\nÁp dụng công thức tính vecto khi biết hai điểm:\nAB = (xB − xA; yB − yA; zB − zA).\nCách giải:\nTa có\nA(1;1;−2), B(3;0;1)\n⇒ AB = (2;−1;3)."
             },
             "id": 89,
@@ -179786,7 +179786,7 @@
               "jaString": "Oxyz 空間において、2点 A(1;1;−2) と B(3;0;1) が与えられた。ベクトル AB の座標は次のようになる：",
               "koString": "Oxyz 공간에서 두 점 A(1;1;−2)와 B(3;0;1)가 있을 때, 벡터 AB의 성분은?",
               "portugueseBRString": "No espaço Oxyz, digamos dois pontos A(1;1;−2) e B(3;0;1). O vetor AB tem coordenadas",
-              "spanishString": "En el espacio Oxyz, sean các dos puntos A(1;1;−2) và B(3;0;1). El vector AB tiene các coordenadas:",
+              "spanishString": "En el espacio Oxyz, sean los dos puntos A(1;1;−2) y B(3;0;1). El vector AB tiene las coordenadas:",
               "vnString": "Trong không gian Oxyz, cho hai điểm A(1;1;−2) và B(3;0;1). Vecto AB có tọa độ là"
             }
           },
@@ -179868,7 +179868,7 @@
               "jaString": "方法：\n複素数 z = a + bi の公式を適用し、a は実部、b は虚部。\n解：\n複素数 z = a + bi は実部 3、虚部 2 を持つ ⇒ z = 3 + 2i",
               "koString": "복소수 정의에 따라 z = 3 + 2i 입니다.",
               "portugueseBRString": "Método:\nAplique a fórmula para o número complexo z = a + bi onde a é a parte real; b é a parte imaginária.\nSolução:\nO número complexo z = a + bi tem parte real 3 e parte imaginária 2 ⇒ z = 3 + 2i",
-              "spanishString": "Método:\nAplica la fórmula para cái número complejo z = a + bi donde a là la parte thực; b là la parte imaginaria.\nSolución:\nCái número complejo z = a + bi tiene parte thực 3 và parte imaginaria 2 ⇒ z = 3 + 2i",
+              "spanishString": "El número complejo z=a+bi con parte real 3 y parte imaginaria 2 es z=3+2i.",
               "vnString": "Phương pháp:\nÁp dụng công thức của số phức z = a + bi với a là phần thực; b là phần ảo.\nCách giải:\nSố phức z = a + bi có phần thực là 3 và phần ảo bằng 2 ⇒ z = 3 + 2i"
             },
             "id": 90,
@@ -179882,7 +179882,7 @@
               "jaString": "実部が 3、虚部が 2 の複素数は次のようになる：",
               "koString": "실수 부분이 3이고 허수 부분이 2인 복소수는?",
               "portugueseBRString": "O número complexo com parte real igual a 3 e parte imaginária igual a 2 é",
-              "spanishString": "El número complejo với phần thực bằng 3 và phần ảo bằng 2 là:",
+              "spanishString": "El número complejo con parte real igual a 3 y parte imaginaria igual a 2 es:",
               "vnString": "Số phức có phần thực bằng 3 và phần ảo bằng 2 là"
             }
           }
@@ -179970,7 +179970,7 @@
               "jaString": "方法：\n球 (S): x^2 + y^2 + z^2 + 2ax + 2by + 2cz + d = 0 は中心 I(a;b;c)、半径 R = √(a^2 + b^2 + c^2 − d) を持つ（a^2 + b^2 + c^2 − d > 0）。\n解：\n球 (S): x^2 + y^2 + z^2 − 4x + 6z − 2 = 0 は中心 I(2;0;−3)、半径 R = √(2^2 + 0^2 + (−3)^2 + 2) = √15。",
               "koString": "구의 방정식을 표준형으로 바꾸면 (x-2)² + y² + (z+3)² = 15 입니다. 따라서 반지름 R = √15 입니다.",
               "portugueseBRString": "Método:\nA esfera(S): x² + y² + z² + 2ax + 2by + 2cz + d = 0 com centro I(a;b;c) e raio R = √(a² + b² + c² − d) com a² + b² + c² − d > 0.\nSolução:\nA esfera(S): x² + y² + z² − 4x + 6z − 2 = 0 centrada em I(2;0;−3), raio R = √(2² + 0² + (−3)² + 2) = √15.",
-              "spanishString": "Método:\nLa esfera (S): x^2 + y^2 + z^2 + 2ax + 2by + 2cz + d = 0 con centro I(a;b;c) và radio R = √(a^2 + b^2 + c^2 − d).\nSolución:\nLa esfera (S): x^2 + y^2 + z^2 − 4x + 6z − 2 = 0 centrada en I(2;0;−3), radio R = √(2^2 + 0^2 + (−3)^2 + 2) = √15.",
+              "spanishString": "La esfera x²+y²+z²+2ax+2by+2cz+d=0 tiene centro I(−a;−b;−c) y radio R=√(a²+b²+c²−d).\nx²+y²+z²−4x+6z−2=0: a=−2, b=0, c=3, d=−2.\nR=√(4+0+9+2)=√15.",
               "vnString": "Phương pháp:\nMặt cầu(S): x² + y² + z² + 2ax + 2by + 2cz + d = 0 có tâm I(a;b;c) và bán kính R = √(a² + b² + c² − d) với a² + b² + c² − d > 0.\nCách giải:\nMặt cầu(S): x² + y² + z² − 4x + 6z − 2 = 0 có tâm là I(2;0;−3), bán kính R = √(2² + 0² + (−3)² + 2) = √15."
             },
             "id": 91,
@@ -179984,7 +179984,7 @@
               "jaString": "Oxyz 空間において、球 (S): xsqrt + ysqrt + zsqrt − 4x + 6z − 2 = 0 の半径は次のようになる：",
               "koString": "Oxyz 공간에서 구 (S): x² + y² + z² − 4x + 6z − 2 = 0의 반지름은?",
               "portugueseBRString": "No espaço Oxyz, a esfera (S): xsqrt + ysqrt + zsqrt − 4x + 6z − 2 = 0 tem o mesmo raio que",
-              "spanishString": "En el espacio Oxyz, la esfera (S): x^2 + y^2 + z^2 − 4x + 6z − 2 = 0 tiene un radio de:",
+              "spanishString": "En el espacio Oxyz, la esfera (S): x² + y² + z² − 4x + 6z − 2 = 0 tiene radio:",
               "vnString": "Trong không gian Oxyz, mặt cầu (S): xsqrt + ysqrt + zsqrt − 4x + 6z − 2 = 0 có bán kính bằng"
             }
           },
@@ -180066,7 +180066,7 @@
               "jaString": "方法：\n関数 F(x) が関数 f(x) の原始関数であるのは、F′(x) + C = f(x)（C は定数）の場合に限る。\n解：\nF(x) = x^3 + sinx\n⇒ F′(x) = 3x^2 + cosx\nよって、F(x) は関数 y = 3x^2 + cosx の原始関数である。",
               "koString": "F'(x) = 2x + cosx 이므로, F(x)는 y = 2x + cosx의 부정적분입니다.",
               "portugueseBRString": "Método:\nA função F(x) é uma primitiva da função f(x) se, e somente se, F′(x) + C = f(x) (C = constante).\nSolução:\nNós temos\nF(x) = x² + sinx\n⇒ F′(x) = 2x + cosx\nPortanto, F(x) é uma primitiva da função y = 2x + cosx",
-              "spanishString": "Método:\nLa función F(x) là una primitiva của la función f(x) si và solo si F′(x) = f(x).\nSolución:\nTenemos F(x) = x^2 + sen x ⇒ F′(x) = 2x + cos x.\nAsí F(x) là una primitiva của la función y = 2x + cos x.",
+              "spanishString": "F(x) es primitiva de f(x) si F'(x)=f(x).\nF(x)=x²+sen(x) ⟹ F'(x)=2x+cos(x).\nF es primitiva de y=2x+cos(x).",
               "vnString": "Phương pháp:\nHàm số F(x) là nguyên hàm của hàm số f(x) khi và chỉ khi F′(x) + C = f(x) (C = hằng số).\nCách giải:\nTa có\nF(x) = x² + sinx\n⇒ F′(x) = 2x + cosx\nNên F(x) là nguyên hàm của hàm số y = 2x + cosx"
             },
             "id": 92,
@@ -180080,7 +180080,7 @@
               "jaString": "関数 F(x) = xsqrt + sinx はどの関数の原始関数か？",
               "koString": "함수 F(x) = x² + sinx는 다음 중 어떤 함수의 부정적분입니까?",
               "portugueseBRString": "A função F(x) = xsqrt + sinx é uma primitiva de qual função?",
-              "spanishString": "La función F(x) = x^2 + sen x là primitiva của ¿qué función?",
+              "spanishString": "La función F(x) = x² + sen(x) es primitiva de ¿qué función?",
               "vnString": "Hàm số F(x) = xsqrt + sinx là nguyên hàm của hàm số nào?"
             }
           },
@@ -180258,7 +180258,7 @@
               "jaString": "方法：\n- 2つの複素数を乗算して与えられた複素数を求める。\n- 複素数の絶対値を計算する公式を適用：複素数 z = a + bi の絶対値は |z| = √(a^2 + b^2)。\n解：\nz = (3−2i)i = 2 + 3i。\n|z| = √(2^2 + 3^2) = √13。",
               "koString": "z = (3-2i)i = 3i + 2 = 2 + 3i 입니다. 절댓값 |z| = √(2² + 3²) = √13 입니다.",
               "portugueseBRString": "Método:\n- Multiplique dois números complexos para encontrar o número complexo dado.\n- Aplique a fórmula para calcular o módulo de números complexos: Números complexos z = a + bi possuem módulo |z| = a² + b².\nSolução:\nTemos z = (3−2i)i = 2 + 3i.\n|z| = √(2² + 3²) = √13.",
-              "spanishString": "Método:\n- Multiplica các dos números complejos để encontrar cái número complejo dado.\n- Aplica la fórmula để calcular cái módulo của números complejos: |z| = √(a^2 + b^2).\nSolución:\nTenemos z = (3−2i)i = 2 + 3i.\n|z| = √(2^2 + 3^2) = √13.",
+              "spanishString": "Calcula z=(3−2i)·i=3i−2i²=2+3i.\n|z|=√(4+9)=√13.",
               "vnString": "Phương pháp:\n- Nhân hai số phức để tìm số phức đã cho.\n- Áp dụng công thức tính mô đun của số phức: Số phức z = a + bi có môđun |z| = a² + b².\nCách giải:\nTa có z = (3−2i)i = 2 + 3i.\n⇒ |z| = √(2² + 3²) = √13."
             },
             "id": 94,
@@ -180272,7 +180272,7 @@
               "jaString": "複素数 (3−2i)i の絶対値は次のようになる：",
               "koString": "복소수 (3−2i)i의 절댓값(모듈러스)은?",
               "portugueseBRString": "O módulo do número complexo (3−2i)i é igual a",
-              "spanishString": "El módulo của cái número complejo (3−2i)i là bằng:",
+              "spanishString": "El módulo del número complejo (3−2i)i es:",
               "vnString": "Môđun của số phức (3−2i)i bằng"
             }
           },
@@ -180354,7 +180354,7 @@
               "jaString": "方法：\n- 平面 Ax + By + Cz + D = 0 は法線ベクトル n(A;B;C) を持つ。\n- ベクトル n と同じ方向のすべてのベクトルは (P) の法線ベクトルである。\n解：\n平面 (P): 2x−y+2z−3=0 は法線ベクトル n = (2;−1;2) を持つ。\n一方、n = (2;−1;2) は n4 = (6;3;6) と同じ方向ではない\nよって、n4 = (6;3;6) は (P) の法線ベクトルではない。",
               "koString": "평면의 법선 벡터는 (2;-1;2)와 평행해야 합니다. (6;3;6)은 방향이 다르므로 법선 벡터가 아닙니다.",
               "portugueseBRString": "Método:\n- O plano Ax + By + Cz + D = 0 tem 1 VTPT de n(A;B;C).\n- Todo vetor na mesma direção do vetor n é um VTPT de (P).\nSolução:\nO plano (P): 2x−y+2z−3=0 tem um VTPT de n = (2;−1;2)\nPor outro lado, vemos que n = (2;−1;2) não está na mesma direção que n4 = (6;3;6)\n logo n4 = (6;3;6) não é um vetor normal de (P).",
-              "spanishString": "Método:\n- Cái plano Ax + By + Cz + D = 0 tiene un vector normal n(A;B;C).\n- Cualquier vector en la misma dirección que n là un vector normal của (P).\nSolución:\nCái plano (P): 2x−y+2z−3=0 tiene un vector normal n = (2;−1;2).\nPor otro lado, vemos que n4 = (6;3;6) không cùng hướng với n, por lo que n4 no là un vector normal của (P).",
+              "spanishString": "El plano (P): 2x−y+2z−3=0 tiene vector normal n=(2;−1;2).\nEl vector (6;3;6) no es proporcional a (2;−1;2), por lo que NO es vector normal de (P).",
               "vnString": "Phương pháp:\n- Mặt phẳng Ax + By + Cz + D = 0 có 1 VTPT là n(A;B;C).\n- Mọi vectơ cùng phương với vectơ n đều là 1 VTPT của (P).\nCách giải:\nMặt phẳng (P): 2x−y+2z−3=0 có 1 VTPT là n = (2;−1;2)\nMặt khác ta thấy n = (2;−1;2) không cùng phương với n4 = (6;3;6)\n do đó n4 = (6;3;6) không là vecto pháp tuyến của (P)."
             },
             "id": 95,
@@ -180368,7 +180368,7 @@
               "jaString": "Oxyz 空間において、平面 (P): 2x − y + 2z − 3 = 0 について、次のどのベクトルが平面 (P) の法線ベクトルでないか？",
               "koString": "Oxyz 공간에서 평면 (P): 2x − y + 2z − 3 = 0에 대하여, 다음 중 평면 (P)의 법선 벡터가 아닌 것은?",
               "portugueseBRString": "No espaço Oxyz, para o plano (P): 2x − y + 2z − 3 = 0. Qual dos seguintes vetores não é um vetor normal do plano (P)?",
-              "spanishString": "En el espacio Oxyz, para cái plano (P): 2x − y + 2z − 3 = 0. ¿Cuál của các siguientes vectores no là un vector normal del plano (P)?",
+              "spanishString": "En el espacio Oxyz, para el plano (P): 2x − y + 2z − 3 = 0. ¿Cuál de los siguientes vectores NO es un vector normal del plano (P)?",
               "vnString": "Trong không gian Oxyz, cho mặt phẳng(P): 2x − y + 2z − 3 = 0. Vecto nào sau đây không phải là vecto pháp tuyến của mặt phẳng(P)?"
             }
           }
@@ -180456,7 +180456,7 @@
               "jaString": "方法：\nOxyz 空間において、平面 (Oyz) に関する点 A(x;y;z) の対称点の座標は (−x;y;z)。\n解：\n平面 (Oyz) を通して A(2;1;−3) の対称点は A′(−2;1;−3)",
               "koString": "Oyz 평면 대칭은 x좌표의 부호만 바뀝니다. 따라서 (-2;1;-3) 입니다.",
               "portugueseBRString": "Método:\nNo espaço Oxyz, o ponto é simétrico em relação ao ponto A(x;y;z) no plano (Oyz) com coordenadas (−x;y;z).\nSolução:\nO ponto de simetria de A(2;1;−3) através do plano(Oyz) é A′(−2;1;−3)",
-              "spanishString": "Método:\nEn cái espacio Oxyz, cái punto simétrico al punto A(x;y;z) respecto al plano (Oyz) tiene las coordenadas (−x;y;z).\nSolución:\nCái punto de simetría de A(2;1;−3) a través del plano (Oyz) es A′(−2;1;−3)",
+              "spanishString": "El punto simétrico a A(x;y;z) respecto al plano (Oyz) tiene coordenadas (−x;y;z).\nA'(−2;1;−3).",
               "vnString": "Phương pháp:\nTrong không gian Oxyz, điếm đối xứng với điểm A(x;y;z) lên mặt phẳng (Oyz) có tọa độ là (−x;y;z).\nCách giải:\nĐiểm đối xứng của A(2;1;−3) qua mặt phẳng(Oyz) là A′(−2;1;−3)"
             },
             "id": 96,
@@ -180470,7 +180470,7 @@
               "jaString": "Oxyz 空間において、点 A(2;1;−3) に対して平面 (Oyz) を通して対称な点 B の座標は次のようになる：",
               "koString": "Oxyz 공간에서 점 A(2;1;−3)를 Oyz 평면에 대하여 대칭이동시킨 점 B의 좌표는?",
               "portugueseBRString": "No espaço Oxyz, o ponto B é simétrico ao ponto A(2;1;−3) através do plano (Oyz). Suas coordenadas são",
-              "spanishString": "En el espacio Oxyz, el punto B là simétrico al punto A(2;1;−3) a través del plano (Oyz), cuyas coordenadas son:",
+              "spanishString": "En el espacio Oxyz, el punto B simétrico al punto A(2;1;−3) respecto al plano (Oyz) tiene coordenadas:",
               "vnString": "Trong không gian Oxyz, điểm B đối xứng với điểm A(2;1;−3) qua mặt phẳng (Oyz) có tọa độ là"
             }
           },
@@ -180552,7 +180552,7 @@
               "jaString": "方法：\n方程式の2つの複素根を求め、そこから P の値を推測する。\n解：\n2x^2 − 4x + 9 = 0\n⇔ [ x = 1 + i√7/2 = z; x = 1 − i√7/2 = w ]\nよって、\nP = 1/z + 1/w = 1/(1 + i√7/2) + 1/(1 − i√7/2) = 4/9。",
               "koString": "근과 계수의 관계에 의해 z+w = 2, zw = 4.5 입니다. P = (z+w)/zw = 2 / (9/2) = 4/9 입니다.",
               "portugueseBRString": "Método:\nEncontre duas raízes complexas da equação a partir das quais o valor de P pode ser deduzido.\nSolução:\nNós temos:\n2x² − 4x + 9 = 0\n⇔ [ x = 1 + i√14/2 = z; x = 1 − i√14/2 = w ]\nEntão\nP = 1/z + 1/w = 1/(1 + i√14/2) + 1/(1 − i√14/2) = 4/9.",
-              "spanishString": "Método:\nEncuentra las hai nghiệm phức của phương trình và từ đó suy ra giá trị của P.\nSolución:\nTenemos 2x^2 − 4x + 9 = 0\n⇔ [ x = 1 + i√14/2 = z; x = 1 − i√14/2 = w ]\nEntonces P = 1/z + 1/w = 4/9.",
+              "spanishString": "2x²−4x+9=0 ⟹ z=1+i√(14)/2, w=1−i√(14)/2.\n1/z+1/w=(z+w)/(zw)=4/9.",
               "vnString": "Phương pháp:\nTìm hai nghiệm phức của phương trình từ đó suy ra giá trị của P.\nCách giải:\nTa có:\n2x² − 4x + 9 = 0\n⇔ [ x = 1 + i√14/2 = z; x = 1 − i√14/2 = w ]\nKhi đó\nP = 1/z + 1/w = 1/(1 + i√14/2) + 1/(1 − i√14/2) = 4/9."
             },
             "id": 97,
@@ -180566,7 +180566,7 @@
               "jaString": "z, w が方程式 2xsqrt − 4x + 9 = 0 の2つの複素根である。P = 1/z + 1/w の値を求める：",
               "koString": "z와 w가 방정식 2x² − 4x + 9 = 0의 두 복소수 해일 때, P = 1/z + 1/w의 값은?",
               "portugueseBRString": "O símbolo z,w representa as duas raízes complexas da equação 2xsqrt − 4x + 9 = 0. O valor de P = 1/z + 1/w é",
-              "spanishString": "Los símbolos z, w son las raíces complejas de la ecuación 2x^2 − 4x + 9 = 0. El valor de P = 1/z + 1/w es:",
+              "spanishString": "Sean z, w las raíces complejas de la ecuación 2x² − 4x + 9 = 0. El valor de P = 1/z + 1/w es:",
               "vnString": "Ký hiệu z,w là hai nghiệm phức của phương trình 2xsqrt − 4x + 9 = 0. Giá trị của P = 1/z + 1/w là"
             }
           },
@@ -180648,7 +180648,7 @@
               "jaString": "点 M(x0;y0;z0) から平面 (P): Ax + By + Cz + D = 0 までの距離は d(M;(P)) = |Ax0 + By0 + Cz0 + D|/√(A^2 + B^2 + C^2)。\n解：\nd(M;(P)) = |2+5(−3)−2.0+1|/√(1^2 + 5^2 + (−2)^2) = 2√30/5。",
               "koString": "점과 평면 사이의 거리 공식을 사용합니다. d = |2 + 5(-3) - 2(0) + 1| / √(1² + 5² + (-2)²) = 12 / √30 = 2√30/5 입니다.",
               "portugueseBRString": "A distância de M(x0;y0;z0) ao plano(P): Ax + By + Cz + D = 0 é d(M;(P)) = |Ax0 + By0 + Cz0 + D |/√(A² + B² + C²).\nSolução:\nd(M;(P)) = |2+5(−3)−2.0+1|/√(1 + 5² + (−2)²) = 2√30/5.",
-              "spanishString": "La distancia desde M(x0;y0;z0) al plano (P): Ax + By + Cz + D = 0 es d(M;(P)) = |Ax0 + By0 + Cz0 + D | / √(A^2 + B^2 + C^2).\nSolución:\nd(M;(P)) = |2 + 5(−3) − 2(0) + 1| / √(1^2 + 5^2 + (−2)^2) = 2√30/5.",
+              "spanishString": "d(M;(P))=|Ax0+By0+Cz0+D|/√(A²+B²+C²).\n=|2+5(−3)−0+1|/√(1+25+4)=12/√30=2√30/5.",
               "vnString": "Khoảng cách từ M(x0;y0;z0) đến mặt phẳng(P): Ax + By + Cz + D = 0 là d(M;(P)) = |Ax0 + By0 + Cz0 + D|/√(A² + B² + C²).\nCách giải:\nd(M;(P)) = |2+5(−3)−2.0+1|/√(1 + 5² + (−2)²) = 2√30/5."
             },
             "id": 98,
@@ -180662,7 +180662,7 @@
               "jaString": "Oxyz 空間において、点 M(2;−3;0) から平面 (P): x + 5y − 2z + 1 = 0 までの距離は次のようになる：",
               "koString": "Oxyz 공간에서 점 M(2;−3;0)에서 평면 (P): x + 5y − 2z + 1 = 0까지의 거리는?",
               "portugueseBRString": "No espaço Oxyz, a distância do ponto M(2;−3;0) ao plano (P): x + 5y − 2z + 1 = 0 é igual a",
-              "spanishString": "En el espacio Oxyz, la distancia desde cái punto M(2;−3;0) al plano (P): x + 5y − 2z + 1 = 0 là bằng:",
+              "spanishString": "En el espacio Oxyz, la distancia desde el punto M(2;−3;0) al plano (P): x + 5y − 2z + 1 = 0 es:",
               "vnString": "Trong không gian Oxyz, khoảng cách từ điểm M(2;−3;0) đến mặt phẳng(P): x + 5y − 2z + 1 = 0 bằng"
             }
           },
@@ -180744,7 +180744,7 @@
               "jaString": "方法：\n2つの等しい複素数の性質を適用：\nz1 = a1 + b1i, z2 = a2 + b2i\nz1=z2\n⇔ {a1=a2; b1 = b2}。\n解：\n(3x+2yi) + (2+i) = 2x − 3i\n(3x+2) + (2y+1)i = 2x−3i\n⇒ {3x+2=2x; 2y+1=−3}\n⇔ { x=−2; y=−2 }\nよって、(x;y) = (−2;−2)。",
               "koString": "(3x+2) + (2y+1)i = 2x - 3i 에서 실수부 3x+2 = 2x (x=-2), 허수부 2y+1 = -3 (y=-2) 입니다.",
               "portugueseBRString": "Método:\nAplique a propriedade de dois números complexos iguais:\nz1 = a1 + b1, z2 = a2 + b2\nz1=z2\n⇔ {a1=a2; b1 = b2}.\n\nSolução:\nNós temos\n(3x+2yi) + (2+i) = 2x − 3i\n(3x+2) + (2y+1)i = 2x−3i\n⇒ {3x+2=2x; 2y+1=−3}\n⇔ { x=−2; y=−2 }\nLogo (x;y) = (−2;−2).",
-              "spanishString": "Método:\nAplica la propiedad của hai số phức bằng nhau.\nSolución:\nTenemos (3x+2yi) + (2+i) = 2x − 3i\n⇔ (3x+2) + (2y+1)i = 2x − 3i\n⇒ { 3x+2 = 2x; 2y+1 = −3 } ⇔ { x = −2; y = −2 }.\nPor lo tanto (x;y) = (−2;−2).",
+              "spanishString": "Dos números complejos son iguales si sus partes real e imaginaria son iguales.\n(3x+2)+(2y+1)i=2x−3i\n⟺ {3x+2=2x; 2y+1=−3} ⟺ {x=−2; y=−2}.",
               "vnString": "Phương pháp:\nÁp dụng tính chất của hai số phức bằng nhau:\nz1 = a1 + b1, z2 = a2 + b2\n⇒ z1=z2\n⇔ {a1=a2; b1 = b2}.\n\nCách giải:\nTa có\n(3x+2yi) + (2+i) = 2x − 3i\n⇔ (3x+2) + (2y+1)i = 2x−3i\n⇒ {3x+2=2x; 2y+1=−3}\n⇔ { x=−2; y=−2 }\nVậy (x;y) = (−2;−2)."
             },
             "id": 99,
@@ -180758,7 +180758,7 @@
               "jaString": "次の数のペア (x;y) のうち、方程式 (3x + 2yi) + (2 + i) = 2x − 3i を満たすものはどれか？",
               "koString": "방정식 (3x + 2yi) + (2 + i) = 2x − 3i를 만족하는 실수 쌍 (x;y)는?",
               "portugueseBRString": "Qual par de números (x;y) abaixo satisfaz a equação (3x + 2yi) + (2 + i) = 2x − 3i?",
-              "spanishString": "¿Qué par de números (x;y) abajo satisfacen la ecuación (3x + 2yi) + (2 + i) = 2x − 3i?",
+              "spanishString": "¿Qué par de números (x;y) satisface la ecuación (3x + 2yi) + (2 + i) = 2x − 3i?",
               "vnString": "Cặp số (x;y) nào dưới đây thỏa đẳng thức (3x + 2yi) + (2 + i) = 2x − 3i?"
             }
           },
@@ -180840,7 +180840,7 @@
               "jaString": "方法：\n- d⊥(P) ⇒ u<d> = n<P> ここで u<d> は直線 d の方向ベクトル、n<P> は平面 (P) の法線ベクトル。\n- 点 M(x0;y0;z0) を通り、方向ベクトル u(a;b;c) を持つ直線の方程式は：(x−x0)/a = (y−y0)/b = (z − z0)/c。\n解：\n平面 (P): 2x − y + 2z − 5 = 0 は法線ベクトル n<P> = (2;−1;2) を持つ。\n直線 d の方向ベクトルを u<d> とする。d⊥(P) なので、u<d> = n<P> = (2;−1;2)\nよって、A(3;1;−1) を通り、方向ベクトル u<d> = (2;−1;2) を持つ直線 d の方程式は：(x−3)/2 = (y−1)/ −1 = (z+1)/2。",
               "koString": "평면의 법선 벡터 (2;-1;2)가 직선의 방향 벡터가 됩니다. 따라서 (x-3)/2 = (y-1)/-1 = (z+1)/2 입니다.",
               "portugueseBRString": "Método:\n- d⊥(P) ⇒ u<d> = n<P> onde u<d> é um VTCP da reta d, n<P> é um VTPT do plano (P).\n- A reta que passa por M(x0;y0;z0) e tem 1 VTCP u(a;b;c) tem a equação: (x−x0)/a = (y−y0)/b = (z − z0) )/c.\nSolução:\nO plano (P): 2x − y + 2z − 5 = 0 tem 1 VTPT que é n<P> = (2;−1;2).\nSeja u<d> um VTCP da reta d. Porque d⊥(P) ⇒ u<d> = n<P> = (2;−1;2)\n\nAssim, a equação da reta d que passa por A(3;1;−1) e tem 1 VTCP u<d> = (2;−1;2) é: (x−3)/2 = (y−1)/ −1 = (z+1)/2.",
-              "spanishString": "Método:\n- d⊥(P) ⇒ ud = nP donde ud là cái vector director của la recta d, nP là cái vector normal del plano (P).\nSolución:\nCái plano (P): 2x − y + 2z − 5 = 0 tiene un vector normal nP = (2;−1;2).\nComo d⊥(P) ⇒ ud = nP = (2;−1;2).\nLa ecuación của la recta d que pasa por A(3;1;−1) và tiene ud = (2;−1;2) es: (x−3)/2 = (y−1)/−1 = (z+1)/2.",
+              "spanishString": "d⊥(P) ⟹ el vector director de d es el vector normal de (P): u=(2;−1;2).\nLa recta por A(3;1;−1): (x−3)/2=(y−1)/(−1)=(z+1)/2.",
               "vnString": "Phương pháp:\n- d⊥(P) ⇒ u<d> = n<P> với u<d> là 1 VTCP của đường thẳng d, n<P> là 1 VTPT của mặt phẳng (P).\n- Đường thẳng đi qua M(x0;y0;z0) và có 1 VTCP u(a;b;c) có phương trình là: (x−x0)/a = (y−y0)/b = (z − z0)/c.\nCách giải:\nMặt phẳng(P): 2x − y + 2z − 5 = 0 có 1 VTPT là n<P> = (2;−1;2).\nGọi u<d> là 1 VTCP của đường thẳng d. Vì d⊥(P) ⇒ u<d> = n<P> = (2;−1;2)\n\nVậy phương trình đường thẳng d đi qua A(3;1;−1) và có 1 VTCP u<d> = (2;−1;2) là: (x−3)/2 = (y−1)/−1 = (z+1)/2."
             },
             "id": 100,
@@ -180854,7 +180854,7 @@
               "jaString": "Oxyz 空間において、点 A(3;1;−1) を通り、平面 (P): 2x − y + 2z − 5 = 0 に垂直な直線の方程式は次のようになる：",
               "koString": "Oxyz 공간에서 점 A(3;1;−1)를 지나고 평면 (P): 2x − y + 2z − 5 = 0에 수직인 직선의 방정식은?",
               "portugueseBRString": "No espaço Oxyz, a equação da reta que passa pelo ponto A(3;1;−1) e é perpendicular ao plano (P): 2x − y + 2z − 5 = 0",
-              "spanishString": "En el espacio Oxyz, la ecuación de la recta que pasa por cái punto A(3;1;−1) và là perpendicular al plano (P): 2x − y + 2z − 5 = 0:",
+              "spanishString": "En el espacio Oxyz, la ecuación de la recta que pasa por el punto A(3;1;−1) y es perpendicular al plano (P): 2x − y + 2z − 5 = 0 es:",
               "vnString": "Trong không gian Oxyz, phương trình đường thẳng đi qua điểm A(3;1;−1) và vuông góc với mặt phẳng(P): 2x − y + 2z − 5 = 0"
             }
           }
