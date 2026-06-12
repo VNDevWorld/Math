@@ -63789,23 +63789,23 @@
           {
             "id": 107,
             "question": {
-              "enString": "97631",
-              "frenchString": "97631",
-              "germanString": "97631",
-              "vnString": "97631",
-              "mexicoString": "97631",
-              "koreaString": "97631",
-              "italiaString": "97631",
-              "brazilString": "97631",
-              "taiwanString": "97631",
-              "saudiString": "97631",
-              "spainString": "97631"
+              "enString": "How do you write the following number in words: 97631?",
+              "frenchString": "Comment écrit-on le nombre suivant en lettres : 97631 ?",
+              "germanString": "Wie schreibt man die folgende Zahl in Worten: 97631?",
+              "vnString": "Số 97631 được đọc là:",
+              "mexicoString": "¿Cómo se escribe el siguiente número en palabras: 97631?",
+              "koreaString": "다음 숫자를 말로 어떻게 표현합니까: 97631?",
+              "italiaString": "Come si scrive il seguente numero in lettere: 97631?",
+              "brazilString": "Como se escreve o seguinte número por extenso: 97631?",
+              "taiwanString": "數字 97631 應該怎麼讀？",
+              "saudiString": "كيف تكتب العدد التالي بالكلمات: 97631؟",
+              "spainString": "¿Cómo se escribe el siguiente número en palabras: 97631?"
             },
             "answers": [
               {
                 "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
                 "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
-                "germanString": "Neunundsiebzigtausend sechshundert einunddreißig",
+                "germanString": "Neunhundertsechsundsiebzigtausenddreihunderteinunddreißig",
                 "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
                 "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
                 "koreaString": "구십칠만육천삼백삼십일",
@@ -63844,7 +63844,7 @@
               {
                 "enString": "Seventy-six thousand two hundred and fifteen",
                 "frenchString": "Soixante-seize mille deux cent quinze",
-                "germanString": "Seventy-sixtausend zweihundertfünfzehn",
+                "germanString": "Sechsundsiebzigtausendzweihundertfünfzehn",
                 "vnString": "Bảy mươi sáu nghìn hai trăm mười lăm",
                 "mexicoString": "Setenta y seis mil doscientos quince",
                 "koreaString": "칠만 육천 이백 십오",
@@ -63869,10 +63869,10 @@
               "spainString": "noventa y siete mil seiscientos treinta y uno"
             },
             "hint": {
-              "enString": "To write 97631 in words, break down the number into thousands and hundreds: 97,631 is 'Ninety-seven thousand six hundred and thirty-one.'",
+              "enString": "To write 97631 in words, break the number into the thousands period (97) and the ones period (631): 'Ninety-seven thousand six hundred and thirty-one.'",
               "frenchString": "Pour écrire 97631 en lettres, décomposez le nombre en milliers et centaines : 97 631 est 'Quatre-vingt-dix-sept mille six cent trente et un.'",
               "germanString": "Um 97631 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 97.631 ist 'Siebenundneunzigtausendsechshunderteinunddreißig.'",
-              "vnString": "Để viết 97631 bằng chữ, phân chia số thành hàng nghìn và hàng trăm: 97,631 là 'Chín mươi bảy nghìn sáu trăm ba mươi mốt.'",
+              "vnString": "Để đọc số 97631, ta tách số thành lớp nghìn (97) và lớp đơn vị (631). Ta đọc từ trái sang phải: 'Chín mươi bảy nghìn sáu trăm ba mươi mốt'.",
               "mexicoString": "Para escribir 97631 en palabras, descomponga el número en miles y centenas: 97,631 es \"noventa y siete mil seiscientos treinta y uno\".",
               "koreaString": "97631을 말로 표현하자면, 그 숫자를 천, 백으로 나누면 97,631은 '구만 칠천육백삼십일'입니다.",
               "italiaString": "Per scrivere 97631 in parole, scomponi il numero in migliaia e centinaia: 97.631 è 'Novantasettemilaseicentotrentuno'.",
@@ -63885,119 +63885,23 @@
           {
             "id": 108,
             "question": {
-              "enString": "976331",
-              "frenchString": "976331",
-              "germanString": "976331",
-              "vnString": "976331",
-              "mexicoString": "976331",
-              "koreaString": "976331",
-              "italiaString": "976331",
-              "brazilString": "976331",
-              "taiwanString": "976331",
-              "saudiString": "976331",
-              "spainString": "976331"
+              "enString": "How do you write the following number in words: 976331?",
+              "frenchString": "Comment écrit-on le nombre suivant en lettres : 976331 ?",
+              "germanString": "Wie schreibt man die folgende Zahl in Worten: 976331?",
+              "vnString": "Số 976331 được đọc là:",
+              "mexicoString": "¿Cómo se escribe el siguiente número en palabras: 976331?",
+              "koreaString": "다음 숫자를 말로 어떻게 표현합니까: 976331?",
+              "italiaString": "Come si scrive il seguente numero in lettere: 976331?",
+              "brazilString": "Como se escreve o seguinte número por extenso: 976331?",
+              "taiwanString": "數字 976331 應該怎麼讀？",
+              "saudiString": "كيف تكتب العدد التالي بالكلمات: 976331؟",
+              "spainString": "¿Cómo se escribe el siguiente número en palabras: 976331?"
             },
             "answers": [
               {
                 "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
                 "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
-                "germanString": "Neunhundertsechsundsiebzigtausend dreihundert einunddreißig",
-                "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
-                "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
-                "koreaString": "구십칠만육천삼백삼십일",
-                "italiaString": "Novecentosettantaseimilatrecentotrentuno",
-                "brazilString": "Novecentos E Setenta E Seis Mil Trezentos E Trinta E Um",
-                "taiwanString": "九十七萬六千三百三十一",
-                "saudiString": "تسعمائة و ستة و سبعون ألفاً و ثلاثمائة و واحد و ثلاثون",
-                "spainString": "novecientos setenta y seis mil trescientos treinta y uno"
-              },
-              {
-                "enString": "Ninety-seven thousand six hundred and thirty-one",
-                "frenchString": "Quatre-vingt-dix-sept mille six cent trente et un",
-                "germanString": "Neunundsiebzigtausend sechshundert einunddreißig",
-                "vnString": "Chín mươi bảy nghìn sáu trăm ba mươi mốt",
-                "mexicoString": "noventa y siete mil seiscientos treinta y uno",
-                "koreaString": "구만 칠천육백삼십일",
-                "italiaString": "Novantasettemilaseicentotrentuno",
-                "brazilString": "Noventa e Sete Mil Seiscentos E Trinta E Um",
-                "taiwanString": "九萬七千六百三十一",
-                "saudiString": "سبعة و تسعون ألفاً و ستمائة و واحد و ثلاثون",
-                "spainString": "noventa y siete mil seiscientos treinta y uno"
-              },
-              {
-                "enString": "Seven hundred and sixty-two thousand one hundred and fifteen",
-                "frenchString": "Sept cent soixante-deux mille cent quinze",
-                "germanString": "Siebenhundert zweiundsechzigtausend einhundertfünfzehn",
-                "vnString": "Bảy trăm sáu mươi hai nghìn một trăm mười lăm",
-                "mexicoString": "Setecientos sesenta y dos mil ciento quince",
-                "koreaString": "칠십육만 이천백십오",
-                "italiaString": "Settecentosessantaduemilacentoquindici",
-                "brazilString": "Setecentos E Sessenta E Dois Mil Cento E Quinze",
-                "taiwanString": "七十六萬二千一百一十五",
-                "saudiString": "سبعمائة واثنان وستون ألفا ومائة وخمسة عشر",
-                "spainString": "Setecientos sesenta y dos mil ciento quince"
-              },
-              {
-                "enString": "Seventy-six thousand two hundred and fifteen",
-                "frenchString": "Soixante-seize mille deux cent quinze",
-                "germanString": "Siebenundsiebzigtausend zweihundertfünfzehn",
-                "vnString": "Bảy mươi sáu nghìn hai trăm mười lăm",
-                "mexicoString": "Setenta y seis mil doscientos quince",
-                "koreaString": "칠만 육천 이백 십오",
-                "italiaString": "Settantaseimiladuecentoquindici",
-                "brazilString": "Setenta E Seis Mil Duzentos E Quinze",
-                "taiwanString": "七萬六千二百一十五",
-                "saudiString": "ستة و سبعون ألفاً و مئتان و خمسة عشر",
-                "spainString": "Setenta y seis mil doscientos quince"
-              }
-            ],
-            "correctAnswer": {
-              "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
-              "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
-              "germanString": "Neunhundertsechsundsiebzigtausend dreihundert einunddreißig",
-              "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
-              "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
-              "koreaString": "구십칠만육천삼백삼십일",
-              "italiaString": "Novecentosettantaseimilatrecentotrentuno",
-              "brazilString": "Novecentos E Setenta E Seis Mil Trezentos E Trinta E Um",
-              "taiwanString": "九十七萬六千三百三十一",
-              "saudiString": "تسعمائة و ستة و سبعون ألفاً و ثلاثمائة و واحد و ثلاثون",
-              "spainString": "novecientos setenta y seis mil trescientos treinta y uno"
-            },
-            "hint": {
-              "enString": "To write 976331 in words, break down the number into thousands and hundreds: 976,331 is 'Nine hundred seventy-six thousand three hundred thirty-one.'",
-              "frenchString": "Pour écrire 976331 en lettres, décomposez le nombre en milliers et centaines : 976 331 est 'Neuf cent soixante-seize mille trois cent trente et un.'",
-              "germanString": "Um 976331 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 976.331 ist 'Neunhundertsechsundsiebzigtausenddreihunderteinunddreißig.'",
-              "vnString": "Để viết 976331 bằng chữ, phân chia số thành hàng nghìn và hàng trăm: 976,331 là 'Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt.'",
-              "mexicoString": "Para escribir 976331 en palabras, descomponga el número en miles y centenas: 976,331 es \"Novecientos setenta y seis mil trescientos treinta y uno\".",
-              "koreaString": "976331을 말로 표현하자면, 그 숫자를 수천, 수백으로 나누면 976,331은 '구십칠만육천삼백삼십일'입니다.",
-              "italiaString": "Per scrivere 976331 in parole, scomponi il numero in migliaia e centinaia: 976.331 è 'Novecentosettantaseimilatrecentotrentuno'.",
-              "brazilString": "Para escrever 976331 em palavras, divida o número em milhares e centenas: 976.331 é 'Novecentos e setenta e seis mil trezentos e trinta e um'.",
-              "taiwanString": "要以文字書寫 976331，請將數字分解為千和百：976,331 是「九十七萬六千三百三十一」。",
-              "saudiString": "لكتابة 976331 بالكلمات، قم بتقسيم الرقم إلى آلاف ومئات: 976,331 هو \"تسعمائة وستة وسبعون ألفًا وثلاثمائة وواحد وثلاثون\".",
-              "spainString": "Para escribir 976331 en palabras, descomponga el número en miles y centenas: 976,331 es \"Novecientos setenta y seis mil trescientos treinta y uno\"."
-            }
-          },
-          {
-            "id": 109,
-            "question": {
-              "enString": "76215",
-              "frenchString": "76215",
-              "germanString": "76215",
-              "vnString": "76215",
-              "mexicoString": "76215",
-              "koreaString": "76215",
-              "italiaString": "76215",
-              "brazilString": "76215",
-              "taiwanString": "76215",
-              "saudiString": "76215",
-              "spainString": "76215"
-            },
-            "answers": [
-              {
-                "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
-                "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
-                "germanString": "Neunundsiebzigtausend sechshundert einundfünfzig",
+                "germanString": "Neunhundertsechsundsiebzigtausenddreihunderteinunddreißig",
                 "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
                 "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
                 "koreaString": "구십칠만육천삼백삼십일",
@@ -64036,7 +63940,103 @@
               {
                 "enString": "Seventy-six thousand two hundred and fifteen",
                 "frenchString": "Soixante-seize mille deux cent quinze",
-                "germanString": "Siebenundsiebzigtausend zweihundertfünfzehn",
+                "germanString": "Sechsundsiebzigtausendzweihundertfünfzehn",
+                "vnString": "Bảy mươi sáu nghìn hai trăm mười lăm",
+                "mexicoString": "Setenta y seis mil doscientos quince",
+                "koreaString": "칠만 육천 이백 십오",
+                "italiaString": "Settantaseimiladuecentoquindici",
+                "brazilString": "Setenta E Seis Mil Duzentos E Quinze",
+                "taiwanString": "七萬六千二百一十五",
+                "saudiString": "ستة و سبعون ألفاً و مئتان و خمسة عشر",
+                "spainString": "Setenta y seis mil doscientos quince"
+              }
+            ],
+            "correctAnswer": {
+              "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
+              "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
+              "germanString": "Neunhundertsechsundsiebzigtausenddreihunderteinunddreißig",
+              "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
+              "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
+              "koreaString": "구십칠만육천삼백삼십일",
+              "italiaString": "Novecentosettantaseimilatrecentotrentuno",
+              "brazilString": "Novecentos E Setenta E Seis Mil Trezentos E Trinta E Um",
+              "taiwanString": "九十七萬六千三百三十一",
+              "saudiString": "تسعمائة و ستة و سبعون ألفاً و ثلاثمائة و واحد و ثلاثون",
+              "spainString": "novecientos setenta y seis mil trescientos treinta y uno"
+            },
+            "hint": {
+              "enString": "To write 976331 in words, break the number into the thousands period (976) and the ones period (331): 'Nine hundred seventy-six thousand three hundred thirty-one.'",
+              "frenchString": "Pour écrire 976331 en lettres, décomposez le nombre en milliers et centaines : 976 331 est 'Neuf cent soixante-seize mille trois cent trente et un.'",
+              "germanString": "Um 976331 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 976.331 ist 'Neunhundertsechsundsiebzigtausenddreihunderteinunddreißig.'",
+              "vnString": "Để đọc số 976331, ta tách số thành lớp nghìn (976) và lớp đơn vị (331). Ta đọc từ trái sang phải: 'Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt'.",
+              "mexicoString": "Para escribir 976331 en palabras, descomponga el número en miles y centenas: 976,331 es \"Novecientos setenta y seis mil trescientos treinta y uno\".",
+              "koreaString": "976331을 말로 표현하자면, 그 숫자를 천, 백으로 나누면 976,331은 '구십칠만육천삼백삼십일'입니다.",
+              "italiaString": "Per scrivere 976331 in parole, scomponi il numero in migliaia e centinaia: 976.331 è 'Novecentosettantaseimilatrecentotrentuno'.",
+              "brazilString": "Para escrever 976331 em palavras, divida o número em milhares e centenas: 976.331 é 'Novecentos e setenta e seis mil trezentos e trinta e um'.",
+              "taiwanString": "要用文字寫 976331，請將數字分解為千和百：976,331 是「九十七萬六千三百三十一」。",
+              "saudiString": "لكتابة 976331 بالكلمات، قم بتقسيم الرقم إلى آلاف ومئات: 976,331 هو \"تسعمائة وستة وسبعون ألفًا وثلاثمائة وواحد وثلاثون\".",
+              "spainString": "Para escribir 976331 en palabras, descomponga el número en miles y centenas: 976,331 es \"Novecientos setenta y seis mil trescientos treinta y uno\"."
+            }
+          },
+          {
+            "id": 109,
+            "question": {
+              "enString": "How do you write the following number in words: 76215?",
+              "frenchString": "Comment écrit-on le nombre suivant en lettres : 76215 ?",
+              "germanString": "Wie schreibt man die folgende Zahl in Worten: 76215?",
+              "vnString": "Số 76215 được đọc là:",
+              "mexicoString": "¿Cómo se escribe el siguiente número en palabras: 76215?",
+              "koreaString": "다음 숫자를 말로 어떻게 표현합니까: 76215?",
+              "italiaString": "Come si scrive il seguente numero in lettere: 76215?",
+              "brazilString": "Como se escreve o seguinte número por extenso: 76215?",
+              "taiwanString": "數字 76215 應該怎麼讀？",
+              "saudiString": "كيف تكتب العدد التالي بالكلمات: 76215؟",
+              "spainString": "¿Cómo se escribe el siguiente número en palabras: 76215?"
+            },
+            "answers": [
+              {
+                "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
+                "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
+                "germanString": "Neunhundertsechsundsiebzigtausend dreihunderteinunddreißig",
+                "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
+                "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
+                "koreaString": "구십칠만육천삼백삼십일",
+                "italiaString": "Novecentosettantaseimilatrecentotrentuno",
+                "brazilString": "Novecentos E Setenta E Seis Mil Trezentos E Trinta E Um",
+                "taiwanString": "九十七萬六千三百三十一",
+                "saudiString": "تسعمائة و ستة و سبعون ألفاً و ثلاثمائة و واحد و ثلاثون",
+                "spainString": "novecientos setenta y seis mil trescientos treinta y uno"
+              },
+              {
+                "enString": "Ninety-seven thousand six hundred and thirty-one",
+                "frenchString": "Quatre-vingt-dix-sept mille six cent trente et un",
+                "germanString": "Siebenundneunzigtausendsechshunderteinunddreißig",
+                "vnString": "Chín mươi bảy nghìn sáu trăm ba mươi mốt",
+                "mexicoString": "noventa y siete mil seiscientos treinta y uno",
+                "koreaString": "구만 칠천육백삼십일",
+                "italiaString": "Novantasettemilaseicentotrentuno",
+                "brazilString": "Noventa e Sete Mil Seiscentos E Trinta E Um",
+                "taiwanString": "九萬七千六百三十一",
+                "saudiString": "سبعة و تسعون ألفاً و ستمائة و واحد و ثلاثون",
+                "spainString": "noventa y siete mil seiscientos treinta y uno"
+              },
+              {
+                "enString": "Seven hundred and sixty-two thousand one hundred and fifteen",
+                "frenchString": "Sept cent soixante-deux mille cent quinze",
+                "germanString": "Siebenhundert zweiundsechzigtausend einhundertfünfzehn",
+                "vnString": "Bảy trăm sáu mươi hai nghìn một trăm mười lăm",
+                "mexicoString": "Setecientos sesenta y dos mil ciento quince",
+                "koreaString": "칠십육만 이천백십오",
+                "italiaString": "Settecentosessantaduemilacentoquindici",
+                "brazilString": "Setecentos E Sessenta E Dois Mil Cento E Quinze",
+                "taiwanString": "七十六萬二千一百一十五",
+                "saudiString": "سبعمائة واثنان وستون ألفا ومائة وخمسة عشر",
+                "spainString": "Setecientos sesenta y dos mil ciento quince"
+              },
+              {
+                "enString": "Seventy-six thousand two hundred and fifteen",
+                "frenchString": "Soixante-seize mille deux cent quinze",
+                "germanString": "Sechsundsiebzigtausendzweihundertfünfzehn",
                 "vnString": "Bảy mươi sáu nghìn hai trăm mười lăm",
                 "mexicoString": "Setenta y seis mil doscientos quince",
                 "koreaString": "칠만 육천 이백 십오",
@@ -64050,7 +64050,7 @@
             "correctAnswer": {
               "enString": "Seventy-six thousand two hundred and fifteen",
               "frenchString": "Soixante-seize mille deux cent quinze",
-              "germanString": "Siebenundsiebzigtausend zweihundertfünfzehn",
+              "germanString": "Sechsundsiebzigtausendzweihundertfünfzehn",
               "vnString": "Bảy mươi sáu nghìn hai trăm mười lăm",
               "mexicoString": "Setenta y seis mil doscientos quince",
               "koreaString": "칠만 육천 이백 십오",
@@ -64061,13 +64061,13 @@
               "spainString": "Setenta y seis mil doscientos quince"
             },
             "hint": {
-              "enString": "To write 76215 in words, break down the number into thousands and hundreds: 76,215 is 'Seventy-six thousand two hundred fifteen.'",
+              "enString": "To write 76215 in words, break the number into the thousands period (76) and the ones period (215): 'Seventy-six thousand two hundred fifteen.'",
               "frenchString": "Pour écrire 76215 en lettres, décomposez le nombre en milliers et centaines : 76 215 est 'Soixante-seize mille deux cent quinze.'",
               "germanString": "Um 76215 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 76.215 ist 'Sechsundsiebzigtausendzweihundertfünfzehn.'",
-              "vnString": "Để viết 76215 bằng chữ, phân chia số thành hàng nghìn và hàng trăm: 76,215 là 'Bảy mươi sáu nghìn hai trăm mười lăm.'",
+              "vnString": "Để đọc số 76215, ta tách số thành lớp nghìn (76) và lớp đơn vị (215). Ta đọc từ trái sang phải: 'Bảy mươi sáu nghìn hai trăm mười lăm'.",
               "mexicoString": "Para escribir 76215 en palabras, descomponga el número en miles y centenas: 76,215 es \"setenta y seis mil doscientos quince\".",
               "koreaString": "76215를 말로 표현하자면, 그 숫자를 천과 백으로 나누면 76,215는 '칠만 육천이백십오'입니다.",
-              "italiaString": "Per scrivere 76215 in parole, scomponi il numero in migliaia e centinaia: 76.215 è 'Settantaseimiladuecentoquindici.'",
+              "italiaString": "Per scrivere 76215 in parole, scomponi il numero in migliaia e centinaia: 76.215 è 'Settantaseimiladuecentoquindici'.",
               "brazilString": "Para escrever 76.215 em palavras, divida o número em milhares e centenas: 76.215 é 'Setenta e seis mil duzentos e quinze'.",
               "taiwanString": "要用文字書寫 76215，請將數字分解為千和百：76,215 是「七萬六千二百一十五」。",
               "saudiString": "لكتابة 76215 بالكلمات، قم بتقسيم الرقم إلى آلاف ومئات: 76,215 هو \"ستة وسبعون ألفًا ومئتان وخمسة عشر\".",
@@ -64077,23 +64077,23 @@
           {
             "id": 110,
             "question": {
-              "enString": "762115",
-              "frenchString": "762115",
-              "germanString": "762115",
-              "vnString": "762115",
-              "mexicoString": "762115",
-              "koreaString": "762115",
-              "italiaString": "762115",
-              "brazilString": "762115",
-              "taiwanString": "762115",
-              "saudiString": "762115",
-              "spainString": "762115"
+              "enString": "How do you write the following number in words: 762115?",
+              "frenchString": "Comment écrit-on le nombre suivant en lettres : 762115 ?",
+              "germanString": "Wie schreibt man die folgende Zahl in Worten: 762115?",
+              "vnString": "Số 762115 được đọc là:",
+              "mexicoString": "¿Cómo se escribe el siguiente número en palabras: 762115?",
+              "koreaString": "다음 숫자를 말로 어떻게 표현합니까: 762115?",
+              "italiaString": "Come si scrive il seguinte numero in lettere: 762115?",
+              "brazilString": "Como se escreve o seguinte número por extenso: 762115?",
+              "taiwanString": "數字 762115 應該怎麼讀？",
+              "saudiString": "كيف تكتب العدد التالي بالكلمات: 762115؟",
+              "spainString": "¿Cómo se escribe el siguiente número en palabras: 762115?"
             },
             "answers": [
               {
                 "enString": "Nine hundred and seventy-six thousand three hundred and thirty-one",
                 "frenchString": "Neuf cent soixante-seize mille trois cent trente et un",
-                "germanString": "Neunhundertsechsundsiebzigtausend einhundertfünfzehn",
+                "germanString": "Neunhundertsechsundsiebzigtausend dreihunderteinunddreißig",
                 "vnString": "Chín trăm bảy mươi sáu nghìn ba trăm ba mươi mốt",
                 "mexicoString": "novecientos setenta y seis mil trescientos treinta y uno",
                 "koreaString": "구십칠만육천삼백삼십일",
@@ -64157,17 +64157,17 @@
               "spainString": "Setecientos sesenta y dos mil ciento quince"
             },
             "hint": {
-              "enString": "To write 762115 in words, break down the number into thousands and hundreds: 762,115 is 'Seven hundred sixty-two thousand one hundred fifteen.'",
+              "enString": "To write 762115 in words, break the number into the thousands period (762) and the ones period (115): 'Seven hundred sixty-two thousand one hundred fifteen.'",
               "frenchString": "Pour écrire 762115 en lettres, décomposez le nombre en milliers et centaines : 762 115 est 'Sept cent soixante-deux mille cent quinze.'",
-              "germanString": "Um 762115 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 762.115 ist 'Siebenhunderzweiundsechzigtausendeinhundertfünfzehn.'",
-              "vnString": "Để viết 762115 bằng chữ, phân chia số thành hàng nghìn và hàng trăm: 762,115 là 'Bảy trăm sáu mươi hai nghìn một trăm mười lăm.'",
+              "germanString": "Um 762115 in Worten zu schreiben, teile die Zahl in Tausender und Hunderter: 762.115 ist 'Siebenhundertzweiundsechzigtausendeinhundertfünfzehn.'",
+              "vnString": "Để đọc số 762115, ta tách số thành lớp nghìn (762) và lớp đơn vị (115). Ta đọc từ trái sang phải: 'Bảy trăm sáu mươi hai nghìn một trăm mười lăm'.",
               "mexicoString": "Para escribir 762115 en palabras, descomponga el número en miles y centenas: 762,115 es \"Setecientos sesenta y dos mil ciento quince\".",
               "koreaString": "762115를 말로 표현하자면, 그 숫자를 천, 백으로 나누면 762,115는 '칠십육만이천백십오'입니다.",
               "italiaString": "Per scrivere 762115 in parole, scomponi il numero in migliaia e centinaia: 762.115 è 'Settecentosessantaduemilacentoquindici'.",
               "brazilString": "Para escrever 762115 em palavras, divida o número em milhares e centenas: 762.115 é 'Setecentos e sessenta e dois mil cento e quinze'.",
               "taiwanString": "要用文字寫 762115，請將數字分解為千和百：762,115 是「七十六萬二千一百一十五」。",
               "saudiString": "لكتابة 762115 بالكلمات، قم بتقسيم الرقم إلى آلاف ومئات: 762,115 هو \"سبعمائة واثنان وستون ألفًا ومائة وخمسة عشر.\"",
-              "spainString": "Para escribir 762115 en palabras, descomponga el número en miles y centenas: 762,115 es \"Setecientos sesenta y dos mil ciento quince\"."
+              "spainString": "Para escribir 762115 in palabras, descomponga el número en miles y centenas: 762,115 es \"Setecientos sesenta y dos mil ciento quince\"."
             }
           }
         ],
