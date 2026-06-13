@@ -86686,7 +86686,7 @@
                 "koString": "비교할 수 없습니다",
                 "portugueseBRString": "Não é possível dizer",
                 "spanishString": "No se pueden comparar",
-                "vnString": "200"
+                "vnString": "800"
               }
             ],
             "correctAnswer": {
@@ -86700,7 +86700,7 @@
               "koString": "3/5",
               "portugueseBRString": "0,55",
               "spanishString": "0.55",
-              "vnString": "200"
+              "vnString": "800"
             },
             "hint": {
               "arString": "3/5 = 0.6؛ قارن 0.6 مقابل 0.55 ← 0.6 هو الأكبر، إذاً 3/5 > 0.55.",
@@ -86713,7 +86713,7 @@
               "koString": "3/5은 0.6이므로 0.55보다 큽니다.",
               "portugueseBRString": "3/5 = 0,6; compare 0,6 vs 0,55 → 0,6 é maior, então 3/5 > 0,55.",
               "spanishString": "3/5 = 0.6; compara 0.6 frente a 0.55 → 0.6 es mayor, así que 3/5 > 0.55.",
-              "vnString": "Để giải bài toán này, nhận ra rằng nửa chu vi là 60 cm, nên chu vi đầy đủ là 120 cm. Vì chiều dài gấp đôi chiều rộng, giả sử chiều rộng là x và chiều dài là 2x. Phương trình chu vi là x + 2x = 60. Giải x, sau đó tìm diện tích bằng cách nhân chiều dài với chiều rộng. Chuyển đổi cm² sang m². Đáp án đúng là 30."
+              "vnString": "Nửa chu vi = chiều dài + chiều rộng = 60 cm. Chiều dài gấp đôi chiều rộng nên: 2x + x = 60 → 3x = 60 → x = 20 cm (chiều rộng), chiều dài = 40 cm. Diện tích = 40 × 20 = 800 cm². Đáp án đúng là 800."
             },
             "id": 57,
             "question": {
