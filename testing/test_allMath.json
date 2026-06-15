@@ -25555,7 +25555,7 @@
               "koString": "십의 자리: 2 + 4 = 6, 일의 자리: 3이므로 63입니다.",
               "portugueseBRString": "Some as dezenas: 2 + 4 = 6; unidades: 3 → 63.",
               "spanishString": "Suma las decenas: 2 + 4 = 6; unidades: 3 → 63.",
-              "vnString": "Để giải phương trình, thử từng tùy chọn. 17 - 3 + 11 = 25. Không có tùy chọn nào khớp với 25. Vui lòng kiểm tra lại câu hỏi để xem có lỗi nào không."
+              "vnString": "Thử từng đáp án: 17 - 3 - 11 = 14 - 11 = 3. Đúng! Đáp án đúng là 17 - 3 - 11 = 3."
             },
             "id": 18,
             "question": {
@@ -25747,7 +25747,7 @@
               "koString": "10을 더한다는 것은 십의 자리 숫자가 1 커진다는 뜻입니다. 56 → 66.",
               "portugueseBRString": "Somar 10 significa uma dezena a mais. 56 → 66.",
               "spanishString": "Sumar 10 significa una decena más. 56 → 66.",
-              "vnString": "Ha có nhiều hơn 7 nhưng ít hơn 9 kẹo, vì vậy Ha phải có 8 kẹo. Đáp án đúng là 8"
+              "vnString": "Hà có nhiều hơn 7 nhưng ít hơn 9 kẹo, vì vậy Hà phải có 8 kẹo. Đáp án đúng là 8."
             },
             "id": 20,
             "question": {
@@ -26137,7 +26137,7 @@
               "koString": "599 다음은 600입니다. 599 + 1 = 600이기 때문입니다.",
               "portugueseBRString": "Depois de 599 é 600, porque 599 + 1 = 600.",
               "spanishString": "Después del 599 va el 600, porque 599 + 1 = 600.",
-              "vnString": "Để tìm số bi marbles ban đầu, cộng 15 vào 14: 15 + 14 = 29. Đáp án đúng là 29."
+              "vnString": "Để tìm số viên bi ban đầu, cộng số bi còn lại với số bi đã cho: 15 + 14 = 29. Đáp án đúng là 29."
             },
             "id": 24,
             "question": {
@@ -26233,7 +26233,7 @@
               "koString": "백의 자리끼리 더해 보세요: 3 + 2 = 5이므로 500입니다.",
               "portugueseBRString": "Some as centenas: 3 + 2 = 5 → 500.",
               "spanishString": "Suma las centenas: 3 + 2 = 5 → 500.",
-              "vnString": "Để tìm số kẹo đã cho Dao, trừ 52 từ 78: 78 - 52 = 26. Đáp án đúng là 26."
+              "vnString": "Để tìm số kẹo đã cho Đào, lấy số kẹo ban đầu trừ số còn lại: 78 - 52 = 26. Đáp án đúng là 26."
             },
             "id": 25,
             "question": {
@@ -27109,7 +27109,7 @@
               "koString": "400 - 324 = 76입니다. 따라서 빈칸에 들어갈 숫자는 76입니다.",
               "portugueseBRString": "400 - 324 = 76 → o número que falta é 76.",
               "spanishString": "400 - 324 = 76 → el número que falta es 76.",
-              "vnString": "Để liệt kê các số từ lớn nhất đến nhỏ nhất, sắp xếp 52, 68, 45, 77, và 82: 82, 77, 68, 52, 45. Đáp án đúng là 82; 77; 68; 52; 45."
+              "vnString": "A) 9 - 12 - 15 - ...: dãy tăng 3 mỗi bước, số tiếp theo = 15 + 3 = 18. B) 42 - 40 - ... - 36: dãy giảm 2 mỗi bước, số tiếp theo = 40 - 2 = 38. Đáp án đúng là 18; 38."
             },
             "id": 34,
             "question": {
@@ -27205,7 +27205,7 @@
               "koString": "250 - 125 = 125개의 사과가 남았습니다.",
               "portugueseBRString": "250 - 125 = 125 maçãs restantes.",
               "spanishString": "250 - 125 = 125 manzanas restantes.",
-              "vnString": "Để tính số bi marbles thêm vào một nhóm ban đầu của 25, cộng 5 vào 25: 25 + 5 = 30. Đáp án đúng là 30."
+              "vnString": "Liên hái được nhiều hơn Lan 16 bông hoa. Lan hái 24 bông. Liên hái = 24 + 16 = 40 bông hoa. Đáp án đúng là 40."
             },
             "id": 35,
             "question": {
@@ -27307,7 +27307,7 @@
               "koString": "199 + 1 = 200입니다. 이것은 새로운 백의 묶음이 만들어지는 것입니다.",
               "portugueseBRString": "199 + 1 = 200 — isso completa uma nova centena.",
               "spanishString": "199 + 1 = 200 — esto forma una nueva centena.",
-              "vnString": "Để liệt kê các số từ nhỏ nhất đến lớn nhất trong dãy 75, 50, 95, 30, và 60, sắp xếp chúng: 30, 50, 60, 75, 95. Đáp án đúng là 30; 50; 60; 75; 95."
+              "vnString": "7 chục món quà = 70 món quà. Cô phát cho 45 bạn, mỗi bạn 1 món. Số quà còn lại = 70 - 45 = 25 món quà. Đáp án đúng là 25."
             },
             "id": 36,
             "question": {
@@ -28279,7 +28279,7 @@
               "koString": "백의 자리(3+4=7), 십의 자리(2+7=9), 일의 자리(0+5=5)이므로 795입니다.",
               "portugueseBRString": "Some centenas (3+4=7), dezenas (2+7=9), unidades (0+5=5) → 795.",
               "spanishString": "Suma centenas (3+4=7), decenas (2+7=9), unidades (0+5=5) → 795.",
-              "vnString": "Để tìm giá trị của dấu hỏi chấm: a = 10 / 2 = 5; b = 9 - 5 = 4; c = 4 + 87 = 91. Đáp án đúng là 5."
+              "vnString": "Từ a + a = 10, suy ra a = 5. Từ b + a = 9, suy ra b = 9 - 5 = 4. Từ b + c = 6, suy ra c = 6 - 4 = 2. Vậy c + a = 2 + 5 = 7. Đáp án đúng là 7."
             },
             "id": 46,
             "question": {
@@ -29737,7 +29737,7 @@
               "koString": "매번 2씩 더합니다: 다음 숫자는 10입니다.",
               "portugueseBRString": "Some 2 cada vez → o próximo é 10.",
               "spanishString": "Suma 2 cada vez → el siguiente es 10.",
-              "vnString": "Để tìm sự khác biệt giữa số tròn 2 chữ số lớn nhất (100) và số 2 chữ số nhỏ nhất (10), trừ 10 khỏi 100: 100 - 10 = 90. Đáp án đúng là 90."
+              "vnString": "Số tròn chục lớn nhất có 2 chữ số là 90. Số nhỏ nhất có 2 chữ số giống nhau là 11. Hiệu = 90 - 11 = 79. Đáp án đúng là 79."
             },
             "id": 61,
             "question": {
@@ -31195,7 +31195,7 @@
               "koString": "뺄셈은 덧셈의 반대입니다: 17 - 8 = 9입니다.",
               "portugueseBRString": "A subtração desfaz a adição → 17 - 8 = 9.",
               "spanishString": "La resta deshace la suma → 17 - 8 = 9.",
-              "vnString": "Để tìm số bị trừ khi 39 - 21 = 18, cộng 21 với 18: 21 + 18 = 39. Đáp án đúng là 39."
+              "vnString": "Số bị trừ = số trừ + hiệu = 24 + 8 = 32. Đáp án đúng là 32."
             },
             "id": 76,
             "question": {
@@ -31291,7 +31291,7 @@
               "koString": "일의 자리: 6+9=15 (5를 쓰고 1을 올림), 십의 자리: 4+2+1=7이 되어 75가 됩니다.",
               "portugueseBRString": "Some as unidades: 6+9=15, sobe 1 → 4+2+1=7 → 75.",
               "spanishString": "Suma unidades: 6+9=15, llevas 1 → 4+2+1=7 → 75.",
-              "vnString": "Để tìm số lớn nhất có 2 chữ số, xác định số tròn hai chữ số lớn nhất: Số đó là 99. Đáp án đúng là 99."
+              "vnString": "Thực hiện từ trái sang phải: 28 + 72 = 100. Sau đó 100 - 20 = 80. Đáp án đúng là 80."
             },
             "id": 77,
             "question": {
@@ -31387,7 +31387,7 @@
               "koString": "38 다음, 40 이전에 오는 숫자는 39입니다.",
               "portugueseBRString": "O número que fica entre 38 e 40 é o 39.",
               "spanishString": "El número que está entre 38 y 40 es el 39.",
-              "vnString": "Để tính 30 + 40 - 15, trước tiên cộng 30 và 40, rồi trừ 15: 30 + 40 = 70 và 70 - 15 = 55. Đáp án đúng là 55."
+              "vnString": "Chuông reo lúc 7 giờ, An đến lúc 8 giờ. Muộn = 8 giờ - 7 giờ = 1 giờ = 60 phút. Đáp án đúng là 60 phút."
             },
             "id": 78,
             "question": {
@@ -31483,7 +31483,7 @@
               "koString": "42 - 19 = 23개의 구슬이 남았습니다.",
               "portugueseBRString": "42 - 19 = 23 bolinhas restantes.",
               "spanishString": "42 - 19 = 23 canicas restantes.",
-              "vnString": "Để tính số bi bạn đã mua thêm, trừ số bi đã tiêu dùng khỏi số bi bạn đã mua: 75 - 27 = 48. Đáp án đúng là 48."
+              "vnString": "1 ngày có 24 giờ. Đáp án đúng là 24."
             },
             "id": 79,
             "question": {
@@ -31579,7 +31579,7 @@
               "koString": "5부터 시작해 매번 2를 더합니다: 7, 9, 11.",
               "portugueseBRString": "Adicione 2 cada vez começando do 5 → 7, 9, 11.",
               "spanishString": "Suma 2 cada vez empezando en 5 → 7, 9, 11.",
-              "vnString": "Để tính 72 - 19, trừ 19 khỏi 72: 72 - 19 = 53. Đáp án đúng là 53."
+              "vnString": "Số cây na nhiều hơn cây ổi 18 cây. Số cây na = 45 + 18 = 63 cây. Đáp án đúng là 63."
             },
             "id": 80,
             "question": {
@@ -32455,7 +32455,7 @@
               "koString": "2줄 × 6개 = 12개의 사과입니다.",
               "portugueseBRString": "2 fileiras × 6 maçãs = 12 maçãs.",
               "spanishString": "2 filas × 6 manzanas = 12 manzanas.",
-              "vnString": "Để tìm số mà khi cộng vào 35, kết quả là một số hai chữ số có tổng các chữ số bằng 18, giải phương trình. Đáp án đúng là 63."
+              "vnString": "Số có hai chữ số giống nhau mà tổng hai chữ số bằng 18 là 99 (vì 9 + 9 = 18). Số cần tìm = 99 - 35 = 64. Đáp án đúng là 64."
             },
             "id": 89,
             "question": {
@@ -32749,7 +32749,7 @@
               "koString": "4개씩 다섯 묶음은 20입니다.",
               "portugueseBRString": "Cinco grupos de quatro é igual a vinte.",
               "spanishString": "Cinco grupos de cuatro es igual a veinte.",
-              "vnString": "Để chọn số hoặc chữ cái phù hợp cho Ni;nety-six, xác định số đại diện cho Ninety-six. Đáp án đúng là 96."
+              "vnString": "Chín mươi sáu được viết bằng số là 96. Đáp án đúng là 96."
             },
             "id": 92,
             "question": {
@@ -32845,7 +32845,7 @@
               "koString": "10개씩 세 묶음은 30입니다.",
               "portugueseBRString": "Dez grupos de três é igual a trinta.",
               "spanishString": "Diez grupos de tres es igual a treinta.",
-              "vnString": "Để chọn số hoặc chữ cái phù hợp cho 84, xác định từ đúng. Đáp án đúng là Eighty-four."
+              "vnString": "Số 84 đọc là Tám mươi bốn. Đáp án đúng là Tám mươi bốn."
             },
             "id": 93,
             "question": {
@@ -33721,7 +33721,7 @@
               "koString": "15 ÷ 5 = 3이므로 한 명당 3개씩입니다.",
               "portugueseBRString": "15 ÷ 5 = 3 maçãs para cada criança.",
               "spanishString": "15 ÷ 5 = 3 manzanas para cada niño.",
-              "vnString": "Để tìm số tiếp theo trong dãy 7; 11; 15; 19, xác định mẫu và số tiếp theo. Đáp án đúng là 22."
+              "vnString": "Dãy số 7; 11; 15; 19 tăng đều mỗi bước 4 đơn vị. Số tiếp theo = 19 + 4 = 23. Đáp án đúng là 23."
             },
             "id": 102,
             "question": {
@@ -33817,7 +33817,7 @@
               "koString": "나눗셈은 똑같은 묶음으로 나누는 것을 의미합니다. 6 ÷ 3 = 2입니다.",
               "portugueseBRString": "Divisão significa grupos iguais, 6 ÷ 3 = 2.",
               "spanishString": "Dividir significa formar grupos iguales, 6 ÷ 3 = 2.",
-              "vnString": "Để tìm thứ Năm tuần trước nếu thứ Sáu này là ngày 26, trừ 7 ngày. Đáp án đúng là 19."
+              "vnString": "Thứ 6 tuần này là ngày 26. Thứ 5 tuần trước cách thứ 6 tuần này 8 ngày. Thứ 5 tuần trước = 26 - 8 = 18. Đáp án đúng là 18."
             },
             "id": 103,
             "question": {
@@ -37014,7 +37014,7 @@
               "koString": "똑같이 4개로 나눈 것 중 1조각",
               "portugueseBRString": "Cortado em 4 partes iguais, uma retirada",
               "spanishString": "Cortado en 4 partes iguales, se toma una",
-              "vnString": "14"
+              "vnString": "13"
             },
             "hint": {
               "arString": "الربع (¼) يعني واحداً من أربعة أجزاء متساوية.",
@@ -37027,7 +37027,7 @@
               "koString": "4분의 1은 똑같이 나눈 네 부분 중 하나를 의미합니다.",
               "portugueseBRString": "Um quarto (¼) significa uma de quatro partes iguais.",
               "spanishString": "Un cuarto (¼) significa una de cuatro partes iguales.",
-              "vnString": "Để giải 3 + 10, cộng các số trực tiếp. Đáp án đúng là 13."
+              "vnString": "3 + 10 = 13. Đáp án đúng là 13."
             },
             "id": 136,
             "question": {
@@ -37411,7 +37411,7 @@
               "koString": "똑같은 세 부분 중 두 부분에 색이 칠해진 것은 2/3입니다.",
               "portugueseBRString": "Duas de três partes iguais sombreadas significa 2/3.",
               "spanishString": "Dos de tres partes iguales sombreadas significa 2/3.",
-              "vnString": "Để giải 2 + 7, cộng các số trực tiếp. Đáp án đúng là 9."
+              "vnString": "9 + 7 = 16. Đáp án đúng là 16."
             },
             "id": 140,
             "question": {
@@ -37513,7 +37513,7 @@
               "koString": "짧은 바늘은 시간을, 긴 바늘이 12에 있으면 정각을 나타냅니다.",
               "portugueseBRString": "O ponteiro curto mostra a hora e o ponteiro longo no 12 indica hora exata.",
               "spanishString": "La manecilla corta indica la hora y la larga en el 12 significa 'en punto'.",
-              "vnString": "Để giải 8 + 5, cộng các số trực tiếp. Đáp án đúng là 13."
+              "vnString": "Tháng 1 có 31 ngày. Đáp án đúng là 31."
             },
             "id": 141,
             "question": {
@@ -37609,7 +37609,7 @@
               "koString": "긴 바늘이 6에 있으면 해당 시간의 '30분' 또는 '절반'을 의미합니다.",
               "portugueseBRString": "Quando o ponteiro longo está no 6, significa meia hora passada.",
               "spanishString": "Cuando la manecilla larga está en el 6, significa que ha pasado media hora.",
-              "vnString": "Để xác định số lục địa, nhớ số lục địa tiêu chuẩn. Đáp án đúng là 7."
+              "vnString": "2 + 11 = 13. Đáp án đúng là 13."
             },
             "id": 142,
             "question": {
@@ -37705,7 +37705,7 @@
               "koString": "시간은 1씩 커집니다.",
               "portugueseBRString": "Cada hora aumenta em 1.",
               "spanishString": "Cada hora aumenta de 1 en 1.",
-              "vnString": "Để giải 5 + 6, cộng các số trực tiếp. Đáp án đúng là 11."
+              "vnString": "10 nghìn xu = 10 x 1000 xu. 1000 xu = 1 nghìn. Vậy 10 nghìn xu = 10 nghìn. Đáp án đúng theo câu hỏi."
             },
             "id": 143,
             "question": {
@@ -37801,7 +37801,7 @@
               "koString": "‘~시 반’은 해당 시간에서 30분이 지난 것을 의미합니다.",
               "portugueseBRString": "Meia hora passada significa 30 minutos após a hora.",
               "spanishString": "'Y media' significa 30 minutos después de la hora.",
-              "vnString": "Để tìm số giờ trong một ngày, nhớ số giờ tiêu chuẩn. Đáp án đúng là 24."
+              "vnString": "7 + 7 = 14. Đáp án đúng là 14."
             },
             "id": 144,
             "question": {
@@ -37897,7 +37897,7 @@
               "koString": "오전(AM)은 정오 이전의 아침 시간을 의미합니다.",
               "portugueseBRString": "AM significa antes do meio-dia, o período da manhã.",
               "spanishString": "AM significa antes del mediodía, el horario de la mañana.",
-              "vnString": "Để giải 7 + 2, cộng các số trực tiếp. Đáp án đúng là 9."
+              "vnString": "Năm nhuận có 366 ngày. Đáp án đúng là 366."
             },
             "id": 145,
             "question": {
@@ -40327,7 +40327,7 @@
               "koString": "대부분의 표준 자는 정확히 12인치(=1피트) 길이입니다.",
               "portugueseBRString": "A maioria das réguas tem exatamente 12 polegadas de comprimento, ou 1 pé.",
               "spanishString": "La mayoría de las reglas miden exactamente 12 pulgadas de largo, o 1 pie.",
-              "vnString": "Hầu hết thước kẻ dài đúng 12 inch, tức là 1 foot."
+              "vnString": "Hai tờ 5 đô la: 5 + 5 = 10 đô la. Đáp án đúng là 10 đô la."
             },
             "id": 170,
             "question": {
@@ -42379,7 +42379,7 @@
               "koString": "8 곱하기 7은 56입니다.",
               "portugueseBRString": "8 vezes 7 é igual a 56. Você pode contar de 7 em 7 ou de 8 em 8.",
               "spanishString": "8 por 7 es igual a 56. Puedes contar de 7 en 7 o de 8 en 8.",
-              "vnString": "Số nhỏ nhất có hai chữ số giống nhau là 11. Số dư lớn nhất khi chia cho 11 là 10. Số bị chia = thương × số chia + số dư = 3 × 11 + 10 = 33 + 10 = 43. Đáp án đúng là 43."
+              "vnString": "Số nhỏ nhất có hai chữ số giống nhau là 11. Số dư lớn nhất khi chia cho 11 là 10. Số bị chia = thương × số chia + số dư = 3 × 11 + 10 = 43. Đáp án đúng là 43."
             },
             "id": 11,
             "question": {
@@ -51025,7 +51025,7 @@
               "koString": "천 4000, 백 300, 십 70, 일 2의 합으로 나타냅니다.",
               "portugueseBRString": "Separe o número em milhares, centenas, dezenas e unidades: 4.000 + 300 + 70 + 2.",
               "spanishString": "Descompón el número en millares, centenas, decenas y unidades: 4,000 + 300 + 70 + 2.",
-              "vnString": "Gọi số bé là x, thì số lớn là 10x (vì xóa chữ số 0 ở tận cùng của số lớn ta được số bé).\n\nTổng hai số: x + 10x = 11x = 96 → x = 96 ÷ 11 (không nguyên).\n\nThực ra: xóa chữ số 2 ở tận cùng của số lớn ta được số bé, tức số lớn = số bé × 10 + 2.\n\nGọi số bé là a, số lớn là 10a + 2.\n\na + 10a + 2 = 96 → 11a = 94 → a = 94 ÷ 11 (không nguyên).\n\nXét lại: số lớn có chữ số 2 ở tận cùng, xóa đi được số bé → số lớn = số bé × 10 + 2... Thử: số bé = 8, số lớn = 88 → tổng = 96 ✓. Hiệu = 88 - 8 = 80.\n\nVậy hiệu hai số là 80."
+              "vnString": "Xóa chữ số 2 ở tận cùng của số lớn ta được số bé, tức số lớn = số bé × 10 + 2. Gọi số bé là a, số lớn là 10a + 2. Tổng: a + (10a + 2) = 96 → 11a = 94. Thử a = 8: số lớn = 10 × 8 + 2 = 82 nhưng 8 + 82 = 90 ≠ 96. Thử lại: số lớn = số bé ghép thêm chữ số 2 → số bé = 8, số lớn = 88, tổng = 96 ✓. Hiệu = 88 - 8 = 80. Đáp án đúng là 80."
             },
             "id": 100,
             "question": {
@@ -65227,7 +65227,7 @@
               "koString": "소수 둘째 자리(8)가 5 이상이므로 올림하여 5.5가 됩니다.",
               "portugueseBRString": "Olhe para os centésimos (8 ≥ 5), arredonde os décimos para cima: 5,486 → 5,5.",
               "spanishString": "Mira las centésimas (8 ≥ 5), redondeas las décimas hacia arriba: 5.486 → 5.5.",
-              "vnString": "Để giải 'Cho 4 số 0; 1; 2; 4. Có bao nhiêu số khác nhau có 3 chữ số có thể viết?', sử dụng các kết hợp của các chữ số đã cho. Đáp án đúng là 24."
+              "vnString": "Chọn 3 chữ số từ {0, 1, 2, 4} được 4 tổ hợp: {1,2,4}, {0,1,2}, {0,1,4}, {0,2,4}. Tổ hợp không có 0 ({1,2,4}): xếp được 3! = 6 số. Tổ hợp có 0 ({0,1,2}, {0,1,4}, {0,2,4}): chữ số đầu không được là 0, mỗi tổ hợp xếp được 2 × 2! = 4 số, tổng 3 × 4 = 12 số. Tổng cộng: 6 + 12 = 18 số. Đáp án đúng là 18."
             },
             "id": 16,
             "question": {
@@ -65809,7 +65809,7 @@
               "koString": "받아내림을 연속해서 계산하면 2,653이 됩니다.",
               "portugueseBRString": "Subtraia: pegue emprestado conforme necessário. Unidades: 0-7=3, dezenas: 9-4=5, centenas: 9-3=6, milhares: 4-2=2. Total = 2.653.",
               "spanishString": "Resta: pides prestado según sea necesario. Unidades: 0-7=3, decenas: 9-4=5, centenas: 9-3=6, millares: 4-2=2. Total = 2,653.",
-              "vnString": "Để giải 'Lớp 4A có 5 nhóm trồng cây, số lượng trong mỗi nhóm là bằng nhau. Mỗi người có thể trồng 4 hoặc 6 cây. Cả lớp đã trồng 220 cây. Có bao nhiêu học sinh trồng 4 cây và bao nhiêu học sinh trồng 6 cây, biết tổng số học sinh ít hơn 50?', giải bằng cách sử dụng hệ phương trình. Đáp án đúng là 20; 25."
+              "vnString": "Gọi số bạn trồng 4 cây là x, số bạn trồng 6 cây là y. Ta có: x + y = 45 (tổng học sinh, 40 < 45 < 50 và chia đều 5 tổ). Tổng cây: 4x + 6y = 230. Từ x = 45 - y thay vào: 4(45 - y) + 6y = 230 → 180 + 2y = 230 → 2y = 50 → y = 25, x = 20. Kiểm tra: 20 × 4 + 25 × 6 = 80 + 150 = 230 ✓. Đáp án đúng là 20; 25."
             },
             "id": 22,
             "question": {
@@ -65823,7 +65823,7 @@
               "koString": "5,000 - 2,347은 얼마인가요?",
               "portugueseBRString": "Quanto é 5.000 - 2.347?",
               "spanishString": "¿Cuánto es 5,000 - 2,347?",
-              "vnString": "Lớp 4A có 5 tổ đi trồng cây, số người mỗi tổ là bằng nhau. Mỗi bạn trồng được 4 hoặc 6 cây. Cả lớp trồng được 220 cây. Hỏi có bao nhiêu bạn trồng được 4 cây, bao nhiêu bạn trồng được 6 cây, biết số học sinh lớp 4A ít hơn 50 bạn và nhiều hơn 40 bạn."
+              "vnString": "Lớp 4A có 5 tổ đi trồng cây, số người mỗi tổ là bằng nhau. Mỗi bạn trồng được 4 hoặc 6 cây. Cả lớp trồng được 230 cây. Hỏi có bao nhiêu bạn trồng được 4 cây, bao nhiêu bạn trồng được 6 cây, biết số học sinh lớp 4A ít hơn 50 bạn và nhiều hơn 40 bạn."
             }
           },
           {
@@ -65905,7 +65905,7 @@
               "koString": "56×7 = (50×7=350) + (6×7=42) = 392입니다.",
               "portugueseBRString": "56×7 = 50×7=350, 6×7=42; 350+42=392.",
               "spanishString": "56×7 = (50×7=350) + (6×7=42); 350+42=392.",
-              "vnString": "Để giải 'Một người mang cam đi đổi lấy táo và lê. Mỗi 9 quả cam, 2 quả được đổi lấy táo và 1 quả lấy lê. Mỗi 5 quả táo, 2 quả được đổi lấy lê. Nếu người đó đổi tất cả cam và nhận 17 quả táo và 13 quả lê, người đó đã mang bao nhiêu quả cam?', thiết lập phương trình để giải. Đáp án đúng là 89."
+              "vnString": "Gọi x là số lần đổi 9 cam (mỗi lần được 2 táo + 1 lê), y là số lần đổi 5 táo lấy 2 lê. Táo: 2x - 5y = 17. Lê: x + 2y = 13. Từ phương trình lê: x = 13 - 2y. Thay vào: 2(13 - 2y) - 5y = 17 → 26 - 9y = 17 → y = 1, x = 11. Số cam = 9 × 11 = 99. Đáp án đúng là 99."
             },
             "id": 23,
             "question": {
@@ -66097,7 +66097,7 @@
               "koString": "소수의 덧셈을 하면 11.04가 됩니다.",
               "portugueseBRString": "Some os decimais: 7,48 + 3,56 = 11,04.",
               "spanishString": "Suma decimales: 7.48 + 3.56 = 11.04.",
-              "vnString": "Để giải 'Viết số sau đây: Hai mươi mốt triệu ba trăm sáu mươi hai ngàn bốn trăm bảy mươi.', chuyển đổi từ từ sang chữ số. Đáp án đúng là 21362470."
+              "vnString": "Đọc từng phần: Hai trăm mười ba triệu = 213 000 000. Sáu trăm hai mươi tư nghìn = 624 000. Bảy trăm = 700. Cộng lại: 213 000 000 + 624 000 + 700 = 213 624 700. Đáp án đúng là 213 624 700."
             },
             "id": 25,
             "question": {
@@ -66487,7 +66487,7 @@
               "koString": "300분 + 40분 = 340분입니다.",
               "portugueseBRString": "5 horas = 300 minutos, mais 40 minutos = 340 minutos.",
               "spanishString": "5 horas = 300 minutos, más 40 minutos = 340 minutos.",
-              "vnString": "Để giải 'So sánh giá trị của M và N, biết rằng a, b là số khác 0 và M = (a ÷ a + 4018); N = (4020 - b ÷ b)', giải các biểu thức và so sánh. Đáp án đúng là 'M < N'."
+              "vnString": "Tính M: a ÷ a = 1 (với a ≠ 0), nên M = 1 + 4018 = 4019. Tính N: b ÷ b = 1 (với b ≠ 0), nên N = 4020 - 1 = 4019. Vì M = N = 4019. Đáp án đúng là M = N."
             },
             "id": 29,
             "question": {
@@ -66781,7 +66781,7 @@
               "koString": "받아내림을 주의해서 계산하면 3,532입니다.",
               "portugueseBRString": "Subtraia: pegue emprestado conforme necessário. Unidades: 0-8 (emprestado)=2, dezenas: 9-6=3, centenas: 9-4=5, milhares: 6-3=3. Total = 3.532.",
               "spanishString": "Resta: pides prestado según sea necesario. Unidades: 0-8 (pides 1)=2, decenas: 9-6=3, centenas: 9-4=5, millares: 6-3=3. Total = 3,532.",
-              "vnString": "Để giải 'Với m = 6; n = 1086; p = 4. Tính giá trị của biểu thức: p + m ÷ n = ...', thực hiện phép chia và cộng. Đáp án đúng là 18.5."
+              "vnString": "Thực hiện theo thứ tự: chia trước, cộng sau. n ÷ m = 1086 ÷ 6 = 181. Sau đó p + 181 = 4 + 181 = 185. Đáp án đúng là 185."
             },
             "id": 32,
             "question": {
@@ -67069,7 +67069,7 @@
               "koString": "소수의 덧셈을 하면 19.84가 됩니다.",
               "portugueseBRString": "Some os decimais: 12,36 + 7,48 = 19,84.",
               "spanishString": "Suma decimales: 12.36 + 7.48 = 19.84.",
-              "vnString": "Để giải '2 kg 5 hg ………… .. trọng lượng', chuyển đổi cả hai thành gram và so sánh. Đáp án đúng là '='."
+              "vnString": "Đổi về cùng đơn vị: 2 kg 5 hg = 2000g + 500g = 2500g. 1 tạ = 100 kg = 100000g. Vì 2500 < 100000 nên 2 kg 5 hg < 1 tạ. Đáp án đúng là <."
             },
             "id": 35,
             "question": {
@@ -67657,7 +67657,7 @@
               "koString": "각 자리를 더하고 받아올림을 하면 8,443이 나옵니다.",
               "portugueseBRString": "Some unidades: 7+6=13 (sobe 1), dezenas: 6+7+1=14 (sobe 1), centenas: 5+8+1=14 (sobe 1), milhares: 4+3+1=8. Total = 8.443.",
               "spanishString": "Suma unidades: 7+6=13 (llevas 1), decenas: 6+7+1=14 (llevas 1), centenas: 5+8+1=14 (llevas 1), millares: 4+3+1=8. Total = 8,443.",
-              "vnString": "Để giải 'Năm trăm bốn mươi chín ngàn sáu trăm mười chín', chuyển đổi từ từ sang chữ số. Đáp án đúng là 549619."
+              "vnString": "Đọc từng phần: Năm trăm bốn mươi ba nghìn = 543000. Sáu trăm mười chín = 619. Cộng lại: 543000 + 619 = 543619. Đáp án đúng là 543619."
             },
             "id": 41,
             "question": {
@@ -67945,7 +67945,7 @@
               "koString": "14 × 14 = 196이므로 정답은 14입니다.",
               "portugueseBRString": "14×14=196, logo 196 ÷ 14 = 14.",
               "spanishString": "14×14=196, así que 196 ÷ 14 = 14.",
-              "vnString": "Để giải 'Bảy mươi bảy ngàn bảy trăm năm', chuyển đổi từ từ sang chữ số. Đáp án đúng là 77705."
+              "vnString": "Đọc từng phần: Bảy mươi nghìn = 70000. Bảy trăm = 700. Linh năm = 5. Cộng lại: 70000 + 700 + 5 = 70705. Đáp án đúng là 70705."
             },
             "id": 44,
             "question": {
@@ -68629,7 +68629,7 @@
               "koString": "각 자릿수를 더하면 12,221이 나옵니다.",
               "portugueseBRString": "Some unidades: 2+9=11 (sobe 1), dezenas: 3+8+1=12 (sobe 1), centenas: 4+7+1=12 (sobe 1), milhares: 5+6+1=12. Total = 12.221.",
               "spanishString": "Suma unidades: 2+9=11 (llevas 1), decenas: 3+8+1=12 (llevas 1), centenas: 4+7+1=12 (llevas 1), millares: 5+6+1=12. Total = 12,221.",
-              "vnString": "Giá trị 7 chữ số của 1479865 là chính nó, 1479865."
+              "vnString": "Trong số 1479865, chữ số 7 đứng ở hàng chục nghìn (vị trí thứ 5 từ phải sang). Giá trị của chữ số 7 = 7 × 10000 = 70000. Đáp án đúng là 70000."
             },
             "id": 51,
             "question": {
@@ -69013,7 +69013,7 @@
               "koString": "소수를 더하면 20.65가 됩니다.",
               "portugueseBRString": "Some os decimais: 14,76 + 5,89 = 20,65.",
               "spanishString": "Suma decimales: 14.76 + 5.89 = 20.65.",
-              "vnString": "Giả sử x là số sách trong ngăn kéo dưới. Số sách trong ngăn kéo trên là x - 20. Số trung bình là 105, vì vậy (x + (x - 20)) / 2 = 105. Giải phương trình này cho x = 130, vì vậy ngăn kéo trên có 110 cuốn sách."
+              "vnString": "TBC hai ngăn là 105 nên tổng = 105 × 2 = 210. Ngăn trên ít hơn ngăn dưới 20 quyển. Ngăn trên = (210 - 20) ÷ 2 = 95. Ngăn dưới = 95 + 20 = 115. Kiểm tra: (95 + 115) ÷ 2 = 105 ✓. Đáp án đúng là 95."
             },
             "id": 55,
             "question": {
@@ -69499,7 +69499,7 @@
               "koString": "18.5 - 7.65 = 10.85L입니다.",
               "portugueseBRString": "Subtraia os decimais: 18,5 - 7,65 = 10,85 litros.",
               "spanishString": "Resta decimales: 18.5 - 7.65 = 10.85 litros.",
-              "vnString": "Số nhỏ nhất có 5 chữ số sử dụng ba chữ số khác nhau là 10234, được tạo ra bằng cách sử dụng các chữ số nhỏ nhất không lặp lại."
+              "vnString": "Số tự nhiên bé nhất có 5 chữ số bắt đầu bằng 1. Cần dùng đúng 3 chữ số khác nhau. Dùng {0, 1, 2}: số bé nhất là 10002 (chữ số 1 đứng đầu, tiếp theo điền số 0 càng nhiều càng tốt, cuối cùng là 2). Đáp án đúng là 10002."
             },
             "id": 60,
             "question": {
@@ -70765,7 +70765,7 @@
               "koString": "123 × 8 = (120×8=960) + (3×8=24) = 984입니다.",
               "portugueseBRString": "123×8 = 120×8=960, 3×8=24; 960+24=984.",
               "spanishString": "123×8 = (120×8=960) + (3×8=24) = 984.",
-              "vnString": "Biết rằng ông nội hơn cháu 47 tuổi và tổng tuổi của họ là 79 năm, thiết lập phương trình để giải tuổi của từng người. Ông nội 64 tuổi, và cháu 17 tuổi."
+              "vnString": "Tổng tuổi ông và cháu = 79, ông hơn cháu 47 tuổi. Tuổi cháu = (79 - 47) ÷ 2 = 16. Tuổi ông = 16 + 47 = 63. Kiểm tra: 16 + 63 = 79 ✓. Đáp án đúng là tuổi cháu là 16 tuổi."
             },
             "id": 73,
             "question": {
@@ -71155,7 +71155,7 @@
               "koString": "5로 약분하면 3/4이 됩니다.",
               "portugueseBRString": "Simplifique: 15÷5=3, 20÷5=4; logo 15/20 = 3/4.",
               "spanishString": "Simplifica: 15÷5=3, 20÷5=4; por lo tanto 15/20 = 3/4.",
-              "vnString": "Để tìm tích của 3587 và 58, thực hiện phép nhân: 3587 x 58 = 208086."
+              "vnString": "Thực hiện phép nhân: 3587 × 58 = 3587 × 50 + 3587 × 8 = 179350 + 28696 = 208046. Đáp án đúng là 208046."
             },
             "id": 77,
             "question": {
@@ -72170,7 +72170,7 @@
                 "koString": "230m²",
                 "portugueseBRString": "230 m²",
                 "spanishString": "230 m²",
-                "vnString": "115"
+                "vnString": "155"
               },
               {
                 "arString": "240 م²",
@@ -72210,7 +72210,7 @@
               "koString": "240m²",
               "portugueseBRString": "240 m²",
               "spanishString": "240 m²",
-              "vnString": "115"
+              "vnString": "155"
             },
             "hint": {
               "arString": "المساحة = الطول × العرض = 20×12=240 م².",
@@ -72223,7 +72223,7 @@
               "koString": "넓이 = 가로 × 세로 = 20 × 12 = 240m²입니다.",
               "portugueseBRString": "Área = comprimento × largura = 20 × 12 = 240 m².",
               "spanishString": "Área = largo × ancho = 20×12 = 240 m².",
-              "vnString": "Để đánh giá biểu thức 75 chia cho 15 cộng 10 nhân với 15, thực hiện các phép tính theo thứ tự: (75 / 15) + (10 x 15) = 5 + 150 = 155."
+              "vnString": "Thực hiện theo thứ tự (nhân chia trước, cộng trừ sau): 75 ÷ 15 = 5, rồi 10 × 15 = 150, cuối cùng 5 + 150 = 155. Đáp án đúng là 155."
             },
             "id": 88,
             "question": {
@@ -72613,7 +72613,7 @@
               "koString": "받아내림을 주의하여 계산하면 7,711입니다.",
               "portugueseBRString": "Subtraia com cuidado usando empréstimo: 14.500 - 6.789 = 7.711.",
               "spanishString": "Resta con cuidado pidiendo prestado: 14,500 - 6,789 = 7,711.",
-              "vnString": "Để tìm tích của 2547 và 271, thực hiện phép nhân: 2547 x 271 = 690337."
+              "vnString": "Thực hiện phép nhân: 2547 × 271 = 2547 × 200 + 2547 × 70 + 2547 × 1 = 509400 + 178290 + 2547 = 690237. Đáp án đúng là 690237."
             },
             "id": 92,
             "question": {
@@ -74461,7 +74461,7 @@
               "koString": "각 자리를 더하면 20,613이 됩니다.",
               "portugueseBRString": "Some unidades: 5+8=13 (sobe 1), dezenas: 4+6+1=11 (sobe 1), centenas: 2+3+1=6, milhares: 3+7=10 (sobe 1), dezenas de milhar: 1+1=2. Total = 20.613.",
               "spanishString": "Suma unidades: 5+8=13 (llevas 1), decenas: 4+6+1=11 (llevas 1), centenas: 2+3+1=6, millares: 3+7=10 (llevas 1), decenas de millar: 1+1=2. Total = 20,613.",
-              "vnString": "Để tìm kết quả của 50 trừ 17 cộng 23, thực hiện các phép tính theo thứ tự: (50 - 17) + 23 = 33 + 23 = 56."
+              "vnString": "1 cm = 10 mm. Vậy 3,5 cm = 3,5 × 10 = 35 mm. Đáp án đúng là 35 mm."
             },
             "id": 111,
             "question": {
@@ -74557,7 +74557,7 @@
               "koString": "계산하면 7,528이 나옵니다.",
               "portugueseBRString": "Subtraia com cuidado: 16.000 - 8.472 = 7.528.",
               "spanishString": "Resta con cuidado: 16,000 - 8,472 = 7,528.",
-              "vnString": "Để tìm tổng số cạnh của một hình lục giác và một hình ngũ giác, cộng số cạnh của chúng: 6 (hình lục giác) + 5 (hình ngũ giác) = 11 cạnh."
+              "vnString": "Cộng theo cột: 476 + 289. Hàng đơn vị: 6 + 9 = 15, viết 5 nhớ 1. Hàng chục: 7 + 8 + 1 = 16, viết 6 nhớ 1. Hàng trăm: 4 + 2 + 1 = 7. Kết quả: 765. Đáp án đúng là 765."
             },
             "id": 112,
             "question": {
@@ -79219,7 +79219,7 @@
               "koString": "105.8 - 68.45 = 37.35L입니다.",
               "portugueseBRString": "Subtraia os decimais: 105,8 - 68,45 = 37,35 litros.",
               "spanishString": "Resta decimales: 105.8 - 68.45 = 37.35 litros.",
-              "vnString": "Trừ số thập phân: 105.8 - 68.45 = 37.35 lít."
+              "vnString": "Trừ số thập phân: 92,5 - 56,35 = 36,15 lít. Đáp án đúng là 36,15 lít."
             },
             "id": 160,
             "question": {
@@ -80191,7 +80191,7 @@
               "koString": "120.85 - 73.6 = 47.25L입니다.",
               "portugueseBRString": "Subtraia os decimais: 120,85 - 73,6 = 47,25 litros.",
               "spanishString": "Resta decimales: 120.85 - 73.6 = 47.25 litros.",
-              "vnString": "Trừ số thập phân: 120.85 - 73.6 = 47.25 lít."
+              "vnString": "Trừ số thập phân: 105,8 - 68,45 = 37,35 lít. Đáp án đúng là 37,35 lít."
             },
             "id": 170,
             "question": {
@@ -83215,7 +83215,7 @@
               "koString": "공통분모 8로 통분하면 6/8 + 1/8 = 7/8입니다.",
               "portugueseBRString": "Encontre o denominador comum 8: 3/4 = 6/8, logo 6/8 + 1/8 = 7/8.",
               "spanishString": "Halla el denominador común 8: 3/4 = 6/8, así que 6/8 + 1/8 = 7/8.",
-              "vnString": "Để tìm một giá trị hợp lệ cho x trong khoảng 5.8 > x > 5.7, 5.85 là một giá trị hợp lệ."
+              "vnString": "Cần tìm x thỏa mãn 5,8 > x > 5,7. Giá trị 5,75 nằm giữa 5,7 và 5,8 (5,7 < 5,75 < 5,8). Đáp án đúng là 5,75."
             },
             "id": 21,
             "question": {
@@ -83407,7 +83407,7 @@
               "koString": "분자끼리, 분모끼리 곱합니다: 6/12이며 약분하면 1/2입니다.",
               "portugueseBRString": "Multiplique numeradores e denominadores: (2×3)/(3×4) = 6/12 = 1/2.",
               "spanishString": "Multiplica numeradores y denominadores: (2 × 3) / (3 × 4) = 6/12 = 1/2.",
-              "vnString": "Để viết hai mươi bốn đơn vị, hai mươi bảy phần trăm dưới dạng số thập phân: 24 (đơn vị) + 0.27 (hai mươi bảy phần trăm) = 24.27."
+              "vnString": "Hai mươi bốn đơn vị = 24. Hai mươi bảy phần nghìn = 0,027. Cộng lại: 24 + 0,027 = 24,027. Đáp án đúng là 24,027."
             },
             "id": 23,
             "question": {
@@ -83503,7 +83503,7 @@
               "koString": "분수의 나눗셈은 나누는 수의 역수를 곱합니다: 3/4 × 2/1 = 6/4 = 3/2입니다.",
               "portugueseBRString": "Dividir por uma fração = multiplicar pelo seu inverso: 3/4 × 2/1 = 3/2.",
               "spanishString": "Dividir por una fracción es multiplicar por su recíproco: 3/4 × 2/1 = 3/2.",
-              "vnString": "Để viết bốn mươi bảy phần trăm dưới dạng số thập phân: 47% = 0.47."
+              "vnString": "Bốn trăm bảy mươi lăm phần nghìn = 475 chia 1000 = 0,475. Đáp án đúng là 0,475."
             },
             "id": 24,
             "question": {
@@ -84187,7 +84187,7 @@
               "koString": "분수끼리 더하면 3/3=1이 됩니다. 자연수끼리의 합 2+1에 1을 더해 4가 됩니다.",
               "portugueseBRString": "Some as frações: 1/3 + 2/3 = 3/3 = 1. Então 2 + 1 + 1 = 4.",
               "spanishString": "Suma las fracciones: 1/3 + 2/3 = 3/3 = 1. Luego 2 + 1 + 1 = 4.",
-              "vnString": "Để tìm lượng gạo chưa chín: Nếu tổng là 1645 kg và 40% là gạo, thì 60% là gạo chưa chín: 1645 kg × 0.6 = 987 kg."
+              "vnString": "Gọi lúa tẻ là x kg, lúa nếp = 0,4x kg. Tổng: x + 0,4x = 1,4x = 1645. Suy ra x = 1645 : 1,4 = 1175 kg. Đáp án đúng là 1175."
             },
             "id": 31,
             "question": {
@@ -84475,7 +84475,7 @@
               "koString": "가분수로 바꾸면 7/2입니다. 7/2 × 2/1 = 7입니다.",
               "portugueseBRString": "Converta 3 1/2 = 7/2; dividir por 1/2 = multiplicar por 2 → 7/2 × 2/1 = 7.",
               "spanishString": "Convierte 3 1/2 = 7/2; dividir por 1/2 es multiplicar por 2 → 7/2 × 2/1 = 7.",
-              "vnString": "Để chuyển đổi 20 m² 9 dm² thành dm²: 9 dm² = 0.09 m². Do đó, 20 m² + 0.09 m² = 20.09 m² = 200.9 dm²."
+              "vnString": "1 m² = 100 dm². Vậy 20 m² = 20 x 100 = 2000 dm². Cộng thêm 9 dm²: 2000 + 9 = 2009 dm². Đáp án đúng là 2009."
             },
             "id": 34,
             "question": {
@@ -84769,7 +84769,7 @@
               "koString": "3/4을 6/8로 바꾼 후 빌려오기를 합니다: (5 9/8) - (2 6/8) = 3 3/8.",
               "portugueseBRString": "3/4 = 6/8; pegue emprestado: (5 9/8) - (2 6/8) = 3 3/8.",
               "spanishString": "3/4 = 6/8; necesitas pedir prestado: (5 9/8) - (2 6/8) = 3 3/8.",
-              "vnString": "Để giải câu hỏi này, ta nhìn vào các chữ số sau dấu thập phân trong 34.708. Chữ số đầu tiên sau dấu thập phân là 7, vì vậy đáp án đúng là 7."
+              "vnString": "Phần thập phân của số 34,708 là tất cả các chữ số sau dấu phẩy: 708. Viết dưới dạng số thập phân: 0,708. Đáp án đúng là 0,708."
             },
             "id": 37,
             "question": {
@@ -84865,7 +84865,7 @@
               "koString": "2 1/2 + 3 3/4 = 2.5 + 3.75 = 6.25이며 이것은 6 1/4입니다.",
               "portugueseBRString": "2 1/2 + 3 3/4 = 2,5 + 3,75 = 6,25 = 6 1/4.",
               "spanishString": "2 1/2 + 3 3/4 = 2.5 + 3.75 = 6.25 = 6 1/4.",
-              "vnString": "Để giải câu hỏi này, hãy kiểm tra phần thập phân trong 34.708. Chữ số đầu tiên sau dấu thập phân là 7, đại diện cho phần mười, vì vậy đáp án đúng là 7."
+              "vnString": "Trong số 34,708: hàng phần mười là 7, hàng phần trăm là 0, hàng phần nghìn là 8. Chữ số hàng phần trăm là 0. Đáp án đúng là 0."
             },
             "id": 38,
             "question": {
@@ -85255,7 +85255,7 @@
               "koString": "소수 첫째 자리를 비교하세요: 0보다 9가 크므로 3.9가 더 큽니다.",
               "portugueseBRString": "Compare os décimos: 3,09 = 3,090 < 3,900.",
               "spanishString": "Compara las décimas: 3.09 = 3.090 < 3.900.",
-              "vnString": "Để giải bài toán này, nhận ra rằng năm mươi đơn vị là 50 và năm phần trăm là 0.05, vì vậy số là 50 + 0.05 = 50.05. Đáp án đúng là 50.05."
+              "vnString": "Năm mươi lăm đơn vị = 55. Năm phần trăm = 0,05. Cộng lại: 55 + 0,05 = 55,05. Đáp án đúng là 55,05."
             },
             "id": 42,
             "question": {
@@ -85351,7 +85351,7 @@
               "koString": "소수점을 맞춰 더합니다: 2.45 + 3.60 = 6.05.",
               "portugueseBRString": "Alinhe as vírgulas: 2,45 + 3,60 = 6,05.",
               "spanishString": "Alinea los decimales: 2.45 + 3.60 = 6.05.",
-              "vnString": "Để giải bài toán này, các đơn vị mười tạo thành phần số nguyên, và ba phần (là phần mười) tạo thành 0.3, vì vậy đáp án đúng là 10.3."
+              "vnString": "Mười đơn vị = 10. Ba phần nghìn = 0,003. Cộng lại: 10 + 0,003 = 10,003. Đáp án đúng là 10,003."
             },
             "id": 43,
             "question": {
@@ -85645,7 +85645,7 @@
               "koString": "소수점을 한 자리씩 옮기면 42 ÷ 7 = 6이 됩니다.",
               "portugueseBRString": "Mova a vírgula uma casa: 42 ÷ 7 = 6.",
               "spanishString": "Mueve el decimal un lugar: 42 ÷ 7 = 6.",
-              "vnString": "Để giải bài toán này, phân tích quy tắc chia hết. Số 13465 không chia hết cho 5 (vì nó không kết thúc bằng 0 hoặc 5), vì vậy tuyên bố này là không đúng. Đáp án đúng là 'Số 13465 chia hết cho 5 nhưng không chia hết cho 3.'"
+              "vnString": "Kiem tra: 13465 tan cung 5 nen chia het cho 5, tong chu so = 19 khong chia het cho 3 - phat bieu dung. 43020 chia het cho ca 2 va 5 - dung. 78435: tong chu so = 7+8+4+3+5 = 27 chia het cho 9, nen \"khong chia het cho 9\" la SAI. 76110 chia het cho 2 va 3 - dung. Dap an dung la \"So 78435 khong chia het cho 9\"."
             },
             "id": 46,
             "question": {
@@ -85824,7 +85824,7 @@
               "koString": "$6.35",
               "portugueseBRString": "$6,35",
               "spanishString": "$6.35",
-              "vnString": "="
+              "vnString": ">"
             },
             "hint": {
               "arString": "3.75 + 2.60 = 6.35.",
@@ -85837,7 +85837,7 @@
               "koString": "3.75 + 2.60 = 6.35입니다.",
               "portugueseBRString": "3,75 + 2,60 = 6,35.",
               "spanishString": "3.75 + 2.60 = 6.35.",
-              "vnString": "Để giải bài toán này, nhận ra rằng 1 hecta (ha) là 10.000 m², điều này lớn hơn nhiều so với 100 m². Đáp án đúng là '>'."
+              "vnString": "1 ha = 10000 m². Vì 10000 m² lớn hơn 100 m² nên 1 ha > 100 m². Đáp án đúng là >."
             },
             "id": 48,
             "question": {
@@ -85933,7 +85933,7 @@
               "koString": "10.00 - 4.85 = 5.15입니다.",
               "portugueseBRString": "10,00 - 4,85 = 5,15.",
               "spanishString": "10.00 - 4.85 = 5.15.",
-              "vnString": "Để giải bài toán này, chuyển đổi dm² sang mm². 9 dm² = 9000 mm², nên 9000 mm² + 24 mm² = 9024 mm². Vì hai bên bằng nhau, đáp án đúng là '='."
+              "vnString": "1 dm² = 10000 mm² (vì 1dm = 100mm, 1dm² = 100x100 = 10000mm²). Vậy 9 dm² = 90000 mm². Cộng thêm 24 mm²: 90000 + 24 = 90024 mm². Vì 90024 > 9024 nên kết quả là >. Đáp án đúng là >."
             },
             "id": 49,
             "question": {
@@ -86029,7 +86029,7 @@
               "koString": "2.4 ÷ 0.6 = 24 ÷ 6 = 4도막입니다.",
               "portugueseBRString": "2,4 ÷ 0,6 = 24 ÷ 6 = 4 pedaços.",
               "spanishString": "2.4 ÷ 0.6 = 24 ÷ 6 = 4 trozos.",
-              "vnString": "Để giải bài toán này, nhận ra rằng một trăm hai mươi lăm đơn vị là 125 và sáu phần trăm là 0.06, do đó số thập phân là 125.06. Đáp án đúng là 125.06."
+              "vnString": "Một trăm hai mươi lăm đơn vị = 125. Sáu phần nghìn = 0,006. Cộng lại: 125 + 0,006 = 125,006. Đáp án đúng là 125,006."
             },
             "id": 50,
             "question": {
@@ -86617,7 +86617,7 @@
               "koString": "1/4로 나누는 것은 4를 곱하는 것과 같으므로 2 × 4 = 8입니다.",
               "portugueseBRString": "Dividir por 1/4 significa multiplicar por 4 → 2×4=8.",
               "spanishString": "Dividir por 1/4 significa multiplicar por 4 → 2×4=8.",
-              "vnString": "Để giải bài toán này, so sánh hai số 3 trong 135.43. Số 3 bên trái nằm ở hàng chục, lớn hơn 10 lần so với số 3 bên phải, nằm ở hàng phần mười. Đáp án đúng là 10."
+              "vnString": "Trong số 135,43: chữ số 3 bên trái nằm ở hàng đơn vị có giá trị = 3; chữ số 3 bên phải nằm ở hàng phần trăm có giá trị = 0,03. Tỉ số: 3 : 0,03 = 100. Đáp án đúng là 1000."
             },
             "id": 56,
             "question": {
@@ -86686,7 +86686,7 @@
                 "koString": "비교할 수 없습니다",
                 "portugueseBRString": "Não é possível dizer",
                 "spanishString": "No se pueden comparar",
-                "vnString": "200"
+                "vnString": "800"
               }
             ],
             "correctAnswer": {
@@ -86700,7 +86700,7 @@
               "koString": "3/5",
               "portugueseBRString": "0,55",
               "spanishString": "0.55",
-              "vnString": "200"
+              "vnString": "800"
             },
             "hint": {
               "arString": "3/5 = 0.6؛ قارن 0.6 مقابل 0.55 ← 0.6 هو الأكبر، إذاً 3/5 > 0.55.",
@@ -86713,7 +86713,7 @@
               "koString": "3/5은 0.6이므로 0.55보다 큽니다.",
               "portugueseBRString": "3/5 = 0,6; compare 0,6 vs 0,55 → 0,6 é maior, então 3/5 > 0,55.",
               "spanishString": "3/5 = 0.6; compara 0.6 frente a 0.55 → 0.6 es mayor, así que 3/5 > 0.55.",
-              "vnString": "Để giải bài toán này, nhận ra rằng nửa chu vi là 60 cm, nên chu vi đầy đủ là 120 cm. Vì chiều dài gấp đôi chiều rộng, giả sử chiều rộng là x và chiều dài là 2x. Phương trình chu vi là x + 2x = 60. Giải x, sau đó tìm diện tích bằng cách nhân chiều dài với chiều rộng. Chuyển đổi cm² sang m². Đáp án đúng là 30."
+              "vnString": "Nửa chu vi = chiều dài + chiều rộng = 60 cm. Chiều dài gấp đôi chiều rộng nên: 2x + x = 60 → 3x = 60 → x = 20 cm (chiều rộng), chiều dài = 40 cm. Diện tích = 40 × 20 = 800 cm². Đáp án đúng là 800."
             },
             "id": 57,
             "question": {
@@ -87672,7 +87672,7 @@
               "koString": "1/4",
               "portugueseBRString": "1/4",
               "spanishString": "1/4",
-              "vnString": "M < N"
+              "vnString": "M > N"
             },
             "hint": {
               "arString": "اضرب البسوط: 2×3×5=30؛ المقامات: 5×4×6=120؛ بسط 30/120 = 1/4.",
@@ -87685,7 +87685,7 @@
               "koString": "분자 30, 분모 120이므로 약분하면 1/4입니다.",
               "portugueseBRString": "Multiplique numeradores: 2×3×5=30; denominadores: 5×4×6=120; simplifique 30/120=1/4.",
               "spanishString": "Multiplica numeradores: 2×3×5=30; denominadores: 5×4×6=120; simplifica 30/120=1/4.",
-              "vnString": "Để giải bài toán này, nhận ra rằng tích của 2007 × 2007 lớn hơn tích của 2004 × 2008. Do đó, M lớn hơn N. Đáp án đúng là 'M > N'."
+              "vnString": "Viết 2007 = 2006 + 1 và 2004 = 2006 - 2, 2008 = 2006 + 2. M = (2006+1)^2 = 2006^2 + 2x2006 + 1. N = (2006-2)(2006+2) = 2006^2 - 4. Vì M - N = 2x2006 + 1 + 4 > 0 nen M > N. Đáp án đúng là M > N."
             },
             "id": 67,
             "question": {
@@ -87781,7 +87781,7 @@
               "koString": "3/4 × 1/2 = 3/8입니다.",
               "portugueseBRString": "Metade de 3/4 = 3/4 × 1/2 = 3/8.",
               "spanishString": "La mitad de 3/4 = 3/4 × 1/2 = 3/8.",
-              "vnString": "Để giải bài toán này, nhận ra rằng số 5 trong 47,253 nằm ở hàng đơn vị, nên giá trị của nó là 5. Đáp án đúng là 0.5."
+              "vnString": "Trong số 47,253: hàng phần mười = 2, hàng phần trăm = 5, hàng phần nghìn = 3. Chữ số 5 đứng ở hàng phần trăm, giá trị = 5 x 0,01 = 0,05. Đáp án đúng là 0,05."
             },
             "id": 68,
             "question": {
@@ -88459,7 +88459,7 @@
               "koString": "4/6를 2로 약분하면 2/3가 됩니다.",
               "portugueseBRString": "Simplifique 4/6 ÷ 2 = 2/3.",
               "spanishString": "Simplifica 4/6 ÷ 2 = 2/3.",
-              "vnString": "Để giải bài toán này, so sánh hai biểu thức A và B bằng cách cộng các số. A lớn hơn B. Đáp án đúng là 'A > B'."
+              "vnString": "Nhóm lại: A = (11,3 + 4,7) + (78,06 + 25,9) = 16 + 103,96 = 119,96. B = (25,06 + 11,7) + (4,3 + 78,9) = 36,76 + 83,2 = 119,96. Vì A = B = 119,96 nen A = B. Đáp án đúng là A = B."
             },
             "id": 75,
             "question": {
@@ -88740,7 +88740,7 @@
               "koString": "4/5",
               "portugueseBRString": "4/5",
               "spanishString": "4/5",
-              "vnString": "<"
+              "vnString": ">"
             },
             "hint": {
               "arString": "حول إلى كسر: 1 1/3 = 4/3؛ اضرب 4/3 × 3/5 = 12/15 = 4/5.",
@@ -88753,7 +88753,7 @@
               "koString": "1 1/3을 가분수 4/3로 바꿉니다: 4/3 × 3/5 = 12/15 = 4/5.",
               "portugueseBRString": "Converta 1 1/3 = 4/3; 4/3 × 3/5 = 12/15 = 4/5.",
               "spanishString": "Convierte 1 1/3 = 4/3; 4/3 × 3/5 = 12/15 = 4/5.",
-              "vnString": "Để giải bài toán này, chuyển đổi hecta sang m². 81 ha là 810,000 m², lớn hơn 90,000 m². Đáp án đúng là '>'."
+              "vnString": "1 ha = 10000 m². Vậy 81 ha = 81 x 10000 = 810000 m². Vì 810000 > 90000 nên 81 ha > 90000 m². Đáp án đúng là >."
             },
             "id": 78,
             "question": {
@@ -89533,7 +89533,7 @@
               "koString": "소수점을 오른쪽으로 한 자리씩 옮기면 63 ÷ 3 = 21입니다.",
               "portugueseBRString": "Mova a vírgula para a direita: 63 ÷ 3 = 21.",
               "spanishString": "Mueve el decimal a la derecha: 63 ÷ 3 = 21.",
-              "vnString": "Để chuyển đổi 17.05 cm² sang cm² và mm², ta có 17 cm² và 50 mm². Đáp án đúng là 17 cm² 50 mm²."
+              "vnString": "1 cm² = 100 mm². Phần nguyên: 17 cm². Phần thập phân: 0,05 cm² = 0,05 x 100 = 5 mm². Vậy 17,05 cm² = 17 cm² 5 mm². Đáp án đúng là 17; 5."
             },
             "id": 86,
             "question": {
@@ -89629,7 +89629,7 @@
               "koString": "75/100를 25로 약분하면 3/4이 됩니다.",
               "portugueseBRString": "75/100 → divida por 25 → 3/4.",
               "spanishString": "75/100 → divide por 25 → 3/4.",
-              "vnString": "Để chuyển đổi 79 dm² sang m², nhớ rằng 1 m² = 100 dm². Đáp án đúng là 7.9 m²."
+              "vnString": "1 m² = 100 dm². Vậy 79 dm² = 79 : 100 = 0,79 m². Đáp án đúng là 0,79."
             },
             "id": 87,
             "question": {
@@ -90115,7 +90115,7 @@
               "koString": "12.5 − 4.75 = 7.75m입니다.",
               "portugueseBRString": "12,5 − 4,75 = 7,75 m.",
               "spanishString": "12,5 − 4,75 = 7,75 metros.",
-              "vnString": "Để tính diện tích của mảnh đất tính bằng mét vuông, chuyển đổi đúng chu vi và kích thước. Đáp án đúng là 480 m²."
+              "vnString": "Nửa chu vi = 0,28 : 2 = 0,14 km. Gọi chiều dài là d, chiều rộng = 0,75d. d + 0,75d = 0,14 -> 1,75d = 0,14 -> d = 0,08 km, r = 0,06 km. Diện tích = 0,08 x 0,06 = 0,0048 km² = 4800 m². Đáp án đúng là 4800."
             },
             "id": 92,
             "question": {
@@ -90403,7 +90403,7 @@
               "koString": "57.6 × 2.5 = 144마일입니다.",
               "portugueseBRString": "57,6 × 2,5 = 144.",
               "spanishString": "57.6 × 2.5 = 144.",
-              "vnString": "Để xác định giá trị vị trí của 5 trong 94,057, xác định vị trí của nó. Đáp án đúng là hàng chục."
+              "vnString": "Trong số 94,057: sau dấu phẩy lần lượt là hàng phần mười (0), hàng phần trăm (5), hàng phần nghìn (7). Chữ số 5 đứng ở hàng phần trăm. Đáp án đúng là hàng phần trăm."
             },
             "id": 95,
             "question": {
@@ -90505,7 +90505,7 @@
               "koString": "2.4 × 5 = 12kg입니다.",
               "portugueseBRString": "2,4 × 5 = 12.",
               "spanishString": "2.4 × 5 = 12.",
-              "vnString": "Để tính chu vi của một hình chữ nhật với diện tích 250 cm² và chiều rộng 5 cm, trước tiên tìm chiều dài. Đáp án đúng là 0.05 m."
+              "vnString": "Chiều dài = Diện tích : chiều rộng = 250 : 5 = 50 cm. Chu vi = 2 x (50 + 5) = 2 x 55 = 110 cm = 1,1 m. Đáp án đúng là 1,1 m."
             },
             "id": 96,
             "question": {
@@ -90697,7 +90697,7 @@
               "koString": "45.6 × 0.7 = 31.92L이므로 약 31.9L입니다.",
               "portugueseBRString": "45,6 × 0,7 = 31,92 ≈ 31,9 L.",
               "spanishString": "45,6 × 0,7 = 31,92 ≈ 31,9 litros.",
-              "vnString": "Để chuyển đổi 73 yến sang tấn, nhớ rằng hệ số chuyển đổi. Đáp án đúng là 0.073 tấn."
+              "vnString": "1 tấn = 10 tạ = 100 yến. Vậy 73 yến = 73 : 100 = 0,73 tấn. Đáp án đúng là 0,73."
             },
             "id": 98,
             "question": {
@@ -90793,7 +90793,7 @@
               "koString": "4.80 ÷ 6 = 0.8입니다.",
               "portugueseBRString": "4,80 ÷ 6 = 0,8.",
               "spanishString": "4.80 ÷ 6 = 0.8.",
-              "vnString": "Để chuyển đổi 7 km² 5 hm² sang km², nhớ rằng 1 km² = 100 hm². Đáp án đúng là 7.5 km²."
+              "vnString": "1 km² = 100 hm². Vậy 5 hm² = 5 : 100 = 0,05 km². Cộng lại: 7 + 0,05 = 7,05 km². Đáp án đúng là 7,05."
             },
             "id": 99,
             "question": {
@@ -93127,7 +93127,7 @@
               "koString": "3.5 × 2.4 = 8.4입니다.",
               "portugueseBRString": "3,5 × 2,4 = 8,4.",
               "spanishString": "3.5 × 2.4 = 8.4.",
-              "vnString": "Tính diện tích của một mảnh đất hình chữ nhật bằng cách giải chiều dài và chiều rộng sử dụng công thức chu vi P = 2(chiều dài + chiều rộng). Với chiều rộng = 0.75 × chiều dài, tìm diện tích và chuyển đổi sang mét vuông. Đáp án đúng là 480 m²."
+              "vnString": "Nửa chu vi = 0,28 : 2 = 0,14 km. Gọi chiều dài là d, chiều rộng = 0,75d. d + 0,75d = 0,14 -> 1,75d = 0,14 -> d = 0,08 km, r = 0,06 km. Diện tích = 0,08 x 0,06 = 0,0048 km² = 4800 m². Đáp án đúng là 4800."
             },
             "id": 123,
             "question": {
@@ -93517,7 +93517,7 @@
               "koString": "2.4 × 3.5 = 8.4입니다.",
               "portugueseBRString": "2,4 × 3,5 = 8,4.",
               "spanishString": "2.4 × 3.5 = 8.4.",
-              "vnString": "Thay thế từng tùy chọn cho x và so sánh: 9.6064 < 9.614. Chữ số đúng là 6. Đáp án đúng là x=6."
+              "vnString": "So sánh 9,6x4 < 9,614. Hai số giống nhau ở 9,6. So sánh chữ số hàng phần trăm: x và 1. Để thỏa mãn dấu <, cần x < 1, tức x = 0. Kiểm tra: 9,604 < 9,614 đúng. Đáp án đúng là x = 0."
             },
             "id": 127,
             "question": {
@@ -94099,7 +94099,7 @@
               "koString": "4/10 + 3/10 = 7/10이 되어 약 4/5 (확인: 7/10임 보기 오류 가능성)",
               "portugueseBRString": "2/5 = 4/10 → 4/10 + 3/10 = 7/10 = 4/5.",
               "spanishString": "2/5 = 4/10 → 4/10 + 3/10 = 7/10 = 4/5.",
-              "vnString": "Nhân 94.24 với 30.6 để có 2.882.744. Đáp án đúng là 2.882.744."
+              "vnString": "Nhân 94,24 x 30,6: 94,24 x 30 = 2827,2; 94,24 x 0,6 = 56,544. Cộng lại: 2827,2 + 56,544 = 2883,744. Đáp án đúng là 2883,744."
             },
             "id": 133,
             "question": {

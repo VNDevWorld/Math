@@ -82921,6 +82921,1386 @@
           }
         ],
         "status": 0
+      },
+      {
+        "id": 11,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "The stars danced playfully in the moonlit sky.",
+                "enString": "The stars danced playfully in the moonlit sky.",
+                "frenchString": "The stars danced playfully in the moonlit sky.",
+                "idString": "The stars danced playfully in the moonlit sky.",
+                "vnString": "The stars danced playfully in the moonlit sky."
+              },
+              {
+                "arString": "The sky was dark and full of clouds.",
+                "enString": "The sky was dark and full of clouds.",
+                "frenchString": "The sky was dark and full of clouds.",
+                "idString": "The sky was dark and full of clouds.",
+                "vnString": "The sky was dark and full of clouds."
+              },
+              {
+                "arString": "He looked up at the moon.",
+                "enString": "He looked up at the moon.",
+                "frenchString": "He looked up at the moon.",
+                "idString": "He looked up at the moon.",
+                "vnString": "He looked up at the moon."
+              },
+              {
+                "arString": "The night was as cold as ice.",
+                "enString": "The night was as cold as ice.",
+                "frenchString": "The night was as cold as ice.",
+                "idString": "The night was as cold as ice.",
+                "vnString": "The night was as cold as ice."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The stars danced playfully in the moonlit sky.",
+              "enString": "The stars danced playfully in the moonlit sky.",
+              "frenchString": "The stars danced playfully in the moonlit sky.",
+              "idString": "The stars danced playfully in the moonlit sky.",
+              "vnString": "The stars danced playfully in the moonlit sky."
+            },
+            "hint": {
+              "arString": "The stars danced playfully in the moonlit sky.",
+              "enString": "The stars danced playfully in the moonlit sky.",
+              "frenchString": "The stars danced playfully in the moonlit sky.",
+              "idString": "The stars danced playfully in the moonlit sky.",
+              "vnString": "The stars danced playfully in the moonlit sky."
+            },
+            "id": 51,
+            "question": {
+              "arString": "Which sentence uses personification?",
+              "enString": "Which sentence uses personification?",
+              "frenchString": "Which sentence uses personification?",
+              "idString": "Which sentence uses personification?",
+              "vnString": "Which sentence uses personification?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A story of a person's life written by that person",
+                "enString": "A story of a person's life written by that person",
+                "frenchString": "A story of a person's life written by that person",
+                "idString": "A story of a person's life written by that person",
+                "vnString": "A story of a person's life written by that person"
+              },
+              {
+                "arString": "A fictional story about aliens",
+                "enString": "A fictional story about aliens",
+                "frenchString": "A fictional story about aliens",
+                "idString": "A fictional story about aliens",
+                "vnString": "A fictional story about aliens"
+              },
+              {
+                "arString": "A book of maps and facts",
+                "enString": "A book of maps and facts",
+                "frenchString": "A book of maps and facts",
+                "idString": "A book of maps and facts",
+                "vnString": "A book of maps and facts"
+              },
+              {
+                "arString": "A play performed on stage",
+                "enString": "A play performed on stage",
+                "frenchString": "A play performed on stage",
+                "idString": "A play performed on stage",
+                "vnString": "A play performed on stage"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A story of a person's life written by that person",
+              "enString": "A story of a person's life written by that person",
+              "frenchString": "A story of a person's life written by that person",
+              "idString": "A story of a person's life written by that person",
+              "vnString": "A story of a person's life written by that person"
+            },
+            "hint": {
+              "arString": "A story of a person's life written by that person",
+              "enString": "A story of a person's life written by that person",
+              "frenchString": "A story of a person's life written by that person",
+              "idString": "A story of a person's life written by that person",
+              "vnString": "A story of a person's life written by that person"
+            },
+            "id": 52,
+            "question": {
+              "arString": "What is an autobiography?",
+              "enString": "What is an autobiography?",
+              "frenchString": "What is an autobiography?",
+              "idString": "What is an autobiography?",
+              "vnString": "What is an autobiography?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "To carefully look at or study something",
+                "enString": "To carefully look at or study something",
+                "frenchString": "To carefully look at or study something",
+                "idString": "To carefully look at or study something",
+                "vnString": "To carefully look at or study something"
+              },
+              {
+                "arString": "To build a house",
+                "enString": "To build a house",
+                "frenchString": "To build a house",
+                "idString": "To build a house",
+                "vnString": "To build a house"
+              },
+              {
+                "arString": "To shout loudly",
+                "enString": "To shout loudly",
+                "frenchString": "To shout loudly",
+                "idString": "To shout loudly",
+                "vnString": "To shout loudly"
+              },
+              {
+                "arString": "To break a rule",
+                "enString": "To break a rule",
+                "frenchString": "To break a rule",
+                "idString": "To break a rule",
+                "vnString": "To break a rule"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "To carefully look at or study something",
+              "enString": "To carefully look at or study something",
+              "frenchString": "To carefully look at or study something",
+              "idString": "To carefully look at or study something",
+              "vnString": "To carefully look at or study something"
+            },
+            "hint": {
+              "arString": "To carefully look at or study something",
+              "enString": "To carefully look at or study something",
+              "frenchString": "To carefully look at or study something",
+              "idString": "To carefully look at or study something",
+              "vnString": "To carefully look at or study something"
+            },
+            "id": 53,
+            "question": {
+              "arString": "What does the word 'analyze' mean?",
+              "enString": "What does the word 'analyze' mean?",
+              "frenchString": "What does the word 'analyze' mean?",
+              "idString": "What does the word 'analyze' mean?",
+              "vnString": "What does the word 'analyze' mean?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The author believes reading books is very important for kids.",
+                "enString": "The author believes reading books is very important for kids.",
+                "frenchString": "The author believes reading books is very important for kids.",
+                "idString": "The author believes reading books is very important for kids.",
+                "vnString": "The author believes reading books is very important for kids."
+              },
+              {
+                "arString": "Books have many pages.",
+                "enString": "Books have many pages.",
+                "frenchString": "Books have many pages.",
+                "idString": "Books have many pages.",
+                "vnString": "Books have many pages."
+              },
+              {
+                "arString": "Libraries are buildings.",
+                "enString": "Libraries are buildings.",
+                "frenchString": "Libraries are buildings.",
+                "idString": "Libraries are buildings.",
+                "vnString": "Libraries are buildings."
+              },
+              {
+                "arString": "Some books contain pictures.",
+                "enString": "Some books contain pictures.",
+                "frenchString": "Some books contain pictures.",
+                "idString": "Some books contain pictures.",
+                "vnString": "Some books contain pictures."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The author believes reading books is very important for kids.",
+              "enString": "The author believes reading books is very important for kids.",
+              "frenchString": "The author believes reading books is very important for kids.",
+              "idString": "The author believes reading books is very important for kids.",
+              "vnString": "The author believes reading books is very important for kids."
+            },
+            "hint": {
+              "arString": "The author believes reading books is very important for kids.",
+              "enString": "The author believes reading books is very important for kids.",
+              "frenchString": "The author believes reading books is very important for kids.",
+              "idString": "The author believes reading books is very important for kids.",
+              "vnString": "The author believes reading books is very important for kids."
+            },
+            "id": 54,
+            "question": {
+              "arString": "Which sentence best shows the author’s perspective?",
+              "enString": "Which sentence best shows the author’s perspective?",
+              "frenchString": "Which sentence best shows the author’s perspective?",
+              "idString": "Which sentence best shows the author’s perspective?",
+              "vnString": "Which sentence best shows the author’s perspective?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "An expression with a hidden meaning, like 'piece of cake'",
+                "enString": "An expression with a hidden meaning, like 'piece of cake'",
+                "frenchString": "An expression with a hidden meaning, like 'piece of cake'",
+                "idString": "An expression with a hidden meaning, like 'piece of cake'",
+                "vnString": "An expression with a hidden meaning, like 'piece of cake'"
+              },
+              {
+                "arString": "A serious argument",
+                "enString": "A serious argument",
+                "frenchString": "A serious argument",
+                "idString": "A serious argument",
+                "vnString": "A serious argument"
+              },
+              {
+                "arString": "The main character in a book",
+                "enString": "The main character in a book",
+                "frenchString": "The main character in a book",
+                "idString": "The main character in a book",
+                "vnString": "The main character in a book"
+              },
+              {
+                "arString": "A punctuation mark",
+                "enString": "A punctuation mark",
+                "frenchString": "A punctuation mark",
+                "idString": "A punctuation mark",
+                "vnString": "A punctuation mark"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "An expression with a hidden meaning, like 'piece of cake'",
+              "enString": "An expression with a hidden meaning, like 'piece of cake'",
+              "frenchString": "An expression with a hidden meaning, like 'piece of cake'",
+              "idString": "An expression with a hidden meaning, like 'piece of cake'",
+              "vnString": "An expression with a hidden meaning, like 'piece of cake'"
+            },
+            "hint": {
+              "arString": "An expression with a hidden meaning, like 'piece of cake'",
+              "enString": "An expression with a hidden meaning, like 'piece of cake'",
+              "frenchString": "An expression with a hidden meaning, like 'piece of cake'",
+              "idString": "An expression with a hidden meaning, like 'piece of cake'",
+              "vnString": "An expression with a hidden meaning, like 'piece of cake'"
+            },
+            "id": 55,
+            "question": {
+              "arString": "What is an idiom?",
+              "enString": "What is an idiom?",
+              "frenchString": "What is an idiom?",
+              "idString": "What is an idiom?",
+              "vnString": "What is an idiom?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 12,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "He is as brave as a lion.",
+                "enString": "He is as brave as a lion.",
+                "frenchString": "He is as brave as a lion.",
+                "idString": "He is as brave as a lion.",
+                "vnString": "He is as brave as a lion."
+              },
+              {
+                "arString": "He ran down the street.",
+                "enString": "He ran down the street.",
+                "frenchString": "He ran down the street.",
+                "idString": "He ran down the street.",
+                "vnString": "He ran down the street."
+              },
+              {
+                "arString": "The lion was sleeping.",
+                "enString": "The lion was sleeping.",
+                "frenchString": "The lion was sleeping.",
+                "idString": "The lion was sleeping.",
+                "vnString": "The lion was sleeping."
+              },
+              {
+                "arString": "Time is money.",
+                "enString": "Time is money.",
+                "frenchString": "Time is money.",
+                "idString": "Time is money.",
+                "vnString": "Time is money."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "He is as brave as a lion.",
+              "enString": "He is as brave as a lion.",
+              "frenchString": "He is as brave as a lion.",
+              "idString": "He is as brave as a lion.",
+              "vnString": "He is as brave as a lion."
+            },
+            "hint": {
+              "arString": "He is as brave as a lion.",
+              "enString": "He is as brave as a lion.",
+              "frenchString": "He is as brave as a lion.",
+              "idString": "He is as brave as a lion.",
+              "vnString": "He is as brave as a lion."
+            },
+            "id": 56,
+            "question": {
+              "arString": "Which sentence uses a simile?",
+              "enString": "Which sentence uses a simile?",
+              "frenchString": "Which sentence uses a simile?",
+              "idString": "Which sentence uses a simile?",
+              "vnString": "Which sentence uses a simile?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A traditional story passed down through generations",
+                "enString": "A traditional story passed down through generations",
+                "frenchString": "A traditional story passed down through generations",
+                "idString": "A traditional story passed down through generations",
+                "vnString": "A traditional story passed down through generations"
+              },
+              {
+                "arString": "A modern science textbook",
+                "enString": "A modern science textbook",
+                "frenchString": "A modern science textbook",
+                "idString": "A modern science textbook",
+                "vnString": "A modern science textbook"
+              },
+              {
+                "arString": "A newspaper article about current events",
+                "enString": "A newspaper article about current events",
+                "frenchString": "A newspaper article about current events",
+                "idString": "A newspaper article about current events",
+                "vnString": "A newspaper article about current events"
+              },
+              {
+                "arString": "A list of dictionary definitions",
+                "enString": "A list of dictionary definitions",
+                "frenchString": "A list of dictionary definitions",
+                "idString": "A list of dictionary definitions",
+                "vnString": "A list of dictionary definitions"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A traditional story passed down through generations",
+              "enString": "A traditional story passed down through generations",
+              "frenchString": "A traditional story passed down through generations",
+              "idString": "A traditional story passed down through generations",
+              "vnString": "A traditional story passed down through generations"
+            },
+            "hint": {
+              "arString": "A traditional story passed down through generations",
+              "enString": "A traditional story passed down through generations",
+              "frenchString": "A traditional story passed down through generations",
+              "idString": "A traditional story passed down through generations",
+              "vnString": "A traditional story passed down through generations"
+            },
+            "id": 57,
+            "question": {
+              "arString": "What is a folktale?",
+              "enString": "What is a folktale?",
+              "frenchString": "What is a folktale?",
+              "idString": "What is a folktale?",
+              "vnString": "What is a folktale?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "Words that have opposite meanings",
+                "enString": "Words that have opposite meanings",
+                "frenchString": "Words that have opposite meanings",
+                "idString": "Words that have opposite meanings",
+                "vnString": "Words that have opposite meanings"
+              },
+              {
+                "arString": "Words that sound the same but have different meanings",
+                "enString": "Words that sound the same but have different meanings",
+                "frenchString": "Words that sound the same but have different meanings",
+                "idString": "Words that sound the same but have different meanings",
+                "vnString": "Words that sound the same but have different meanings"
+              },
+              {
+                "arString": "Words that have the exact same meaning",
+                "enString": "Words that have the exact same meaning",
+                "frenchString": "Words that have the exact same meaning",
+                "idString": "Words that have the exact same meaning",
+                "vnString": "Words that have the exact same meaning"
+              },
+              {
+                "arString": "Words that are misspelled",
+                "enString": "Words that are misspelled",
+                "frenchString": "Words that are misspelled",
+                "idString": "Words that are misspelled",
+                "vnString": "Words that are misspelled"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Words that have opposite meanings",
+              "enString": "Words that have opposite meanings",
+              "frenchString": "Words that have opposite meanings",
+              "idString": "Words that have opposite meanings",
+              "vnString": "Words that have opposite meanings"
+            },
+            "hint": {
+              "arString": "Words that have opposite meanings",
+              "enString": "Words that have opposite meanings",
+              "frenchString": "Words that have opposite meanings",
+              "idString": "Words that have opposite meanings",
+              "vnString": "Words that have opposite meanings"
+            },
+            "id": 58,
+            "question": {
+              "arString": "What are antonyms?",
+              "enString": "What are antonyms?",
+              "frenchString": "What are antonyms?",
+              "idString": "What are antonyms?",
+              "vnString": "What are antonyms?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The primary point or most important concept of a text",
+                "enString": "The primary point or most important concept of a text",
+                "frenchString": "The primary point or most important concept of a text",
+                "idString": "The primary point or most important concept of a text",
+                "vnString": "The primary point or most important concept of a text"
+              },
+              {
+                "arString": "The very last sentence of a book",
+                "enString": "The very last sentence of a book",
+                "frenchString": "The very last sentence of a book",
+                "idString": "The very last sentence of a book",
+                "vnString": "The very last sentence of a book"
+              },
+              {
+                "arString": "The list of characters in a play",
+                "enString": "The list of characters in a play",
+                "frenchString": "The list of characters in a play",
+                "idString": "The list of characters in a play",
+                "vnString": "The list of characters in a play"
+              },
+              {
+                "arString": "The name of the publisher",
+                "enString": "The name of the publisher",
+                "frenchString": "The name of the publisher",
+                "idString": "The name of the publisher",
+                "vnString": "The name of the publisher"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The primary point or most important concept of a text",
+              "enString": "The primary point or most important concept of a text",
+              "frenchString": "The primary point or most important concept of a text",
+              "idString": "The primary point or most important concept of a text",
+              "vnString": "The primary point or most important concept of a text"
+            },
+            "hint": {
+              "arString": "The primary point or most important concept of a text",
+              "enString": "The primary point or most important concept of a text",
+              "frenchString": "The primary point or most important concept of a text",
+              "idString": "The primary point or most important concept of a text",
+              "vnString": "The primary point or most important concept of a text"
+            },
+            "id": 59,
+            "question": {
+              "arString": "What is the main idea?",
+              "enString": "What is the main idea?",
+              "frenchString": "What is the main idea?",
+              "idString": "What is the main idea?",
+              "vnString": "What is the main idea?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A word that imitates the sound it describes, like 'buzz'",
+                "enString": "A word that imitates the sound it describes, like 'buzz'",
+                "frenchString": "A word that imitates the sound it describes, like 'buzz'",
+                "idString": "A word that imitates the sound it describes, like 'buzz'",
+                "vnString": "A word that imitates the sound it describes, like 'buzz'"
+              },
+              {
+                "arString": "A word that describes a color",
+                "enString": "A word that describes a color",
+                "frenchString": "A word that describes a color",
+                "idString": "A word that describes a color",
+                "vnString": "A word that describes a color"
+              },
+              {
+                "arString": "A type of punctuation mark",
+                "enString": "A type of punctuation mark",
+                "frenchString": "A type of punctuation mark",
+                "idString": "A type of punctuation mark",
+                "vnString": "A type of punctuation mark"
+              },
+              {
+                "arString": "A short summary of a story",
+                "enString": "A short summary of a story",
+                "frenchString": "A short summary of a story",
+                "idString": "A short summary of a story",
+                "vnString": "A short summary of a story"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A word that imitates the sound it describes, like 'buzz'",
+              "enString": "A word that imitates the sound it describes, like 'buzz'",
+              "frenchString": "A word that imitates the sound it describes, like 'buzz'",
+              "idString": "A word that imitates the sound it describes, like 'buzz'",
+              "vnString": "A word that imitates the sound it describes, like 'buzz'"
+            },
+            "hint": {
+              "arString": "A word that imitates the sound it describes, like 'buzz'",
+              "enString": "A word that imitates the sound it describes, like 'buzz'",
+              "frenchString": "A word that imitates the sound it describes, like 'buzz'",
+              "idString": "A word that imitates the sound it describes, like 'buzz'",
+              "vnString": "A word that imitates the sound it describes, like 'buzz'"
+            },
+            "id": 60,
+            "question": {
+              "arString": "What is onomatopoeia?",
+              "enString": "What is onomatopoeia?",
+              "frenchString": "What is onomatopoeia?",
+              "idString": "What is onomatopoeia?",
+              "vnString": "What is onomatopoeia?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 13,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "The classroom was a zoo during the break.",
+                "enString": "The classroom was a zoo during the break.",
+                "frenchString": "The classroom was a zoo during the break.",
+                "idString": "The classroom was a zoo during the break.",
+                "vnString": "The classroom was a zoo during the break."
+              },
+              {
+                "arString": "The teacher walked into the room.",
+                "enString": "The teacher walked into the room.",
+                "frenchString": "The teacher walked into the room.",
+                "idString": "The teacher walked into the room.",
+                "vnString": "The teacher walked into the room."
+              },
+              {
+                "arString": "The room was as quiet as a library.",
+                "enString": "The room was as quiet as a library.",
+                "frenchString": "The room was as quiet as a library.",
+                "idString": "The room was as quiet as a library.",
+                "vnString": "The room was as quiet as a library."
+              },
+              {
+                "arString": "The clock ticked loudly on the wall.",
+                "enString": "The clock ticked loudly on the wall.",
+                "frenchString": "The clock ticked loudly on the wall.",
+                "idString": "The clock ticked loudly on the wall.",
+                "vnString": "The clock ticked loudly on the wall."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The classroom was a zoo during the break.",
+              "enString": "The classroom was a zoo during the break.",
+              "frenchString": "The classroom was a zoo during the break.",
+              "idString": "The classroom was a zoo during the break.",
+              "vnString": "The classroom was a zoo during the break."
+            },
+            "hint": {
+              "arString": "The classroom was a zoo during the break.",
+              "enString": "The classroom was a zoo during the break.",
+              "frenchString": "The classroom was a zoo during the break.",
+              "idString": "The classroom was a zoo during the break.",
+              "vnString": "The classroom was a zoo during the break."
+            },
+            "id": 61,
+            "question": {
+              "arString": "Which sentence uses a metaphor?",
+              "enString": "Which sentence uses a metaphor?",
+              "frenchString": "Which sentence uses a metaphor?",
+              "idString": "Which sentence uses a metaphor?",
+              "vnString": "Which sentence uses a metaphor?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A short story that teaches a lesson, often using animal characters",
+                "enString": "A short story that teaches a lesson, often using animal characters",
+                "frenchString": "A short story that teaches a lesson, often using animal characters",
+                "idString": "A short story that teaches a lesson, often using animal characters",
+                "vnString": "A short story that teaches a lesson, often using animal characters"
+              },
+              {
+                "arString": "A long history textbook about ancient wars",
+                "enString": "A long history textbook about ancient wars",
+                "frenchString": "A long history textbook about ancient wars",
+                "idString": "A long history textbook about ancient wars",
+                "vnString": "A long history textbook about ancient wars"
+              },
+              {
+                "arString": "A recipe book for baking cakes",
+                "enString": "A recipe book for baking cakes",
+                "frenchString": "A recipe book for baking cakes",
+                "idString": "A recipe book for baking cakes",
+                "vnString": "A recipe book for baking cakes"
+              },
+              {
+                "arString": "An instruction manual for a computer game",
+                "enString": "An instruction manual for a computer game",
+                "frenchString": "An instruction manual for a computer game",
+                "idString": "An instruction manual for a computer game",
+                "vnString": "An instruction manual for a computer game"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A short story that teaches a lesson, often using animal characters",
+              "enString": "A short story that teaches a lesson, often using animal characters",
+              "frenchString": "A short story that teaches a lesson, often using animal characters",
+              "idString": "A short story that teaches a lesson, often using animal characters",
+              "vnString": "A short story that teaches a lesson, often using animal characters"
+            },
+            "hint": {
+              "arString": "A short story that teaches a lesson, often using animal characters",
+              "enString": "A short story that teaches a lesson, often using animal characters",
+              "frenchString": "A short story that teaches a lesson, often using animal characters",
+              "idString": "A short story that teaches a lesson, often using animal characters",
+              "vnString": "A short story that teaches a lesson, often using animal characters"
+            },
+            "id": 62,
+            "question": {
+              "arString": "What is a fable?",
+              "enString": "What is a fable?",
+              "frenchString": "What is a fable?",
+              "idString": "What is a fable?",
+              "vnString": "What is a fable?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "Words that have the same or very similar meanings",
+                "enString": "Words that have the same or very similar meanings",
+                "frenchString": "Words that have the same or very similar meanings",
+                "idString": "Words that have the same or very similar meanings",
+                "vnString": "Words that have the same or very similar meanings"
+              },
+              {
+                "arString": "Words that are written backward",
+                "enString": "Words that are written backward",
+                "frenchString": "Words that are written backward",
+                "idString": "Words that are written backward",
+                "vnString": "Words that are written backward"
+              },
+              {
+                "arString": "Words that have opposite meanings",
+                "enString": "Words that have opposite meanings",
+                "frenchString": "Words that have opposite meanings",
+                "idString": "Words that have opposite meanings",
+                "vnString": "Words that have opposite meanings"
+              },
+              {
+                "arString": "Words used only in poetry",
+                "enString": "Words used only in poetry",
+                "frenchString": "Words used only in poetry",
+                "idString": "Words used only in poetry",
+                "vnString": "Words used only in poetry"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Words that have the same or very similar meanings",
+              "enString": "Words that have the same or very similar meanings",
+              "frenchString": "Words that have the same or very similar meanings",
+              "idString": "Words that have the same or very similar meanings",
+              "vnString": "Words that have the same or very similar meanings"
+            },
+            "hint": {
+              "arString": "Words that have the same or very similar meanings",
+              "enString": "Words that have the same or very similar meanings",
+              "frenchString": "Words that have the same or very similar meanings",
+              "idString": "Words that have the same or very similar meanings",
+              "vnString": "Words that have the same or very similar meanings"
+            },
+            "id": 63,
+            "question": {
+              "arString": "What are synonyms?",
+              "enString": "What are synonyms?",
+              "frenchString": "What are synonyms?",
+              "idString": "What are synonyms?",
+              "vnString": "What are synonyms?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The main struggle or problem that drives the plot",
+                "enString": "The main struggle or problem that drives the plot",
+                "frenchString": "The main struggle or problem that drives the plot",
+                "idString": "The main struggle or problem that drives the plot",
+                "vnString": "The main struggle or problem that drives the plot"
+              },
+              {
+                "arString": "The place where the story happens",
+                "enString": "The place where the story happens",
+                "frenchString": "The place where the story happens",
+                "idString": "The place where the story happens",
+                "vnString": "The place where the story happens"
+              },
+              {
+                "arString": "The list of chapters at the beginning of a book",
+                "enString": "The list of chapters at the beginning of a book",
+                "frenchString": "The list of chapters at the beginning of a book",
+                "idString": "The list of chapters at the beginning of a book",
+                "vnString": "The list of chapters at the beginning of a book"
+              },
+              {
+                "arString": "The introduction of the main characters",
+                "enString": "The introduction of the main characters",
+                "frenchString": "The introduction of the main characters",
+                "idString": "The introduction of the main characters",
+                "vnString": "The introduction of the main characters"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The main struggle or problem that drives the plot",
+              "enString": "The main struggle or problem that drives the plot",
+              "frenchString": "The main struggle or problem that drives the plot",
+              "idString": "The main struggle or problem that drives the plot",
+              "vnString": "The main struggle or problem that drives the plot"
+            },
+            "hint": {
+              "arString": "The main struggle or problem that drives the plot",
+              "enString": "The main struggle or problem that drives the plot",
+              "frenchString": "The main struggle or problem that drives the plot",
+              "idString": "The main struggle or problem that drives the plot",
+              "vnString": "The main struggle or problem that drives the plot"
+            },
+            "id": 64,
+            "question": {
+              "arString": "What is conflict in a story?",
+              "enString": "What is conflict in a story?",
+              "frenchString": "What is conflict in a story?",
+              "idString": "What is conflict in a story?",
+              "vnString": "What is conflict in a story?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A word that takes the place of a noun, like 'he' or 'they'",
+                "enString": "A word that takes the place of a noun, like 'he' or 'they'",
+                "frenchString": "A word that takes the place of a noun, like 'he' or 'they'",
+                "idString": "A word that takes the place of a noun, like 'he' or 'they'",
+                "vnString": "A word that takes the place of a noun, like 'he' or 'they'"
+              },
+              {
+                "arString": "An action word",
+                "enString": "An action word",
+                "frenchString": "An action word",
+                "idString": "An action word",
+                "vnString": "An action word"
+              },
+              {
+                "arString": "A word that describes a location",
+                "enString": "A word that describes a location",
+                "frenchString": "A word that describes a location",
+                "idString": "A word that describes a location",
+                "vnString": "A word that describes a location"
+              },
+              {
+                "arString": "A type of question mark",
+                "enString": "A type of question mark",
+                "frenchString": "A type of question mark",
+                "idString": "A type of question mark",
+                "vnString": "A type of question mark"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "enString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "frenchString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "idString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "vnString": "A word that takes the place of a noun, like 'he' or 'they'"
+            },
+            "hint": {
+              "arString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "enString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "frenchString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "idString": "A word that takes the place of a noun, like 'he' or 'they'",
+              "vnString": "A word that takes the place of a noun, like 'he' or 'they'"
+            },
+            "id": 65,
+            "question": {
+              "arString": "What is a pronoun?",
+              "enString": "What is a pronoun?",
+              "frenchString": "What is a pronoun?",
+              "idString": "What is a pronoun?",
+              "vnString": "What is a pronoun?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 14,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "I have told you a million times to clean your room.",
+                "enString": "I have told you a million times to clean your room.",
+                "frenchString": "I have told you a million times to clean your room.",
+                "idString": "I have told you a million times to clean your room.",
+                "vnString": "I have told you a million times to clean your room."
+              },
+              {
+                "arString": "I called you twice yesterday.",
+                "enString": "I called you twice yesterday.",
+                "frenchString": "I called you twice yesterday.",
+                "idString": "I called you twice yesterday.",
+                "vnString": "I called you twice yesterday."
+              },
+              {
+                "arString": "The room is very messy.",
+                "enString": "The room is very messy.",
+                "frenchString": "The room is very messy.",
+                "idString": "The room is very messy.",
+                "vnString": "The room is very messy."
+              },
+              {
+                "arString": "She cleans her desk every single day.",
+                "enString": "She cleans her desk every single day.",
+                "frenchString": "She cleans her desk every single day.",
+                "idString": "She cleans her desk every single day.",
+                "vnString": "She cleans her desk every single day."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "I have told you a million times to clean your room.",
+              "enString": "I have told you a million times to clean your room.",
+              "frenchString": "I have told you a million times to clean your room.",
+              "idString": "I have told you a million times to clean your room.",
+              "vnString": "I have told you a million times to clean your room."
+            },
+            "hint": {
+              "arString": "I have told you a million times to clean your room.",
+              "enString": "I have told you a million times to clean your room.",
+              "frenchString": "I have told you a million times to clean your room.",
+              "idString": "I have told you a million times to clean your room.",
+              "vnString": "I have told you a million times to clean your room."
+            },
+            "id": 66,
+            "question": {
+              "arString": "Which sentence uses hyperbole?",
+              "enString": "Which sentence uses hyperbole?",
+              "frenchString": "Which sentence uses hyperbole?",
+              "idString": "Which sentence uses hyperbole?",
+              "vnString": "Which sentence uses hyperbole?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The time and place where a story happens",
+                "enString": "The time and place where a story happens",
+                "frenchString": "The time and place where a story happens",
+                "idString": "The time and place where a story happens",
+                "vnString": "The time and place where a story happens"
+              },
+              {
+                "arString": "The message or lesson of a book",
+                "enString": "The message or lesson of a book",
+                "frenchString": "The message or lesson of a book",
+                "idString": "The message or lesson of a book",
+                "vnString": "The message or lesson of a book"
+              },
+              {
+                "arString": "The type of font used by the publisher",
+                "enString": "The type of font used by the publisher",
+                "frenchString": "The type of font used by the publisher",
+                "idString": "The type of font used by the publisher",
+                "vnString": "The type of font used by the publisher"
+              },
+              {
+                "arString": "The resolution of the main conflict",
+                "enString": "The resolution of the main conflict",
+                "frenchString": "The resolution of the main conflict",
+                "idString": "The resolution of the main conflict",
+                "vnString": "The resolution of the main conflict"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The time and place where a story happens",
+              "enString": "The time and place where a story happens",
+              "frenchString": "The time and place where a story happens",
+              "idString": "The time and place where a story happens",
+              "vnString": "The time and place where a story happens"
+            },
+            "hint": {
+              "arString": "The time and place where a story happens",
+              "enString": "The time and place where a story happens",
+              "frenchString": "The time and place where a story happens",
+              "idString": "The time and place where a story happens",
+              "vnString": "The time and place where a story happens"
+            },
+            "id": 67,
+            "question": {
+              "arString": "What is the setting of a story?",
+              "enString": "What is the setting of a story?",
+              "frenchString": "What is the setting of a story?",
+              "idString": "What is the setting of a story?",
+              "vnString": "What is the setting of a story?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A word that describes or modifies a noun",
+                "enString": "A word that describes or modifies a noun",
+                "frenchString": "A word that describes or modifies a noun",
+                "idString": "A word that describes or modifies a noun",
+                "vnString": "A word that describes or modifies a noun"
+              },
+              {
+                "arString": "A word that represents a physical movement",
+                "enString": "A word that represents a physical movement",
+                "frenchString": "A word that represents a physical movement",
+                "idString": "A word that represents a physical movement",
+                "vnString": "A word that represents a physical movement"
+              },
+              {
+                "arString": "A person, place, or thing",
+                "enString": "A person, place, or thing",
+                "frenchString": "A person, place, or thing",
+                "idString": "A person, place, or thing",
+                "vnString": "A person, place, or thing"
+              },
+              {
+                "arString": "A connecting word like 'and' or 'but'",
+                "enString": "A connecting word like 'and' or 'but'",
+                "frenchString": "A connecting word like 'and' or 'but'",
+                "idString": "A connecting word like 'and' or 'but'",
+                "vnString": "A connecting word like 'and' or 'but'"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A word that describes or modifies a noun",
+              "enString": "A word that describes or modifies a noun",
+              "frenchString": "A word that describes or modifies a noun",
+              "idString": "A word that describes or modifies a noun",
+              "vnString": "A word that describes or modifies a noun"
+            },
+            "hint": {
+              "arString": "A word that describes or modifies a noun",
+              "enString": "A word that describes or modifies a noun",
+              "frenchString": "A word that describes or modifies a noun",
+              "idString": "A word that describes or modifies a noun",
+              "vnString": "A word that describes or modifies a noun"
+            },
+            "id": 68,
+            "question": {
+              "arString": "What is an adjective?",
+              "enString": "What is an adjective?",
+              "frenchString": "What is an adjective?",
+              "idString": "What is an adjective?",
+              "vnString": "What is an adjective?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "Words that sound the same but have different meanings and spellings",
+                "enString": "Words that sound the same but have different meanings and spellings",
+                "frenchString": "Words that sound the same but have different meanings and spellings",
+                "idString": "Words that sound the same but have different meanings and spellings",
+                "vnString": "Words that sound the same but have different meanings and spellings"
+              },
+              {
+                "arString": "Words that have identical meanings but sound different",
+                "enString": "Words that have identical meanings but sound different",
+                "frenchString": "Words that have identical meanings but sound different",
+                "idString": "Words that have identical meanings but sound different",
+                "vnString": "Words that have identical meanings but sound different"
+              },
+              {
+                "arString": "Words used to make a story much funnier",
+                "enString": "Words used to make a story much funnier",
+                "frenchString": "Words used to make a story much funnier",
+                "idString": "Words used to make a story much funnier",
+                "vnString": "Words used to make a story much funnier"
+              },
+              {
+                "arString": "Words that are completely capitalized",
+                "enString": "Words that are completely capitalized",
+                "frenchString": "Words that are completely capitalized",
+                "idString": "Words that are completely capitalized",
+                "vnString": "Words that are completely capitalized"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Words that sound the same but have different meanings and spellings",
+              "enString": "Words that sound the same but have different meanings and spellings",
+              "frenchString": "Words that sound the same but have different meanings and spellings",
+              "idString": "Words that sound the same but have different meanings and spellings",
+              "vnString": "Words that sound the same but have different meanings and spellings"
+            },
+            "hint": {
+              "arString": "Words that sound the same but have different meanings and spellings",
+              "enString": "Words that sound the same but have different meanings and spellings",
+              "frenchString": "Words that sound the same but have different meanings and spellings",
+              "idString": "Words that sound the same but have different meanings and spellings",
+              "vnString": "Words that sound the same but have different meanings and spellings"
+            },
+            "id": 69,
+            "question": {
+              "arString": "What are homophones?",
+              "enString": "What are homophones?",
+              "frenchString": "What are homophones?",
+              "idString": "What are homophones?",
+              "vnString": "What are homophones?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The reason why an author decides to write a specific text",
+                "enString": "The reason why an author decides to write a specific text",
+                "frenchString": "The reason why an author decides to write a specific text",
+                "idString": "The reason why an author decides to write a specific text",
+                "vnString": "The reason why an author decides to write a specific text"
+              },
+              {
+                "arString": "The amount of money an author earns from sales",
+                "enString": "The amount of money an author earns from sales",
+                "frenchString": "The amount of money an author earns from sales",
+                "idString": "The amount of money an author earns from sales",
+                "vnString": "The amount of money an author earns from sales"
+              },
+              {
+                "arString": "The time it takes to finish typing a chapter",
+                "enString": "The time it takes to finish typing a chapter",
+                "frenchString": "The time it takes to finish typing a chapter",
+                "idString": "The time it takes to finish typing a chapter",
+                "vnString": "The time it takes to finish typing a chapter"
+              },
+              {
+                "arString": "The name of the main character's best friend",
+                "enString": "The name of the main character's best friend",
+                "frenchString": "The name of the main character's best friend",
+                "idString": "The name of the main character's best friend",
+                "vnString": "The name of the main character's best friend"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The reason why an author decides to write a specific text",
+              "enString": "The reason why an author decides to write a specific text",
+              "frenchString": "The reason why an author decides to write a specific text",
+              "idString": "The reason why an author decides to write a specific text",
+              "vnString": "The reason why an author decides to write a specific text"
+            },
+            "hint": {
+              "arString": "The reason why an author decides to write a specific text",
+              "enString": "The reason why an author decides to write a specific text",
+              "frenchString": "The reason why an author decides to write a specific text",
+              "idString": "The reason why an author decides to write a specific text",
+              "vnString": "The reason why an author decides to write a specific text"
+            },
+            "id": 70,
+            "question": {
+              "arString": "What is the author's purpose?",
+              "enString": "What is the author's purpose?",
+              "frenchString": "What is the author's purpose?",
+              "idString": "What is the author's purpose?",
+              "vnString": "What is the author's purpose?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 15,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "Seven silver swans swam smoothly southward.",
+                "enString": "Seven silver swans swam smoothly southward.",
+                "frenchString": "Seven silver swans swam smoothly southward.",
+                "idString": "Seven silver swans swam smoothly southward.",
+                "vnString": "Seven silver swans swam smoothly southward."
+              },
+              {
+                "arString": "The birds flew high above the lake.",
+                "enString": "The birds flew high above the lake.",
+                "frenchString": "The birds flew high above the lake.",
+                "idString": "The birds flew high above the lake.",
+                "vnString": "The birds flew high above the lake."
+              },
+              {
+                "arString": "The water was as clear as glass.",
+                "enString": "The water was as clear as glass.",
+                "frenchString": "The water was as clear as glass.",
+                "idString": "The water was as clear as glass.",
+                "vnString": "The water was as clear as glass."
+              },
+              {
+                "arString": "The wind whispered secrets to the trees.",
+                "enString": "The wind whispered secrets to the trees.",
+                "frenchString": "The wind whispered secrets to the trees.",
+                "idString": "The wind whispered secrets to the trees.",
+                "vnString": "The wind whispered secrets to the trees."
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Seven silver swans swam smoothly southward.",
+              "enString": "Seven silver swans swam smoothly southward.",
+              "frenchString": "Seven silver swans swam smoothly southward.",
+              "idString": "Seven silver swans swam smoothly southward.",
+              "vnString": "Seven silver swans swam smoothly southward."
+            },
+            "hint": {
+              "arString": "Seven silver swans swam smoothly southward.",
+              "enString": "Seven silver swans swam smoothly southward.",
+              "frenchString": "Seven silver swans swam smoothly southward.",
+              "idString": "Seven silver swans swam smoothly southward.",
+              "vnString": "Seven silver swans swam smoothly southward."
+            },
+            "id": 71,
+            "question": {
+              "arString": "Which sentence uses alliteration?",
+              "enString": "Which sentence uses alliteration?",
+              "frenchString": "Which sentence uses alliteration?",
+              "idString": "Which sentence uses alliteration?",
+              "vnString": "Which sentence uses alliteration?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "Poetry that does not use a regular rhyme or rhythm",
+                "enString": "Poetry that does not use a regular rhyme or rhythm",
+                "frenchString": "Poetry that does not use a regular rhyme or rhythm",
+                "idString": "Poetry that does not use a regular rhyme or rhythm",
+                "vnString": "Poetry that does not use a regular rhyme or rhythm"
+              },
+              {
+                "arString": "A poem that has exactly fourteen lines",
+                "enString": "A poem that has exactly fourteen lines",
+                "frenchString": "A poem that has exactly fourteen lines",
+                "idString": "A poem that has exactly fourteen lines",
+                "vnString": "A poem that has exactly fourteen lines"
+              },
+              {
+                "arString": "A story written about historical facts",
+                "enString": "A story written about historical facts",
+                "frenchString": "A story written about historical facts",
+                "idString": "A story written about historical facts",
+                "vnString": "A story written about historical facts"
+              },
+              {
+                "arString": "A dialogue between two characters in a play",
+                "enString": "A dialogue between two characters in a play",
+                "frenchString": "A dialogue between two characters in a play",
+                "idString": "A dialogue between two characters in a play",
+                "vnString": "A dialogue between two characters in a play"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Poetry that does not use a regular rhyme or rhythm",
+              "enString": "Poetry that does not use a regular rhyme or rhythm",
+              "frenchString": "Poetry that does not use a regular rhyme or rhythm",
+              "idString": "Poetry that does not use a regular rhyme or rhythm",
+              "vnString": "Poetry that does not use a regular rhyme or rhythm"
+            },
+            "hint": {
+              "arString": "Poetry that does not use a regular rhyme or rhythm",
+              "enString": "Poetry that does not use a regular rhyme or rhythm",
+              "frenchString": "Poetry that does not use a regular rhyme or rhythm",
+              "idString": "Poetry that does not use a regular rhyme or rhythm",
+              "vnString": "Poetry that does not use a regular rhyme or rhythm"
+            },
+            "id": 72,
+            "question": {
+              "arString": "What is free verse?",
+              "enString": "What is free verse?",
+              "frenchString": "What is free verse?",
+              "idString": "What is free verse?",
+              "vnString": "What is free verse?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "A word that modifies a verb, adjective, or another adverb",
+                "enString": "A word that modifies a verb, adjective, or another adverb",
+                "frenchString": "A word that modifies a verb, adjective, or another adverb",
+                "idString": "A word that modifies a verb, adjective, or another adverb",
+                "vnString": "A word that modifies a verb, adjective, or another adverb"
+              },
+              {
+                "arString": "The name of a specific person or location",
+                "enString": "The name of a specific person or location",
+                "frenchString": "The name of a specific person or location",
+                "idString": "The name of a specific person or location",
+                "vnString": "The name of a specific person or location"
+              },
+              {
+                "arString": "A punctuation mark used to end a sentence",
+                "enString": "A punctuation mark used to end a sentence",
+                "frenchString": "A punctuation mark used to end a sentence",
+                "idString": "A punctuation mark used to end a sentence",
+                "vnString": "A punctuation mark used to end a sentence"
+              },
+              {
+                "arString": "A word that shows an immediate emotion",
+                "enString": "A word that shows an immediate emotion",
+                "frenchString": "A word that shows an immediate emotion",
+                "idString": "A word that shows an immediate emotion",
+                "vnString": "A word that shows an immediate emotion"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "A word that modifies a verb, adjective, or another adverb",
+              "enString": "A word that modifies a verb, adjective, or another adverb",
+              "frenchString": "A word that modifies a verb, adjective, or another adverb",
+              "idString": "A word that modifies a verb, adjective, or another adverb",
+              "vnString": "A word that modifies a verb, adjective, or another adverb"
+            },
+            "hint": {
+              "arString": "A word that modifies a verb, adjective, or another adverb",
+              "enString": "A word that modifies a verb, adjective, or another adverb",
+              "frenchString": "A word that modifies a verb, adjective, or another adverb",
+              "idString": "A word that modifies a verb, adjective, or another adverb",
+              "vnString": "A word that modifies a verb, adjective, or another adverb"
+            },
+            "id": 73,
+            "question": {
+              "arString": "What is an adverb?",
+              "enString": "What is an adverb?",
+              "frenchString": "What is an adverb?",
+              "idString": "What is an adverb?",
+              "vnString": "What is an adverb?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The underlying message, lesson, or moral of a story",
+                "enString": "The underlying message, lesson, or moral of a story",
+                "frenchString": "The underlying message, lesson, or moral of a story",
+                "idString": "The underlying message, lesson, or moral of a story",
+                "vnString": "The underlying message, lesson, or moral of a story"
+              },
+              {
+                "arString": "The sequence of events that happen in a book",
+                "enString": "The sequence of events that happen in a book",
+                "frenchString": "The sequence of events that happen in a book",
+                "idString": "The sequence of events that happen in a book",
+                "vnString": "The sequence of events that happen in a book"
+              },
+              {
+                "arString": "The physical description of the antagonist",
+                "enString": "The physical description of the antagonist",
+                "frenchString": "The physical description of the antagonist",
+                "idString": "The physical description of the antagonist",
+                "vnString": "The physical description of the antagonist"
+              },
+              {
+                "arString": "The total number of chapters in a novel",
+                "enString": "The total number of chapters in a novel",
+                "frenchString": "The total number of chapters in a novel",
+                "idString": "The total number of chapters in a novel",
+                "vnString": "The total number of chapters in a novel"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The underlying message, lesson, or moral of a story",
+              "enString": "The underlying message, lesson, or moral of a story",
+              "frenchString": "The underlying message, lesson, or moral of a story",
+              "idString": "The underlying message, lesson, or moral of a story",
+              "vnString": "The underlying message, lesson, or moral of a story"
+            },
+            "hint": {
+              "arString": "The underlying message, lesson, or moral of a story",
+              "enString": "The underlying message, lesson, or moral of a story",
+              "frenchString": "The underlying message, lesson, or moral of a story",
+              "idString": "The underlying message, lesson, or moral of a story",
+              "vnString": "The underlying message, lesson, or moral of a story"
+            },
+            "id": 74,
+            "question": {
+              "arString": "What is the theme of a story?",
+              "enString": "What is the theme of a story?",
+              "frenchString": "What is the theme of a story?",
+              "idString": "What is the theme of a story?",
+              "vnString": "What is the theme of a story?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "The base part of a word that contains its core meaning",
+                "enString": "The base part of a word that contains its core meaning",
+                "frenchString": "The base part of a word that contains its core meaning",
+                "idString": "The base part of a word that contains its core meaning",
+                "vnString": "The base part of a word that contains its core meaning"
+              },
+              {
+                "arString": "A letter added only to the end of a sentence",
+                "enString": "A letter added only to the end of a sentence",
+                "frenchString": "A letter added only to the end of a sentence",
+                "idString": "A letter added only to the end of a sentence",
+                "vnString": "A letter added only to the end of a sentence"
+              },
+              {
+                "arString": "A hidden message written by the author",
+                "enString": "A hidden message written by the author",
+                "frenchString": "A hidden message written by the author",
+                "idString": "A hidden message written by the author",
+                "vnString": "A hidden message written by the author"
+              },
+              {
+                "arString": "A word that is never used in modern language",
+                "enString": "A word that is never used in modern language",
+                "frenchString": "A word that is never used in modern language",
+                "idString": "A word that is never used in modern language",
+                "vnString": "A word that is never used in modern language"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "The base part of a word that contains its core meaning",
+              "enString": "The base part of a word that contains its core meaning",
+              "frenchString": "The base part of a word that contains its core meaning",
+              "idString": "The base part of a word that contains its core meaning",
+              "vnString": "The base part of a word that contains its core meaning"
+            },
+            "hint": {
+              "arString": "The base part of a word that contains its core meaning",
+              "enString": "The base part of a word that contains its core meaning",
+              "frenchString": "The base part of a word that contains its core meaning",
+              "idString": "The base part of a word that contains its core meaning",
+              "vnString": "The base part of a word that contains its core meaning"
+            },
+            "id": 75,
+            "question": {
+              "arString": "What is a root word?",
+              "enString": "What is a root word?",
+              "frenchString": "What is a root word?",
+              "idString": "What is a root word?",
+              "vnString": "What is a root word?"
+            }
+          }
+        ],
+        "status": 0
       }
     ],
     "subject": "languageArt"
