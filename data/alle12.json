@@ -38369,14 +38369,14 @@
                 "vnString": "Thomas Jefferson"
               },
               {
-                "arString": "Abraham Lincoln",
+                "arString": "أبراهام لينكولن",
                 "enString": "Abraham Lincoln",
                 "frenchString": "Abraham Lincoln",
                 "idString": "Abraham Lincoln",
                 "vnString": "Abraham Lincoln"
               },
               {
-                "arString": "George Washington",
+                "arString": "جورج واشنطن",
                 "enString": "George Washington",
                 "frenchString": "George Washington",
                 "idString": "George Washington",
@@ -38742,227 +38742,227 @@
             },
             "id": 1,
             "question": {
-              "arString": "What is the slope of a line that passes through the points (2, 3) and (4, 7)?",
+              "arString": "ما ميل المستقيم الذي يمر بالنقطتين (2، 3) و(4، 7)؟",
               "enString": "What is the slope of a line that passes through the points (2, 3) and (4, 7)?",
-              "frenchString": "What is the slope of a line that passes through the points (2, 3) and (4, 7)?",
-              "idString": "What is the slope of a line that passes through the points (2, 3) and (4, 7)?",
-              "vnString": "What is the slope of a line that passes through the points (2, 3) and (4, 7)?"
+              "frenchString": "Quelle est la pente d'une droite qui passe par les points (2, 3) et (4, 7) ?",
+              "idString": "Berapa kemiringan garis yang melalui titik (2, 3) dan (4, 7)?",
+              "vnString": "Hệ số góc của đường thẳng đi qua các điểm (2, 3) và (4, 7) là bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Nucleus",
+                "arString": "النواة",
                 "enString": "Nucleus",
-                "frenchString": "Nucleus",
-                "idString": "Nucleus",
-                "vnString": "Nucleus"
+                "frenchString": "Noyau",
+                "idString": "Nukleus",
+                "vnString": "Nhân tế bào"
               },
               {
-                "arString": "Mitochondria",
+                "arString": "الميتوكوندريا",
                 "enString": "Mitochondria",
-                "frenchString": "Mitochondria",
-                "idString": "Mitochondria",
-                "vnString": "Mitochondria"
+                "frenchString": "Mitochondrie",
+                "idString": "Mitokondria",
+                "vnString": "Ti thể"
               },
               {
-                "arString": "Ribosome",
+                "arString": "الريبوسوم",
                 "enString": "Ribosome",
                 "frenchString": "Ribosome",
-                "idString": "Ribosome",
+                "idString": "Ribosom",
                 "vnString": "Ribosome"
               },
               {
-                "arString": "Chloroplast",
+                "arString": "البلاستيدة الخضراء",
                 "enString": "Chloroplast",
-                "frenchString": "Chloroplast",
-                "idString": "Chloroplast",
-                "vnString": "Chloroplast"
+                "frenchString": "Chloroplaste",
+                "idString": "Kloroplas",
+                "vnString": "Lục lạp"
               }
             ],
             "correctAnswer": {
-              "arString": "Mitochondria",
+              "arString": "الميتوكوندريا",
               "enString": "Mitochondria",
-              "frenchString": "Mitochondria",
-              "idString": "Mitochondria",
-              "vnString": "Mitochondria"
+              "frenchString": "Mitochondrie",
+              "idString": "Mitokondria",
+              "vnString": "Ti thể"
             },
             "hint": {
-              "arString": "Mitochondria",
+              "arString": "الميتوكوندريا",
               "enString": "Mitochondria",
-              "frenchString": "Mitochondria",
-              "idString": "Mitochondria",
-              "vnString": "Mitochondria"
+              "frenchString": "Mitochondrie",
+              "idString": "Mitokondria",
+              "vnString": "Ti thể"
             },
             "id": 2,
             "question": {
-              "arString": "Which organelle is known as the 'powerhouse of the cell'?",
+              "arString": "أي عضية تُعرف باسم \"محطة طاقة الخلية\"؟",
               "enString": "Which organelle is known as the 'powerhouse of the cell'?",
-              "frenchString": "Which organelle is known as the 'powerhouse of the cell'?",
-              "idString": "Which organelle is known as the 'powerhouse of the cell'?",
-              "vnString": "Which organelle is known as the 'powerhouse of the cell'?"
+              "frenchString": "Quel organite est connu sous le nom de « centrale énergétique de la cellule » ?",
+              "idString": "Organel manakah yang dikenal sebagai \"pembangkit tenaga sel\"?",
+              "vnString": "Bào quan nào được biết đến là \"nhà máy năng lượng của tế bào\"?"
             }
           },
           {
             "answers": [
               {
-                "arString": "The Great Gatsby",
+                "arString": "غاتسبي العظيم",
                 "enString": "The Great Gatsby",
-                "frenchString": "The Great Gatsby",
-                "idString": "The Great Gatsby",
-                "vnString": "The Great Gatsby"
+                "frenchString": "Gatsby le Magnifique",
+                "idString": "Gatsby yang Agung",
+                "vnString": "Gatsby vĩ đại"
               },
               {
-                "arString": "To Kill a Mockingbird",
+                "arString": "أن تقتل طائرًا بريئًا",
                 "enString": "To Kill a Mockingbird",
-                "frenchString": "To Kill a Mockingbird",
+                "frenchString": "Ne tirez pas sur l'oiseau moqueur",
                 "idString": "To Kill a Mockingbird",
-                "vnString": "To Kill a Mockingbird"
+                "vnString": "Giết con chim nhại"
               },
               {
-                "arString": "Of Mice and Men",
+                "arString": "عن الفئران والرجال",
                 "enString": "Of Mice and Men",
-                "frenchString": "Of Mice and Men",
-                "idString": "Of Mice and Men",
-                "vnString": "Of Mice and Men"
+                "frenchString": "Des souris et des hommes",
+                "idString": "Tikus dan Manusia",
+                "vnString": "Của chuột và người"
               },
               {
-                "arString": "Pride and Prejudice",
+                "arString": "كبرياء وتحامل",
                 "enString": "Pride and Prejudice",
-                "frenchString": "Pride and Prejudice",
-                "idString": "Pride and Prejudice",
-                "vnString": "Pride and Prejudice"
+                "frenchString": "Orgueil et Préjugés",
+                "idString": "Harga Diri dan Prasangka",
+                "vnString": "Kiêu hãnh và định kiến"
               }
             ],
             "correctAnswer": {
-              "arString": "To Kill a Mockingbird",
+              "arString": "أن تقتل طائرًا بريئًا",
               "enString": "To Kill a Mockingbird",
-              "frenchString": "To Kill a Mockingbird",
+              "frenchString": "Ne tirez pas sur l'oiseau moqueur",
               "idString": "To Kill a Mockingbird",
-              "vnString": "To Kill a Mockingbird"
+              "vnString": "Giết con chim nhại"
             },
             "hint": {
-              "arString": "To Kill a Mockingbird",
+              "arString": "أن تقتل طائرًا بريئًا",
               "enString": "To Kill a Mockingbird",
-              "frenchString": "To Kill a Mockingbird",
+              "frenchString": "Ne tirez pas sur l'oiseau moqueur",
               "idString": "To Kill a Mockingbird",
-              "vnString": "To Kill a Mockingbird"
+              "vnString": "Giết con chim nhại"
             },
             "id": 3,
             "question": {
-              "arString": "Which novel features the character Atticus Finch?",
+              "arString": "أي رواية تظهر فيها شخصية أتيكوس فينش؟",
               "enString": "Which novel features the character Atticus Finch?",
-              "frenchString": "Which novel features the character Atticus Finch?",
-              "idString": "Which novel features the character Atticus Finch?",
-              "vnString": "Which novel features the character Atticus Finch?"
+              "frenchString": "Dans quel roman apparaît le personnage d'Atticus Finch ?",
+              "idString": "Novel mana yang menampilkan tokoh Atticus Finch?",
+              "vnString": "Tiểu thuyết nào có nhân vật Atticus Finch?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Neptune",
+                "arString": "نبتون",
                 "enString": "Neptune",
                 "frenchString": "Neptune",
-                "idString": "Neptune",
-                "vnString": "Neptune"
+                "idString": "Neptunus",
+                "vnString": "Sao Hải Vương"
               },
               {
-                "arString": "Saturn",
+                "arString": "زحل",
                 "enString": "Saturn",
-                "frenchString": "Saturn",
-                "idString": "Saturn",
-                "vnString": "Saturn"
+                "frenchString": "Saturne",
+                "idString": "Saturnus",
+                "vnString": "Sao Thổ"
               },
               {
-                "arString": "Jupiter",
+                "arString": "المشتري",
                 "enString": "Jupiter",
                 "frenchString": "Jupiter",
                 "idString": "Jupiter",
-                "vnString": "Jupiter"
+                "vnString": "Sao Mộc"
               },
               {
-                "arString": "Earth",
+                "arString": "الأرض",
                 "enString": "Earth",
-                "frenchString": "Earth",
-                "idString": "Earth",
-                "vnString": "Earth"
+                "frenchString": "Terre",
+                "idString": "Bumi",
+                "vnString": "Trái Đất"
               }
             ],
             "correctAnswer": {
-              "arString": "Jupiter",
+              "arString": "المشتري",
               "enString": "Jupiter",
               "frenchString": "Jupiter",
               "idString": "Jupiter",
-              "vnString": "Jupiter"
+              "vnString": "Sao Mộc"
             },
             "hint": {
-              "arString": "Jupiter",
+              "arString": "المشتري",
               "enString": "Jupiter",
               "frenchString": "Jupiter",
               "idString": "Jupiter",
-              "vnString": "Jupiter"
+              "vnString": "Sao Mộc"
             },
             "id": 4,
             "question": {
-              "arString": "What is the largest planet in our solar system?",
+              "arString": "ما أكبر كوكب في نظامنا الشمسي؟",
               "enString": "What is the largest planet in our solar system?",
-              "frenchString": "What is the largest planet in our solar system?",
-              "idString": "What is the largest planet in our solar system?",
-              "vnString": "What is the largest planet in our solar system?"
+              "frenchString": "Quelle est la plus grande planète de notre système solaire ?",
+              "idString": "Apa planet terbesar di tata surya kita?",
+              "vnString": "Hành tinh lớn nhất trong hệ Mặt Trời của chúng ta là gì?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Burning wood",
+                "arString": "احتراق الخشب",
                 "enString": "Burning wood",
-                "frenchString": "Burning wood",
-                "idString": "Burning wood",
-                "vnString": "Burning wood"
+                "frenchString": "Combustion du bois",
+                "idString": "Pembakaran kayu",
+                "vnString": "Đốt gỗ"
               },
               {
-                "arString": "Melting ice",
+                "arString": "انصهار الجليد",
                 "enString": "Melting ice",
-                "frenchString": "Melting ice",
-                "idString": "Melting ice",
-                "vnString": "Melting ice"
+                "frenchString": "Fonte de la glace",
+                "idString": "Es yang mencair",
+                "vnString": "Băng tan"
               },
               {
-                "arString": "Breaking glass",
+                "arString": "كسر الزجاج",
                 "enString": "Breaking glass",
-                "frenchString": "Breaking glass",
-                "idString": "Breaking glass",
-                "vnString": "Breaking glass"
+                "frenchString": "Bris de verre",
+                "idString": "Memecahkan kaca",
+                "vnString": "Làm vỡ kính"
               },
               {
-                "arString": "Cutting paper",
+                "arString": "قص الورق",
                 "enString": "Cutting paper",
-                "frenchString": "Cutting paper",
-                "idString": "Cutting paper",
-                "vnString": "Cutting paper"
+                "frenchString": "Découpage du papier",
+                "idString": "Memotong kertas",
+                "vnString": "Cắt giấy"
               }
             ],
             "correctAnswer": {
-              "arString": "Burning wood",
+              "arString": "احتراق الخشب",
               "enString": "Burning wood",
-              "frenchString": "Burning wood",
-              "idString": "Burning wood",
-              "vnString": "Burning wood"
+              "frenchString": "Combustion du bois",
+              "idString": "Pembakaran kayu",
+              "vnString": "Đốt gỗ"
             },
             "hint": {
-              "arString": "Burning wood",
+              "arString": "احتراق الخشب",
               "enString": "Burning wood",
-              "frenchString": "Burning wood",
-              "idString": "Burning wood",
-              "vnString": "Burning wood"
+              "frenchString": "Combustion du bois",
+              "idString": "Pembakaran kayu",
+              "vnString": "Đốt gỗ"
             },
             "id": 5,
             "question": {
-              "arString": "Which of the following is an example of a chemical change?",
+              "arString": "أي مما يلي مثال على تغير كيميائي؟",
               "enString": "Which of the following is an example of a chemical change?",
-              "frenchString": "Which of the following is an example of a chemical change?",
-              "idString": "Which of the following is an example of a chemical change?",
-              "vnString": "Which of the following is an example of a chemical change?"
+              "frenchString": "Lequel des éléments suivants est un exemple de changement chimique ?",
+              "idString": "Manakah dari berikut ini yang merupakan contoh perubahan kimia?",
+              "vnString": "Trường hợp nào sau đây là ví dụ về biến đổi hóa học?"
             }
           }
         ],
@@ -38974,55 +38974,55 @@
           {
             "answers": [
               {
-                "arString": "End of slavery",
+                "arString": "نهاية العبودية",
                 "enString": "End of slavery",
-                "frenchString": "End of slavery",
-                "idString": "End of slavery",
-                "vnString": "End of slavery"
+                "frenchString": "Fin de l'esclavage",
+                "idString": "Berakhirnya perbudakan",
+                "vnString": "Sự chấm dứt chế độ nô lệ"
               },
               {
-                "arString": "Discovery of gold",
+                "arString": "اكتشاف الذهب",
                 "enString": "Discovery of gold",
-                "frenchString": "Discovery of gold",
-                "idString": "Discovery of gold",
-                "vnString": "Discovery of gold"
+                "frenchString": "Découverte de l'or",
+                "idString": "Penemuan emas",
+                "vnString": "Việc phát hiện vàng"
               },
               {
-                "arString": "Taxation without representation",
+                "arString": "فرض الضرائب دون تمثيل",
                 "enString": "Taxation without representation",
-                "frenchString": "Taxation without representation",
-                "idString": "Taxation without representation",
-                "vnString": "Taxation without representation"
+                "frenchString": "Imposition sans représentation",
+                "idString": "Pajak tanpa perwakilan",
+                "vnString": "Đánh thuế mà không có đại diện"
               },
               {
-                "arString": "Westward expansion",
+                "arString": "التوسع نحو الغرب",
                 "enString": "Westward expansion",
-                "frenchString": "Westward expansion",
-                "idString": "Westward expansion",
-                "vnString": "Westward expansion"
+                "frenchString": "Expansion vers l'ouest",
+                "idString": "Ekspansi ke arah barat",
+                "vnString": "Sự mở rộng về phía tây"
               }
             ],
             "correctAnswer": {
-              "arString": "Taxation without representation",
+              "arString": "فرض الضرائب دون تمثيل",
               "enString": "Taxation without representation",
-              "frenchString": "Taxation without representation",
-              "idString": "Taxation without representation",
-              "vnString": "Taxation without representation"
+              "frenchString": "Imposition sans représentation",
+              "idString": "Pajak tanpa perwakilan",
+              "vnString": "Đánh thuế mà không có đại diện"
             },
             "hint": {
-              "arString": "Taxation without representation",
+              "arString": "فرض الضرائب دون تمثيل",
               "enString": "Taxation without representation",
-              "frenchString": "Taxation without representation",
-              "idString": "Taxation without representation",
-              "vnString": "Taxation without representation"
+              "frenchString": "Imposition sans représentation",
+              "idString": "Pajak tanpa perwakilan",
+              "vnString": "Đánh thuế mà không có đại diện"
             },
             "id": 6,
             "question": {
-              "arString": "What was the main cause of the American Revolution?",
+              "arString": "ما السبب الرئيسي للثورة الأمريكية؟",
               "enString": "What was the main cause of the American Revolution?",
-              "frenchString": "What was the main cause of the American Revolution?",
-              "idString": "What was the main cause of the American Revolution?",
-              "vnString": "What was the main cause of the American Revolution?"
+              "frenchString": "Quelle était la cause principale de la Révolution américaine ?",
+              "idString": "Apa penyebab utama Revolusi Amerika?",
+              "vnString": "Nguyên nhân chính của Cách mạng Mỹ là gì?"
             }
           },
           {
@@ -39072,65 +39072,65 @@
             },
             "id": 7,
             "question": {
-              "arString": "Which sentence uses correct subject-verb agreement?",
+              "arString": "أي جملة تستخدم توافقًا صحيحًا بين الفاعل والفعل؟",
               "enString": "Which sentence uses correct subject-verb agreement?",
-              "frenchString": "Which sentence uses correct subject-verb agreement?",
-              "idString": "Which sentence uses correct subject-verb agreement?",
-              "vnString": "Which sentence uses correct subject-verb agreement?"
+              "frenchString": "Quelle phrase respecte l'accord correct entre le sujet et le verbe ?",
+              "idString": "Kalimat manakah yang menggunakan kesesuaian subjek dan kata kerja yang benar?",
+              "vnString": "Câu nào sử dụng sự hòa hợp chủ ngữ - động từ đúng?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Mississippi River",
+                "arString": "نهر المسيسيبي",
                 "enString": "Mississippi River",
-                "frenchString": "Mississippi River",
-                "idString": "Mississippi River",
-                "vnString": "Mississippi River"
+                "frenchString": "Mississippi",
+                "idString": "Sungai Mississippi",
+                "vnString": "Sông Mississippi"
               },
               {
-                "arString": "Amazon River",
+                "arString": "نهر الأمازون",
                 "enString": "Amazon River",
-                "frenchString": "Amazon River",
-                "idString": "Amazon River",
-                "vnString": "Amazon River"
+                "frenchString": "Amazone",
+                "idString": "Sungai Amazon",
+                "vnString": "Sông Amazon"
               },
               {
-                "arString": "Yangtze River",
+                "arString": "نهر اليانغتسي",
                 "enString": "Yangtze River",
-                "frenchString": "Yangtze River",
-                "idString": "Yangtze River",
-                "vnString": "Yangtze River"
+                "frenchString": "Yangtsé",
+                "idString": "Sungai Yangtze",
+                "vnString": "Sông Dương Tử"
               },
               {
-                "arString": "Nile River",
+                "arString": "نهر النيل",
                 "enString": "Nile River",
-                "frenchString": "Nile River",
-                "idString": "Nile River",
-                "vnString": "Nile River"
+                "frenchString": "Nil",
+                "idString": "Sungai Nil",
+                "vnString": "Sông Nin"
               }
             ],
             "correctAnswer": {
-              "arString": "Nile River",
+              "arString": "نهر النيل",
               "enString": "Nile River",
-              "frenchString": "Nile River",
-              "idString": "Nile River",
-              "vnString": "Nile River"
+              "frenchString": "Nil",
+              "idString": "Sungai Nil",
+              "vnString": "Sông Nin"
             },
             "hint": {
-              "arString": "Nile River",
+              "arString": "نهر النيل",
               "enString": "Nile River",
-              "frenchString": "Nile River",
-              "idString": "Nile River",
-              "vnString": "Nile River"
+              "frenchString": "Nil",
+              "idString": "Sungai Nil",
+              "vnString": "Sông Nin"
             },
             "id": 8,
             "question": {
-              "arString": "In geography, what is the longest river in the world?",
+              "arString": "في الجغرافيا، ما أطول نهر في العالم؟",
               "enString": "In geography, what is the longest river in the world?",
-              "frenchString": "In geography, what is the longest river in the world?",
-              "idString": "In geography, what is the longest river in the world?",
-              "vnString": "In geography, what is the longest river in the world?"
+              "frenchString": "En géographie, quel est le plus long fleuve du monde ?",
+              "idString": "Dalam geografi, sungai apakah yang terpanjang di dunia?",
+              "vnString": "Trong địa lý, con sông dài nhất thế giới là gì?"
             }
           },
           {
@@ -39180,65 +39180,65 @@
             },
             "id": 9,
             "question": {
-              "arString": "What is the value of π (pi) rounded to two decimal places?",
+              "arString": "ما قيمة π (باي) مقربة إلى منزلتين عشريتين؟",
               "enString": "What is the value of π (pi) rounded to two decimal places?",
-              "frenchString": "What is the value of π (pi) rounded to two decimal places?",
-              "idString": "What is the value of π (pi) rounded to two decimal places?",
-              "vnString": "What is the value of π (pi) rounded to two decimal places?"
+              "frenchString": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+              "idString": "Berapa nilai π (pi) jika dibulatkan hingga dua angka desimal?",
+              "vnString": "Giá trị của π (pi) làm tròn đến hai chữ số thập phân là bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Crust",
+                "arString": "القشرة",
                 "enString": "Crust",
-                "frenchString": "Crust",
-                "idString": "Crust",
-                "vnString": "Crust"
+                "frenchString": "Croûte",
+                "idString": "Kerak",
+                "vnString": "Vỏ Trái Đất"
               },
               {
-                "arString": "Inner core",
+                "arString": "اللب الداخلي",
                 "enString": "Inner core",
-                "frenchString": "Inner core",
-                "idString": "Inner core",
-                "vnString": "Inner core"
+                "frenchString": "Noyau interne",
+                "idString": "Inti dalam",
+                "vnString": "Lõi trong"
               },
               {
-                "arString": "Outer core",
+                "arString": "اللب الخارجي",
                 "enString": "Outer core",
-                "frenchString": "Outer core",
-                "idString": "Outer core",
-                "vnString": "Outer core"
+                "frenchString": "Noyau externe",
+                "idString": "Inti luar",
+                "vnString": "Lõi ngoài"
               },
               {
-                "arString": "Lithosphere",
+                "arString": "الغلاف الصخري",
                 "enString": "Lithosphere",
-                "frenchString": "Lithosphere",
-                "idString": "Lithosphere",
-                "vnString": "Lithosphere"
+                "frenchString": "Lithosphère",
+                "idString": "Litosfer",
+                "vnString": "Thạch quyển"
               }
             ],
             "correctAnswer": {
-              "arString": "Outer core",
+              "arString": "اللب الخارجي",
               "enString": "Outer core",
-              "frenchString": "Outer core",
-              "idString": "Outer core",
-              "vnString": "Outer core"
+              "frenchString": "Noyau externe",
+              "idString": "Inti luar",
+              "vnString": "Lõi ngoài"
             },
             "hint": {
-              "arString": "Outer core",
+              "arString": "اللب الخارجي",
               "enString": "Outer core",
-              "frenchString": "Outer core",
-              "idString": "Outer core",
-              "vnString": "Outer core"
+              "frenchString": "Noyau externe",
+              "idString": "Inti luar",
+              "vnString": "Lõi ngoài"
             },
             "id": 10,
             "question": {
-              "arString": "Which layer of the Earth is liquid and lies beneath the mantle?",
+              "arString": "أي طبقة من طبقات الأرض سائلة وتقع تحت الوشاح؟",
               "enString": "Which layer of the Earth is liquid and lies beneath the mantle?",
-              "frenchString": "Which layer of the Earth is liquid and lies beneath the mantle?",
-              "idString": "Which layer of the Earth is liquid and lies beneath the mantle?",
-              "vnString": "Which layer of the Earth is liquid and lies beneath the mantle?"
+              "frenchString": "Quelle couche de la Terre est liquide et se trouve sous le manteau ?",
+              "idString": "Lapisan Bumi manakah yang cair dan terletak di bawah mantel?",
+              "vnString": "Lớp nào của Trái Đất ở dạng lỏng và nằm bên dưới lớp phủ?"
             }
           }
         ],
@@ -39294,65 +39294,65 @@
             },
             "id": 11,
             "question": {
-              "arString": "What is the solution to the equation 2x + 5 = 11?",
+              "arString": "ما حل المعادلة 2x + 5 = 11؟",
               "enString": "What is the solution to the equation 2x + 5 = 11?",
-              "frenchString": "What is the solution to the equation 2x + 5 = 11?",
-              "idString": "What is the solution to the equation 2x + 5 = 11?",
-              "vnString": "What is the solution to the equation 2x + 5 = 11?"
+              "frenchString": "Quelle est la solution de l'équation 2x + 5 = 11 ?",
+              "idString": "Apa solusi dari persamaan 2x + 5 = 11?",
+              "vnString": "Nghiệm của phương trình 2x + 5 = 11 là gì?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Ozone",
+                "arString": "الأوزون",
                 "enString": "Ozone",
                 "frenchString": "Ozone",
-                "idString": "Ozone",
-                "vnString": "Ozone"
+                "idString": "Ozon",
+                "vnString": "Ozon"
               },
               {
-                "arString": "Osmium",
+                "arString": "الأوزميوم",
                 "enString": "Osmium",
                 "frenchString": "Osmium",
                 "idString": "Osmium",
-                "vnString": "Osmium"
+                "vnString": "Osmi"
               },
               {
-                "arString": "Oxygen",
+                "arString": "الأكسجين",
                 "enString": "Oxygen",
-                "frenchString": "Oxygen",
-                "idString": "Oxygen",
-                "vnString": "Oxygen"
+                "frenchString": "Oxygène",
+                "idString": "Oksigen",
+                "vnString": "Oxy"
               },
               {
-                "arString": "Oxide",
+                "arString": "الأكسيد",
                 "enString": "Oxide",
-                "frenchString": "Oxide",
-                "idString": "Oxide",
-                "vnString": "Oxide"
+                "frenchString": "Oxyde",
+                "idString": "Oksida",
+                "vnString": "Oxit"
               }
             ],
             "correctAnswer": {
-              "arString": "Oxygen",
+              "arString": "الأكسجين",
               "enString": "Oxygen",
-              "frenchString": "Oxygen",
-              "idString": "Oxygen",
-              "vnString": "Oxygen"
+              "frenchString": "Oxygène",
+              "idString": "Oksigen",
+              "vnString": "Oxy"
             },
             "hint": {
-              "arString": "Oxygen",
+              "arString": "الأكسجين",
               "enString": "Oxygen",
-              "frenchString": "Oxygen",
-              "idString": "Oxygen",
-              "vnString": "Oxygen"
+              "frenchString": "Oxygène",
+              "idString": "Oksigen",
+              "vnString": "Oxy"
             },
             "id": 12,
             "question": {
-              "arString": "Which element has the chemical symbol 'O'?",
+              "arString": "أي عنصر له الرمز الكيميائي \"O\"؟",
               "enString": "Which element has the chemical symbol 'O'?",
-              "frenchString": "Which element has the chemical symbol 'O'?",
-              "idString": "Which element has the chemical symbol 'O'?",
-              "vnString": "Which element has the chemical symbol 'O'?"
+              "frenchString": "Quel élément a le symbole chimique « O » ?",
+              "idString": "Unsur manakah yang memiliki simbol kimia \"O\"?",
+              "vnString": "Nguyên tố nào có ký hiệu hóa học là \"O\"?"
             }
           },
           {
@@ -39402,92 +39402,92 @@
             },
             "id": 13,
             "question": {
-              "arString": "In which year did the Declaration of Independence get signed?",
-              "enString": "In which year did the Declaration of Independence get signed?",
-              "frenchString": "In which year did the Declaration of Independence get signed?",
-              "idString": "In which year did the Declaration of Independence get signed?",
-              "vnString": "In which year did the Declaration of Independence get signed?"
+              "arString": "في أي عام تم توقيع إعلان استقلال الولايات المتحدة؟",
+              "enString": "In which year was the U.S. Declaration of Independence signed?",
+              "frenchString": "En quelle année la Déclaration d'indépendance des États-Unis a-t-elle été signée ?",
+              "idString": "Pada tahun berapa Deklarasi Kemerdekaan Amerika Serikat ditandatangani?",
+              "vnString": "Tuyên ngôn Độc lập của Mỹ được ký vào năm nào?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Rectangle",
+                "arString": "مستطيل",
                 "enString": "Rectangle",
                 "frenchString": "Rectangle",
-                "idString": "Rectangle",
-                "vnString": "Rectangle"
+                "idString": "Persegi panjang",
+                "vnString": "Hình chữ nhật"
               },
               {
-                "arString": "Square",
+                "arString": "مربع",
                 "enString": "Square",
-                "frenchString": "Square",
-                "idString": "Square",
-                "vnString": "Square"
+                "frenchString": "Carré",
+                "idString": "Persegi",
+                "vnString": "Hình vuông"
               },
               {
-                "arString": "Trapezoid",
+                "arString": "شبه منحرف",
                 "enString": "Trapezoid",
-                "frenchString": "Trapezoid",
-                "idString": "Trapezoid",
-                "vnString": "Trapezoid"
+                "frenchString": "Trapèze",
+                "idString": "Trapesium",
+                "vnString": "Hình thang"
               },
               {
-                "arString": "Rhombus",
+                "arString": "معين",
                 "enString": "Rhombus",
-                "frenchString": "Rhombus",
-                "idString": "Rhombus",
-                "vnString": "Rhombus"
+                "frenchString": "Losange",
+                "idString": "Belah ketupat",
+                "vnString": "Hình thoi"
               }
             ],
             "correctAnswer": {
-              "arString": "Trapezoid",
+              "arString": "شبه منحرف",
               "enString": "Trapezoid",
-              "frenchString": "Trapezoid",
-              "idString": "Trapezoid",
-              "vnString": "Trapezoid"
+              "frenchString": "Trapèze",
+              "idString": "Trapesium",
+              "vnString": "Hình thang"
             },
             "hint": {
-              "arString": "Trapezoid",
+              "arString": "شبه منحرف",
               "enString": "Trapezoid",
-              "frenchString": "Trapezoid",
-              "idString": "Trapezoid",
-              "vnString": "Trapezoid"
+              "frenchString": "Trapèze",
+              "idString": "Trapesium",
+              "vnString": "Hình thang"
             },
             "id": 14,
             "question": {
-              "arString": "Which figure has exactly one pair of parallel sides?",
+              "arString": "أي شكل له زوج واحد فقط من الأضلاع المتوازية؟",
               "enString": "Which figure has exactly one pair of parallel sides?",
-              "frenchString": "Which figure has exactly one pair of parallel sides?",
-              "idString": "Which figure has exactly one pair of parallel sides?",
-              "vnString": "Which figure has exactly one pair of parallel sides?"
+              "frenchString": "Quelle figure possède exactement une paire de côtés parallèles ?",
+              "idString": "Bangun manakah yang memiliki tepat satu pasang sisi sejajar?",
+              "vnString": "Hình nào có đúng một cặp cạnh song song?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Isaac Newton",
+                "arString": "إسحاق نيوتن",
                 "enString": "Isaac Newton",
                 "frenchString": "Isaac Newton",
                 "idString": "Isaac Newton",
                 "vnString": "Isaac Newton"
               },
               {
-                "arString": "Albert Einstein",
+                "arString": "ألبرت أينشتاين",
                 "enString": "Albert Einstein",
                 "frenchString": "Albert Einstein",
                 "idString": "Albert Einstein",
                 "vnString": "Albert Einstein"
               },
               {
-                "arString": "Galileo Galilei",
+                "arString": "غاليليو غاليلي",
                 "enString": "Galileo Galilei",
                 "frenchString": "Galileo Galilei",
                 "idString": "Galileo Galilei",
                 "vnString": "Galileo Galilei"
               },
               {
-                "arString": "Niels Bohr",
+                "arString": "نيلز بور",
                 "enString": "Niels Bohr",
                 "frenchString": "Niels Bohr",
                 "idString": "Niels Bohr",
@@ -39495,14 +39495,14 @@
               }
             ],
             "correctAnswer": {
-              "arString": "Isaac Newton",
+              "arString": "إسحاق نيوتن",
               "enString": "Isaac Newton",
               "frenchString": "Isaac Newton",
               "idString": "Isaac Newton",
               "vnString": "Isaac Newton"
             },
             "hint": {
-              "arString": "Isaac Newton",
+              "arString": "إسحاق نيوتن",
               "enString": "Isaac Newton",
               "frenchString": "Isaac Newton",
               "idString": "Isaac Newton",
@@ -39510,11 +39510,11 @@
             },
             "id": 15,
             "question": {
-              "arString": "Which scientist proposed the three laws of motion?",
+              "arString": "أي عالم اقترح قوانين الحركة الثلاثة؟",
               "enString": "Which scientist proposed the three laws of motion?",
-              "frenchString": "Which scientist proposed the three laws of motion?",
-              "idString": "Which scientist proposed the three laws of motion?",
-              "vnString": "Which scientist proposed the three laws of motion?"
+              "frenchString": "Quel scientifique a proposé les trois lois du mouvement ?",
+              "idString": "Ilmuwan manakah yang mengusulkan tiga hukum gerak?",
+              "vnString": "Nhà khoa học nào đã đề xuất ba định luật chuyển động?"
             }
           }
         ],
@@ -39540,14 +39540,14 @@
                 "vnString": "George Washington"
               },
               {
-                "arString": "Thomas Jefferson",
+                "arString": "توماس جيفرسون",
                 "enString": "Thomas Jefferson",
                 "frenchString": "Thomas Jefferson",
                 "idString": "Thomas Jefferson",
                 "vnString": "Thomas Jefferson"
               },
               {
-                "arString": "Theodore Roosevelt",
+                "arString": "ثيودور روزفلت",
                 "enString": "Theodore Roosevelt",
                 "frenchString": "Theodore Roosevelt",
                 "idString": "Theodore Roosevelt",
@@ -39555,14 +39555,14 @@
               }
             ],
             "correctAnswer": {
-              "arString": "Abraham Lincoln",
+              "arString": "أبراهام لينكولن",
               "enString": "Abraham Lincoln",
               "frenchString": "Abraham Lincoln",
               "idString": "Abraham Lincoln",
               "vnString": "Abraham Lincoln"
             },
             "hint": {
-              "arString": "Abraham Lincoln",
+              "arString": "أبراهام لينكولن",
               "enString": "Abraham Lincoln",
               "frenchString": "Abraham Lincoln",
               "idString": "Abraham Lincoln",
@@ -39570,65 +39570,65 @@
             },
             "id": 16,
             "question": {
-              "arString": "Which U.S. president issued the Emancipation Proclamation?",
+              "arString": "أي رئيس أمريكي أصدر إعلان تحرير العبيد؟",
               "enString": "Which U.S. president issued the Emancipation Proclamation?",
-              "frenchString": "Which U.S. president issued the Emancipation Proclamation?",
-              "idString": "Which U.S. president issued the Emancipation Proclamation?",
-              "vnString": "Which U.S. president issued the Emancipation Proclamation?"
+              "frenchString": "Quel président américain a publié la Proclamation d'émancipation ?",
+              "idString": "Presiden AS manakah yang mengeluarkan Proklamasi Emansipasi?",
+              "vnString": "Tổng thống Mỹ nào đã ban hành Tuyên ngôn Giải phóng Nô lệ?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Metaphor",
+                "arString": "استعارة",
                 "enString": "Metaphor",
-                "frenchString": "Metaphor",
-                "idString": "Metaphor",
-                "vnString": "Metaphor"
+                "frenchString": "Métaphore",
+                "idString": "Metafora",
+                "vnString": "Ẩn dụ"
               },
               {
-                "arString": "Personification",
+                "arString": "تشخيص",
                 "enString": "Personification",
-                "frenchString": "Personification",
-                "idString": "Personification",
-                "vnString": "Personification"
+                "frenchString": "Personnification",
+                "idString": "Personifikasi",
+                "vnString": "Nhân hóa"
               },
               {
-                "arString": "Simile",
+                "arString": "تشبيه",
                 "enString": "Simile",
-                "frenchString": "Simile",
-                "idString": "Simile",
-                "vnString": "Simile"
+                "frenchString": "Comparaison",
+                "idString": "Perumpamaan",
+                "vnString": "So sánh"
               },
               {
-                "arString": "Hyperbole",
+                "arString": "مبالغة",
                 "enString": "Hyperbole",
                 "frenchString": "Hyperbole",
-                "idString": "Hyperbole",
-                "vnString": "Hyperbole"
+                "idString": "Hiperbola",
+                "vnString": "Phóng đại"
               }
             ],
             "correctAnswer": {
-              "arString": "Personification",
+              "arString": "تشخيص",
               "enString": "Personification",
-              "frenchString": "Personification",
-              "idString": "Personification",
-              "vnString": "Personification"
+              "frenchString": "Personnification",
+              "idString": "Personifikasi",
+              "vnString": "Nhân hóa"
             },
             "hint": {
-              "arString": "Personification",
+              "arString": "تشخيص",
               "enString": "Personification",
-              "frenchString": "Personification",
-              "idString": "Personification",
-              "vnString": "Personification"
+              "frenchString": "Personnification",
+              "idString": "Personifikasi",
+              "vnString": "Nhân hóa"
             },
             "id": 17,
             "question": {
-              "arString": "Which literary device is used when human qualities are given to non-human things?",
+              "arString": "ما الأسلوب الأدبي المستخدم عند إسناد صفات بشرية إلى أشياء غير بشرية؟",
               "enString": "Which literary device is used when human qualities are given to non-human things?",
-              "frenchString": "Which literary device is used when human qualities are given to non-human things?",
-              "idString": "Which literary device is used when human qualities are given to non-human things?",
-              "vnString": "Which literary device is used when human qualities are given to non-human things?"
+              "frenchString": "Quel procédé littéraire est utilisé lorsque des qualités humaines sont attribuées à des choses non humaines ?",
+              "idString": "Majas apa yang digunakan ketika sifat manusia diberikan kepada benda non-manusia?",
+              "vnString": "Biện pháp tu từ nào được dùng khi gán đặc điểm của con người cho những vật không phải con người?"
             }
           },
           {
@@ -39678,65 +39678,65 @@
             },
             "id": 18,
             "question": {
-              "arString": "What is the boiling point of water in Celsius?",
+              "arString": "ما درجة غليان الماء بالدرجة المئوية؟",
               "enString": "What is the boiling point of water in Celsius?",
-              "frenchString": "What is the boiling point of water in Celsius?",
-              "idString": "What is the boiling point of water in Celsius?",
-              "vnString": "What is the boiling point of water in Celsius?"
+              "frenchString": "Quel est le point d'ébullition de l'eau en degrés Celsius ?",
+              "idString": "Berapa titik didih air dalam derajat Celsius?",
+              "vnString": "Nhiệt độ sôi của nước theo độ C là bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Roman Empire",
+                "arString": "الإمبراطورية الرومانية",
                 "enString": "Roman Empire",
-                "frenchString": "Roman Empire",
-                "idString": "Roman Empire",
-                "vnString": "Roman Empire"
+                "frenchString": "Empire romain",
+                "idString": "Kekaisaran Romawi",
+                "vnString": "Đế chế La Mã"
               },
               {
-                "arString": "Mongol Empire",
+                "arString": "الإمبراطورية المغولية",
                 "enString": "Mongol Empire",
-                "frenchString": "Mongol Empire",
-                "idString": "Mongol Empire",
-                "vnString": "Mongol Empire"
+                "frenchString": "Empire mongol",
+                "idString": "Kekaisaran Mongol",
+                "vnString": "Đế chế Mông Cổ"
               },
               {
-                "arString": "Ottoman Empire",
+                "arString": "الإمبراطورية العثمانية",
                 "enString": "Ottoman Empire",
-                "frenchString": "Ottoman Empire",
-                "idString": "Ottoman Empire",
-                "vnString": "Ottoman Empire"
+                "frenchString": "Empire ottoman",
+                "idString": "Kekaisaran Ottoman",
+                "vnString": "Đế chế Ottoman"
               },
               {
-                "arString": "Byzantine Empire",
+                "arString": "الإمبراطورية البيزنطية",
                 "enString": "Byzantine Empire",
-                "frenchString": "Byzantine Empire",
-                "idString": "Byzantine Empire",
-                "vnString": "Byzantine Empire"
+                "frenchString": "Empire byzantin",
+                "idString": "Kekaisaran Bizantium",
+                "vnString": "Đế chế Byzantine"
               }
             ],
             "correctAnswer": {
-              "arString": "Mongol Empire",
+              "arString": "الإمبراطورية المغولية",
               "enString": "Mongol Empire",
-              "frenchString": "Mongol Empire",
-              "idString": "Mongol Empire",
-              "vnString": "Mongol Empire"
+              "frenchString": "Empire mongol",
+              "idString": "Kekaisaran Mongol",
+              "vnString": "Đế chế Mông Cổ"
             },
             "hint": {
-              "arString": "Mongol Empire",
+              "arString": "الإمبراطورية المغولية",
               "enString": "Mongol Empire",
-              "frenchString": "Mongol Empire",
-              "idString": "Mongol Empire",
-              "vnString": "Mongol Empire"
+              "frenchString": "Empire mongol",
+              "idString": "Kekaisaran Mongol",
+              "vnString": "Đế chế Mông Cổ"
             },
             "id": 19,
             "question": {
-              "arString": "Which empire was ruled by Genghis Khan?",
+              "arString": "أي إمبراطورية حكمها جنكيز خان؟",
               "enString": "Which empire was ruled by Genghis Khan?",
-              "frenchString": "Which empire was ruled by Genghis Khan?",
-              "idString": "Which empire was ruled by Genghis Khan?",
-              "vnString": "Which empire was ruled by Genghis Khan?"
+              "frenchString": "Quel empire était dirigé par Gengis Khan ?",
+              "idString": "Kekaisaran manakah yang diperintah oleh Jenghis Khan?",
+              "vnString": "Đế chế nào do Thành Cát Tư Hãn cai trị?"
             }
           },
           {
@@ -39786,11 +39786,11 @@
             },
             "id": 20,
             "question": {
-              "arString": "Which number is a rational number?",
+              "arString": "أي عدد هو عدد نسبي؟",
               "enString": "Which number is a rational number?",
-              "frenchString": "Which number is a rational number?",
-              "idString": "Which number is a rational number?",
-              "vnString": "Which number is a rational number?"
+              "frenchString": "Quel nombre est un nombre rationnel ?",
+              "idString": "Bilangan manakah yang merupakan bilangan rasional?",
+              "vnString": "Số nào là số hữu tỉ?"
             }
           }
         ],
@@ -39802,82 +39802,82 @@
           {
             "answers": [
               {
-                "arString": "Lever",
+                "arString": "رافعة",
                 "enString": "Lever",
-                "frenchString": "Lever",
-                "idString": "Lever",
-                "vnString": "Lever"
+                "frenchString": "Levier",
+                "idString": "Tuas",
+                "vnString": "Đòn bẩy"
               },
               {
-                "arString": "Bicycle",
+                "arString": "دراجة هوائية",
                 "enString": "Bicycle",
-                "frenchString": "Bicycle",
-                "idString": "Bicycle",
-                "vnString": "Bicycle"
+                "frenchString": "Bicyclette",
+                "idString": "Sepeda",
+                "vnString": "Xe đạp"
               },
               {
-                "arString": "Inclined plane",
+                "arString": "سطح مائل",
                 "enString": "Inclined plane",
-                "frenchString": "Inclined plane",
-                "idString": "Inclined plane",
-                "vnString": "Inclined plane"
+                "frenchString": "Plan incliné",
+                "idString": "Bidang miring",
+                "vnString": "Mặt phẳng nghiêng"
               },
               {
-                "arString": "Pulley",
+                "arString": "بكرة",
                 "enString": "Pulley",
-                "frenchString": "Pulley",
-                "idString": "Pulley",
-                "vnString": "Pulley"
+                "frenchString": "Poulie",
+                "idString": "Katrol",
+                "vnString": "Ròng rọc"
               }
             ],
             "correctAnswer": {
-              "arString": "Bicycle",
+              "arString": "دراجة هوائية",
               "enString": "Bicycle",
-              "frenchString": "Bicycle",
-              "idString": "Bicycle",
-              "vnString": "Bicycle"
+              "frenchString": "Bicyclette",
+              "idString": "Sepeda",
+              "vnString": "Xe đạp"
             },
             "hint": {
-              "arString": "Bicycle",
+              "arString": "دراجة هوائية",
               "enString": "Bicycle",
-              "frenchString": "Bicycle",
-              "idString": "Bicycle",
-              "vnString": "Bicycle"
+              "frenchString": "Bicyclette",
+              "idString": "Sepeda",
+              "vnString": "Xe đạp"
             },
             "id": 21,
             "question": {
-              "arString": "Which of the following is a compound machine?",
+              "arString": "أي مما يلي آلة مركبة؟",
               "enString": "Which of the following is a compound machine?",
-              "frenchString": "Which of the following is a compound machine?",
-              "idString": "Which of the following is a compound machine?",
-              "vnString": "Which of the following is a compound machine?"
+              "frenchString": "Lequel des éléments suivants est une machine composée ?",
+              "idString": "Manakah dari berikut ini yang merupakan mesin majemuk?",
+              "vnString": "Vật nào sau đây là một máy phức hợp?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Emily Dickinson",
+                "arString": "إميلي ديكنسون",
                 "enString": "Emily Dickinson",
                 "frenchString": "Emily Dickinson",
                 "idString": "Emily Dickinson",
                 "vnString": "Emily Dickinson"
               },
               {
-                "arString": "Mark Twain",
+                "arString": "مارك توين",
                 "enString": "Mark Twain",
                 "frenchString": "Mark Twain",
                 "idString": "Mark Twain",
                 "vnString": "Mark Twain"
               },
               {
-                "arString": "Nathaniel Hawthorne",
+                "arString": "ناثانيال هوثورن",
                 "enString": "Nathaniel Hawthorne",
                 "frenchString": "Nathaniel Hawthorne",
                 "idString": "Nathaniel Hawthorne",
                 "vnString": "Nathaniel Hawthorne"
               },
               {
-                "arString": "Edgar Allan Poe",
+                "arString": "إدغار آلان بو",
                 "enString": "Edgar Allan Poe",
                 "frenchString": "Edgar Allan Poe",
                 "idString": "Edgar Allan Poe",
@@ -39885,14 +39885,14 @@
               }
             ],
             "correctAnswer": {
-              "arString": "Edgar Allan Poe",
+              "arString": "إدغار آلان بو",
               "enString": "Edgar Allan Poe",
               "frenchString": "Edgar Allan Poe",
               "idString": "Edgar Allan Poe",
               "vnString": "Edgar Allan Poe"
             },
             "hint": {
-              "arString": "Edgar Allan Poe",
+              "arString": "إدغار آلان بو",
               "enString": "Edgar Allan Poe",
               "frenchString": "Edgar Allan Poe",
               "idString": "Edgar Allan Poe",
@@ -39900,11 +39900,11 @@
             },
             "id": 22,
             "question": {
-              "arString": "Who is the author of 'The Tell-Tale Heart'?",
+              "arString": "من مؤلف قصة \"القلب الواشي\"؟",
               "enString": "Who is the author of 'The Tell-Tale Heart'?",
-              "frenchString": "Who is the author of 'The Tell-Tale Heart'?",
-              "idString": "Who is the author of 'The Tell-Tale Heart'?",
-              "vnString": "Who is the author of 'The Tell-Tale Heart'?"
+              "frenchString": "Qui est l'auteur de « Le Cœur révélateur » ?",
+              "idString": "Siapa penulis \"The Tell-Tale Heart\"?",
+              "vnString": "Ai là tác giả của \"Trái tim kể tội\"?"
             }
           },
           {
@@ -39954,38 +39954,38 @@
             },
             "id": 23,
             "question": {
-              "arString": "What is the value of 5² + 3²?",
+              "arString": "ما قيمة 5² + 3²؟",
               "enString": "What is the value of 5² + 3²?",
-              "frenchString": "What is the value of 5² + 3²?",
-              "idString": "What is the value of 5² + 3²?",
-              "vnString": "What is the value of 5² + 3²?"
+              "frenchString": "Quelle est la valeur de 5² + 3² ?",
+              "idString": "Berapa nilai dari 5² + 3²?",
+              "vnString": "Giá trị của 5² + 3² là bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Abraham Lincoln",
+                "arString": "أبراهام لينكولن",
                 "enString": "Abraham Lincoln",
                 "frenchString": "Abraham Lincoln",
                 "idString": "Abraham Lincoln",
                 "vnString": "Abraham Lincoln"
               },
               {
-                "arString": "Thomas Jefferson",
+                "arString": "توماس جيفرسون",
                 "enString": "Thomas Jefferson",
                 "frenchString": "Thomas Jefferson",
                 "idString": "Thomas Jefferson",
                 "vnString": "Thomas Jefferson"
               },
               {
-                "arString": "George Washington",
+                "arString": "جورج واشنطن",
                 "enString": "George Washington",
                 "frenchString": "George Washington",
                 "idString": "George Washington",
                 "vnString": "George Washington"
               },
               {
-                "arString": "John Adams",
+                "arString": "جون آدامز",
                 "enString": "John Adams",
                 "frenchString": "John Adams",
                 "idString": "John Adams",
@@ -39993,14 +39993,14 @@
               }
             ],
             "correctAnswer": {
-              "arString": "George Washington",
+              "arString": "جورج واشنطن",
               "enString": "George Washington",
               "frenchString": "George Washington",
               "idString": "George Washington",
               "vnString": "George Washington"
             },
             "hint": {
-              "arString": "George Washington",
+              "arString": "جورج واشنطن",
               "enString": "George Washington",
               "frenchString": "George Washington",
               "idString": "George Washington",
@@ -40008,11 +40008,11 @@
             },
             "id": 24,
             "question": {
-              "arString": "Who was the first president of the United States?",
+              "arString": "من كان أول رئيس للولايات المتحدة؟",
               "enString": "Who was the first president of the United States?",
-              "frenchString": "Who was the first president of the United States?",
-              "idString": "Who was the first president of the United States?",
-              "vnString": "Who was the first president of the United States?"
+              "frenchString": "Qui a été le premier président des États-Unis ?",
+              "idString": "Siapakah presiden pertama Amerika Serikat?",
+              "vnString": "Ai là tổng thống đầu tiên của Hoa Kỳ?"
             }
           },
           {
@@ -40062,11 +40062,11 @@
             },
             "id": 25,
             "question": {
-              "arString": "What is the value of 5² × 2?",
+              "arString": "ما قيمة 5² × 2؟",
               "enString": "What is the value of 5² × 2?",
-              "frenchString": "What is the value of 5² × 2?",
-              "idString": "What is the value of 5² × 2?",
-              "vnString": "What is the value of 5² × 2?"
+              "frenchString": "Quelle est la valeur de 5² × 2 ?",
+              "idString": "Berapa nilai dari 5² × 2?",
+              "vnString": "Giá trị của 5² × 2 là bao nhiêu?"
             }
           }
         ],
@@ -40078,109 +40078,109 @@
           {
             "answers": [
               {
-                "arString": "Troposphere",
+                "arString": "التروبوسفير",
                 "enString": "Troposphere",
-                "frenchString": "Troposphere",
-                "idString": "Troposphere",
-                "vnString": "Troposphere"
+                "frenchString": "Troposphère",
+                "idString": "Troposfer",
+                "vnString": "Tầng đối lưu"
               },
               {
-                "arString": "Stratosphere",
+                "arString": "الستراتوسفير",
                 "enString": "Stratosphere",
-                "frenchString": "Stratosphere",
-                "idString": "Stratosphere",
-                "vnString": "Stratosphere"
+                "frenchString": "Stratosphère",
+                "idString": "Stratosfer",
+                "vnString": "Tầng bình lưu"
               },
               {
-                "arString": "Mesosphere",
+                "arString": "الميزوسفير",
                 "enString": "Mesosphere",
-                "frenchString": "Mesosphere",
-                "idString": "Mesosphere",
-                "vnString": "Mesosphere"
+                "frenchString": "Mésosphère",
+                "idString": "Mesosfer",
+                "vnString": "Tầng trung lưu"
               },
               {
-                "arString": "Thermosphere",
+                "arString": "الثيرموسفير",
                 "enString": "Thermosphere",
-                "frenchString": "Thermosphere",
-                "idString": "Thermosphere",
-                "vnString": "Thermosphere"
+                "frenchString": "Thermosphère",
+                "idString": "Termosfer",
+                "vnString": "Tầng nhiệt"
               }
             ],
             "correctAnswer": {
-              "arString": "Stratosphere",
+              "arString": "الستراتوسفير",
               "enString": "Stratosphere",
-              "frenchString": "Stratosphere",
-              "idString": "Stratosphere",
-              "vnString": "Stratosphere"
+              "frenchString": "Stratosphère",
+              "idString": "Stratosfer",
+              "vnString": "Tầng bình lưu"
             },
             "hint": {
-              "arString": "Stratosphere",
+              "arString": "الستراتوسفير",
               "enString": "Stratosphere",
-              "frenchString": "Stratosphere",
-              "idString": "Stratosphere",
-              "vnString": "Stratosphere"
+              "frenchString": "Stratosphère",
+              "idString": "Stratosfer",
+              "vnString": "Tầng bình lưu"
             },
             "id": 26,
             "question": {
-              "arString": "Which layer of the atmosphere contains the ozone layer?",
+              "arString": "أي طبقة من الغلاف الجوي تحتوي على طبقة الأوزون؟",
               "enString": "Which layer of the atmosphere contains the ozone layer?",
-              "frenchString": "Which layer of the atmosphere contains the ozone layer?",
-              "idString": "Which layer of the atmosphere contains the ozone layer?",
-              "vnString": "Which layer of the atmosphere contains the ozone layer?"
+              "frenchString": "Quelle couche de l'atmosphère contient la couche d'ozone ?",
+              "idString": "Lapisan atmosfer manakah yang mengandung lapisan ozon?",
+              "vnString": "Tầng nào của khí quyển chứa tầng ozon?"
             }
           },
           {
             "answers": [
               {
-                "arString": "War of 1812",
+                "arString": "حرب عام 1812",
                 "enString": "War of 1812",
-                "frenchString": "War of 1812",
-                "idString": "War of 1812",
-                "vnString": "War of 1812"
+                "frenchString": "Guerre de 1812",
+                "idString": "Perang tahun 1812",
+                "vnString": "Chiến tranh năm 1812"
               },
               {
-                "arString": "World War I",
+                "arString": "الحرب العالمية الأولى",
                 "enString": "World War I",
-                "frenchString": "World War I",
-                "idString": "World War I",
-                "vnString": "World War I"
+                "frenchString": "Première Guerre mondiale",
+                "idString": "Perang Dunia I",
+                "vnString": "Chiến tranh thế giới thứ nhất"
               },
               {
-                "arString": "Revolutionary War",
+                "arString": "حرب الاستقلال الأمريكية",
                 "enString": "Revolutionary War",
-                "frenchString": "Revolutionary War",
-                "idString": "Revolutionary War",
-                "vnString": "Revolutionary War"
+                "frenchString": "Guerre d'indépendance américaine",
+                "idString": "Perang Revolusi Amerika",
+                "vnString": "Chiến tranh Cách mạng Mỹ"
               },
               {
-                "arString": "Civil War",
+                "arString": "الحرب الأهلية",
                 "enString": "Civil War",
-                "frenchString": "Civil War",
-                "idString": "Civil War",
-                "vnString": "Civil War"
+                "frenchString": "Guerre de Sécession",
+                "idString": "Perang Saudara",
+                "vnString": "Nội chiến"
               }
             ],
             "correctAnswer": {
-              "arString": "Civil War",
+              "arString": "الحرب الأهلية",
               "enString": "Civil War",
-              "frenchString": "Civil War",
-              "idString": "Civil War",
-              "vnString": "Civil War"
+              "frenchString": "Guerre de Sécession",
+              "idString": "Perang Saudara",
+              "vnString": "Nội chiến"
             },
             "hint": {
-              "arString": "Civil War",
+              "arString": "الحرب الأهلية",
               "enString": "Civil War",
-              "frenchString": "Civil War",
-              "idString": "Civil War",
-              "vnString": "Civil War"
+              "frenchString": "Guerre de Sécession",
+              "idString": "Perang Saudara",
+              "vnString": "Nội chiến"
             },
             "id": 27,
             "question": {
-              "arString": "Which war was fought between the North and South regions of the United States?",
+              "arString": "أي حرب دارت بين منطقتي الشمال والجنوب في الولايات المتحدة؟",
               "enString": "Which war was fought between the North and South regions of the United States?",
-              "frenchString": "Which war was fought between the North and South regions of the United States?",
-              "idString": "Which war was fought between the North and South regions of the United States?",
-              "vnString": "Which war was fought between the North and South regions of the United States?"
+              "frenchString": "Quelle guerre a opposé les régions du Nord et du Sud des États-Unis ?",
+              "idString": "Perang manakah yang terjadi antara wilayah Utara dan Selatan Amerika Serikat?",
+              "vnString": "Cuộc chiến nào diễn ra giữa miền Bắc và miền Nam Hoa Kỳ?"
             }
           },
           {
@@ -40230,119 +40230,119 @@
             },
             "id": 28,
             "question": {
-              "arString": "Which word is an example of an adverb?",
+              "arString": "أي كلمة تُعد مثالًا على ظرف؟",
               "enString": "Which word is an example of an adverb?",
-              "frenchString": "Which word is an example of an adverb?",
-              "idString": "Which word is an example of an adverb?",
-              "vnString": "Which word is an example of an adverb?"
+              "frenchString": "Quel mot est un exemple d'adverbe ?",
+              "idString": "Kata manakah yang merupakan contoh kata keterangan?",
+              "vnString": "Từ nào là ví dụ về trạng từ?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Organ",
+                "arString": "عضو",
                 "enString": "Organ",
-                "frenchString": "Organ",
+                "frenchString": "Organe",
                 "idString": "Organ",
-                "vnString": "Organ"
+                "vnString": "Cơ quan"
               },
               {
-                "arString": "Tissue",
+                "arString": "نسيج",
                 "enString": "Tissue",
-                "frenchString": "Tissue",
-                "idString": "Tissue",
-                "vnString": "Tissue"
+                "frenchString": "Tissu",
+                "idString": "Jaringan",
+                "vnString": "Mô"
               },
               {
-                "arString": "Cell",
+                "arString": "خلية",
                 "enString": "Cell",
-                "frenchString": "Cell",
-                "idString": "Cell",
-                "vnString": "Cell"
+                "frenchString": "Cellule",
+                "idString": "Sel",
+                "vnString": "Tế bào"
               },
               {
-                "arString": "Organ system",
+                "arString": "جهاز عضوي",
                 "enString": "Organ system",
-                "frenchString": "Organ system",
-                "idString": "Organ system",
-                "vnString": "Organ system"
+                "frenchString": "Système d'organes",
+                "idString": "Sistem organ",
+                "vnString": "Hệ cơ quan"
               }
             ],
             "correctAnswer": {
-              "arString": "Cell",
+              "arString": "خلية",
               "enString": "Cell",
-              "frenchString": "Cell",
-              "idString": "Cell",
-              "vnString": "Cell"
+              "frenchString": "Cellule",
+              "idString": "Sel",
+              "vnString": "Tế bào"
             },
             "hint": {
-              "arString": "Cell",
+              "arString": "خلية",
               "enString": "Cell",
-              "frenchString": "Cell",
-              "idString": "Cell",
-              "vnString": "Cell"
+              "frenchString": "Cellule",
+              "idString": "Sel",
+              "vnString": "Tế bào"
             },
             "id": 29,
             "question": {
-              "arString": "Which is the smallest unit of life?",
+              "arString": "ما أصغر وحدة للحياة؟",
               "enString": "Which is the smallest unit of life?",
-              "frenchString": "Which is the smallest unit of life?",
-              "idString": "Which is the smallest unit of life?",
-              "vnString": "Which is the smallest unit of life?"
+              "frenchString": "Quelle est la plus petite unité du vivant ?",
+              "idString": "Manakah unit kehidupan terkecil?",
+              "vnString": "Đơn vị nhỏ nhất của sự sống là gì?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Kinetic energy",
+                "arString": "طاقة حركية",
                 "enString": "Kinetic energy",
-                "frenchString": "Kinetic energy",
-                "idString": "Kinetic energy",
-                "vnString": "Kinetic energy"
+                "frenchString": "Énergie cinétique",
+                "idString": "Energi kinetik",
+                "vnString": "Động năng"
               },
               {
-                "arString": "Elastic potential energy",
+                "arString": "طاقة وضع مرونية",
                 "enString": "Elastic potential energy",
-                "frenchString": "Elastic potential energy",
-                "idString": "Elastic potential energy",
-                "vnString": "Elastic potential energy"
+                "frenchString": "Énergie potentielle élastique",
+                "idString": "Energi potensial elastis",
+                "vnString": "Thế năng đàn hồi"
               },
               {
-                "arString": "Thermal energy",
+                "arString": "طاقة حرارية",
                 "enString": "Thermal energy",
-                "frenchString": "Thermal energy",
-                "idString": "Thermal energy",
-                "vnString": "Thermal energy"
+                "frenchString": "Énergie thermique",
+                "idString": "Energi panas",
+                "vnString": "Nhiệt năng"
               },
               {
-                "arString": "Nuclear energy",
+                "arString": "طاقة نووية",
                 "enString": "Nuclear energy",
-                "frenchString": "Nuclear energy",
-                "idString": "Nuclear energy",
-                "vnString": "Nuclear energy"
+                "frenchString": "Énergie nucléaire",
+                "idString": "Energi nuklir",
+                "vnString": "Năng lượng hạt nhân"
               }
             ],
             "correctAnswer": {
-              "arString": "Elastic potential energy",
+              "arString": "طاقة وضع مرونية",
               "enString": "Elastic potential energy",
-              "frenchString": "Elastic potential energy",
-              "idString": "Elastic potential energy",
-              "vnString": "Elastic potential energy"
+              "frenchString": "Énergie potentielle élastique",
+              "idString": "Energi potensial elastis",
+              "vnString": "Thế năng đàn hồi"
             },
             "hint": {
-              "arString": "Elastic potential energy",
+              "arString": "طاقة وضع مرونية",
               "enString": "Elastic potential energy",
-              "frenchString": "Elastic potential energy",
-              "idString": "Elastic potential energy",
-              "vnString": "Elastic potential energy"
+              "frenchString": "Énergie potentielle élastique",
+              "idString": "Energi potensial elastis",
+              "vnString": "Thế năng đàn hồi"
             },
             "id": 30,
             "question": {
-              "arString": "What type of energy is stored in a stretched rubber band?",
+              "arString": "ما نوع الطاقة المخزنة في شريط مطاطي مشدود؟",
               "enString": "What type of energy is stored in a stretched rubber band?",
-              "frenchString": "What type of energy is stored in a stretched rubber band?",
-              "idString": "What type of energy is stored in a stretched rubber band?",
-              "vnString": "What type of energy is stored in a stretched rubber band?"
+              "frenchString": "Quel type d'énergie est stocké dans un élastique étiré ?",
+              "idString": "Jenis energi apa yang tersimpan dalam karet gelang yang diregangkan?",
+              "vnString": "Loại năng lượng nào được lưu trữ trong dây cao su bị kéo giãn?"
             }
           }
         ],
@@ -40398,119 +40398,119 @@
             },
             "id": 31,
             "question": {
-              "arString": "What is the value of 3(x – 2) when x = 5?",
+              "arString": "ما قيمة 3(x – 2) عندما x = 5؟",
               "enString": "What is the value of 3(x – 2) when x = 5?",
-              "frenchString": "What is the value of 3(x – 2) when x = 5?",
-              "idString": "What is the value of 3(x – 2) when x = 5?",
-              "vnString": "What is the value of 3(x – 2) when x = 5?"
+              "frenchString": "Quelle est la valeur de 3(x – 2) lorsque x = 5 ?",
+              "idString": "Berapa nilai 3(x – 2) ketika x = 5?",
+              "vnString": "Giá trị của 3(x – 2) khi x = 5 là bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Roots",
+                "arString": "الجذور",
                 "enString": "Roots",
-                "frenchString": "Roots",
-                "idString": "Roots",
-                "vnString": "Roots"
+                "frenchString": "Racines",
+                "idString": "Akar",
+                "vnString": "Rễ"
               },
               {
-                "arString": "Leaves",
+                "arString": "الأوراق",
                 "enString": "Leaves",
-                "frenchString": "Leaves",
-                "idString": "Leaves",
-                "vnString": "Leaves"
+                "frenchString": "Feuilles",
+                "idString": "Daun",
+                "vnString": "Lá"
               },
               {
-                "arString": "Stem",
+                "arString": "الساق",
                 "enString": "Stem",
-                "frenchString": "Stem",
-                "idString": "Stem",
-                "vnString": "Stem"
+                "frenchString": "Tige",
+                "idString": "Batang",
+                "vnString": "Thân cây"
               },
               {
-                "arString": "Flowers",
+                "arString": "الأزهار",
                 "enString": "Flowers",
-                "frenchString": "Flowers",
-                "idString": "Flowers",
-                "vnString": "Flowers"
+                "frenchString": "Fleurs",
+                "idString": "Bunga",
+                "vnString": "Hoa"
               }
             ],
             "correctAnswer": {
-              "arString": "Leaves",
+              "arString": "الأوراق",
               "enString": "Leaves",
-              "frenchString": "Leaves",
-              "idString": "Leaves",
-              "vnString": "Leaves"
+              "frenchString": "Feuilles",
+              "idString": "Daun",
+              "vnString": "Lá"
             },
             "hint": {
-              "arString": "Leaves",
+              "arString": "الأوراق",
               "enString": "Leaves",
-              "frenchString": "Leaves",
-              "idString": "Leaves",
-              "vnString": "Leaves"
+              "frenchString": "Feuilles",
+              "idString": "Daun",
+              "vnString": "Lá"
             },
             "id": 32,
             "question": {
-              "arString": "Which part of the plant carries out photosynthesis?",
+              "arString": "أي جزء من النبات يقوم بعملية التمثيل الضوئي؟",
               "enString": "Which part of the plant carries out photosynthesis?",
-              "frenchString": "Which part of the plant carries out photosynthesis?",
-              "idString": "Which part of the plant carries out photosynthesis?",
-              "vnString": "Which part of the plant carries out photosynthesis?"
+              "frenchString": "Quelle partie de la plante réalise la photosynthèse ?",
+              "idString": "Bagian tumbuhan manakah yang melakukan fotosintesis?",
+              "vnString": "Bộ phận nào của cây thực hiện quang hợp?"
             }
           },
           {
             "answers": [
               {
-                "arString": "15th Amendment",
+                "arString": "التعديل الخامس عشر",
                 "enString": "15th Amendment",
-                "frenchString": "15th Amendment",
-                "idString": "15th Amendment",
-                "vnString": "15th Amendment"
+                "frenchString": "15e amendement",
+                "idString": "Amandemen ke-15",
+                "vnString": "Tu chính án thứ 15"
               },
               {
-                "arString": "13th Amendment",
+                "arString": "التعديل الثالث عشر",
                 "enString": "13th Amendment",
-                "frenchString": "13th Amendment",
-                "idString": "13th Amendment",
-                "vnString": "13th Amendment"
+                "frenchString": "13e amendement",
+                "idString": "Amandemen ke-13",
+                "vnString": "Tu chính án thứ 13"
               },
               {
-                "arString": "19th Amendment",
+                "arString": "التعديل التاسع عشر",
                 "enString": "19th Amendment",
-                "frenchString": "19th Amendment",
-                "idString": "19th Amendment",
-                "vnString": "19th Amendment"
+                "frenchString": "19e amendement",
+                "idString": "Amandemen ke-19",
+                "vnString": "Tu chính án thứ 19"
               },
               {
-                "arString": "21st Amendment",
+                "arString": "التعديل الحادي والعشرون",
                 "enString": "21st Amendment",
-                "frenchString": "21st Amendment",
-                "idString": "21st Amendment",
-                "vnString": "21st Amendment"
+                "frenchString": "21e amendement",
+                "idString": "Amandemen ke-21",
+                "vnString": "Tu chính án thứ 21"
               }
             ],
             "correctAnswer": {
-              "arString": "19th Amendment",
+              "arString": "التعديل التاسع عشر",
               "enString": "19th Amendment",
-              "frenchString": "19th Amendment",
-              "idString": "19th Amendment",
-              "vnString": "19th Amendment"
+              "frenchString": "19e amendement",
+              "idString": "Amandemen ke-19",
+              "vnString": "Tu chính án thứ 19"
             },
             "hint": {
-              "arString": "19th Amendment",
+              "arString": "التعديل التاسع عشر",
               "enString": "19th Amendment",
-              "frenchString": "19th Amendment",
-              "idString": "19th Amendment",
-              "vnString": "19th Amendment"
+              "frenchString": "19e amendement",
+              "idString": "Amandemen ke-19",
+              "vnString": "Tu chính án thứ 19"
             },
             "id": 33,
             "question": {
-              "arString": "Which amendment to the U.S. Constitution gave women the right to vote?",
+              "arString": "أي تعديل في دستور الولايات المتحدة منح النساء حق التصويت؟",
               "enString": "Which amendment to the U.S. Constitution gave women the right to vote?",
-              "frenchString": "Which amendment to the U.S. Constitution gave women the right to vote?",
-              "idString": "Which amendment to the U.S. Constitution gave women the right to vote?",
-              "vnString": "Which amendment to the U.S. Constitution gave women the right to vote?"
+              "frenchString": "Quel amendement de la Constitution des États-Unis a donné aux femmes le droit de vote ?",
+              "idString": "Amandemen manakah dalam Konstitusi AS yang memberi perempuan hak untuk memilih?",
+              "vnString": "Tu chính án nào của Hiến pháp Hoa Kỳ trao cho phụ nữ quyền bầu cử?"
             }
           },
           {
@@ -40560,65 +40560,65 @@
             },
             "id": 34,
             "question": {
-              "arString": "What is the unit of force in the International System of Units (SI)?",
+              "arString": "ما وحدة القوة في النظام الدولي للوحدات (SI)؟",
               "enString": "What is the unit of force in the International System of Units (SI)?",
-              "frenchString": "What is the unit of force in the International System of Units (SI)?",
-              "idString": "What is the unit of force in the International System of Units (SI)?",
-              "vnString": "What is the unit of force in the International System of Units (SI)?"
+              "frenchString": "Quelle est l'unité de force dans le Système international d'unités (SI) ?",
+              "idString": "Apa satuan gaya dalam Sistem Satuan Internasional (SI)?",
+              "vnString": "Đơn vị của lực trong Hệ đơn vị quốc tế (SI) là gì?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Nitrogen",
+                "arString": "النيتروجين",
                 "enString": "Nitrogen",
-                "frenchString": "Nitrogen",
+                "frenchString": "Azote",
                 "idString": "Nitrogen",
-                "vnString": "Nitrogen"
+                "vnString": "Nitơ"
               },
               {
-                "arString": "Oxygen",
+                "arString": "الأكسجين",
                 "enString": "Oxygen",
-                "frenchString": "Oxygen",
-                "idString": "Oxygen",
-                "vnString": "Oxygen"
+                "frenchString": "Oxygène",
+                "idString": "Oksigen",
+                "vnString": "Oxy"
               },
               {
-                "arString": "Neon",
+                "arString": "النيون",
                 "enString": "Neon",
-                "frenchString": "Neon",
+                "frenchString": "Néon",
                 "idString": "Neon",
                 "vnString": "Neon"
               },
               {
-                "arString": "Hydrogen",
+                "arString": "الهيدروجين",
                 "enString": "Hydrogen",
-                "frenchString": "Hydrogen",
-                "idString": "Hydrogen",
-                "vnString": "Hydrogen"
+                "frenchString": "Hydrogène",
+                "idString": "Hidrogen",
+                "vnString": "Hydro"
               }
             ],
             "correctAnswer": {
-              "arString": "Neon",
+              "arString": "النيون",
               "enString": "Neon",
-              "frenchString": "Neon",
+              "frenchString": "Néon",
               "idString": "Neon",
               "vnString": "Neon"
             },
             "hint": {
-              "arString": "Neon",
+              "arString": "النيون",
               "enString": "Neon",
-              "frenchString": "Neon",
+              "frenchString": "Néon",
               "idString": "Neon",
               "vnString": "Neon"
             },
             "id": 35,
             "question": {
-              "arString": "Which of the following is a noble gas?",
+              "arString": "أي مما يلي غاز نبيل؟",
               "enString": "Which of the following is a noble gas?",
-              "frenchString": "Which of the following is a noble gas?",
-              "idString": "Which of the following is a noble gas?",
-              "vnString": "Which of the following is a noble gas?"
+              "frenchString": "Lequel des éléments suivants est un gaz noble ?",
+              "idString": "Manakah dari berikut ini yang merupakan gas mulia?",
+              "vnString": "Chất nào sau đây là khí hiếm?"
             }
           }
         ],
@@ -44207,6 +44207,1386 @@
               "frenchString": "Who was the first African American president of the United States?",
               "idString": "Who was the first African American president of the United States?",
               "vnString": "Who was the first African American president of the United States?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 21,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "Au",
+                "enString": "Au",
+                "frenchString": "Au",
+                "idString": "Au",
+                "vnString": "Au"
+              },
+              {
+                "arString": "Ag",
+                "enString": "Ag",
+                "frenchString": "Ag",
+                "idString": "Ag",
+                "vnString": "Ag"
+              },
+              {
+                "arString": "Fe",
+                "enString": "Fe",
+                "frenchString": "Fe",
+                "idString": "Fe",
+                "vnString": "Fe"
+              },
+              {
+                "arString": "Cu",
+                "enString": "Cu",
+                "frenchString": "Cu",
+                "idString": "Cu",
+                "vnString": "Cu"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "Au",
+              "enString": "Au",
+              "frenchString": "Au",
+              "idString": "Au",
+              "vnString": "Au"
+            },
+            "hint": {
+              "arString": "الرمز الكيميائي للذهب هو Au.",
+              "enString": "The chemical symbol for Gold is Au.",
+              "frenchString": "Le symbole chimique de l'or est Au.",
+              "idString": "Simbol kimia untuk Emas adalah Au.",
+              "vnString": "Kí hiệu hóa học của Vàng là Au."
+            },
+            "id": 101,
+            "question": {
+              "arString": "ما هو الرمز الكيميائي للذهب؟",
+              "enString": "What is the chemical symbol for Gold?",
+              "frenchString": "Quel est le symbole chimique de l'or ?",
+              "idString": "Apa simbol kimia untuk Emas?",
+              "vnString": "Kí hiệu hóa học của Vàng là gì?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "8",
+                "enString": "8",
+                "frenchString": "8",
+                "idString": "8",
+                "vnString": "8"
+              },
+              {
+                "arString": "5",
+                "enString": "5",
+                "frenchString": "5",
+                "idString": "5",
+                "vnString": "5"
+              },
+              {
+                "arString": "6",
+                "enString": "6",
+                "frenchString": "6",
+                "idString": "6",
+                "vnString": "6"
+              },
+              {
+                "arString": "7",
+                "enString": "7",
+                "frenchString": "7",
+                "idString": "7",
+                "vnString": "7"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "6",
+              "enString": "6",
+              "frenchString": "6",
+              "idString": "6",
+              "vnString": "6"
+            },
+            "hint": {
+              "arString": "اطرح 5 من الطرفين ثم اقسم trên 3. النتيجة هي 6.",
+              "enString": "Subtract 5 from both sides, then divide by 3. The answer is 6.",
+              "frenchString": "Soustrayez 5 des deux côtés, puis divisez par 3. La réponse est 6.",
+              "idString": "Kurangi 5 từ kedua sisi, lalu bagi với 3. Jawabannya adalah 6.",
+              "vnString": "Trừ 5 ở cả hai vế, sau đó chia cho 3. Kết quả là 6."
+            },
+            "id": 102,
+            "question": {
+              "arString": "إذا كان 3x + 5 = 23، فما هي قيمة x؟",
+              "enString": "If 3x + 5 = 23, what is the value of x?",
+              "frenchString": "Si 3x + 5 = 23, quelle est la valeur de x ?",
+              "idString": "Jika 3x + 5 = 23, berapa nilai x?",
+              "vnString": "Nếu 3x + 5 = 23 thì giá trị của x là bao nhiêu?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "المحيط الهادئ",
+                "enString": "Pacific Ocean",
+                "frenchString": "Océan Pacifique",
+                "idString": "Samudra Pasifik",
+                "vnString": "Thái Bình Dương"
+              },
+              {
+                "arString": "المحيط الأطلسي",
+                "enString": "Atlantic Ocean",
+                "frenchString": "Océan Atlantique",
+                "idString": "Samudra Atlantik",
+                "vnString": "Đại Tây Dương"
+              },
+              {
+                "arString": "المحيط الهندي",
+                "enString": "Indian Ocean",
+                "frenchString": "Océan Indien",
+                "idString": "Samudra Hindia",
+                "vnString": "Ấn Độ Dương"
+              },
+              {
+                "arString": "المحيط المتجمد الشمالي",
+                "enString": "Arctic Ocean",
+                "frenchString": "Océan Arctique",
+                "idString": "Samudra Arktik",
+                "vnString": "Bắc Băng Dương"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المحيط الهادئ",
+              "enString": "Pacific Ocean",
+              "frenchString": "Océan Pacifique",
+              "idString": "Samudra Pasifik",
+              "vnString": "Thái Bình Dương"
+            },
+            "hint": {
+              "arString": "المحيط الهادئ هو أكبر محيط.",
+              "enString": "The Pacific Ocean is the largest ocean.",
+              "frenchString": "L'océan Pacifique est le plus grand océan.",
+              "idString": "Samudra Pasifik adalah samudra terbesar.",
+              "vnString": "Thái Bình Dương là đại dương lớn nhất."
+            },
+            "id": 103,
+            "question": {
+              "arString": "ما هو أكبر وأعمق محيط على وجه الأرض؟",
+              "enString": "Which is the largest and deepest ocean on Earth?",
+              "frenchString": "Quel est l'océan le plus grand et le plus profond de la Terre ?",
+              "idString": "Mana samudra terbesar dan terdalam di Bumi?",
+              "vnString": "Đại dương nào lớn nhất và sâu nhất trên Trái Đất?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الميتوكوندريا",
+                "enString": "Mitochondria",
+                "frenchString": "Mitochondrie",
+                "idString": "Mitokondria",
+                "vnString": "Ty thể"
+              },
+              {
+                "arString": "النواة",
+                "enString": "Nucleus",
+                "frenchString": "Noyau",
+                "idString": "Nukleus",
+                "vnString": "Nhân tế bào"
+              },
+              {
+                "arString": "الريبوسوم",
+                "enString": "Ribosome",
+                "frenchString": "Ribosome",
+                "idString": "Ribosom",
+                "vnString": "Ribosome"
+              },
+              {
+                "arString": "البلاستيدات الخضراء",
+                "enString": "Chloroplast",
+                "frenchString": "Chloroplaste",
+                "idString": "Kloroplas",
+                "vnString": "Lục lạp"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الميتوكوندريا",
+              "enString": "Mitochondria",
+              "frenchString": "Mitochondrie",
+              "idString": "Mitokondria",
+              "vnString": "Ty thể"
+            },
+            "hint": {
+              "arString": "الميتوكوندريا تولد الطاقة للخلية.",
+              "enString": "Mitochondria generate energy for the cell.",
+              "frenchString": "La mitochondrie génère de l'énergie pour la cellule.",
+              "idString": "Mitokondria menghasilkan energi untuk sel.",
+              "vnString": "Ty thể là nơi sản sinh năng lượng cho tế bào."
+            },
+            "id": 104,
+            "question": {
+              "arString": "أي عضو خلوي يُعرف بعبارة 'محطة طاقة الخلية'؟",
+              "enString": "Which organelle is known as the powerhouse of the cell?",
+              "frenchString": "Quel organite est connu comme la centrale énergétique de la cellule ?",
+              "idString": "Organel mana yang dikenal sebagai pembangkit tenaga listrik sel?",
+              "vnString": "Bào quan nào được mệnh danh là nhà máy năng lượng của tế bào?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "توماس إديسون",
+                "enString": "Thomas Edison",
+                "frenchString": "Thomas Edison",
+                "idString": "Thomas Edison",
+                "vnString": "Thomas Edison"
+              },
+              {
+                "arString": "ألكسندر غراهام بيل",
+                "enString": "Alexander Graham Bell",
+                "frenchString": "Alexander Graham Bell",
+                "idString": "Alexander Graham Bell",
+                "vnString": "Alexander Graham Bell"
+              },
+              {
+                "arString": "نيكولا تسلا",
+                "enString": "Nikola Tesla",
+                "frenchString": "Nikola Tesla",
+                "idString": "Nikola Tesla",
+                "vnString": "Nikola Tesla"
+              },
+              {
+                "arString": "ألبرت أينشتاين",
+                "enString": "Albert Einstein",
+                "frenchString": "Albert Einstein",
+                "idString": "Albert Einstein",
+                "vnString": "Albert Einstein"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "ألكسندر غراهام بيل",
+              "enString": "Alexander Graham Bell",
+              "frenchString": "Alexander Graham Bell",
+              "idString": "Alexander Graham Bell",
+              "vnString": "Alexander Graham Bell"
+            },
+            "hint": {
+              "arString": "ألكسندر غراهام بيل اخترع الهاتف في عام 1876.",
+              "enString": "Alexander Graham Bell invented the telephone in 1876.",
+              "frenchString": "Alexander Graham Bell a inventé le téléphone en 1876.",
+              "idString": "Alexander Graham Bell menemukan telepon pada tahun 1876.",
+              "vnString": "Alexander Graham Bell đã phát minh ra điện thoại vào năm 1876."
+            },
+            "id": 105,
+            "question": {
+              "arString": "من هو مخترع الهاتف؟",
+              "enString": "Who is credited with inventing the telephone?",
+              "frenchString": "À qui attribue-t-on l'invention du téléphone ?",
+              "idString": "Siapa yang berjasa menemukan telepon?",
+              "vnString": "Ai là người được công nhận đã phát minh ra điện thoại?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 22,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "المريخ",
+                "enString": "Mars",
+                "frenchString": "Mars",
+                "idString": "Mars",
+                "vnString": "Sao Hỏa"
+              },
+              {
+                "arString": "الزهرة",
+                "enString": "Venus",
+                "frenchString": "Vénus",
+                "idString": "Venus",
+                "vnString": "Sao Kim"
+              },
+              {
+                "arString": "المشتري",
+                "enString": "Jupiter",
+                "frenchString": "Jupiter",
+                "idString": "Yupiter",
+                "vnString": "Sao Mộc"
+              },
+              {
+                "arString": "زحل",
+                "enString": "Saturn",
+                "frenchString": "Saturne",
+                "idString": "Saturnus",
+                "vnString": "Sao Thổ"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المريخ",
+              "enString": "Mars",
+              "frenchString": "Mars",
+              "idString": "Mars",
+              "vnString": "Sao Hỏa"
+            },
+            "hint": {
+              "arString": "يُعرف هذا الكوكب بلونه الأحمر بسبب أكسيد الحديد.",
+              "enString": "This planet is known for its reddish color due to iron oxide.",
+              "frenchString": "Cette planète est connue pour sa couleur rougeâtre due à l'oxyde de fer.",
+              "idString": "Planet ini dikenal karena warna kemerahannya akibat besi oksida.",
+              "vnString": "Hành tinh này nổi tiếng với màu đỏ đặc trưng do sắt oxit."
+            },
+            "id": 106,
+            "question": {
+              "arString": "أي كوكب يُعرف باسم 'الكوكب الأحمر'؟",
+              "enString": "Which planet is known as the 'Red Planet'?",
+              "frenchString": "Quelle planète est connue dưới tên 'Planète rouge' ?",
+              "idString": "Planet mana yang dikenal sebagai 'Planet Merah'?",
+              "vnString": "Hành tinh nào được mệnh danh là 'Hành tinh Đỏ'?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "10",
+                "enString": "10",
+                "frenchString": "10",
+                "idString": "10",
+                "vnString": "10"
+              },
+              {
+                "arString": "11",
+                "enString": "11",
+                "frenchString": "11",
+                "idString": "11",
+                "vnString": "11"
+              },
+              {
+                "arString": "12",
+                "enString": "12",
+                "frenchString": "12",
+                "idString": "12",
+                "vnString": "12"
+              },
+              {
+                "arString": "14",
+                "enString": "14",
+                "frenchString": "14",
+                "idString": "14",
+                "vnString": "14"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "12",
+              "enString": "12",
+              "frenchString": "12",
+              "idString": "12",
+              "vnString": "12"
+            },
+            "hint": {
+              "arString": "ابحث عن الرقم الذي إذا ضرب في نفسه يعطي 144.",
+              "enString": "Find the number that multiplied by itself equals 144.",
+              "frenchString": "Trouvez le nombre qui, multiplié par lui-même, donne 144.",
+              "idString": "Temukan bilangan yang jika dikalikan dengan dirinya sendiri menghasilkan 144.",
+              "vnString": "Tìm số mà khi nhân với chính nó sẽ bằng 144."
+            },
+            "id": 107,
+            "question": {
+              "arString": "ما هو الجذر التربيعي للعدد 144؟",
+              "enString": "What is the square root of 144?",
+              "frenchString": "Quelle est la racine carrée de 144 ?",
+              "idString": "Berapakah akar kuadrat dari 144?",
+              "vnString": "Căn bậc hai của 144 là bao nhiêu?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الأكسجين",
+                "enString": "Oxygen",
+                "frenchString": "Oxygène",
+                "idString": "Oksigen",
+                "vnString": "Oxy"
+              },
+              {
+                "arString": "النيتروجين",
+                "enString": "Nitrogen",
+                "frenchString": "Azote",
+                "idString": "Nitrogen",
+                "vnString": "Nitơ"
+              },
+              {
+                "arString": "ثاني أكسيد الكربون",
+                "enString": "Carbon Dioxide",
+                "frenchString": "Dioxyde de carbone",
+                "idString": "Karbon Dioksida",
+                "vnString": "Cacbon điôxit"
+              },
+              {
+                "arString": "الهيدروجين",
+                "enString": "Hydrogen",
+                "frenchString": "Hydrogène",
+                "idString": "Hidrogen",
+                "vnString": "Hydro"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "النيتروجين",
+              "enString": "Nitrogen",
+              "frenchString": "Azote",
+              "idString": "Nitrogen",
+              "vnString": "Nitơ"
+            },
+            "hint": {
+              "arString": "يشكل هذا الغاز حوالي 78% من الغلاف الجوي للأرض.",
+              "enString": "This gas makes up about 78% of Earth's atmosphere.",
+              "frenchString": "Ce gaz constitue environ 78% de l'atmosphère terrestre.",
+              "idString": "Gas ini menyusun sekitar 78% dari atmosfer Bumi.",
+              "vnString": "Chất khí này chiếm khoảng 78% thể tích bầu khí quyển Trái Đất."
+            },
+            "id": 108,
+            "question": {
+              "arString": "ما هو الغاز الأساسي الموجود في الغلاف الجوي للأرض؟",
+              "enString": "What is the primary gas found in Earth's atmosphere?",
+              "frenchString": "Quel est le gaz principal présent dans l'atmosphère de la Terre ?",
+              "idString": "Apa gas utama yang ditemukan di atmosfer Bumi?",
+              "vnString": "Khí nào chiếm thành phần chủ yếu trong khí quyển Trái Đất?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "فرنسا",
+                "enString": "France",
+                "frenchString": "France",
+                "idString": "Prancis",
+                "vnString": "Pháp"
+              },
+              {
+                "arString": "المملكة المتحدة",
+                "enString": "United Kingdom",
+                "frenchString": "Royaume-Uni",
+                "idString": "Britania Raya",
+                "vnString": "Anh"
+              },
+              {
+                "arString": "ألمانيا",
+                "enString": "Germany",
+                "frenchString": "Allemagne",
+                "idString": "Jerman",
+                "vnString": "Đức"
+              },
+              {
+                "arString": "إيطاليا",
+                "enString": "Italy",
+                "frenchString": "Italie",
+                "idString": "Italia",
+                "vnString": "Ý"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "فرنسا",
+              "enString": "France",
+              "frenchString": "France",
+              "idString": "Prancis",
+              "vnString": "Pháp"
+            },
+            "hint": {
+              "arString": "تم تقديم هذا التمثال كهدية للاحتفال بمئوية الإعلان عن الاستقلال الأمريكي.",
+              "enString": "This statue was given as a gift to celebrate the centennial of the U.S. Declaration of Independence.",
+              "frenchString": "Cette statue a été offerte pour célébrer le centenaire de la Déclaration d'indépendance des États-Unis.",
+              "idString": "Patung ini diberikan sebagai hadiah untuk merayakan seratus tahun Deklarasi Kemerdekaan AS.",
+              "vnString": "Bức tượng này được tặng làm quà để kỷ niệm 100 năm Tuyên ngôn Độc lập của Hoa Kỳ."
+            },
+            "id": 109,
+            "question": {
+              "arString": "أي دولة أهدت تمثال الحرية للولايات المتحدة؟",
+              "enString": "Which country gifted the Statue of Liberty to the United States?",
+              "frenchString": "Quel pays a offert la Statue de la Liberté aux États-Unis ?",
+              "idString": "Negara mana yang menghadiahkan Patung Liberty kepada Amerika Serikat?",
+              "vnString": "Quốc gia nào đã tặng Tượng Nữ thần Tự do cho Hoa Kỳ?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "CO2",
+                "enString": "CO2",
+                "frenchString": "CO2",
+                "idString": "CO2",
+                "vnString": "CO2"
+              },
+              {
+                "arString": "H2O",
+                "enString": "H2O",
+                "frenchString": "H2O",
+                "idString": "H2O",
+                "vnString": "H2O"
+              },
+              {
+                "arString": "NaCl",
+                "enString": "NaCl",
+                "frenchString": "NaCl",
+                "idString": "NaCl",
+                "vnString": "NaCl"
+              },
+              {
+                "arString": "O2",
+                "enString": "O2",
+                "frenchString": "O2",
+                "idString": "O2",
+                "vnString": "O2"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "H2O",
+              "enString": "H2O",
+              "frenchString": "H2O",
+              "idString": "H2O",
+              "vnString": "H2O"
+            },
+            "hint": {
+              "arString": "يتكون هذا المركب من ذرتي هيدروجين وذرة أكسجين واحدة.",
+              "enString": "This compound consists of two hydrogen atoms and one oxygen atom.",
+              "frenchString": "Ce composé est constitué de deux atomes d'hydrogène et d'un atome d'oxygène.",
+              "idString": "Senyawa ini terdiri dari dua atom hidrogen dan satu atom oksigen.",
+              "vnString": "Hợp chất này gồm hai nguyên tử hydro và một nguyên tử oxy."
+            },
+            "id": 110,
+            "question": {
+              "arString": "ما هي الصيغة الكيميائية للماء؟",
+              "enString": "What is the chemical formula for water?",
+              "frenchString": "Quelle est la formule chimique de l'eau ?",
+              "idString": "Apa rumus kimia untuk air?",
+              "vnString": "Công thức hóa học của nước là gì?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 23,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "الجلد",
+                "enString": "Skin",
+                "frenchString": "Peau",
+                "idString": "Kulit",
+                "vnString": "Da"
+              },
+              {
+                "arString": "الكبد",
+                "enString": "Liver",
+                "frenchString": "Foie",
+                "idString": "Hati",
+                "vnString": "Gan"
+              },
+              {
+                "arString": "الرئتين",
+                "enString": "Lungs",
+                "frenchString": "Poumons",
+                "idString": "Paru-paru",
+                "vnString": "Phổi"
+              },
+              {
+                "arString": "الدماغ",
+                "enString": "Brain",
+                "frenchString": "Cerveau",
+                "idString": "Otak",
+                "vnString": "Não"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الجلد",
+              "enString": "Skin",
+              "frenchString": "Peau",
+              "idString": "Kulit",
+              "vnString": "Da"
+            },
+            "hint": {
+              "arString": "يغطي هذا العضو كامل الجسم الخارجي للإنسان.",
+              "enString": "This organ covers the entire outer surface of the human body.",
+              "frenchString": "Cet organe recouvre toute la surface externe du corps humain.",
+              "idString": "Organ ini menutupi seluruh permukaan luar tubuh manusia.",
+              "vnString": "Cơ quan này bao phủ toàn bộ bề mặt bên ngoài của cơ thể con người."
+            },
+            "id": 111,
+            "question": {
+              "arString": "ما هو أكبر عضو في جسم الإنسان؟",
+              "enString": "What is the largest organ in the human body?",
+              "frenchString": "Quel est l'organe le plus grand du corps humain ?",
+              "idString": "Apa organ terbesar di tubuh manusia?",
+              "vnString": "Cơ quan nào lớn nhất trong cơ thể con người?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "15",
+                "enString": "15",
+                "frenchString": "15",
+                "idString": "15",
+                "vnString": "15"
+              },
+              {
+                "arString": "20",
+                "enString": "20",
+                "frenchString": "20",
+                "idString": "20",
+                "vnString": "20"
+              },
+              {
+                "arString": "25",
+                "enString": "25",
+                "frenchString": "25",
+                "idString": "25",
+                "vnString": "25"
+              },
+              {
+                "arString": "30",
+                "enString": "30",
+                "frenchString": "30",
+                "idString": "30",
+                "vnString": "30"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "25",
+              "enString": "25",
+              "frenchString": "25",
+              "idString": "25",
+              "vnString": "25"
+            },
+            "hint": {
+              "arString": "استخدم قانون فيثاغورس: مربع الوتر يساوي مجموع مربعي الضلعين الآخرين.",
+              "enString": "Use the Pythagorean theorem: the square of the hypotenuse equals the sum of the squares of the other two sides.",
+              "frenchString": "Utilisez le théorème de Pythagore : le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés.",
+              "idString": "Gunakan teorema Pythagoras: kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi lainnya.",
+              "vnString": "Sử dụng định lý Pitago: bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông."
+            },
+            "id": 112,
+            "question": {
+              "arString": "ما هو مربع طول الوتر لمثلث قائم الزاوية طول ضلعيه الآخرين 3 سم و 4 سم؟",
+              "enString": "What is the square of the hypotenuse of a right triangle with legs 3 cm and 4 cm?",
+              "frenchString": "Quel est le carré de l'hypoténuse d'un triangle rectangle dont les côtés mesurent 3 cm et 4 cm ?",
+              "idString": "Berapakah kuadrat dari sisi miring segitiga siku-siku dengan panjang sisi 3 cm dan 4 cm?",
+              "vnString": "Bình phương cạnh huyền của một tam giác vuông có hai cạnh góc vuông bằng 3 cm và 4 cm là bao nhiêu?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "آسيا",
+                "enString": "Asia",
+                "frenchString": "Asie",
+                "idString": "Asia",
+                "vnString": "Châu Á"
+              },
+              {
+                "arString": "أفريقيا",
+                "enString": "Africa",
+                "frenchString": "Afrique",
+                "idString": "Afrika",
+                "vnString": "Châu Phi"
+              },
+              {
+                "arString": "أوروبا",
+                "enString": "Europe",
+                "frenchString": "Europe",
+                "idString": "Eropa",
+                "vnString": "Châu Âu"
+              },
+              {
+                "arString": "أمريكا الشمالية",
+                "enString": "North America",
+                "frenchString": "Amérique du Nord",
+                "idString": "Amerika Utara",
+                "vnString": "Bắc Mỹ"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "أفريقيا",
+              "enString": "Africa",
+              "frenchString": "Afrique",
+              "idString": "Afrika",
+              "vnString": "Châu Phi"
+            },
+            "hint": {
+              "arString": "نهر النيل يتدفق عبر عدة دول في هذه القارة، بما في ذلك مصر والسودان.",
+              "enString": "The Nile River flows through several countries on this continent, including Egypt and Sudan.",
+              "frenchString": "Le Nil coule à travers plusieurs pays de ce continent, dont l'Égypte et le Soudan.",
+              "idString": "Sungai Nil mengalir melalui beberapa negara di benua ini, termasuk Mesir dan Sudan.",
+              "vnString": "Sông Nile chảy qua nhiều quốc gia ở châu lục này, bao gồm cả Ai Cập và Sudan."
+            },
+            "id": 113,
+            "question": {
+              "arString": "في أي قارة يقع نهر النيل؟",
+              "enString": "On which continent is the Nile River located?",
+              "frenchString": "Sur quel continent se trouve le Nil ?",
+              "idString": "Di benua mana Sungai Nil berada?",
+              "vnString": "Sông Nile nằm ở châu lục nào?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "أيزك نيوتن",
+                "enString": "Isaac Newton",
+                "frenchString": "Isaac Newton",
+                "idString": "Isaac Newton",
+                "vnString": "Isaac Newton"
+              },
+              {
+                "arString": "ألبيرت أينشتاين",
+                "enString": "Albert Einstein",
+                "frenchString": "Albert Einstein",
+                "idString": "Albert Einstein",
+                "vnString": "Albert Einstein"
+              },
+              {
+                "arString": "غاليليو غاليلي",
+                "enString": "Galileo Galilei",
+                "frenchString": "Galilée",
+                "idString": "Galileo Galilei",
+                "vnString": "Galileo Galilei"
+              },
+              {
+                "arString": "تشارلز داروين",
+                "enString": "Charles Darwin",
+                "frenchString": "Charles Darwin",
+                "idString": "Charles Darwin",
+                "vnString": "Charles Darwin"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "أيزك نيوتن",
+              "enString": "Isaac Newton",
+              "frenchString": "Isaac Newton",
+              "idString": "Isaac Newton",
+              "vnString": "Isaac Newton"
+            },
+            "hint": {
+              "arString": "يُعرف هذا العالم بصياغته لقوانين الحركة والجاذبية العامة.",
+              "enString": "This scientist is famous for formulating the laws of motion and universal gravitation.",
+              "frenchString": "Ce scientifique est célèbre pour avoir formulé les lois du mouvement et de la gravitation universelle.",
+              "idString": "Ilmuwan ini terkenal karena merumuskan hukum gerak dan gravitasi universal.",
+              "vnString": "Nhà khoa học này nổi tiếng với việc tìm ra các định luật chuyển động và vạn vật hấp dẫn."
+            },
+            "id": 114,
+            "question": {
+              "arString": "من صاغ قوانين الحركة والجاذبية العامة؟",
+              "enString": "Who formulated the laws of motion and universal gravitation?",
+              "frenchString": "Qui a formulé les lois du mouvement et de la gravitation universelle ?",
+              "idString": "Siapa yang merumuskan hukum gerak dan gravitasi universal?",
+              "vnString": "Ai là người đã tìm ra các định luật chuyển động và vạn vật hấp dẫn?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "التبخر",
+                "enString": "Evaporation",
+                "frenchString": "Évaporation",
+                "idString": "Evaporasi",
+                "vnString": "Bay hơi"
+              },
+              {
+                "arString": "التكثف",
+                "enString": "Condensation",
+                "frenchString": "Condensation",
+                "idString": "Kondensasi",
+                "vnString": "Ngưng tụ"
+              },
+              {
+                "arString": "التسامي",
+                "enString": "Sublimation",
+                "frenchString": "Sublimation",
+                "idString": "Sublimasi",
+                "vnString": "Thăng hoa"
+              },
+              {
+                "arString": "الانصهار",
+                "enString": "Melting",
+                "frenchString": "Fusion",
+                "idString": "Mencair",
+                "vnString": "Nóng chảy"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "التكثف",
+              "enString": "Condensation",
+              "frenchString": "Condensation",
+              "idString": "Kondensasi",
+              "vnString": "Ngưng tụ"
+            },
+            "hint": {
+              "arString": "هذه العملية هي عكس عملية التبخر وهي تشكل السحب.",
+              "enString": "This process is the opposite of evaporation and is responsible for cloud formation.",
+              "frenchString": "Ce processus est l'inverse de l'évaporation et est responsable de la formation des nuages.",
+              "idString": "Proses ini adalah kebalikan dari evaporasi dan bertanggung jawab atas pembentukan awan.",
+              "vnString": "Quá trình này ngược lại với quá trình bay hơi và là nguyên nhân hình thành mây."
+            },
+            "id": 115,
+            "question": {
+              "arString": "ماذا تسمى العملية التي يتحول فيها الغاز إلى سائل؟",
+              "enString": "What is the process called when a gas turns into a liquid?",
+              "frenchString": "Comment appelle-t-on le processus par lequel un gaz se transforme en liquide ?",
+              "idString": "Apa nama proses ketika gas berubah menjadi cair?",
+              "vnString": "Quá trình chất khí chuyển sang trạng thái lỏng được gọi là gì?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 24,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "الكلوروفيل",
+                "enString": "Chlorophyll",
+                "frenchString": "Chlorophylle",
+                "idString": "Klorofil",
+                "vnString": "Diệp lục"
+              },
+              {
+                "arString": "الكاروتين",
+                "enString": "Carotene",
+                "frenchString": "Carotène",
+                "idString": "Karoten",
+                "vnString": "Caroten"
+              },
+              {
+                "arString": "الأنثوسيانين",
+                "enString": "Anthocyanin",
+                "frenchString": "Anthocyanidine",
+                "idString": "Antosianin",
+                "vnString": "Anthocyanin"
+              },
+              {
+                "arString": "الهموغلوبين",
+                "enString": "Hemoglobin",
+                "frenchString": "Hémoglobine",
+                "idString": "Hemoglobin",
+                "vnString": "Huyết sắc tố"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الكلوروفيل",
+              "enString": "Chlorophyll",
+              "frenchString": "Chlorophylle",
+              "idString": "Klorofil",
+              "vnString": "Diệp lục"
+            },
+            "hint": {
+              "arString": "هذه الصبغة تمتص الضوء وتمنح النباتات لونها الأخضر.",
+              "enString": "This pigment absorbs light and gives plants their green color.",
+              "frenchString": "Ce pigment absorbe la lumière et donne aux plantes leur couleur verte.",
+              "idString": "Pigmen ini menyerap cahaya dan memberi warna hijau pada tumbuhan.",
+              "vnString": "Sắc tố này hấp thụ ánh sáng và làm cho lá cây có màu xanh."
+            },
+            "id": 116,
+            "question": {
+              "arString": "ما هي الصبغة التي تمتص الضوء أثناء عملية البناء الضوئي؟",
+              "enString": "What is the pigment that absorbs light during photosynthesis?",
+              "frenchString": "Quel est le pigment qui absorbe la lumière pendant la photosynthèse ?",
+              "idString": "Apa nama pigmen yang menyerap cahaya selama fotosintesis?",
+              "vnString": "Sắc tố nào hấp thụ ánh sáng trong quá trình quang hợp?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "60 درجة",
+                "enString": "60 degrees",
+                "frenchString": "60 degrés",
+                "idString": "60 derajat",
+                "vnString": "60 độ"
+              },
+              {
+                "arString": "90 درجة",
+                "enString": "90 degrees",
+                "frenchString": "90 degrés",
+                "idString": "90 derajat",
+                "vnString": "90 độ"
+              },
+              {
+                "arString": "180 درجة",
+                "enString": "180 degrees",
+                "frenchString": "180 degrés",
+                "idString": "180 derajat",
+                "vnString": "180 độ"
+              },
+              {
+                "arString": "360 درجة",
+                "enString": "360 degrees",
+                "frenchString": "360 degrés",
+                "idString": "360 derajat",
+                "vnString": "360 độ"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "180 درجة",
+              "enString": "180 degrees",
+              "frenchString": "180 degrés",
+              "idString": "180 derajat",
+              "vnString": "180 độ"
+            },
+            "hint": {
+              "arString": "مجموع زوايا أي مثلث يساوي دائماً زاوية مستقيمة.",
+              "enString": "The sum of the angles in any triangle always equals a straight angle.",
+              "frenchString": "La somme des angles de n'importe quel triangle est toujours égale à un angle plat.",
+              "idString": "Jumlah sudut dalam segitiga apa pun selalu sama dengan sudut lurus.",
+              "vnString": "Tổng ba góc của một tam giác luôn bằng một góc bẹt."
+            },
+            "id": 117,
+            "question": {
+              "arString": "ما هو مجموع قياسات الزوايا الداخلية للمثلث؟",
+              "enString": "What is the sum of the interior angles of a triangle?",
+              "frenchString": "Quelle est la somme des angles intérieurs d'un triangle ?",
+              "idString": "Berapakah jumlah sudut interior dari sebuah segitiga?",
+              "vnString": "Tổng các góc trong của một tam giác bằng bao nhiêu độ?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الأمريكان",
+                "enString": "Americans",
+                "frenchString": "Américains",
+                "idString": "Orang Amerika",
+                "vnString": "Người Mỹ"
+              },
+              {
+                "arString": "المصريون القدماء",
+                "enString": "Ancient Egyptians",
+                "frenchString": "Anciens Égyptiens",
+                "idString": "Orang Mesir Kuno",
+                "vnString": "Người Ai Cập cổ đại"
+              },
+              {
+                "arString": "الرومان",
+                "enString": "Romans",
+                "frenchString": "Romains",
+                "idString": "Orang Romawi",
+                "vnString": "Người La Mã"
+              },
+              {
+                "arString": "اليونانيون",
+                "enString": "Greeks",
+                "frenchString": "Grecs",
+                "idString": "Orang Yunani",
+                "vnString": "Người Hy Lạp"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المصريون القدماء",
+              "enString": "Ancient Egyptians",
+              "frenchString": "Anciens Égyptiens",
+              "idString": "Orang Mesir Kuno",
+              "vnString": "Người Ai Cập cổ đại"
+            },
+            "hint": {
+              "arString": "هذه الحضارة بنتها بالقرب من نهر النيل لتكون مقابر للملوك.",
+              "enString": "This civilization built them near the Nile River as tombs for Pharaohs.",
+              "frenchString": "Cette civilisation les a construites près du Nil comme tombeaux pour les pharaons.",
+              "idString": "Peradaban ini membangunnya di dekat Sungai Nil sebagai makam para Firaun.",
+              "vnString": "Nền văn minh này đã xây dựng chúng bên cạnh sông Nile để làm lăng mộ cho các Pharaoh."
+            },
+            "id": 118,
+            "question": {
+              "arString": "أي حضارة قديمة قامت ببناء أهرامات الجيزة؟",
+              "enString": "Which ancient civilization built the Pyramids of Giza?",
+              "frenchString": "Quelle ancienne civilisation a construit les pyramides de Gizeh ?",
+              "idString": "Peradaban kuno mana yang membangun Piramida Giza?",
+              "vnString": "Nền văn minh cổ đại nào đã xây dựng các Kim tự tháp Giza?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الصوت",
+                "enString": "Sound",
+                "frenchString": "Son",
+                "idString": "Suara",
+                "vnString": "Âm thanh"
+              },
+              {
+                "arString": "الضوء",
+                "enString": "Light",
+                "frenchString": "Lumière",
+                "idString": "Cahaya",
+                "vnString": "Ánh sáng"
+              },
+              {
+                "arString": "الكهرباء",
+                "enString": "Electricity",
+                "frenchString": "Électricité",
+                "idString": "Listrik",
+                "vnString": "Điện"
+              },
+              {
+                "arString": "الحرارة",
+                "enString": "Heat",
+                "frenchString": "Chaleur",
+                "idString": "Panas",
+                "vnString": "Nhiệt"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الضوء",
+              "enString": "Light",
+              "frenchString": "Lumière",
+              "idString": "Cahaya",
+              "vnString": "Ánh sáng"
+            },
+            "hint": {
+              "arString": "تنتقل هذه الموجات بسرعة تقارب 300,000 كيلومتر في الثانية في الفراغ.",
+              "enString": "These waves travel at approximately 300,000 kilometers per second in a vacuum.",
+              "frenchString": "Ces ondes voyagent à environ 300 000 kilomètres par seconde dans le vide.",
+              "idString": "Gelombang ini merambat dengan kecepatan sekitar 300.000 kilometer per detik di ruang hampa.",
+              "vnString": "Sóng này truyền đi với tốc độ xấp xỉ 300.000 km/s trong môi trường chân không."
+            },
+            "id": 119,
+            "question": {
+              "arString": "ما الذي ينتقل على شكل موجات كهرومغناطيسية ولا يحتاج إلى وسط مادي؟",
+              "enString": "What travels in the form of electromagnetic waves and does not need a medium?",
+              "frenchString": "Qu'est-ce qui voyage sous forme d'ondes électromagnétiques et n'a pas besoin de milieu ?",
+              "idString": "Apa yang merambat dalam bentuk gelombang elektromagnetik dan tidak memerlukan medium?",
+              "vnString": "Cái gì truyền đi dưới dạng sóng điện từ và không cần môi trường vật chất?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "كانبرا",
+                "enString": "Canberra",
+                "frenchString": "Canberra",
+                "idString": "Canberra",
+                "vnString": "Canberra"
+              },
+              {
+                "arString": "سيدني",
+                "enString": "Sydney",
+                "frenchString": "Sydney",
+                "idString": "Sydney",
+                "vnString": "Sydney"
+              },
+              {
+                "arString": "ملبورن",
+                "enString": "Melbourne",
+                "frenchString": "Melbourne",
+                "idString": "Melbourne",
+                "vnString": "Melbourne"
+              },
+              {
+                "arString": "بريزبان",
+                "enString": "Brisbane",
+                "frenchString": "Brisbane",
+                "idString": "Brisbane",
+                "vnString": "Brisbane"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "كانبرا",
+              "enString": "Canberra",
+              "frenchString": "Canberra",
+              "idString": "Canberra",
+              "vnString": "Canberra"
+            },
+            "hint": {
+              "arString": "تم اختيار هذه المدينة كعاصمة كحل وسط بين سيدني وملبورن.",
+              "enString": "This city was chosen as the capital as a compromise between Sydney and Melbourne.",
+              "frenchString": "Cette ville a été choisie comme capitale comme compromis entre Sydney et Melbourne.",
+              "idString": "Kota ini dipilih sebagai ibu kota sebagai jalan tengah antara Sydney dan Melbourne.",
+              "vnString": "Thành phố này được chọn làm thủ đô như một sự thỏa hiệp giữa Sydney và Melbourne."
+            },
+            "id": 120,
+            "question": {
+              "arString": "ما هي عاصمة أستراليا؟",
+              "enString": "What is the capital of Australia?",
+              "frenchString": "Quelle est la capitale de l'Australie ?",
+              "idString": "Apa ibu kota Australia?",
+              "vnString": "Thủ đô của Úc là gì?"
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 25,
+        "questions": [
+          {
+            "answers": [
+              {
+                "arString": "سيراميك",
+                "enString": "Ceramic",
+                "frenchString": "Céramique",
+                "idString": "Keramik",
+                "vnString": "Gốm"
+              },
+              {
+                "arString": "البلاستيك",
+                "enString": "Plastic",
+                "frenchString": "Plastique",
+                "idString": "Plastik",
+                "vnString": "Nhựa"
+              },
+              {
+                "arString": "النحاس",
+                "enString": "Copper",
+                "frenchString": "Cuivre",
+                "idString": "Tembaga",
+                "vnString": "Đồng"
+              },
+              {
+                "arString": "الخشب",
+                "enString": "Wood",
+                "frenchString": "Bois",
+                "idString": "Kayu",
+                "vnString": "Gỗ"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "النحاس",
+              "enString": "Copper",
+              "frenchString": "Cuivre",
+              "idString": "Tembaga",
+              "vnString": "Đồng"
+            },
+            "hint": {
+              "arString": "المعادن بشكل عام هي موصلات ممتازة للكهرباء.",
+              "enString": "Metals in general are excellent conductors of electricity.",
+              "frenchString": "Les métaux en général sont d'excellents conducteurs d'électricité.",
+              "idString": "Logam pada umumnya adalah konduktor listrik yang sangat baik.",
+              "vnString": "Kim loại nói chung là những chất dẫn điện vô cùng tuyệt vời."
+            },
+            "id": 121,
+            "question": {
+              "arString": "أي من المواد التالية được coi là chất dẫn điện tốt?",
+              "enString": "Which of the following materials is considered a good conductor of electricity?",
+              "frenchString": "Laquelle des matières suivantes est considérée comme un bon conducteur d'électricité ?",
+              "idString": "Manakah dari bahan berikut yang dianggap sebagai konduktor listrik yang baik?",
+              "vnString": "Chất nào sau đây được coi là chất dẫn điện tốt?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "3.14",
+                "enString": "3.14",
+                "frenchString": "3.14",
+                "idString": "3.14",
+                "vnString": "3.14"
+              },
+              {
+                "arString": "2.71",
+                "enString": "2.71",
+                "frenchString": "2.71",
+                "idString": "2.71",
+                "vnString": "2.71"
+              },
+              {
+                "arString": "1.41",
+                "enString": "1.41",
+                "frenchString": "1.41",
+                "idString": "1.41",
+                "vnString": "1.41"
+              },
+              {
+                "arString": "1.61",
+                "enString": "1.61",
+                "frenchString": "1.61",
+                "idString": "1.61",
+                "vnString": "1.61"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "3.14",
+              "enString": "3.14",
+              "frenchString": "3.14",
+              "idString": "3.14",
+              "vnString": "3.14"
+            },
+            "hint": {
+              "arString": "هذا الثابت يمثل نسبة محيط الدائرة إلى قطرها.",
+              "enString": "This constant represents the ratio of a circle's circumference to its diameter.",
+              "frenchString": "Cette constante représente le rapport entre la circonférence d'un cercle et son diamètre.",
+              "idString": "Konstanta ini mewakili rasio keliling lingkaran terhadap diameternya.",
+              "vnString": "Hằng số này biểu thị tỷ số giữa chu vi của một đường tròn và đường kính của nó."
+            },
+            "id": 122,
+            "question": {
+              "arString": "ما القيمة التقريبية للثابت الرياضي باي (π)؟",
+              "enString": "What is the approximate value of the mathematical constant Pi (π)?",
+              "frenchString": "Quelle est la valeur approximative de la constante mathématique Pi (π) ?",
+              "idString": "Berapakah nilai perkiraan dari konstanta matematika Pi (π)?",
+              "vnString": "Giá trị xấp xỉ của hằng số toán học Pi (π) là bao nhiêu?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الأميركي",
+                "enString": "American",
+                "frenchString": "Américain",
+                "idString": "Amerika",
+                "vnString": "Mỹ"
+              },
+              {
+                "arString": "الإيطالي",
+                "enString": "Italian",
+                "frenchString": "Italien",
+                "idString": "Italia",
+                "vnString": "Ý"
+              },
+              {
+                "arString": "الإسباني",
+                "enString": "Spanish",
+                "frenchString": "Espagnol",
+                "idString": "Spanyol",
+                "vnString": "Tây Ban Nha"
+              },
+              {
+                "arString": "الفرنسي",
+                "enString": "French",
+                "frenchString": "Français",
+                "idString": "Prancis",
+                "vnString": "Pháp"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الإيطالي",
+              "enString": "Italian",
+              "frenchString": "Italien",
+              "idString": "Italia",
+              "vnString": "Ý"
+            },
+            "hint": {
+              "arString": "ولد هذا الرسام والمهندس الشهير في فلورنسا بإيطاليا خلال عصر النهضة.",
+              "enString": "This famous painter and engineer was born in Florence, Italy, during the Renaissance.",
+              "frenchString": "Ce célèbre peintre et ingénieur est né à Florence, en Italie, pendant la Renaissance.",
+              "idString": "Pelukis dan insinyur terkenal ini lahir di Florence, Italia, selama masa Renaisans.",
+              "vnString": "Danh họa kiêm kỹ sư nổi tiếng này sinh ra tại Florence, Ý vào thời kỳ Phục Hưng."
+            },
+            "id": 123,
+            "question": {
+              "arString": "ما هي جنسية الفنان الشهير ليوناردو دا فينشي؟",
+              "enString": "What was the nationality of the famous artist Leonardo da Vinci?",
+              "frenchString": "Quelle était la nationalité du célèbre artiste Léonard de Vinci ?",
+              "idString": "Apa kewarganegaraan seniman terkenal Leonardo da Vinci?",
+              "vnString": "Quốc tịch của danh họa nổi tiếng Leonardo da Vinci là gì?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "الوشاح",
+                "enString": "Mantle",
+                "frenchString": "Manteau",
+                "idString": "Mantel",
+                "vnString": "Lớp manti"
+              },
+              {
+                "arString": "القشرة",
+                "enString": "Crust",
+                "frenchString": "Croûte",
+                "idString": "Kerak",
+                "vnString": "Vỏ Trái Đất"
+              },
+              {
+                "arString": "اللب الخارجي",
+                "enString": "Outer Core",
+                "frenchString": "Noyau externe",
+                "idString": "Inti Luar",
+                "vnString": "Lõi ngoài"
+              },
+              {
+                "arString": "اللب الداخلي",
+                "enString": "Inner Core",
+                "frenchString": "Noyau interne",
+                "idString": "Inti Dalam",
+                "vnString": "Lõi trong"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "القشرة",
+              "enString": "Crust",
+              "frenchString": "Croûte",
+              "idString": "Kerak",
+              "vnString": "Vỏ Trái Đất"
+            },
+            "hint": {
+              "arString": "هذه هي الطبقة الأكثر ngoại cùng والمكان الذي نعيش عليه.",
+              "enString": "This is the outermost layer and the place where we live.",
+              "frenchString": "C'est la couche la plus externe et l'endroit où nous vivons.",
+              "idString": "Ini adalah lapisan paling luar dan tempat di mana kita tinggal.",
+              "vnString": "Đây là lớp ngoài cùng nhất và cũng là nơi chúng ta đang sinh sống."
+            },
+            "id": 124,
+            "question": {
+              "arString": "ما هي الطبقة الأكثر ngoại cùng của Trái Đất?",
+              "enString": "What is the outermost layer of the Earth?",
+              "frenchString": "Quelle est la couche la plus externe de la Terre ?",
+              "idString": "Apa lapisan paling luar dari Bumi?",
+              "vnString": "Lớp ngoài cùng nhất của Trái Đất được gọi là gì?"
+            }
+          },
+          {
+            "answers": [
+              {
+                "arString": "نصف القطر",
+                "enString": "Radius",
+                "frenchString": "Rayon",
+                "idString": "Jari-jari",
+                "vnString": "Bán kính"
+              },
+              {
+                "arString": "الوتر",
+                "enString": "Chord",
+                "frenchString": "Corde",
+                "idString": "Tali busur",
+                "vnString": "Dây cung"
+              },
+              {
+                "arString": "القطر",
+                "enString": "Diameter",
+                "frenchString": "Diamètre",
+                "idString": "Diameter",
+                "vnString": "Đường kính"
+              },
+              {
+                "arString": "المماس",
+                "enString": "Tangent",
+                "frenchString": "Tangente",
+                "idString": "Garis singgung",
+                "vnString": "Tiếp tuyến"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "القطر",
+              "enString": "Diameter",
+              "frenchString": "Diamètre",
+              "idString": "Diameter",
+              "vnString": "Đường kính"
+            },
+            "hint": {
+              "arString": "يمر هذا الخط مستقيماً عبر مركز الدائرة ويساوي ضعف طول نصف القطر.",
+              "enString": "This straight line passes through the center of the circle and is twice the length of the radius.",
+              "frenchString": "Cette ligne droite passe par le centre du cercle et équivaut à deux fois la longueur du rayon.",
+              "idString": "Garis lurus ini melewati titik pusat lingkaran dan panjangnya dua kali jari-jari.",
+              "vnString": "Đoạn thẳng này đi qua tâm đường tròn và có độ dài bằng hai lần bán kính."
+            },
+            "id": 125,
+            "question": {
+              "arString": "ماذا يسمى الخط المستقيم الذي يربط بين نقطتين على الدائرة ويمر بمركزها؟",
+              "enString": "What is the straight line connecting two points on a circle and passing through its center called?",
+              "frenchString": "Comment appelle-t-on đoạn thẳng nối hai điểm trên đường tròn và đi qua tâm của nó ?",
+              "idString": "Apa nama garis lurus yang menghubungkan dua titik pada lingkaran và melewati pusatnya?",
+              "vnString": "Đoạn thẳng nối hai điểm trên đường tròn và đi qua tâm được gọi là gì?"
             }
           }
         ],
