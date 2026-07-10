@@ -171458,6 +171458,1386 @@
           }
         ],
         "status": 0
+      },
+      {
+        "id": 11,
+        "questions": [
+          {
+            "id": 51,
+            "question": {
+              "arString": "ماذا نستخدم لمعرفة الوقت في اليوم؟",
+              "enString": "What do we use to tell the time of day?",
+              "frenchString": "Qu'utilisons-nous pour dire l'heure de la journée?",
+              "idString": "Apa yang kita gunakan để mengetahui waktu trong sehari?",
+              "vnString": "Chúng ta dùng vật gì để biết thời gian trong ngày?"
+            },
+            "answers": [
+              {
+                "arString": "ساعة",
+                "enString": "A clock",
+                "frenchString": "Une horloge",
+                "idString": "Jam",
+                "vnString": "Đồng hồ"
+              },
+              {
+                "arString": "كتاب",
+                "enString": "A book",
+                "frenchString": "Un livre",
+                "idString": "Buku",
+                "vnString": "Sách"
+              },
+              {
+                "arString": "لعبة",
+                "enString": "A toy",
+                "frenchString": "Un jouet",
+                "idString": "Mainan",
+                "vnString": "Đồ chơi"
+              },
+              {
+                "arString": "مرآة",
+                "enString": "A mirror",
+                "frenchString": "Un miroir",
+                "idString": "Cermin",
+                "vnString": "Gương"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "ساعة",
+              "enString": "A clock",
+              "frenchString": "Une horloge",
+              "idString": "Jam",
+              "vnString": "Đồng hồ"
+            },
+            "hint": {
+              "arString": "إنه يحتوي على عقارب تدور وتشير إلى الأرقام.",
+              "enString": "It has hands that move around and point to numbers.",
+              "frenchString": "Il a des aiguilles qui tournent et indiquent des chiffres.",
+              "idString": "Benda ini memiliki jarum yang bergerak dan menunjuk ke angka.",
+              "vnString": "Vật này có các kim quay quanh và chỉ vào các con số."
+            }
+          },
+          {
+            "id": 52,
+            "question": {
+              "arString": "من هو الشخص الذي يقود المدرسة ويساعد الجميع؟",
+              "enString": "Who is the leader of the school that helps everyone?",
+              "frenchString": "Qui est le chef de l'école qui aide tout le monde?",
+              "idString": "Siapa pemimpin sekolah yang membantu semua orang?",
+              "vnString": "Ai là người đứng đầu trường học và giúp đỡ mọi người?"
+            },
+            "answers": [
+              {
+                "arString": "المدير",
+                "enString": "The principal",
+                "frenchString": "Le directeur",
+                "idString": "Kepala sekolah",
+                "vnString": "Hiệu trưởng"
+              },
+              {
+                "arString": "طبيب الأسنان",
+                "enString": "A dentist",
+                "frenchString": "Un dentiste",
+                "idString": "Dokter gigi",
+                "vnString": "Nha sĩ"
+              },
+              {
+                "arString": "رائد فضاء",
+                "enString": "An astronaut",
+                "frenchString": "Un astronaute",
+                "idString": "Astronaut",
+                "vnString": "Phi hành gia"
+              },
+              {
+                "arString": "مغني",
+                "enString": "A singer",
+                "frenchString": "Un chanteur",
+                "idString": "Penyanyi",
+                "vnString": "Ca sĩ"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المدير",
+              "enString": "The principal",
+              "frenchString": "Le directeur",
+              "idString": "Kepala sekolah",
+              "vnString": "Hiệu trưởng"
+            },
+            "hint": {
+              "arString": "هذا الشخص لديه مكتب في المدرسة ويعتني بجميع الطلاب المعلمين.",
+              "enString": "This person has an office at school and takes care of all students and teachers.",
+              "frenchString": "Cette personne a un bureau à l'école et s'occupe de tous les élèves et enseignants.",
+              "idString": "Orang ini memiliki ruang kerja di sekolah dan menjaga semua siswa serta guru.",
+              "vnString": "Người này có văn phòng ở trường và chăm sóc cho tất cả học sinh, giáo viên."
+            }
+          },
+          {
+            "id": 53,
+            "question": {
+              "arString": "ماذا يخبرنا العنوان على الخريطة؟",
+              "enString": "What does the title of a map tell us?",
+              "frenchString": "Que nous dit le titre d'une carte?",
+              "idString": "Apa yang diberitahukan oleh judul peta kepada kita?",
+              "vnString": "Tiêu đề của một bản đồ cho chúng ta biết điều gì?"
+            },
+            "answers": [
+              {
+                "arString": "ما تدور حوله الخريطة",
+                "enString": "What the map is about",
+                "frenchString": "De quoi parle la carte",
+                "idString": "Tentang apa peta tersebut",
+                "vnString": "Bản đồ đó nói về cái gì"
+              },
+              {
+                "arString": "كم عمر الخريطة",
+                "enString": "How old the map is",
+                "frenchString": "Quel âge a la carte",
+                "idString": "Berapa usia peta tersebut",
+                "vnString": "Bản đồ đó cũ hay mới"
+              },
+              {
+                "arString": "اسم الرسام",
+                "enString": "The name of the painter",
+                "frenchString": "Le nom du peintre",
+                "idString": "Nama pelukisnya",
+                "vnString": "Tên của họa sĩ vẽ tranh"
+              },
+              {
+                "arString": "طعامك المفضل",
+                "enString": "Your favorite food",
+                "frenchString": "Votre nourriture préférée",
+                "idString": "Makanan favoritmu",
+                "vnString": "Món ăn yêu thích của bạn"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "ما تدور حوله الخريطة",
+              "enString": "What the map is about",
+              "frenchString": "De quoi parle la carte",
+              "idString": "Tentang apa peta tersebut",
+              "vnString": "Bản đồ đó nói về cái gì"
+            },
+            "hint": {
+              "arString": "إنه مثل اسم الكتاب، يخبرك بما ستراه بالداخل.",
+              "enString": "It is like the name of a book, it tells you what you will see inside.",
+              "frenchString": "C'est comme le titre d'un livre, cela vous dit ce que vous allez voir à l'intérieur.",
+              "idString": "Ini seperti judul buku, yang memberitahu apa yang akan kamu lihat di dalamnya.",
+              "vnString": "Nó giống như tên của một cuốn sách, cho bạn biết bạn sẽ nhìn thấy gì bên trong."
+            }
+          },
+          {
+            "id": 54,
+            "question": {
+              "arString": "ماذا يفعل رجال الإطفاء لمساعدة المجتمع؟",
+              "enString": "What do firefighters do to help the community?",
+              "frenchString": "Que font les pompiers pour aider la communauté?",
+              "idString": "Apa yang dilakukan petugas pemadam kebakaran untuk membantu masyarakat?",
+              "vnString": "Lính cứu hỏa làm gì để giúp đỡ cộng đồng?"
+            },
+            "answers": [
+              {
+                "arString": "إخماد الحرائق وإنقاذ الناس",
+                "enString": "Put out fires and save people",
+                "frenchString": "Éteindre les incendies et sauver des vies",
+                "idString": "Memadamkan kebakaran dan menyelamatkan orang",
+                "vnString": "Dập tắt đám cháy và cứu người"
+              },
+              {
+                "arString": "بيع الألعاب",
+                "enString": "Sell toys",
+                "frenchString": "Vendre des jouets",
+                "idString": "Menjual mainan",
+                "vnString": "Bán đồ chơi"
+              },
+              {
+                "arString": "توصيل الرسائل",
+                "enString": "Deliver mail",
+                "frenchString": "Livrer le courrier",
+                "idString": "Mengirim surat",
+                "vnString": "Giao thư từ"
+              },
+              {
+                "arString": "قص الشعر",
+                "enString": "Cut hair",
+                "frenchString": "Couper les cheveux",
+                "idString": "Memotong rambut",
+                "vnString": "Cắt tóc"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "إخماد الحرائق وإنقاذ الناس",
+              "enString": "Put out fires and save people",
+              "frenchString": "Éteindre les incendies et sauver des vies",
+              "idString": "Memadamkan kebakaran dan menyelamatkan orang",
+              "vnString": "Dập tắt đám cháy và cứu người"
+            },
+            "hint": {
+              "arString": "إنهم يقودون شاحنات حمراء كبيرة ويستخدمون خراطيم المياه.",
+              "enString": "They drive big red trucks and use water hoses.",
+              "frenchString": "Ils conduisent de grands camions rouges et utilisent des lances à eau.",
+              "idString": "Mereka mengendarai truk merah besar dan menggunakan selang air.",
+              "vnString": "Họ lái những chiếc xe tải lớn màu đỏ và dùng vòi rồng phun nước."
+            }
+          },
+          {
+            "id": 55,
+            "question": {
+              "arString": "ما هي الطريقة الجيدة لإظهار الاحترام في الفصل الدراسي؟",
+              "enString": "What is a good way to show respect in the classroom?",
+              "frenchString": "Quelle est une bonne façon de montrer du respect en classe?",
+              "idString": "Apa cara yang baik untuk menunjukkan rasa hormat di kelas?",
+              "vnString": "Cách tốt để thể hiện sự tôn trọng trong lớp học là gì?"
+            },
+            "answers": [
+              {
+                "arString": "رفع يدك قبل التحدث والاستماع للآخرين",
+                "enString": "Raise your hand before speaking and listen to others",
+                "frenchString": "Lever la main avant de parler et écouter les autres",
+                "idString": "Mengangkat tangan sebelum berbicara dan mendengarkan orang lain",
+                "vnString": "Giơ tay trước khi nói và lắng nghe người khác"
+              },
+              {
+                "arString": "الركض والصراخ بصوت عالٍ",
+                "enString": "Run around and shout loudly",
+                "frenchString": "Courir partout et crier fort",
+                "idString": "Berlari-lari dan berteriak keras",
+                "vnString": "Chạy lung tung và hét thật to"
+              },
+              {
+                "arString": "أخذ أدوات أصدقائك دون استئذان",
+                "enString": "Take your friends' things without asking",
+                "frenchString": "Prendre les affaires de vos amis sans demander",
+                "idString": "Mengambil barang teman tanpa izin",
+                "vnString": "Tự ý lấy đồ của bạn bè mà không xin phép"
+              },
+              {
+                "arString": "النوم أثناء الدرس",
+                "enString": "Sleep during the lesson",
+                "frenchString": "Dormir pendant la leçon",
+                "idString": "Tidur saat pelajaran",
+                "vnString": "Ngủ gật trong giờ học"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "رفع يدك قبل التحدث والاستماع للآخرين",
+              "enString": "Raise your hand before speaking and listen to others",
+              "frenchString": "Lever la main avant de parler et écouter les autres",
+              "idString": "Mengangkat tangan sebelum berbicara dan mendengarkan orang lain",
+              "vnString": "Giơ tay trước khi nói và lắng nghe người khác"
+            },
+            "hint": {
+              "arString": "إنها قاعدة تساعد الجميع على التعلم بالتناوب وبطريقة هادئة.",
+              "enString": "It is a rule that helps everyone take turns and learn quietly.",
+              "frenchString": "C'est une règle qui aide tout le monde à attendre son tour et à apprendre calmement.",
+              "idString": "Ini adalah aturan yang membantu semua orang bergantian dan belajar dengan tenang.",
+              "vnString": "Đây là một quy định giúp mọi người chờ đến lượt và học tập một cách yên lặng."
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 12,
+        "questions": [
+          {
+            "id": 56,
+            "question": {
+              "arString": "عندما تكبر وتصبح شخصًا بالغًا، هل هذا يحدث في الماضي أم الحاضر أم المستقبل؟",
+              "enString": "When you grow up and become an adult, does that happen in the past, present, or future?",
+              "frenchString": "Quand tu seras grand et que tu seras un adulte, cela se passera-t-il dans le passé, le présent ou le futur?",
+              "idString": "Ketika kamu tumbuh dewasa dan menjadi orang dewasa, apakah itu terjadi di masa lalu, masa kini, atau masa depan?",
+              "vnString": "Khi em lớn lên và trở thành người trưởng thành, điều đó xảy ra ở quá khứ, hiện tại hay tương lai?"
+            },
+            "answers": [
+              {
+                "arString": "المستقبل",
+                "enString": "Future",
+                "frenchString": "Le futur",
+                "idString": "Masa depan",
+                "vnString": "Tương lai"
+              },
+              {
+                "arString": "الماضي",
+                "enString": "Past",
+                "frenchString": "Le passé",
+                "idString": "Masa lalu",
+                "vnString": "Quá khứ"
+              },
+              {
+                "arString": "الحاضر",
+                "enString": "Present",
+                "frenchString": "Le présent",
+                "idString": "Masa kini",
+                "vnString": "Hiện tại"
+              },
+              {
+                "arString": "أمس",
+                "enString": "Yesterday",
+                "frenchString": "Hier",
+                "idString": "Kemarin",
+                "vnString": "Hôm qua"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المستقبل",
+              "enString": "Future",
+              "frenchString": "Le futur",
+              "idString": "Masa depan",
+              "vnString": "Tương lai"
+            },
+            "hint": {
+              "arString": "إنه وقت لم يأتي بعد، وهو شيء سيحدث لاحقًا.",
+              "enString": "It is a time that has not happened yet, something that will come later.",
+              "frenchString": "C'est un moment qui ne s'est pas encore produit, quelque chose qui viendra plus tard.",
+              "idString": "Ini adalah waktu yang belum terjadi, sesuatu yang baru akan datang nanti.",
+              "vnString": "Đây là khoảng thời gian chưa diễn ra, là những gì sẽ đến sau này."
+            }
+          },
+          {
+            "id": 57,
+            "question": {
+              "arString": "أي غرفة في المدرسة تذهب إليها لقراءة واستعارة الكتب؟",
+              "enString": "Which room in the school do you go to for reading and borrowing books?",
+              "frenchString": "Dans quelle pièce de l'école vas-tu pour lire et emprunter des livres?",
+              "idString": "Ruangan mana di sekolah yang kamu kunjungi untuk membaca dan meminjam buku?",
+              "vnString": "Em đến căn phòng nào trong trường để đọc và mượn sách?"
+            },
+            "answers": [
+              {
+                "arString": "المكتبة",
+                "enString": "The library",
+                "frenchString": "La bibliothèque",
+                "idString": "Perpustakaan",
+                "vnString": "Thư viện"
+              },
+              {
+                "arString": "الكافتيريا",
+                "enString": "The cafeteria",
+                "frenchString": "La cantine",
+                "idString": "Kantin",
+                "vnString": "Nhà ăn"
+              },
+              {
+                "arString": "الملعب",
+                "enString": "The playground",
+                "frenchString": "La cour de récréation",
+                "idString": "Lapangan bermain",
+                "vnString": "Sân chơi"
+              },
+              {
+                "arString": "صالة الألعاب الرياضية",
+                "enString": "The gym",
+                "frenchString": "Gymnase",
+                "idString": "Ruang olahraga",
+                "vnString": "Phòng thể chất"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المكتبة",
+              "enString": "The library",
+              "frenchString": "La bibliothèque",
+              "idString": "Perpustakaan",
+              "vnString": "Thư viện"
+            },
+            "hint": {
+              "arString": "إنها غرفة هادئة مليئة بالرفوف والكثير من القصص والكتب المصورة.",
+              "enString": "It is a quiet room filled with shelves and lots of stories and picture books.",
+              "frenchString": "C'est une pièce calme remplie d'étagères et de nombreuses histoires et livres d'images.",
+              "idString": "Ini adalah ruangan yang tenang yang penuh dengan rak và banyak buku cerita serta buku bergambar.",
+              "vnString": "Đây là một căn phòng yên tĩnh có nhiều giá sách, chứa nhiều câu chuyện và truyện tranh."
+            }
+          },
+          {
+            "id": 58,
+            "question": {
+              "arString": "ما هو الاتجاه الذي يشير إلى الأعلى على معظم الخرائط؟",
+              "enString": "Which direction usually points straight up on most maps?",
+              "frenchString": "Quelle direction pointe généralement vers le haut sur la plupart des cartes?",
+              "idString": "Arah mana yang biasanya menunjuk langsung ke atas pada sebagian besar peta?",
+              "vnString": "Hướng nào thường chỉ thẳng lên phía trên cùng của hầu hết các bản đồ?"
+            },
+            "answers": [
+              {
+                "arString": "الشمال",
+                "enString": "North",
+                "frenchString": "Le Nord",
+                "idString": "Utara",
+                "vnString": "Hướng Bắc"
+              },
+              {
+                "arString": "الجنوب",
+                "enString": "South",
+                "frenchString": "Le Sud",
+                "idString": "Selatan",
+                "vnString": "Hướng Nam"
+              },
+              {
+                "arString": "الشرق",
+                "enString": "East",
+                "frenchString": "L'Est",
+                "idString": "Timur",
+                "vnString": "Hướng Đông"
+              },
+              {
+                "arString": "الغرب",
+                "enString": "West",
+                "frenchString": "L'Ouest",
+                "idString": "Barat",
+                "vnString": "Hướng Tây"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الشمال",
+              "enString": "North",
+              "frenchString": "Le Nord",
+              "idString": "Utara",
+              "vnString": "Hướng Bắc"
+            },
+            "hint": {
+              "arString": "إنه عكس اتجاه الجنوب، ويقع في أعلى وردة البوصلة.",
+              "enString": "It is the opposite of South, located at the very top of a compass rose.",
+              "frenchString": "C'est l'opposé du Sud, situé tout en haut d'une rose des vents.",
+              "idString": "Ini adalah kebalikan dari Selatan, terletak di bagian paling atas dari penunjuk arah kompas.",
+              "vnString": "Đây là hướng ngược lại với hướng Nam, nằm ở phía trên cùng của la bàn."
+            }
+          },
+          {
+            "id": 59,
+            "question": {
+              "arString": "كيف يساعد ضابط الشرطة الناس في المجتمع؟",
+              "enString": "How does a police officer help people in the community?",
+              "frenchString": "Comment un policier aide-t-il les gens dans la communauté?",
+              "idString": "Bagaimana seorang petugas polisi membantu orang-orang di masyarakat?",
+              "vnString": "Chiến sĩ cảnh sát giúp đỡ mọi người trong cộng đồng bằng cách nào?"
+            },
+            "answers": [
+              {
+                "arString": "من خلال الحفاظ على الأمان ومتابعة القوانين",
+                "enString": "By keeping people safe and following laws",
+                "frenchString": "En assurant la sécurité des gens et en faisant respecter les lois",
+                "idString": "Dengan menjaga keamanan orang-orang dan mematuhi hukum",
+                "vnString": "Bằng cách giữ an toàn cho mọi người và giữ gìn luật pháp"
+              },
+              {
+                "arString": "من خلال خبز الخبز اللذيذ",
+                "enString": "By baking delicious bread",
+                "frenchString": "En cuisant du pain délicieux",
+                "idString": "Dengan memanggang roti yang lezat",
+                "vnString": "Bằng cách làm ra những chiếc bánh mì ngon"
+              },
+              {
+                "arString": "من خلال زراعة الخضروات في المزرعة",
+                "enString": "By growing vegetables on a farm",
+                "frenchString": "En faisant pousser des légumes dans une ferme",
+                "idString": "Dengan menanam sayuran di pertanian",
+                "vnString": "Bằng cách trồng rau củ ở trang trại"
+              },
+              {
+                "arString": "من خلال الطيران بالطائرات في السماء",
+                "enString": "By flying airplanes in the sky",
+                "frenchString": "En pilotant des avions dans le ciel",
+                "idString": "Dengan menerbangkan pesawat di langit",
+                "vnString": "Bằng cách lái máy bay trên bầu trời"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "من خلال الحفاظ على الأمان ومتابعة القوانين",
+              "enString": "By keeping people safe and following laws",
+              "frenchString": "En assurant la sécurité des gens et en faisant respecter les lois",
+              "idString": "Dengan menjaga keamanan orang-orang dan mematuhi hukum",
+              "vnString": "Bằng cách giữ an toàn cho mọi người và giữ gìn luật pháp"
+            },
+            "hint": {
+              "arString": "يرتدون زيًا رسميًا ويساعدونك إذا تهت أو كنت بحاجة إلى مساعدة.",
+              "enString": "They wear a uniform and help you if you are lost or need assistance.",
+              "frenchString": "Ils portent un uniforme et t'aident si tu es perdu ou si tu as besoin d'aide.",
+              "idString": "Mereka mengenakan seragam dan membantumu jika kamu tersesat atau butuh bantuan.",
+              "vnString": "Họ mặc đồng phục và sẽ giúp đỡ em nếu em bị lạc đường hoặc cần sự trợ giúp."
+            }
+          },
+          {
+            "id": 60,
+            "question": {
+              "arString": "ماذا يمكنك أن تفعل لتكون ابنًا متعاونًا في المنزل؟",
+              "enString": "What can you do to be a helpful family member at home?",
+              "frenchString": "Que peux-tu faire pour être un membre de la famille utile à la maison?",
+              "idString": "Apa yang bisa kamu lakukan untuk menjadi anggota keluarga yang membantu di rumah?",
+              "vnString": "Em có thể làm gì để trở thành một thành viên ngoan, biết giúp đỡ gia đình khi ở nhà?"
+            },
+            "answers": [
+              {
+                "arString": "ترتيب ألعابك بعد الانتهاء من اللعب",
+                "enString": "Clean up your toys after playing",
+                "frenchString": "Ranger tes jouets après avoir joué",
+                "idString": "Merapikan mainanmu setelah bermain",
+                "vnString": "Cất dọn đồ chơi gọn gàng sau khi chơi xong"
+              },
+              {
+                "arString": "ترك ملابسك المتسخة على الأرض",
+                "enString": "Leave dirty clothes on the floor",
+                "frenchString": "Laisser les vêtements sales par terre",
+                "idString": "Meninggalkan pakaian kotor di lantai",
+                "vnString": "Vứt quần áo bẩn bừa bãi trên sàn nhà"
+              },
+              {
+                "arString": "اللعب بألعاب الفيديو طوال اليوم دون توقف",
+                "enString": "Play video games all day without stopping",
+                "frenchString": "Jouer aux jeux vidéo toute la journée sans s'arrêter",
+                "idString": "Bermain game sepanjang hari tanpa berhenti",
+                "vnString": "Chơi điện tử suốt cả ngày không dừng lại"
+              },
+              {
+                "arString": "إحداث فوضى كبيرة في المطبخ",
+                "enString": "Make a big mess in the kitchen",
+                "frenchString": "Faire un gros désordre dans la cuisine",
+                "idString": "Membuat dapur menjadi sangat berantakan",
+                "vnString": "Bày bừa thật nhiều đồ đạc trong nhà bếp"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "ترتيب ألعابك بعد الانتهاء من اللعب",
+              "enString": "Clean up your toys after playing",
+              "frenchString": "Ranger tes jouets après avoir joué",
+              "idString": "Merapikan mainanmu setelah bermain",
+              "vnString": "Cất dọn đồ chơi gọn gàng sau khi chơi xong"
+            },
+            "hint": {
+              "arString": "إنه عمل بسيط يظهر لوالديك أنك تهتم بنظافة غرفتك.",
+              "enString": "It is a simple chore that shows your parents you care about keeping the house neat.",
+              "frenchString": "C'est une tâche simple qui montre à tes parents que tu as à cœur de garder la maison propre.",
+              "idString": "Ini adalah tugas sederhana yang menunjukkan kepada orang tuamu bahwa kamu peduli menjaga kerapian rumah.",
+              "vnString": "Đây là một việc làm nhỏ thể hiện cho bố mẹ thấy em biết tự giác giữ gìn nhà cửa gọn gàng."
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 13,
+        "questions": [
+          {
+            "id": 61,
+            "question": {
+              "arString": "أي من هذه الأشياء هو رمز يمثل دولة ما؟",
+              "enString": "Which of these is a symbol that stands for a country?",
+              "frenchString": "Lequel de ces éléments est un symbole qui représente un pays?",
+              "idString": "Manakah di antara benda-benda ini yang merupakan simbol perwakilan suatu negara?",
+              "vnString": "Vật nào dưới đây là biểu tượng đại diện cho một quốc gia?"
+            },
+            "answers": [
+              {
+                "arString": "العلم",
+                "enString": "A flag",
+                "frenchString": "Un drapeau",
+                "idString": "Bendera",
+                "vnString": "Lá cờ"
+              },
+              {
+                "arString": "قلم تلوين",
+                "enString": "A crayon",
+                "frenchString": "Un crayon de couleur",
+                "idString": "Krayon",
+                "vnString": "Bút màu"
+              },
+              {
+                "arString": "حذاء",
+                "enString": "A shoe",
+                "frenchString": "Une chaussure",
+                "idString": "Sepatu",
+                "vnString": "Đôi giày"
+              },
+              {
+                "arString": "بالون",
+                "enString": "A balloon",
+                "frenchString": "Un ballon",
+                "idString": "Balon",
+                "vnString": "Quả bóng bay"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "العلم",
+              "enString": "A flag",
+                "frenchString": "Un drapeau",
+                "idString": "Bendera",
+                "vnString": "Lá cờ"
+            },
+            "hint": {
+              "arString": "إنه مصنوع من القماش، وله ألوان خاصة، ويرفرف في الهواء خارج المباني الحكومية.",
+              "enString": "It is made of cloth, has special colors, and flies in the air outside government buildings.",
+              "frenchString": "Il est fait de tissu, a des couleurs spéciales et flotte dans l'air à l'extérieur des bâtiments officiels.",
+              "idString": "Benda ini terbuat dari kain, memiliki warna-warna khusus, dan berkibar di udara di luar gedung-gedung pemerintah.",
+              "vnString": "Vật này làm bằng vải, có màu sắc đặc trưng và thường tung bay trước các tòa nhà công cộng."
+            }
+          },
+          {
+            "id": 62,
+            "question": {
+              "arString": "أي مما يلي يعتبر من الاحتياجات الأساسية التي يحتاجها الإنسان للبقاء على قيد الحياة؟",
+              "enString": "Which of these is a 'need' that humans must have to live and survive?",
+              "frenchString": "Lequel de ces éléments est un « besoin » que les humains doivent avoir pour vivre et survivre?",
+              "idString": "Manakah di antara hal berikut yang merupakan 'kebutuhan' utama manusia untuk dapat hidup bertahan?",
+              "vnString": "Điều nào dưới đây là một 'nhu cầu thiết yếu' mà con người bắt buộc phải có để duy trì sự sống?"
+            },
+            "answers": [
+              {
+                "arString": "طعام مغذي",
+                "enString": "Healthy food",
+                "frenchString": "De la nourriture saine",
+                "idString": "Makanan sehat",
+                "vnString": "Thức ăn bổ dưỡng"
+              },
+              {
+                "arString": "طائرة لعبة",
+                "enString": "A toy airplane",
+                "frenchString": "Un avion en jouet",
+                "idString": "Mainan pesawat terbang",
+                "vnString": "Máy bay đồ chơi"
+              },
+              {
+                "arString": "حلوى وشوكولاتة",
+                "enString": "Candy and chocolate",
+                "frenchString": "Des bonbons et du chocolat",
+                "idString": "Permen dan cokelat",
+                "vnString": "Kẹo và sô-cô-la"
+              },
+              {
+                "arString": "طوق هولا هوب",
+                "enString": "A hula hoop",
+                "frenchString": "Un cerceau hula hoop",
+                "idString": "Hula hoop",
+                "vnString": "Vòng lắc hula hoop"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "طعام مغذي",
+              "enString": "Healthy food",
+              "frenchString": "De la nourriture saine",
+              "idString": "Makanan sehat",
+              "vnString": "Thức ăn bổ dưỡng"
+            },
+            "hint": {
+              "arString": "إنه شيء يعطي جسمك الطاقة ويحميك من الجوع والمرض.",
+              "enString": "It is something that gives your body energy and keeps you from being hungry and sick.",
+              "frenchString": "C'est quelque chose qui donne de l'énergie à ton corps et t'empêche d'avoir faim ou d'être malade.",
+              "idString": "Sesuatu yang memberikan energi bagi tubuhmu serta menjagamu agar tidak kelaparan atau sakit.",
+              "vnString": "Đây là thứ cung cấp năng lượng cho cơ thể em, giúp em không bị đói và đổ bệnh."
+            }
+          },
+          {
+            "id": 63,
+            "question": {
+              "arString": "ما هو نوع وسائل النقل التي تطير في السماء لنقل الناس بعيدًا؟",
+              "enString": "What kind of transportation flies in the sky to take people far away?",
+              "frenchString": "Quel type de transport vole dans le ciel pour emmener les gens très loin?",
+              "idString": "Jenis transportasi apa yang terbang di langit untuk membawa orang pergi ke tempat jauh?",
+              "vnString": "Phương tiện giao thông nào bay trên bầu trời để đưa con người đi xa?"
+            },
+            "answers": [
+              {
+                "arString": "طائرة",
+                "enString": "An airplane",
+                "frenchString": "Un avion",
+                "idString": "Pesawat terbang",
+                "vnString": "Máy bay"
+              },
+              {
+                "arString": "قطار",
+                "enString": "A train",
+                "frenchString": "Un train",
+                "idString": "Kereta api",
+                "vnString": "Tàu hỏa"
+              },
+              {
+                "arString": "قارب",
+                "enString": "A boat",
+                "frenchString": "Un bateau",
+                "idString": "Perahu",
+                "vnString": "Thuyền"
+              },
+              {
+                "arString": "دراجة نارية",
+                "enString": "A motorcycle",
+                "frenchString": "Une moto",
+                "idString": "Sepeda motor",
+                "vnString": "Xe máy"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "طائرة",
+              "enString": "An airplane",
+              "frenchString": "Un avion",
+              "idString": "Pesawat terbang",
+              "vnString": "Máy bay"
+            },
+            "hint": {
+              "arString": "يحتوي على أجنحة ومحركات كبيرة، ويقلع من المطار.",
+              "enString": "It has wings and large engines, and it takes off from an airport.",
+              "frenchString": "Il a des ailes et de grands moteurs, et il décolle d'un aéroport.",
+              "idString": "Benda ini memiliki sayap dan mesin besar, serta lepas landas dari bandara.",
+              "vnString": "Phương tiện này có cánh và động cơ lớn, thường cất cánh từ sân bay."
+            }
+          },
+          {
+            "id": 64,
+            "question": {
+              "arString": "من يساعدنا عندما نمرض ويصف لنا الدواء لنتعافى؟",
+              "enString": "Who helps us when we are sick and gives us medicine to feel better?",
+              "frenchString": "Qui nous aide lorsque nous sommes malades et nous donne des médicaments pour guérir?",
+              "idString": "Siapa yang membantu kita saat kita sakit dan memberikan obat agar kita lekas sembuh?",
+              "vnString": "Ai giúp đỡ chúng ta khi bị bệnh và kê đơn thuốc để cơ thể nhanh khỏe lại?"
+            },
+            "answers": [
+              {
+                "arString": "الطبيب",
+                "enString": "A doctor",
+                "frenchString": "Un médecin",
+                "idString": "Dokter",
+                "vnString": "Bác sĩ"
+              },
+              {
+                "arString": "المزارع",
+                "enString": "A farmer",
+                "frenchString": "Un agriculteur",
+                "idString": "Petani",
+                "vnString": "Nông dân"
+              },
+              {
+                "arString": "الخباز",
+                "enString": "A baker",
+                "frenchString": "Un boulanger",
+                "idString": "Tukang roti",
+                "vnString": "Thợ làm bánh"
+              },
+              {
+                "arString": "ميكانيكي السيارات",
+                "enString": "A mechanic",
+                "frenchString": "Un mécanicien",
+                "idString": "Mekanik",
+                "vnString": "Thợ sửa xe"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الطبيب",
+              "enString": "A doctor",
+              "frenchString": "Un médecin",
+              "idString": "Dokter",
+              "vnString": "Bác sĩ"
+            },
+            "hint": {
+              "arString": "يعمل هذا الشخص في عيادة أو مستشفى ويستخدم سماعة الطبيب للاستماع إلى نبضات قلبك.",
+              "enString": "This person works in a clinic or hospital and uses a stethoscope to listen to your heartbeat.",
+              "frenchString": "Cette personne travaille dans une clinique ou un hôpital et utilise un stéthoscope pour écouter les battements de ton cœur.",
+              "idString": "Orang ini bekerja di klinik atau rumah sakit dan menggunakan stetoskop untuk mendengarkan detak jantungmu.",
+              "vnString": "Người này làm việc ở phòng khám hoặc bệnh viện, thường dùng ống nghe để nghe nhịp tim của em."
+            }
+          },
+          {
+            "id": 65,
+            "question": {
+              "arString": "ماذا يجب أن تفعل عندما تنتظر الصعود إلى حافلة المدرسة مع زملائك؟",
+              "enString": "What should you do when waiting to get on the school bus with your classmates?",
+              "frenchString": "Que devrais-tu faire en attendant de monter dans le bus scolaire avec tes camarades de classe?",
+              "idString": "Apa yang harus kamu lakukan saat mengantre naik bus sekolah bersama teman-teman sekelasmu?",
+              "vnString": "Em nên làm gì khi đang đợi để bước lên xe buýt của trường cùng các bạn?"
+            },
+            "answers": [
+              {
+                "arString": "الانتظار في طابور منظم والانتظار حتى يأتي دورك",
+                "enString": "Stand in a neat line and wait for your turn",
+                "frenchString": "Faire une file ordonnée et attendre ton tour",
+                "idString": "Berdiri dalam barisan yang rapi dan menunggu giliran",
+                "vnString": "Xếp hàng ngay ngắn và kiên nhẫn đợi đến lượt mình"
+              },
+              {
+                "arString": "دفع الآخرين لتكون الأول",
+                "enString": "Push others to be the first one on",
+                "frenchString": "Pousser les autres pour monter le premier",
+                "idString": "Mendorong orang lain agar menjadi yang pertama naik",
+                "vnString": "Chen lấn, xô đẩy các bạn để được lên đầu tiên"
+              },
+              {
+                "arString": "الركض بعيدًا عن الحافلة والاختباء",
+                "enString": "Run away from the bus and hide",
+                "frenchString": "Courir loin du bus et se cacher",
+                "idString": "Berlari menjauh dari bus dan bersembunyi",
+                "vnString": "Chạy ra xa khỏi khu vực xe buýt và trốn đi"
+              },
+              {
+                "arString": "الجلوس على الأرض والبكاء بصوت عالٍ",
+                "enString": "Sit on the ground and cry loudly",
+                "frenchString": "S'asseoir par terre et pleurer fort",
+                "idString": "Duduk di tanah dan menangis dengan keras",
+                "vnString": "Ngồi bệt xuống đất và khóc thật to"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الانتظار في طابور منظم والانتظار حتى يأتي دورك",
+              "enString": "Stand in a neat line and wait for your turn",
+              "frenchString": "Faire une file ordonnée et attendre ton tour",
+              "idString": "Berdiri dalam barisan yang rapi dan menunggu giliran",
+              "vnString": "Xếp hàng ngay ngắn và kiên nhẫn đợi đến lượt mình"
+            },
+            "hint": {
+              "arString": "إنها قاعدة سلوكية مهمة تضمن السلامة والعدالة لجميع الطلاب.",
+              "enString": "It is an important safety rule that keeps everyone safe and fair.",
+              "frenchString": "C'est une règle de sécurité importante qui permet d'être juste et de protéger tout le monde.",
+              "idString": "Ini adalah aturan keselamatan penting yang menjaga semua orang tetap aman dan adil.",
+              "vnString": "Đây là một quy tắc ứng xử an toàn giúp mọi người đều được đối xử công bằng và không bị ngã."
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 14,
+        "questions": [
+          {
+            "id": 66,
+            "question": {
+              "arString": "عندما كنت طفلاً رضيعًا، ماذا كنت تفعل أكثر من الآن؟",
+              "enString": "When you were a tiny baby, what did you do much more than you do now?",
+              "frenchString": "Quand tu étais un tout petit bébé, que faisais-tu beaucoup plus que maintenant?",
+              "idString": "Ketika kamu masih bayi, apa yang paling sering kamu lakukan dibandingkan sekarang?",
+              "vnString": "Khi còn là một em bé sơ sinh, em đã làm việc gì nhiều hơn bây giờ rất nhiều?"
+            },
+            "answers": [
+              {
+                "arString": "النوم وبكاء طوال الوقت",
+                "enString": "Sleeping and crying a lot",
+                "frenchString": "Dormir et beaucoup pleurer",
+                "idString": "Tidur dan banyak menangis",
+                "vnString": "Ngủ và khóc nhè rất nhiều"
+              },
+              {
+                "arString": "قيادة السيارة إلى العمل",
+                "enString": "Driving a car to work",
+                "frenchString": "Conduire une voiture pour aller au travail",
+                "idString": "Menyetir mobil ke tempat kerja",
+                "vnString": "Lái xe ô tô đi làm"
+              },
+              {
+                "arString": "قراءة الكتب المدرسية السميكة",
+                "enString": "Reading thick textbooks",
+                "frenchString": "Lire de gros manuels scolaires",
+                "idString": "Membaca buku pelajaran yang tebal",
+                "vnString": "Đọc những cuốn sách giáo khoa dày"
+              },
+              {
+                "arString": "طبخ العشاء للعائلة",
+                "enString": "Cooking dinner for the family",
+                "frenchString": "Cuisiner le dîner pour la famille",
+                "idString": "Memasak makan malam untuk keluarga",
+                "vnString": "Nấu bữa tối cho cả gia đình"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "النوم وبكاء طوال الوقت",
+              "enString": "Sleeping and crying a lot",
+              "frenchString": "Dormir et beaucoup pleurer",
+              "idString": "Tidur dan banyak menangis",
+              "vnString": "Ngủ và khóc nhè rất nhiều"
+            },
+            "hint": {
+              "arString": "لم تكن قادراً على المشي أو التحدث بعد، لذا كنت تحتاج إلى الكثير من الراحة لتكبر.",
+              "enString": "You could not walk or talk yet, so you needed a lot of rest to grow.",
+              "frenchString": "Tu ne savais pas encore marcher ni parler, tu avais donc besoin de beaucoup de repos pour grandir.",
+              "idString": "Kamu belum bisa berjalan atau berbicara, jadi kamu butuh banyak istirahat untuk tumbuh.",
+              "vnString": "Lúc đó em chưa biết đi hay biết nói, vì vậy em cần nghỉ ngơi rất nhiều để mau lớn."
+            }
+          },
+          {
+            "id": 67,
+            "question": {
+              "arString": "ماذا نسمي قطعة الأرض المرتفعة جداً ولها قمة عالية؟",
+              "enString": "What do we call a very high piece of land that rises up with a peak?",
+              "frenchString": "Comment appelle-t-on une étendue de terre très haute qui s'élève avec un sommet?",
+              "idString": "Apa sebutan untuk permukaan tanah yang sangat tinggi dan memiliki puncak?",
+              "vnString": "Chúng ta gọi vùng đất nhô lên rất cao và có một đỉnh nhọn là gì?"
+            },
+            "answers": [
+              {
+                "arString": "جبل",
+                "enString": "A mountain",
+                "frenchString": "Une montagne",
+                "idString": "Gunung",
+                "vnString": "Ngọn núi"
+              },
+              {
+                "arString": "نهر",
+                "enString": "A river",
+                "frenchString": "Une rivière",
+                "idString": "Sungai",
+                "vnString": "Dòng sông"
+              },
+              {
+                "arString": "المحيط",
+                "enString": "An ocean",
+                "frenchString": "Un océan",
+                "idString": "Samudra",
+                "vnString": "Đại dương"
+              },
+              {
+                "arString": "حمام سباحة",
+                "enString": "A swimming pool",
+                "frenchString": "Une piscine",
+                "idString": "Kolam renang",
+                "vnString": "Bể bơi"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "جبل",
+              "enString": "A mountain",
+              "frenchString": "Une montagne",
+              "idString": "Gunung",
+              "vnString": "Ngọn núi"
+            },
+            "hint": {
+              "arString": "إنها أطول بكثير من التلة، وغالبًا ما يغطي الثلج قمتها.",
+              "enString": "It is much taller than a hill, and sometimes it has snow on top.",
+              "frenchString": "Elle est bien plus haute qu'une colline et a parfois de la neige à son sommet.",
+              "idString": "Ini jauh lebih tinggi daripada bukit, dan terkadang ada salju di puncaknya.",
+              "vnString": "Nó cao hơn một quả đồi rất nhiều, và đôi khi có cả tuyết phủ trên đỉnh."
+            }
+          },
+          {
+            "id": 68,
+            "question": {
+              "arString": "من أين يأتي الحليب الطازج الذي نشربه عادة؟",
+              "enString": "Where does the fresh milk we drink usually come from?",
+              "frenchString": "D'où vient généralement le lait frais que nous buvons?",
+              "idString": "Dari mana biasanya asal susu segar yang kita minum?",
+              "vnString": "Sữa tươi mà chúng ta uống hàng ngày thường có nguồn gốc từ đâu?"
+            },
+            "answers": [
+              {
+                "arString": "من الأبقار في المزرعة",
+                "enString": "From cows on a farm",
+                "frenchString": "Des vaches dans une ferme",
+                "idString": "Dari sapi di peternakan",
+                "vnString": "Từ những chú bò ở trang trại"
+              },
+              {
+                "arString": "من الأشجار في الغابة",
+                "enString": "From trees in the forest",
+                "frenchString": "Des arbres dans la forêt",
+                "idString": "Dari pohon di hutan",
+                "vnString": "Từ cây cối ở trong rừng"
+              },
+              {
+                "arString": "من مصنع الألعاب",
+                "enString": "From a toy factory",
+                "frenchString": "D'une usine de jouets",
+                "idString": "Dari pabrik mainan",
+                "vnString": "Từ một nhà máy sản xuất đồ chơi"
+              },
+              {
+                "arString": "من غيوم المطر",
+                "enString": "From rain clouds",
+                "frenchString": "Des nuages de pluie",
+                "idString": "Dari awan hujan",
+                "vnString": "Từ những đám mây mưa"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "من الأبقار في المزرعة",
+              "enString": "From cows on a farm",
+              "frenchString": "Des vaches dans une ferme",
+              "idString": "Dari sapi di peternakan",
+              "vnString": "Từ những chú bò ở trang trại"
+            },
+            "hint": {
+              "arString": "يهتم المزارعون بهذه الحيوانات التي تأكل العشب وتصدر صوتًا مثل 'مو'.",
+              "enString": "Farmers take care of these animals that eat grass and say 'moo'.",
+              "frenchString": "Les agriculteurs s'occupent de ces animaux qui mangent de l'herbe et font 'meuh'.",
+              "idString": "Petani merawat hewan-hewan ini yang memakan rumput dan bersuara 'moo'.",
+              "vnString": "Các bác nông dân chăm sóc con vật này, chúng thích ăn cỏ và kêu 'múu... múu'."
+            }
+          },
+          {
+            "id": 69,
+            "question": {
+              "arString": "من هو الطبيب الذي يعتني بالحيوانات الأليفة المريضة؟",
+              "enString": "Who is the special doctor that takes care of sick animals and pets?",
+              "frenchString": "Qui est le médecin spécial qui s'occupe des animaux et des animaux de compagnie malades?",
+              "idString": "Siapa dokter khusus yang merawat hewan dan peliharaan yang sakit?",
+              "vnString": "Ai là bác sĩ chuyên chữa bệnh và chăm sóc cho các con vật, thú cưng bị ốm?"
+            },
+            "answers": [
+              {
+                "arString": "الطبيب البيطري",
+                "enString": "A veterinarian (vet)",
+                "frenchString": "Un vétérinaire",
+                "idString": "Dokter hewan",
+                "vnString": "Bác sĩ thú y"
+              },
+              {
+                "arString": "معلم الموسيقى",
+                "enString": "A music teacher",
+                "frenchString": "Un professeur de musique",
+                "idString": "Guru musik",
+                "vnString": "Giáo viên âm nhạc"
+              },
+              {
+                "arString": "طيار",
+                "enString": "A pilot",
+                "frenchString": "Un pilote",
+                "idString": "Pilot",
+                "vnString": "Phi công"
+              },
+              {
+                "arString": "رجل إطفاء",
+                "enString": "A firefighter",
+                "frenchString": "Un pompier",
+                "idString": "Petugas pemadam kebakaran",
+                "vnString": "Lính cứu hỏa"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "الطبيب البيطري",
+              "enString": "A veterinarian (vet)",
+              "frenchString": "Un vétérinaire",
+              "idString": "Dokter hewan",
+              "vnString": "Bác sĩ thú y"
+            },
+            "hint": {
+              "arString": "يساعد هذا الشخص الكلاب والقطط والطيور عندما لا تشعر بالراحة.",
+              "enString": "This person helps dogs, cats, and birds when they do not feel well.",
+              "frenchString": "Cette personne aide les chiens, les chats et les oiseaux quand ils ne se sentent pas bien.",
+              "idString": "Orang ini membantu anjing, kucing, dan burung ketika mereka merasa kurang sehat.",
+              "vnString": "Người này giúp đỡ các chú chó, mèo, chim chóc khi chúng cảm thấy không khỏe."
+            }
+          },
+          {
+            "id": 70,
+            "question": {
+              "arString": "ماذا يجب أن تفعل بورقة الحلوى الفارغة عندما تكون في الحديقة؟",
+              "enString": "What should you do with a candy wrapper when you are at the park?",
+              "frenchString": "Que devrais-tu faire d'un emballage de bonbon quand tu es au parc?",
+              "idString": "Apa yang harus kamu lakukan dengan bungkus permen saat berada di taman?",
+              "vnString": "Em nên làm gì với chiếc vỏ kẹo sau khi ăn xong khi đang chơi ở công viên?"
+            },
+            "answers": [
+              {
+                "arString": "رميها في سلة المهملات",
+                "enString": "Throw it in a trash can",
+                "frenchString": "La jeter dans une poubelle",
+                "idString": "Membuangnya ke tempat sampah",
+                "vnString": "Vứt nó vào thùng rác"
+              },
+              {
+                "arString": "رميها على العشب",
+                "enString": "Drop it on the grass",
+                "frenchString": "La jeter sur l'herbe",
+                "idString": "Menjatuhkannya di atas rumput",
+                "vnString": "Vứt luôn xuống bãi cỏ"
+              },
+              {
+                "arString": "إخفاؤها تحت المقعد",
+                "enString": "Hide it under a bench",
+                "frenchString": "La cacher sous un banc",
+                "idString": "Menyembunyikannya di bawah bangku",
+                "vnString": "Giấu nó xuống dưới ghế băng"
+              },
+              {
+                "arString": "تركها تطير مع الرياح",
+                "enString": "Let it blow away in the wind",
+                "frenchString": "La laisser s'envoler avec le vent",
+                "idString": "Membiarkannya tertiup angin",
+                "vnString": "Để nó bay lung tung theo gió"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "رميها في سلة المهملات",
+              "enString": "Throw it in a trash can",
+              "frenchString": "La jeter dans une poubelle",
+              "idString": "Membuangnya ke tempat sampah",
+              "vnString": "Vứt nó vào thùng rác"
+            },
+            "hint": {
+              "arString": "هذا يحافظ على نظافة وجمال الحديقة ليستمتع بها الجميع.",
+              "enString": "This keeps the park clean and beautiful for everyone to enjoy.",
+              "frenchString": "Cela permet de garder le parc propre et beau pour le plaisir de tous.",
+              "idString": "Ini menjaga taman tetap bersih dan indah untuk dinikmati semua orang.",
+              "vnString": "Việc này giúp giữ cho công viên luôn sạch sẽ và đẹp đẽ để mọi người cùng vui chơi."
+            }
+          }
+        ],
+        "status": 0
+      },
+      {
+        "id": 15,
+        "questions": [
+          {
+            "id": 71,
+            "question": {
+              "arString": "أي يوم خاص يُحتفل به كل عام لتذكر اليوم الذي ولدت فيه؟",
+              "enString": "Which special day is celebrated every year to remember the day you were born?",
+              "frenchString": "Quel jour spécial est célébré chaque année pour se souvenir du jour de votre naissance?",
+              "idString": "Hari istimewa mana yang dirayakan setiap tahun untuk mengingat hari kelahiranmu?",
+              "vnString": "Ngày đặc biệt nào được tổ chức hàng năm để kỷ niệm ngày em chào đời?"
+            },
+            "answers": [
+              {
+                "arString": "عيد ميلادك",
+                "enString": "Your birthday",
+                "frenchString": "Votre anniversaire",
+                "idString": "Hari ulang tahunmu",
+                "vnString": "Ngày sinh nhật của em"
+              },
+              {
+                "arString": "أول يوم في المدرسة",
+                "enString": "The first day of school",
+                "frenchString": "Le premier jour d'école",
+                "idString": "Hari pertama sekolah",
+                "vnString": "Ngày đầu tiên đi học"
+              },
+              {
+                "arString": "يوم رأس السنة",
+                "enString": "New Year's Day",
+                "frenchString": "Le jour de l'An",
+                "idString": "Hari Tahun Baru",
+                "vnString": "Ngày Tết Dương lịch"
+              },
+              {
+                "arString": "يوم السبت",
+                "enString": "Saturday",
+                "frenchString": "Samedi",
+                "idString": "Hari Sabtu",
+                "vnString": "Ngày thứ Bảy"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "عيد ميلادك",
+              "enString": "Your birthday",
+              "frenchString": "Votre anniversaire",
+              "idString": "Hari ulang tahunmu",
+              "vnString": "Ngày sinh nhật của em"
+            },
+            "hint": {
+              "arString": "غالبًا ما يكون هناك كعكة وشموع وأغنية خاصة في هذا اليوم.",
+              "enString": "There is often a cake, candles, and a special song on this day.",
+              "frenchString": "Il y a souvent un gâteau, des bougies et une chanson spéciale ce jour-là.",
+              "idString": "Sering kali ada kue, lilin, dan lagu khusus pada hari ini.",
+              "vnString": "Vào ngày này thường có bánh kem, thổi nến và một bài hát quen thuộc vang lên."
+            }
+          },
+          {
+            "id": 72,
+            "question": {
+              "arString": "ماذا نسمي مساحة كبيرة جدًا من المياه المالحة تغطي معظم الأرض؟",
+              "enString": "What do we call a very large body of salty water that covers most of the Earth?",
+              "frenchString": "Comment appelle-t-on une très grande étendue d'eau salée qui couvre la plus grande partie de la Terre?",
+              "idString": "Apa sebutan untuk bentangan air asin yang sangat luas yang menutupi sebagian besar Bumi?",
+              "vnString": "Chúng ta gọi một vùng nước mặn rộng lớn bao phủ phần lớn Trái Đất là gì?"
+            },
+            "answers": [
+              {
+                "arString": "المحيط",
+                "enString": "An ocean",
+                "frenchString": "Un océan",
+                "idString": "Samudra",
+                "vnString": "Đại dương"
+              },
+              {
+                "arString": "بركة صغيرة",
+                "enString": "A small puddle",
+                "frenchString": "Une petite flaque d'eau",
+                "idString": "Genangan air kecil",
+                "vnString": "Vũng nước nhỏ"
+              },
+              {
+                "arString": "حمام سباحة في الحديقة",
+                "enString": "A backyard pool",
+                "frenchString": "Une piscine de jardin",
+                "idString": "Kolam renang halaman belakang",
+                "vnString": "Bể bơi gia đình"
+              },
+              {
+                "arString": "حوض الاستحمام",
+                "enString": "A bathtub",
+                "frenchString": "Une baignoire",
+                "idString": "Bak mandi",
+                "vnString": "Bồn tắm"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المحيط",
+              "enString": "An ocean",
+              "frenchString": "Un océan",
+              "idString": "Samudra",
+              "vnString": "Đại dương"
+            },
+            "hint": {
+              "arString": "هو المكان الذي تعيش فيه الحيتان الكبيرة والدلافين والأسماك المختلفة.",
+              "enString": "It is where large whales, dolphins, and many kinds of fish live.",
+              "frenchString": "C'est là que vivent les grandes baleines, les dauphins et de nombreuses espèces de poissons.",
+              "idString": "Ini adalah tempat hidup paus besar, lumba-lumba, dan berbagai jenis ikan.",
+              "vnString": "Đây là nơi sinh sống của những chú cá voi khổng lồ, cá heo và nhiều loài cá khác."
+            }
+          },
+          {
+            "id": 73,
+            "question": {
+              "arString": "ما الأداة التي يستخدمها النجار لتثبيت المسامير في الخشب؟",
+              "enString": "What tool does a carpenter use to pound nails into wood?",
+              "frenchString": "Quel outil un charpentier utilise-t-il pour enfoncer des clous dans le bois?",
+              "idString": "Alat apa yang digunakan tukang kayu untuk menancapkan paku ke kayu?",
+              "vnString": "Thợ mộc thường dùng dụng cụ nào để đóng đinh vào gỗ?"
+            },
+            "answers": [
+              {
+                "arString": "المطرقة",
+                "enString": "A hammer",
+                "frenchString": "Un marteau",
+                "idString": "Palu",
+                "vnString": "Cái búa"
+              },
+              {
+                "arString": "فرشاة رسم",
+                "enString": "A paintbrush",
+                "frenchString": "Un pinceau",
+                "idString": "Kuas cat",
+                "vnString": "Chổi quét sơn"
+              },
+              {
+                "arString": "ملعقة",
+                "enString": "A spoon",
+                "frenchString": "Une cuillère",
+                "idString": "Sendok",
+                "vnString": "Thìa ăn cơm"
+              },
+              {
+                "arString": "مقص ورق",
+                "enString": "A pair of scissors",
+                "frenchString": "Une paire de ciseaux",
+                "idString": "Gunting",
+                "vnString": "Cây kéo"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "المطرقة",
+              "enString": "A hammer",
+              "frenchString": "Un marteau",
+              "idString": "Palu",
+              "vnString": "Cái búa"
+            },
+            "hint": {
+              "arString": "إنها أداة ثقيلة ومصنوعة من المعدن ولها مقبض خشبي أو بلاستيكي.",
+              "enString": "It is a heavy tool with a metal head and a handle.",
+              "frenchString": "C'est un outil lourd avec une tête en métal et un manche.",
+              "idString": "Ini adalah alat yang berat dengan kepala logam dan sebuah gagang.",
+              "vnString": "Đây là một công cụ nặng, có đầu bằng kim loại cứng và có cán cầm."
+            }
+          },
+          {
+            "id": 74,
+            "question": {
+              "arString": "من هو الشخص الذي يفحص أسناننا ويساعدنا في الحفاظ عليها نظيفة وصحية؟",
+              "enString": "Who checks our teeth and helps us keep them clean and healthy?",
+              "frenchString": "Qui examine nos dents et nous aide à les garder propres et saines?",
+              "idString": "Siapa yang memeriksa gigi kita dan membantu kita menjaganya tetap bersih dan sehat?",
+              "vnString": "Ai là người khám răng và giúp chúng ta giữ gìn hàm răng luôn sạch sẽ, chắc khỏe?"
+            },
+            "answers": [
+              {
+                "arString": "طبيب الأسنان",
+                "enString": "A dentist",
+                "frenchString": "Un dentiste",
+                "idString": "Dokter gigi",
+                "vnString": "Nha sĩ"
+              },
+              {
+                "arString": "المزارع",
+                "enString": "A farmer",
+                "frenchString": "Un agriculteur",
+                "idString": "Petani",
+                "vnString": "Nông dân"
+              },
+              {
+                "arString": "البناء",
+                "enString": "A builder",
+                "frenchString": "Un maçon",
+                "idString": "Tukang bangunan",
+                "vnString": "Thợ xây"
+              },
+              {
+                "arString": "الخياط",
+                "enString": "A tailor",
+                "frenchString": "Un tailleur",
+                "idString": "Penjahit",
+                "vnString": "Thợ may"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "طبيب الأسنان",
+              "enString": "A dentist",
+              "frenchString": "Un dentiste",
+              "idString": "Dokter gigi",
+              "vnString": "Nha sĩ"
+            },
+            "hint": {
+              "arString": "ينصحك هذا الشخص بتنظيف أسنانك بالفرشاة مرتين يوميًا وتقليل تناول الحلويات.",
+              "enString": "This person reminds you to brush twice a day and not eat too many sweets.",
+              "frenchString": "Cette personne vous rappelle de vous brosser les dents deux fois par jour et de ne pas manger trop de bonbons.",
+              "idString": "Orang ini mengingatkanmu untuk menyikat gigi dua kali sehari dan tidak makan terlalu banyak permen.",
+              "vnString": "Người này nhắc nhở em nên đánh răng hai lần mỗi ngày và không nên ăn quá nhiều kẹo."
+            }
+          },
+          {
+            "id": 75,
+            "question": {
+              "arString": "ماذا يجب أن تفعل إذا صدمت صديقك بالخطأ أثناء اللعب؟",
+              "enString": "What should you do if you accidentally bump into a friend while playing?",
+              "frenchString": "Que devez-vous faire si vous bousculez accidentellement un ami en jouant?",
+              "idString": "Apa yang harus kamu lakukan jika tidak sengaja menyenggol teman saat bermain?",
+              "vnString": "Em nên làm gì nếu vô tình va trúng một người bạn khi đang chạy chơi?"
+            },
+            "answers": [
+              {
+                "arString": "قل 'أنا آسف' واسأله إذا كان بخير",
+                "enString": "Say 'I'm sorry' and ask if they are okay",
+                "frenchString": "Dire « Je suis désolé » et demander si tout va bien",
+                "idString": "Katakan 'Maaf' dan tanyakan apakah mereka baik-baik saja",
+                "vnString": "Nói lời 'Xin lỗi' và hỏi xem bạn có bị đau không"
+              },
+              {
+                "arString": "الركض بعيدًا والتظاهر بأنه لم يحدث شيء",
+                "enString": "Run away and pretend nothing happened",
+                "frenchString": "S'enfuir et faire comme si de rien n'était",
+                "idString": "Berlari pergi dan pura-pura tidak terjadi apa-apa",
+                "vnString": "Chạy trốn đi và coi như không có chuyện gì xảy ra"
+              },
+              {
+                "arString": "إلقاء اللوم على صديقك لأنه كان يقف هناك",
+                "enString": "Blame your friend for standing there",
+                "frenchString": "Blâmer votre ami d'être resté là",
+                "idString": "Menyalahkan temanmu karena berdiri di sana",
+                "vnString": "Đổ lỗi cho bạn tại vì tự nhiên đứng ở chỗ đó"
+              },
+              {
+                "arString": "الصراخ في وجه صديقك بصوت عالٍ",
+                "enString": "Shout at your friend loudly",
+                "frenchString": "Crier fort sur votre ami",
+                "idString": "Berteriak keras pada temanmu",
+                "vnString": "Quát mắng bạn thật to"
+              }
+            ],
+            "correctAnswer": {
+              "arString": "قل 'أنا آسف' واسأله إذا كان بخير",
+              "enString": "Say 'I'm sorry' and ask if they are okay",
+              "frenchString": "Dire « Je suis désolé » et demander si tout va bien",
+              "idString": "Katakan 'Maaf' dan tanyakan apakah mereka baik-baik saja",
+              "vnString": "Nói lời 'Xin lỗi' và hỏi xem bạn có bị đau không"
+            },
+            "hint": {
+              "arString": "هذا تصرف لطيف يظهر أنك لم تكن تقصد إيذاءه بالخطأ.",
+              "enString": "It is a kind thing to do that shows you did not mean to cause an accident.",
+              "frenchString": "C'est une chose gentille à faire qui montre que vous n'avez pas voulu causer un accident.",
+              "idString": "Itu adalah hal baik yang menunjukkan bahwa kamu tidak bermaksud menyebabkan kecelakaan.",
+              "vnString": "Đây là hành động tử tế cho thấy em không hề cố ý làm bạn bị đau."
+            }
+          }
+        ],
+        "status": 0
       }
     ],
     "subject": "socialStudies"
