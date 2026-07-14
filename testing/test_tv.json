@@ -15580,59 +15580,59 @@
             "id": 226,
             "question": {
               "vnString": "Điền vào chỗ chấm: \n c… cá",
-              "cnTraditionalString": "填空：\n c…魚",
-              "czechString": "Vyplňte prázdná místa: \n c… ryby",
-              "enString": "Fill in the blanks: \n c… fish",
-              "frenchString": "Remplissez les espaces vides : \n c… du poisson",
-              "germanString": "Füllen Sie die Lücken aus: \n c… Fisch",
-              "koString": "빈칸을 채우세요: \n ㄷ…물고기"
+              "cnTraditionalString": "填空：\n 魚...",
+              "czechString": "Vyplňte prázdná místa:\n r...ba",
+              "enString": "Fill in the blank:\n f...sh",
+              "frenchString": "Remplissez les espaces vides :\n p...isson",
+              "germanString": "Füllen Sie die Lücken aus:\n F...sch",
+              "koString": "빈칸을 채우세요:\n 물...기"
             },
             "answers": [
               {
                 "vnString": "on",
-                "cnTraditionalString": "on",
-                "czechString": "on",
-                "enString": "on",
-                "frenchString": "on",
-                "germanString": "on",
-                "koString": "on"
+                "cnTraditionalString": "類",
+                "czechString": "y",
+                "enString": "i",
+                "frenchString": "o",
+                "germanString": "i",
+                "koString": "고"
               },
               {
                 "vnString": "om",
-                "cnTraditionalString": "om",
-                "czechString": "om",
-                "enString": "om",
-                "frenchString": "om",
-                "germanString": "om",
-                "koString": "om"
+                "cnTraditionalString": "水",
+                "czechString": "i",
+                "enString": "e",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "구"
               },
               {
                 "vnString": "an",
-                "cnTraditionalString": "an",
-                "czechString": "an",
-                "enString": "an",
-                "frenchString": "an",
-                "germanString": "an",
-                "koString": "an"
+                "cnTraditionalString": "肉",
+                "czechString": "e",
+                "enString": "a",
+                "frenchString": "e",
+                "germanString": "o",
+                "koString": "기"
               },
               {
                 "vnString": "am",
-                "cnTraditionalString": "am",
-                "czechString": "am",
-                "enString": "am",
-                "frenchString": "am",
-                "germanString": "am",
-                "koString": "am"
+                "cnTraditionalString": "群",
+                "czechString": "a",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "u",
+                "koString": "가"
               }
             ],
             "correctAnswer": {
               "vnString": "on",
-              "cnTraditionalString": "on",
-              "czechString": "on",
-              "enString": "on",
-              "frenchString": "on",
-              "germanString": "on",
-              "koString": "on"
+              "cnTraditionalString": "類",
+              "czechString": "y",
+              "enString": "i",
+              "frenchString": "o",
+              "germanString": "i",
+              "koString": "고"
             },
             "hint": {
               "vnString": "con cá",
@@ -15648,59 +15648,59 @@
             "id": 227,
             "question": {
               "vnString": "Điền vào chỗ chấm: \n b… hoa",
-              "cnTraditionalString": "填空：\n b…花",
-              "czechString": "Vyplňte prázdná místa: \n b… květina",
-              "enString": "Fill in the blanks: \n b… flower",
-              "frenchString": "Remplissez les espaces vides : \n b… fleur",
-              "germanString": "Füllen Sie die Lücken aus: \n b… Blume",
-              "koString": "빈칸을 채우세요: \n 비…꽃"
+              "cnTraditionalString": "填空：\n 花...",
+              "czechString": "Vyplňte prázdná místa:\n kv...tina",
+              "enString": "Fill in the blanks:\n fl...wer",
+              "frenchString": "Remplissez les espaces vides :\n fl...ur",
+              "germanString": "Füllen Sie die Lücken aus:\n Bl...me",
+              "koString": "빈칸을 채우세요:\n ...송이"
             },
             "answers": [
               {
                 "vnString": "ông",
-                "cnTraditionalString": "祖父",
-                "czechString": "dědeček",
-                "enString": "grandfather",
-                "frenchString": "grand-père",
-                "germanString": "Großvater",
-                "koString": "할아버지"
+                "cnTraditionalString": "朵",
+                "czechString": "ě",
+                "enString": "o",
+                "frenchString": "e",
+                "germanString": "u",
+                "koString": "꽃"
               },
               {
                 "vnString": "ăng",
-                "cnTraditionalString": "昂",
-                "czechString": "Ang",
-                "enString": "Ang",
-                "frenchString": "Ang",
-                "germanString": "Ang",
-                "koString": "앙"
+                "cnTraditionalString": "草",
+                "czechString": "e",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "o",
+                "koString": "잎"
               },
               {
                 "vnString": "âng",
-                "cnTraditionalString": "哦",
-                "czechString": "Ó",
-                "enString": "oh",
-                "frenchString": "Oh",
-                "germanString": "Oh",
-                "koString": "오"
+                "cnTraditionalString": "木",
+                "czechString": "a",
+                "enString": "e",
+                "frenchString": "o",
+                "germanString": "a",
+                "koString": "나무"
               },
               {
                 "vnString": "ung",
-                "cnTraditionalString": "翁",
-                "czechString": "ung",
-                "enString": "ung",
-                "frenchString": "jeune",
-                "germanString": "ung",
-                "koString": "웅"
+                "cnTraditionalString": "瓣",
+                "czechString": "i",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "풀"
               }
             ],
             "correctAnswer": {
               "vnString": "ông",
-              "cnTraditionalString": "祖父",
-              "czechString": "dědeček",
-              "enString": "grandfather",
-              "frenchString": "grand-père",
-              "germanString": "Großvater",
-              "koString": "할아버지"
+              "cnTraditionalString": "朵",
+              "czechString": "ě",
+              "enString": "o",
+              "frenchString": "e",
+              "germanString": "u",
+              "koString": "꽃"
             },
             "hint": {
               "vnString": "bông hoa",
@@ -15716,59 +15716,59 @@
             "id": 228,
             "question": {
               "vnString": "Chữ nào viết đúng chính tả?",
-              "cnTraditionalString": "哪個單字拼字正確？",
+              "cnTraditionalString": "哪個字的拼寫是正確的？",
               "czechString": "Které slovo je napsáno správně?",
               "enString": "Which word is spelled correctly?",
               "frenchString": "Quel mot est correctement orthographié ?",
               "germanString": "Welches Wort ist richtig geschrieben?",
-              "koString": "어떤 단어의 철자가 올바른가요?"
+              "koString": "올바르게 철자가 쓰인 단어는 무엇입니까?"
             },
             "answers": [
               {
                 "vnString": "con xó",
-                "cnTraditionalString": "狼",
-                "czechString": "vlk",
-                "enString": "wolf",
-                "frenchString": "loup",
-                "germanString": "Wolf",
-                "koString": "늑대"
+                "cnTraditionalString": "狗子",
+                "czechString": "pess",
+                "enString": "dgo",
+                "frenchString": "chienn",
+                "germanString": "Hundt",
+                "koString": "강아지이"
               },
               {
                 "vnString": "con chó",
-                "cnTraditionalString": "狗",
+                "cnTraditionalString": "小狗",
                 "czechString": "pes",
                 "enString": "dog",
                 "frenchString": "chien",
                 "germanString": "Hund",
-                "koString": "개"
+                "koString": "강아지"
               },
               {
                 "vnString": "con tró",
-                "cnTraditionalString": "與特羅",
-                "czechString": "s tro",
-                "enString": "with tro",
-                "frenchString": "avec tro",
-                "germanString": "mit tro",
-                "koString": "트로와 함께"
+                "cnTraditionalString": "狗兒",
+                "czechString": "pez",
+                "enString": "dawg",
+                "frenchString": "chein",
+                "germanString": "Hunt",
+                "koString": "강아쥐"
               },
               {
                 "vnString": "con só",
-                "cnTraditionalString": "僅與",
-                "czechString": "pouze s",
-                "enString": "with only",
-                "frenchString": "avec seulement",
-                "germanString": "mit nur",
-                "koString": "오직"
+                "cnTraditionalString": "狗狗",
+                "czechString": "pec",
+                "enString": "doge",
+                "frenchString": "chian",
+                "germanString": "Huhnd",
+                "koString": "강아지야"
               }
             ],
             "correctAnswer": {
               "vnString": "con chó",
-              "cnTraditionalString": "狗",
+              "cnTraditionalString": "小狗",
               "czechString": "pes",
               "enString": "dog",
               "frenchString": "chien",
               "germanString": "Hund",
-              "koString": "개"
+              "koString": "강아지"
             },
             "hint": {
               "vnString": "con chó (ch)",
@@ -15784,59 +15784,59 @@
             "id": 229,
             "question": {
               "vnString": "Điền c hay k? \n …ái kéo",
-              "cnTraditionalString": "填寫c還是k？ \n ….愛拉扯",
-              "czechString": "Vyplňte c nebo k? \n …miluji tahání",
-              "enString": "Fill in c or k? \n …love pulling",
-              "frenchString": "Remplir c ou k ? \n … j'adore tirer",
-              "germanString": "c oder k ausfüllen? \n …liebe es zu ziehen",
-              "koString": "c 또는 k를 입력하시겠습니까? \n …끌어당기는 걸 좋아해요"
+              "cnTraditionalString": "填空：\n 剪...",
+              "czechString": "Vyplňte:\n n...žky",
+              "enString": "Fill in the blank:\n ...cissors",
+              "frenchString": "Remplir:\n ...iseaux",
+              "germanString": "Ausfüllen:\n ...chere",
+              "koString": "빈칸을 채우세요:\n 가..."
             },
             "answers": [
               {
                 "vnString": "c",
-                "cnTraditionalString": "c",
-                "czechString": "c",
-                "enString": "c",
+                "cnTraditionalString": "刀",
+                "czechString": "ů",
+                "enString": "s",
                 "frenchString": "c",
-                "germanString": "c",
-                "koString": "c"
+                "germanString": "S",
+                "koString": "위"
               },
               {
                 "vnString": "k",
-                "cnTraditionalString": "k",
-                "czechString": "k",
-                "enString": "k",
-                "frenchString": "k",
-                "germanString": "k",
-                "koString": "k"
+                "cnTraditionalString": "刃",
+                "czechString": "u",
+                "enString": "c",
+                "frenchString": "s",
+                "germanString": "C",
+                "koString": "이"
               },
               {
                 "vnString": "q",
-                "cnTraditionalString": "q",
-                "czechString": "q",
-                "enString": "q",
-                "frenchString": "q",
-                "germanString": "q",
-                "koString": "q"
+                "cnTraditionalString": "子",
+                "czechString": "o",
+                "enString": "x",
+                "frenchString": "z",
+                "germanString": "Z",
+                "koString": "의"
               },
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "器",
+                "czechString": "a",
+                "enString": "z",
+                "frenchString": "x",
+                "germanString": "X",
+                "koString": "애"
               }
             ],
             "correctAnswer": {
               "vnString": "c",
-              "cnTraditionalString": "c",
-              "czechString": "c",
-              "enString": "c",
+              "cnTraditionalString": "刀",
+              "czechString": "ů",
+              "enString": "s",
               "frenchString": "c",
-              "germanString": "c",
-              "koString": "c"
+              "germanString": "S",
+              "koString": "위"
             },
             "hint": {
               "vnString": "cái kéo (c đi với a)",
@@ -15852,59 +15852,59 @@
             "id": 230,
             "question": {
               "vnString": "Điền c hay k? \n con …iến",
-              "cnTraditionalString": "填寫c還是k？ \n ……螞蟻",
-              "czechString": "Vyplňte c nebo k? \n …mravenec",
-              "enString": "Fill in c or k? \n …ant",
-              "frenchString": "Remplir c ou k ? \n …fourmi",
-              "germanString": "c oder k ausfüllen? \n …Ameise",
-              "koString": "c 또는 k를 입력하시겠습니까? \n …개미"
+              "cnTraditionalString": "填空：\n 螞...",
+              "czechString": "Vyplňte:\n mr...venec",
+              "enString": "Fill in the blank:\n a...t",
+              "frenchString": "Remplir:\n f...urmi",
+              "germanString": "Ausfüllen:\n Am...ise",
+              "koString": "빈칸을 채우세요:\n 개..."
             },
             "answers": [
               {
                 "vnString": "k",
-                "cnTraditionalString": "k",
-                "czechString": "k",
-                "enString": "k",
-                "frenchString": "k",
-                "germanString": "k",
-                "koString": "k"
+                "cnTraditionalString": "蟻",
+                "czechString": "a",
+                "enString": "n",
+                "frenchString": "o",
+                "germanString": "e",
+                "koString": "미"
               },
               {
                 "vnString": "c",
-                "cnTraditionalString": "c",
-                "czechString": "c",
-                "enString": "c",
-                "frenchString": "c",
-                "germanString": "c",
-                "koString": "c"
+                "cnTraditionalString": "蜂",
+                "czechString": "e",
+                "enString": "m",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "니"
               },
               {
                 "vnString": "q",
-                "cnTraditionalString": "q",
-                "czechString": "q",
-                "enString": "q",
-                "frenchString": "q",
-                "germanString": "q",
-                "koString": "q"
+                "cnTraditionalString": "蟲",
+                "czechString": "o",
+                "enString": "p",
+                "frenchString": "e",
+                "germanString": "i",
+                "koString": "비"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "蝶",
+                "czechString": "u",
+                "enString": "b",
+                "frenchString": "u",
+                "germanString": "o",
+                "koString": "피"
               }
             ],
             "correctAnswer": {
               "vnString": "k",
-              "cnTraditionalString": "k",
-              "czechString": "k",
-              "enString": "k",
-              "frenchString": "k",
-              "germanString": "k",
-              "koString": "k"
+              "cnTraditionalString": "蟻",
+              "czechString": "a",
+              "enString": "n",
+              "frenchString": "o",
+              "germanString": "e",
+              "koString": "미"
             },
             "hint": {
               "vnString": "con kiến (k đi với i)",
@@ -15926,59 +15926,59 @@
             "id": 231,
             "question": {
               "vnString": "Chọn từ đúng: \n quả …anh",
-              "cnTraditionalString": "選出正確的單字：\n 果然……你",
-              "czechString": "Vyberte správné slovo: \n Jak se očekávalo…ty",
-              "enString": "Choose the correct word: \n As expected…you",
-              "frenchString": "Choisissez le bon mot : \n Comme prévu… vous",
-              "germanString": "Wählen Sie das richtige Wort: \n Wie erwartet…du",
-              "koString": "올바른 단어를 선택하세요: \n 역시…당신은"
+              "cnTraditionalString": "選擇正確的字：\n 檸...",
+              "czechString": "Vyberte správné písmeno:\n citr...n",
+              "enString": "Choose the correct letter:\n le...on",
+              "frenchString": "Choisissez la bonne lettre:\n citr...n",
+              "germanString": "Wählen Sie den richtigen Buchstaben:\n Zitr...ne",
+              "koString": "올바른 글자를 선택하세요:\n 레..."
             },
             "answers": [
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "檬",
+                "czechString": "ó",
+                "enString": "m",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "몬"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "蒙",
+                "czechString": "o",
+                "enString": "n",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "만"
               },
               {
                 "vnString": "x",
-                "cnTraditionalString": "x",
-                "czechString": "x",
-                "enString": "x",
-                "frenchString": "x",
-                "germanString": "x",
-                "koString": "x"
+                "cnTraditionalString": "礞",
+                "czechString": "a",
+                "enString": "p",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "면"
               },
               {
                 "vnString": "s",
-                "cnTraditionalString": "s",
-                "czechString": "s",
-                "enString": "s",
-                "frenchString": "s",
-                "germanString": "s",
-                "koString": "s"
+                "cnTraditionalString": "朦",
+                "czechString": "e",
+                "enString": "b",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "민"
               }
             ],
             "correctAnswer": {
               "vnString": "ch",
-              "cnTraditionalString": "ch",
-              "czechString": "ch",
-              "enString": "ch",
-              "frenchString": "ch",
-              "germanString": "ch",
-              "koString": "ch"
+              "cnTraditionalString": "檬",
+              "czechString": "ó",
+              "enString": "m",
+              "frenchString": "o",
+              "germanString": "o",
+              "koString": "몬"
             },
             "hint": {
               "vnString": "quả chanh",
@@ -15994,59 +15994,59 @@
             "id": 232,
             "question": {
               "vnString": "Điền vào chỗ chấm: \n mặt t…",
-              "cnTraditionalString": "填空：\n 臉…",
-              "czechString": "Vyplňte prázdná místa: \n tvář…",
-              "enString": "Fill in the blanks: \n face…",
-              "frenchString": "Remplissez les espaces vides : \n visage…",
-              "germanString": "Füllen Sie die Lücken aus: \n Gesicht…",
-              "koString": "빈칸을 채우세요: \n 얼굴…"
+              "cnTraditionalString": "填空：\n 太...",
+              "czechString": "Vyplňte prázdná místa:\n sl...nce",
+              "enString": "Fill in the blanks:\n s...n",
+              "frenchString": "Remplissez les espaces vides :\n s...leil",
+              "germanString": "Füllen Sie die Lücken aus:\n S...nne",
+              "koString": "빈칸을 채우세요:\n 태..."
             },
             "answers": [
               {
                 "vnString": "rời",
-                "cnTraditionalString": "離開",
-                "czechString": "dovolená",
-                "enString": "leave",
-                "frenchString": "partir",
-                "germanString": "verlassen",
-                "koString": "떠나다"
+                "cnTraditionalString": "陽",
+                "czechString": "u",
+                "enString": "u",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "양"
               },
               {
                 "vnString": "dời",
-                "cnTraditionalString": "移動",
-                "czechString": "pohyb",
-                "enString": "move",
-                "frenchString": "se déplacer",
-                "germanString": "bewegen",
-                "koString": "이동하다"
+                "cnTraditionalString": "陰",
+                "czechString": "o",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "영"
               },
               {
                 "vnString": "giời",
-                "cnTraditionalString": "哎呀",
-                "czechString": "bože",
-                "enString": "geez",
-                "frenchString": "bon sang",
-                "germanString": "Meine Güte",
-                "koString": "이런"
+                "cnTraditionalString": "星",
+                "czechString": "a",
+                "enString": "o",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "왕"
               },
               {
                 "vnString": "lời",
-                "cnTraditionalString": "單字",
-                "czechString": "slovo",
-                "enString": "word",
-                "frenchString": "mot",
-                "germanString": "Wort",
-                "koString": "단어"
+                "cnTraditionalString": "月",
+                "czechString": "e",
+                "enString": "i",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "용"
               }
             ],
             "correctAnswer": {
               "vnString": "rời",
-              "cnTraditionalString": "離開",
-              "czechString": "dovolená",
-              "enString": "leave",
-              "frenchString": "partir",
-              "germanString": "verlassen",
-              "koString": "떠나다"
+              "cnTraditionalString": "陽",
+              "czechString": "u",
+              "enString": "u",
+              "frenchString": "o",
+              "germanString": "o",
+              "koString": "양"
             },
             "hint": {
               "vnString": "mặt trời",
@@ -16062,18 +16062,18 @@
             "id": 233,
             "question": {
               "vnString": "Chọn từ có vần 'ay':",
-              "cnTraditionalString": "選擇與“ay”押韻的單字：",
-              "czechString": "Vyberte slovo, které se rýmuje s „ay“:",
-              "enString": "Choose the word that rhymes with 'ay':",
-              "frenchString": "Choisissez le mot qui rime avec « ay » :",
-              "germanString": "Wählen Sie das Wort, das sich auf „ay“ reimt:",
-              "koString": "'ay'와 운율이 맞는 단어를 선택하세요."
+              "cnTraditionalString": "選擇「飛機」的正確單字：",
+              "czechString": "Vyberte správné slovo pro 'letadlo':",
+              "enString": "Choose the correct word for 'plane':",
+              "frenchString": "Choisissez le mot correct pour 'avion' :",
+              "germanString": "Wählen Sie das richtige Wort für 'Flugzeug':",
+              "koString": "'비행기'에 해당하는 올바른 단어를 선택하세요:"
             },
             "answers": [
               {
                 "vnString": "máy bay",
                 "cnTraditionalString": "飛機",
-                "czechString": "rovina",
+                "czechString": "letadlo",
                 "enString": "plane",
                 "frenchString": "avion",
                 "germanString": "Flugzeug",
@@ -16089,28 +16089,28 @@
                 "koString": "노래"
               },
               {
-                "vnString": "cái tay",
-                "cnTraditionalString": "手",
-                "czechString": "ruku",
-                "enString": "the hand",
-                "frenchString": "la main",
-                "germanString": "die Hand",
-                "koString": "손"
+                "vnString": "bàn chân",
+                "cnTraditionalString": "腳",
+                "czechString": "noha",
+                "enString": "foot",
+                "frenchString": "pied",
+                "germanString": "Fuß",
+                "koString": "발"
               },
               {
-                "vnString": "máy cày",
-                "cnTraditionalString": "犁機",
-                "czechString": "pluhový stroj",
-                "enString": "plow machine",
-                "frenchString": "charrue",
-                "germanString": "Pflugmaschine",
-                "koString": "쟁기 기계"
+                "vnString": "xe đạp",
+                "cnTraditionalString": "自行車",
+                "czechString": "kolo",
+                "enString": "bicycle",
+                "frenchString": "vélo",
+                "germanString": "Fahrrad",
+                "koString": "자전거"
               }
             ],
             "correctAnswer": {
               "vnString": "máy bay",
               "cnTraditionalString": "飛機",
-              "czechString": "rovina",
+              "czechString": "letadlo",
               "enString": "plane",
               "frenchString": "avion",
               "germanString": "Flugzeug",
@@ -16130,59 +16130,59 @@
             "id": 234,
             "question": {
               "vnString": "Từ nào có chứa vần 'ươu'?",
-              "cnTraditionalString": "哪個字含有「鹿」韻？",
-              "czechString": "Které slovo obsahuje rým 'jelen'?",
-              "enString": "Which word contains the rhyme 'deer'?",
-              "frenchString": "Quel mot contient la rime « cerf » ?",
-              "germanString": "Welches Wort enthält den Reim „Hirsch“?",
-              "koString": "'사슴'이라는 운율이 포함된 단어는 무엇인가요?"
+              "cnTraditionalString": "選擇「鹿」的正確單字：",
+              "czechString": "Vyberte správné slovo pro 'jelen':",
+              "enString": "Choose the correct word for 'deer':",
+              "frenchString": "Choisissez le mot correct pour 'cerf' :",
+              "germanString": "Wählen Sie das richtige Wort für 'Hirsch':",
+              "koString": "'사슴'에 해당하는 올바른 단어를 선택하세요:"
             },
             "answers": [
               {
                 "vnString": "con hươu",
-                "cnTraditionalString": "長頸鹿",
-                "czechString": "žirafa",
-                "enString": "giraffe",
-                "frenchString": "girafe",
-                "germanString": "Giraffe",
-                "koString": "기린"
+                "cnTraditionalString": "鹿",
+                "czechString": "jelen",
+                "enString": "deer",
+                "frenchString": "cerf",
+                "germanString": "Hirsch",
+                "koString": "사슴"
               },
               {
                 "vnString": "con nai",
-                "cnTraditionalString": "與奈",
-                "czechString": "s nai",
-                "enString": "with nai",
-                "frenchString": "avec naï",
-                "germanString": "mit Nai",
-                "koString": "나이와 함께"
-              },
-              {
-                "vnString": "con bò",
-                "cnTraditionalString": "乳牛",
+                "cnTraditionalString": "牛",
                 "czechString": "kráva",
                 "enString": "cow",
                 "frenchString": "vache",
                 "germanString": "Kuh",
-                "koString": "암소"
+                "koString": "소"
               },
               {
-                "vnString": "con khướu",
-                "cnTraditionalString": "胡言亂語者",
-                "czechString": "blábol",
-                "enString": "babbler",
-                "frenchString": "bavard",
-                "germanString": "Schwätzer",
-                "koString": "서투르게 지껄이는 어린애"
+                "vnString": "con bò",
+                "cnTraditionalString": "馬",
+                "czechString": "kůň",
+                "enString": "horse",
+                "frenchString": "cheval",
+                "germanString": "Pferd",
+                "koString": "말"
+              },
+              {
+                "vnString": "con chim",
+                "cnTraditionalString": "鳥",
+                "czechString": "pták",
+                "enString": "bird",
+                "frenchString": "oiseau",
+                "germanString": "Vogel",
+                "koString": "새"
               }
             ],
             "correctAnswer": {
               "vnString": "con hươu",
-              "cnTraditionalString": "長頸鹿",
-              "czechString": "žirafa",
-              "enString": "giraffe",
-              "frenchString": "girafe",
-              "germanString": "Giraffe",
-              "koString": "기린"
+              "cnTraditionalString": "鹿",
+              "czechString": "jelen",
+              "enString": "deer",
+              "frenchString": "cerf",
+              "germanString": "Hirsch",
+              "koString": "사슴"
             },
             "hint": {
               "vnString": "con hươu",
@@ -16198,59 +16198,59 @@
             "id": 235,
             "question": {
               "vnString": "Điền vào chỗ chấm: \n … hoa",
-              "cnTraditionalString": "填空：\n …. 花",
-              "czechString": "Vyplňte prázdná místa: \n … květiny",
-              "enString": "Fill in the blanks: \n … flowers",
-              "frenchString": "Remplissez les espaces vides : \n … des fleurs",
-              "germanString": "Füllen Sie die Lücken aus: \n … Blumen",
-              "koString": "빈칸을 채우세요: \n … 꽃"
+              "cnTraditionalString": "填空：\n 花...",
+              "czechString": "Vyplňte:\n kv...tina",
+              "enString": "Fill in the blank:\n fl...wer",
+              "frenchString": "Remplir:\n fl...ur",
+              "germanString": "Ausfüllen:\n Bl...me",
+              "koString": "빈칸을 채우세요:\n ...송이"
             },
             "answers": [
               {
                 "vnString": "bông",
-                "cnTraditionalString": "棉布",
-                "czechString": "bavlna",
-                "enString": "cotton",
-                "frenchString": "coton",
-                "germanString": "Baumwolle",
-                "koString": "면"
+                "cnTraditionalString": "朵",
+                "czechString": "ě",
+                "enString": "o",
+                "frenchString": "e",
+                "germanString": "u",
+                "koString": "꽃"
               },
               {
-                "vnString": "cây",
-                "cnTraditionalString": "樹",
-                "czechString": "strom",
-                "enString": "tree",
-                "frenchString": "arbre",
-                "germanString": "Baum",
+                "vnString": "con",
+                "cnTraditionalString": "草",
+                "czechString": "e",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "o",
+                "koString": "잎"
+              },
+              {
+                "vnString": "cái",
+                "cnTraditionalString": "木",
+                "czechString": "a",
+                "enString": "u",
+                "frenchString": "o",
+                "germanString": "a",
                 "koString": "나무"
               },
               {
-                "vnString": "nhành",
-                "cnTraditionalString": "分支",
-                "czechString": "větev",
-                "enString": "branch",
-                "frenchString": "bifurquer",
-                "germanString": "Zweig",
-                "koString": "나뭇가지"
-              },
-              {
                 "vnString": "quả",
-                "cnTraditionalString": "水果",
-                "czechString": "ovoce",
-                "enString": "fruit",
-                "frenchString": "fruit",
-                "germanString": "Obst",
-                "koString": "과일"
+                "cnTraditionalString": "瓣",
+                "czechString": "i",
+                "enString": "e",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "풀"
               }
             ],
             "correctAnswer": {
               "vnString": "bông",
-              "cnTraditionalString": "棉布",
-              "czechString": "bavlna",
-              "enString": "cotton",
-              "frenchString": "coton",
-              "germanString": "Baumwolle",
-              "koString": "면"
+              "cnTraditionalString": "朵",
+              "czechString": "ě",
+              "enString": "o",
+              "frenchString": "e",
+              "germanString": "u",
+              "koString": "꽃"
             },
             "hint": {
               "vnString": "bông hoa",
@@ -16272,59 +16272,59 @@
             "id": 236,
             "question": {
               "vnString": "Điền l hay n? \n …ên lớp",
-              "cnTraditionalString": "填寫l還是n？ \n ….在課堂上",
-              "czechString": "Vyplňte l nebo n? \n …ve třídě",
-              "enString": "Fill in l or n? \n …in class",
-              "frenchString": "Remplir l ou n ? \n …en classe",
-              "germanString": "l oder n ausfüllen? \n …im Unterricht",
-              "koString": "l 또는 n을 입력하시겠습니까? \n …수업 중"
+              "cnTraditionalString": "填空：\n 教...",
+              "czechString": "Vyplňte:\n tř...da",
+              "enString": "Fill in the blank:\n cl...ss",
+              "frenchString": "Remplir:\n cl...sse",
+              "germanString": "Ausfüllen:\n Kl...sse",
+              "koString": "빈칸을 채우세요:\n 교..."
             },
             "answers": [
               {
                 "vnString": "l",
-                "cnTraditionalString": "l",
-                "czechString": "l",
-                "enString": "l",
-                "frenchString": "l",
-                "germanString": "l",
-                "koString": "l"
+                "cnTraditionalString": "室",
+                "czechString": "í",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "실"
               },
               {
                 "vnString": "n",
-                "cnTraditionalString": "n",
-                "czechString": "n",
-                "enString": "n",
-                "frenchString": "n",
-                "germanString": "n",
-                "koString": "n"
+                "cnTraditionalString": "師",
+                "czechString": "y",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "살"
               },
               {
                 "vnString": "m",
-                "cnTraditionalString": "m",
-                "czechString": "m",
-                "enString": "m",
-                "frenchString": "m",
-                "germanString": "m",
-                "koString": "m"
+                "cnTraditionalString": "材",
+                "czechString": "a",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "설"
               },
               {
                 "vnString": "nh",
-                "cnTraditionalString": "nh",
-                "czechString": "nh",
-                "enString": "nh",
-                "frenchString": "nh",
-                "germanString": "nh",
-                "koString": "nh"
+                "cnTraditionalString": "學",
+                "czechString": "e",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "u",
+                "koString": "술"
               }
             ],
             "correctAnswer": {
               "vnString": "l",
-              "cnTraditionalString": "l",
-              "czechString": "l",
-              "enString": "l",
-              "frenchString": "l",
-              "germanString": "l",
-              "koString": "l"
+              "cnTraditionalString": "室",
+              "czechString": "í",
+              "enString": "a",
+              "frenchString": "a",
+              "germanString": "a",
+              "koString": "실"
             },
             "hint": {
               "vnString": "lên lớp",
@@ -16340,59 +16340,59 @@
             "id": 237,
             "question": {
               "vnString": "Điền l hay n? \n …ón lá",
-              "cnTraditionalString": "填寫l還是n？ \n ……在葉子上",
-              "czechString": "Vyplňte l nebo n? \n …na listech",
-              "enString": "Fill in l or n? \n …on leaves",
-              "frenchString": "Remplir l ou n ? \n …sur les feuilles",
-              "germanString": "l oder n ausfüllen? \n …auf Blättern",
-              "koString": "l 또는 n을 입력하시겠습니까? \n …잎에"
+              "cnTraditionalString": "填空：\n 帽...",
+              "czechString": "Vyplňte:\n kl...bouk",
+              "enString": "Fill in the blank:\n h...t",
+              "frenchString": "Remplir:\n ch...peau",
+              "germanString": "Ausfüllen:\n H...t",
+              "koString": "빈칸을 채우세요:\n 모..."
             },
             "answers": [
               {
                 "vnString": "n",
-                "cnTraditionalString": "n",
-                "czechString": "n",
-                "enString": "n",
-                "frenchString": "n",
-                "germanString": "n",
-                "koString": "n"
+                "cnTraditionalString": "子",
+                "czechString": "o",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "u",
+                "koString": "자"
               },
               {
                 "vnString": "l",
-                "cnTraditionalString": "l",
-                "czechString": "l",
-                "enString": "l",
-                "frenchString": "l",
-                "germanString": "l",
-                "koString": "l"
+                "cnTraditionalString": "衣",
+                "czechString": "u",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "o",
+                "koString": "지"
               },
               {
                 "vnString": "m",
-                "cnTraditionalString": "m",
-                "czechString": "m",
-                "enString": "m",
-                "frenchString": "m",
-                "germanString": "m",
-                "koString": "m"
+                "cnTraditionalString": "鞋",
+                "czechString": "a",
+                "enString": "i",
+                "frenchString": "o",
+                "germanString": "a",
+                "koString": "조"
               },
               {
                 "vnString": "ng",
-                "cnTraditionalString": "ng",
-                "czechString": "ng",
-                "enString": "ng",
-                "frenchString": "ng",
-                "germanString": "ng",
-                "koString": "ng"
+                "cnTraditionalString": "襪",
+                "czechString": "e",
+                "enString": "o",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "주"
               }
             ],
             "correctAnswer": {
               "vnString": "n",
-              "cnTraditionalString": "n",
-              "czechString": "n",
-              "enString": "n",
-              "frenchString": "n",
-              "germanString": "n",
-              "koString": "n"
+              "cnTraditionalString": "子",
+              "czechString": "o",
+              "enString": "a",
+              "frenchString": "a",
+              "germanString": "u",
+              "koString": "자"
             },
             "hint": {
               "vnString": "nón lá",
@@ -16408,59 +16408,59 @@
             "id": 238,
             "question": {
               "vnString": "Ghép chữ: h - o - a",
-              "cnTraditionalString": "字母組合：h - o - a",
-              "czechString": "Kombinace písmen: h - o - a",
-              "enString": "Letter combination: h - o - a",
-              "frenchString": "Combinaison de lettres : h - o - a",
-              "germanString": "Buchstabenkombination: h – o – a",
-              "koString": "문자 조합: h - o - a"
+              "cnTraditionalString": "拼寫單字：\n 花 - 朵",
+              "czechString": "Hláskujte slovo:\n k - v - ě - t - i - n - a",
+              "enString": "Spell the word:\n f - l - o - w - e - r",
+              "frenchString": "Épelez le mot :\n f - l - e - u - r",
+              "germanString": "Buchstabiere das Wort:\n B - l - u - m - e",
+              "koString": "단어를 맞추세요:\n ㄲ - ㅗ - ㅊ"
             },
             "answers": [
               {
                 "vnString": "hoa",
-                "cnTraditionalString": "和",
-                "czechString": "hoa",
-                "enString": "hoa",
-                "frenchString": "hoah",
-                "germanString": "hoa",
-                "koString": "호아"
+                "cnTraditionalString": "花朵",
+                "czechString": "květina",
+                "enString": "flower",
+                "frenchString": "fleur",
+                "germanString": "Blume",
+                "koString": "꽃"
               },
               {
                 "vnString": "hao",
-                "cnTraditionalString": "浩",
-                "czechString": "hao",
-                "enString": "hao",
-                "frenchString": "hao",
-                "germanString": "hao",
-                "koString": "하오"
+                "cnTraditionalString": "花草",
+                "czechString": "kvetina",
+                "enString": "flowr",
+                "frenchString": "fluer",
+                "germanString": "Bluhme",
+                "koString": "꼿"
               },
               {
                 "vnString": "hòa",
-                "cnTraditionalString": "畫",
-                "czechString": "remíza",
-                "enString": "draw",
-                "frenchString": "dessiner",
-                "germanString": "ziehen",
-                "koString": "그리다"
+                "cnTraditionalString": "花瓣",
+                "czechString": "kvítina",
+                "enString": "flwer",
+                "frenchString": "fleure",
+                "germanString": "Blüm",
+                "koString": "꽅"
               },
               {
                 "vnString": "họa",
-                "cnTraditionalString": "災難",
-                "czechString": "katastrofa",
-                "enString": "disaster",
-                "frenchString": "catastrophe",
-                "germanString": "Katastrophe",
-                "koString": "재해"
+                "cnTraditionalString": "花木",
+                "czechString": "kvetína",
+                "enString": "flowar",
+                "frenchString": "flur",
+                "germanString": "Blome",
+                "koString": "꽇"
               }
             ],
             "correctAnswer": {
               "vnString": "hoa",
-              "cnTraditionalString": "和",
-              "czechString": "hoa",
-              "enString": "hoa",
-              "frenchString": "hoah",
-              "germanString": "hoa",
-              "koString": "호아"
+              "cnTraditionalString": "花朵",
+              "czechString": "květina",
+              "enString": "flower",
+              "frenchString": "fleur",
+              "germanString": "Blume",
+              "koString": "꽃"
             },
             "hint": {
               "vnString": "hoa",
@@ -16476,59 +16476,59 @@
             "id": 239,
             "question": {
               "vnString": "Ghép chữ: m - e - nặng",
-              "cnTraditionalString": "配對詞：m - e - 重",
-              "czechString": "Párování slov: m - e - těžký",
-              "enString": "Pairing words: m - e - heavy",
-              "frenchString": "Mots d'appariement : m - e - lourd",
-              "germanString": "Paarungswörter: m – e – schwer",
-              "koString": "짝을 이루는 단어: m - e - 무거움"
+              "cnTraditionalString": "拼寫單字：\n 母 - 親",
+              "czechString": "Hláskujte slovo:\n m - a - t - k - a",
+              "enString": "Spell the word:\n m - o - t - h - e - r",
+              "frenchString": "Épelez le mot :\n m - è - r - e",
+              "germanString": "Buchstabiere das Wort:\n M - u - t - t - e - r",
+              "koString": "단어를 맞추세요:\n ㅇ - ㅓ - ㅁ - ㅁ - ㅏ"
             },
             "answers": [
               {
                 "vnString": "mẹ",
-                "cnTraditionalString": "mẹ",
-                "czechString": "mẹ",
-                "enString": "mẹ",
-                "frenchString": "mẹ",
-                "germanString": "mẹ",
-                "koString": "mẹ"
+                "cnTraditionalString": "母親",
+                "czechString": "matka",
+                "enString": "mother",
+                "frenchString": "mère",
+                "germanString": "Mutter",
+                "koString": "엄마"
               },
               {
                 "vnString": "me",
-                "cnTraditionalString": "me",
-                "czechString": "me",
-                "enString": "me",
-                "frenchString": "me",
-                "germanString": "me",
-                "koString": "me"
+                "cnTraditionalString": "母愛",
+                "czechString": "madka",
+                "enString": "mather",
+                "frenchString": "mere",
+                "germanString": "Muter",
+                "koString": "암마"
               },
               {
                 "vnString": "mé",
-                "cnTraditionalString": "mé",
-                "czechString": "mé",
-                "enString": "mé",
-                "frenchString": "mé",
-                "germanString": "mé",
-                "koString": "mé"
+                "cnTraditionalString": "母女",
+                "czechString": "mátka",
+                "enString": "muther",
+                "frenchString": "maire",
+                "germanString": "Muther",
+                "koString": "옴마"
               },
               {
                 "vnString": "mè",
-                "cnTraditionalString": "mè",
-                "czechString": "mè",
-                "enString": "mè",
-                "frenchString": "mè",
-                "germanString": "mè",
-                "koString": "mè"
+                "cnTraditionalString": "母子",
+                "czechString": "metka",
+                "enString": "mothar",
+                "frenchString": "mer",
+                "germanString": "Mütter",
+                "koString": "음마"
               }
             ],
             "correctAnswer": {
               "vnString": "mẹ",
-              "cnTraditionalString": "mẹ",
-              "czechString": "mẹ",
-              "enString": "mẹ",
-              "frenchString": "mẹ",
-              "germanString": "mẹ",
-              "koString": "mẹ"
+              "cnTraditionalString": "母親",
+              "czechString": "matka",
+              "enString": "mother",
+              "frenchString": "mère",
+              "germanString": "Mutter",
+              "koString": "엄마"
             },
             "hint": {
               "vnString": "mẹ",
@@ -16544,59 +16544,59 @@
             "id": 240,
             "question": {
               "vnString": "Điền s hay x? \n dòng …ông",
-              "cnTraditionalString": "填s還是x？ \n 線…先生",
-              "czechString": "Vyplňte s nebo x? \n linka…pane",
-              "enString": "Fill in s or x? \n line…Mr",
-              "frenchString": "Remplir s ou x ? \n ligne…Monsieur",
-              "germanString": "s oder x eintragen? \n Linie…Mr",
-              "koString": "s 또는 x를 입력하시겠습니까? \n 라인…미스터"
+              "cnTraditionalString": "填空：\n 河...",
+              "czechString": "Vyplňte:\n ř...ka",
+              "enString": "Fill in the blank:\n r...ver",
+              "frenchString": "Remplir:\n r...vière",
+              "germanString": "Ausfüllen:\n Fl...ss",
+              "koString": "빈칸을 채우세요:\n 강..."
             },
             "answers": [
               {
                 "vnString": "s",
-                "cnTraditionalString": "s",
-                "czechString": "s",
-                "enString": "s",
-                "frenchString": "s",
-                "germanString": "s",
-                "koString": "s"
+                "cnTraditionalString": "流",
+                "czechString": "e",
+                "enString": "i",
+                "frenchString": "i",
+                "germanString": "u",
+                "koString": "물"
               },
               {
                 "vnString": "x",
-                "cnTraditionalString": "x",
-                "czechString": "x",
-                "enString": "x",
-                "frenchString": "x",
-                "germanString": "x",
-                "koString": "x"
+                "cnTraditionalString": "海",
+                "czechString": "a",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "o",
+                "koString": "불"
               },
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "山",
+                "czechString": "o",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "산"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "水",
+                "czechString": "i",
+                "enString": "u",
+                "frenchString": "o",
+                "germanString": "i",
+                "koString": "바다"
               }
             ],
             "correctAnswer": {
               "vnString": "s",
-              "cnTraditionalString": "s",
-              "czechString": "s",
-              "enString": "s",
-              "frenchString": "s",
-              "germanString": "s",
-              "koString": "s"
+              "cnTraditionalString": "流",
+              "czechString": "e",
+              "enString": "i",
+              "frenchString": "i",
+              "germanString": "u",
+              "koString": "물"
             },
             "hint": {
               "vnString": "dòng sông",
@@ -16618,59 +16618,59 @@
             "id": 241,
             "question": {
               "vnString": "Điền s hay x? \n máy …úc",
-              "cnTraditionalString": "填s還是x？ \n 機器…澳大利亞",
-              "czechString": "Vyplňte s nebo x? \n stroj…Austrálie",
-              "enString": "Fill in s or x? \n machine…Australia",
-              "frenchString": "Remplir s ou x ? \n machine…Australie",
-              "germanString": "s oder x eintragen? \n Maschine…Australien",
-              "koString": "s 또는 x를 입력하시겠습니까? \n 기계…호주"
+              "cnTraditionalString": "填空：\n 挖掘...",
+              "czechString": "Vyplňte:\n b...gr",
+              "enString": "Fill in the blank:\n exc...vator",
+              "frenchString": "Remplir:\n exc...vatrice",
+              "germanString": "Ausfüllen:\n B...gger",
+              "koString": "빈칸을 채우세요:\n 굴착..."
             },
             "answers": [
               {
                 "vnString": "x",
-                "cnTraditionalString": "x",
-                "czechString": "x",
-                "enString": "x",
-                "frenchString": "x",
-                "germanString": "x",
-                "koString": "x"
+                "cnTraditionalString": "機",
+                "czechString": "a",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "기"
               },
               {
                 "vnString": "s",
-                "cnTraditionalString": "s",
-                "czechString": "s",
-                "enString": "s",
-                "frenchString": "s",
-                "germanString": "s",
-                "koString": "s"
+                "cnTraditionalString": "車",
+                "czechString": "e",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "차"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "器",
+                "czechString": "o",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "가"
               },
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "具",
+                "czechString": "u",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "u",
+                "koString": "고"
               }
             ],
             "correctAnswer": {
               "vnString": "x",
-              "cnTraditionalString": "x",
-              "czechString": "x",
-              "enString": "x",
-              "frenchString": "x",
-              "germanString": "x",
-              "koString": "x"
+              "cnTraditionalString": "機",
+              "czechString": "a",
+              "enString": "a",
+              "frenchString": "a",
+              "germanString": "a",
+              "koString": "기"
             },
             "hint": {
               "vnString": "máy xúc",
@@ -16890,59 +16890,59 @@
             "id": 245,
             "question": {
               "vnString": "Điền vào chỗ chấm: \n m… t…",
-              "cnTraditionalString": "填空：\n 我……我……",
-              "czechString": "Vyplňte prázdná místa: \n m… t…",
-              "enString": "Fill in the blanks: \n m… t…",
-              "frenchString": "Remplissez les espaces vides : \n m… t…",
-              "germanString": "Füllen Sie die Lücken aus: \n m… t…",
-              "koString": "빈칸을 채우세요: \n 음… 티…"
+              "cnTraditionalString": "填空：\n 太...",
+              "czechString": "Vyplňte:\n sl...nce",
+              "enString": "Fill in the blank:\n s...n",
+              "frenchString": "Remplir:\n s...leil",
+              "germanString": "Ausfüllen:\n S...nne",
+              "koString": "빈칸을 채우세요:\n 태..."
             },
             "answers": [
               {
-                "vnString": "máy tính",
-                "cnTraditionalString": "電腦",
-                "czechString": "počítač",
-                "enString": "computer",
-                "frenchString": "ordinateur",
-                "germanString": "Computer",
-                "koString": "컴퓨터"
+                "vnString": "ngôi nhà",
+                "cnTraditionalString": "陽",
+                "czechString": "u",
+                "enString": "u",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "양"
               },
               {
-                "vnString": "mái trường",
-                "cnTraditionalString": "學校屋頂",
-                "czechString": "střecha školy",
-                "enString": "school roof",
-                "frenchString": "toit de l'école",
-                "germanString": "Schuldach",
-                "koString": "학교 지붕"
+                "vnString": "dòng sông",
+                "cnTraditionalString": "陰",
+                "czechString": "o",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "영"
               },
               {
-                "vnString": "mưa to",
-                "cnTraditionalString": "大雨",
-                "czechString": "silný déšť",
-                "enString": "heavy rain",
-                "frenchString": "forte pluie",
-                "germanString": "starker Regen",
-                "koString": "폭우"
+                "vnString": "bầu trời",
+                "cnTraditionalString": "星",
+                "czechString": "a",
+                "enString": "o",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "왕"
               },
               {
                 "vnString": "mặt trời",
-                "cnTraditionalString": "太陽",
-                "czechString": "slunce",
-                "enString": "sun",
-                "frenchString": "soleil",
-                "germanString": "Sonne",
-                "koString": "해"
+                "cnTraditionalString": "月",
+                "czechString": "e",
+                "enString": "i",
+                "frenchString": "i",
+                "germanString": "i",
+                "koString": "용"
               }
             ],
             "correctAnswer": {
               "vnString": "mặt trời",
-              "cnTraditionalString": "太陽",
-              "czechString": "slunce",
-              "enString": "sun",
-              "frenchString": "soleil",
-              "germanString": "Sonne",
-              "koString": "해"
+              "cnTraditionalString": "月",
+              "czechString": "e",
+              "enString": "i",
+              "frenchString": "i",
+              "germanString": "i",
+              "koString": "용"
             },
             "hint": {
               "vnString": "mặt trời",
@@ -16964,59 +16964,59 @@
             "id": 246,
             "question": {
               "vnString": "Điền g hay gh? \n cái …ế",
-              "cnTraditionalString": "填寫g還是gh？ \n 什麼…呃",
-              "czechString": "Vyplňte g nebo gh? \n co…eh",
-              "enString": "Fill in g or gh? \n what…eh",
-              "frenchString": "Remplir g ou gh ? \n quoi… hein",
-              "germanString": "g oder gh eintragen? \n Was…äh",
-              "koString": "g 또는 gh를 입력하시겠습니까? \n 뭐…어"
+              "cnTraditionalString": "填空：\n 椅...",
+              "czechString": "Vyplňte:\n ž...dle",
+              "enString": "Fill in the blank:\n ch...ir",
+              "frenchString": "Remplir:\n ch...ise",
+              "germanString": "Ausfüllen:\n St...hl",
+              "koString": "빈칸을 채우세요:\n 의..."
             },
             "answers": [
               {
                 "vnString": "gh",
-                "cnTraditionalString": "gh",
-                "czechString": "gh",
-                "enString": "gh",
-                "frenchString": "gh",
-                "germanString": "gh",
-                "koString": "gh"
+                "cnTraditionalString": "子",
+                "czechString": "i",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "u",
+                "koString": "자"
               },
               {
                 "vnString": "g",
-                "cnTraditionalString": "g",
-                "czechString": "g",
-                "enString": "g",
-                "frenchString": "g",
-                "germanString": "g",
-                "koString": "g"
+                "cnTraditionalString": "桌",
+                "czechString": "y",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "o",
+                "koString": "지"
               },
               {
                 "vnString": "ng",
-                "cnTraditionalString": "ng",
-                "czechString": "ng",
-                "enString": "ng",
-                "frenchString": "ng",
-                "germanString": "ng",
-                "koString": "ng"
+                "cnTraditionalString": "床",
+                "czechString": "a",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "a",
+                "koString": "조"
               },
               {
                 "vnString": "ngh",
-                "cnTraditionalString": "恩格",
-                "czechString": "ngh",
-                "enString": "ngh",
-                "frenchString": "ngh",
-                "germanString": "ngh",
-                "koString": "으응"
+                "cnTraditionalString": "櫃",
+                "czechString": "e",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "e",
+                "koString": "주"
               }
             ],
             "correctAnswer": {
               "vnString": "gh",
-              "cnTraditionalString": "gh",
-              "czechString": "gh",
-              "enString": "gh",
-              "frenchString": "gh",
-              "germanString": "gh",
-              "koString": "gh"
+              "cnTraditionalString": "子",
+              "czechString": "i",
+              "enString": "a",
+              "frenchString": "a",
+              "germanString": "u",
+              "koString": "자"
             },
             "hint": {
               "vnString": "cái ghế (gh đi với e, ê, i)",
@@ -17032,59 +17032,59 @@
             "id": 247,
             "question": {
               "vnString": "Điền g hay gh? \n con …à",
-              "cnTraditionalString": "填寫g還是gh？ \n 我……啊",
-              "czechString": "Vyplňte g nebo gh? \n Já…ach",
-              "enString": "Fill in g or gh? \n I…ah",
-              "frenchString": "Remplir g ou gh ? \n Je… ah",
-              "germanString": "g oder gh eintragen? \n Ich…ah",
-              "koString": "g 또는 gh를 입력하시겠습니까? \n 나…아"
+              "cnTraditionalString": "填空：\n 雞...",
+              "czechString": "Vyplňte:\n k...ře",
+              "enString": "Fill in the blank:\n ch...cken",
+              "frenchString": "Remplir:\n p...ulet",
+              "germanString": "Ausfüllen:\n H...hn",
+              "koString": "빈칸을 채우세요:\n 닭..."
             },
             "answers": [
               {
                 "vnString": "g",
-                "cnTraditionalString": "g",
-                "czechString": "g",
-                "enString": "g",
-                "frenchString": "g",
-                "germanString": "g",
-                "koString": "g"
+                "cnTraditionalString": "肉",
+                "czechString": "u",
+                "enString": "i",
+                "frenchString": "o",
+                "germanString": "u",
+                "koString": "고기"
               },
               {
                 "vnString": "gh",
-                "cnTraditionalString": "gh",
-                "czechString": "gh",
-                "enString": "gh",
-                "frenchString": "gh",
-                "germanString": "gh",
-                "koString": "gh"
+                "cnTraditionalString": "牛",
+                "czechString": "o",
+                "enString": "e",
+                "frenchString": "a",
+                "germanString": "o",
+                "koString": "가기"
               },
               {
                 "vnString": "c",
-                "cnTraditionalString": "c",
-                "czechString": "c",
-                "enString": "c",
-                "frenchString": "c",
-                "germanString": "c",
-                "koString": "c"
+                "cnTraditionalString": "羊",
+                "czechString": "a",
+                "enString": "a",
+                "frenchString": "e",
+                "germanString": "a",
+                "koString": "구기"
               },
               {
                 "vnString": "k",
-                "cnTraditionalString": "k",
-                "czechString": "k",
-                "enString": "k",
-                "frenchString": "k",
-                "germanString": "k",
-                "koString": "k"
+                "cnTraditionalString": "豬",
+                "czechString": "e",
+                "enString": "o",
+                "frenchString": "i",
+                "germanString": "e",
+                "koString": "기기"
               }
             ],
             "correctAnswer": {
               "vnString": "g",
-              "cnTraditionalString": "g",
-              "czechString": "g",
-              "enString": "g",
-              "frenchString": "g",
-              "germanString": "g",
-              "koString": "g"
+              "cnTraditionalString": "肉",
+              "czechString": "u",
+              "enString": "i",
+              "frenchString": "o",
+              "germanString": "u",
+              "koString": "고기"
             },
             "hint": {
               "vnString": "con gà (g đi với a)",
@@ -17100,59 +17100,59 @@
             "id": 248,
             "question": {
               "vnString": "Điền ng hay ngh? \n củ …ệ",
-              "cnTraditionalString": "填寫還是填寫？ \n 老…沉悶",
-              "czechString": "Vyplnit nebo vyplnit? \n starý … nudný",
-              "enString": "Fill in or out? \n old … dull",
-              "frenchString": "Remplir ou remplir ? \n vieux… terne",
-              "germanString": "Ausfüllen oder ausfüllen? \n alt … langweilig",
-              "koString": "채울 것인가, 아니면 채울 것인가? \n 낡았어… 지루해"
+              "cnTraditionalString": "填空：\n 生...",
+              "czechString": "Vyplňte:\n zázv...r",
+              "enString": "Fill in the blank:\n g...nger",
+              "frenchString": "Remplir:\n g...ngembre",
+              "germanString": "Ausfüllen:\n Ingw...r",
+              "koString": "빈칸을 채우세요:\n 생..."
             },
             "answers": [
               {
                 "vnString": "ngh",
-                "cnTraditionalString": "恩格",
-                "czechString": "ngh",
-                "enString": "ngh",
-                "frenchString": "ngh",
-                "germanString": "ngh",
-                "koString": "으응"
+                "cnTraditionalString": "薑",
+                "czechString": "o",
+                "enString": "i",
+                "frenchString": "i",
+                "germanString": "e",
+                "koString": "강"
               },
               {
                 "vnString": "ng",
-                "cnTraditionalString": "ng",
-                "czechString": "ng",
-                "enString": "ng",
-                "frenchString": "ng",
-                "germanString": "ng",
-                "koString": "ng"
+                "cnTraditionalString": "蒜",
+                "czechString": "a",
+                "enString": "e",
+                "frenchString": "e",
+                "germanString": "a",
+                "koString": "공"
               },
               {
                 "vnString": "g",
-                "cnTraditionalString": "g",
-                "czechString": "g",
-                "enString": "g",
-                "frenchString": "g",
-                "germanString": "g",
-                "koString": "g"
+                "cnTraditionalString": "蔥",
+                "czechString": "e",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "o",
+                "koString": "경"
               },
               {
                 "vnString": "gh",
-                "cnTraditionalString": "gh",
-                "czechString": "gh",
-                "enString": "gh",
-                "frenchString": "gh",
-                "germanString": "gh",
-                "koString": "gh"
+                "cnTraditionalString": "菜",
+                "czechString": "u",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "i",
+                "koString": "광"
               }
             ],
             "correctAnswer": {
               "vnString": "ngh",
-              "cnTraditionalString": "恩格",
-              "czechString": "ngh",
-              "enString": "ngh",
-              "frenchString": "ngh",
-              "germanString": "ngh",
-              "koString": "으응"
+              "cnTraditionalString": "薑",
+              "czechString": "o",
+              "enString": "i",
+              "frenchString": "i",
+              "germanString": "e",
+              "koString": "강"
             },
             "hint": {
               "vnString": "củ nghệ (ngh đi với e, ê, i)",
@@ -17168,59 +17168,59 @@
             "id": 249,
             "question": {
               "vnString": "Điền ng hay ngh? \n bắp …ô",
-              "cnTraditionalString": "填寫還是填寫？ \n 玉米…哦",
-              "czechString": "Vyplnit nebo vyplnit? \n kukuřice…ach",
-              "enString": "Fill in or out? \n corn…oh",
-              "frenchString": "Remplir ou remplir ? \n maïs… oh",
-              "germanString": "Ausfüllen oder ausfüllen? \n Mais…oh",
-              "koString": "채울 것인가, 아니면 채울 것인가? \n 옥수수…아"
+              "cnTraditionalString": "填空：\n 玉米...",
+              "czechString": "Vyplňte:\n kukuř...ce",
+              "enString": "Fill in the blank:\n c...rn",
+              "frenchString": "Remplir:\n m...ïs",
+              "germanString": "Ausfüllen:\n M...is",
+              "koString": "빈칸을 채우세요:\n 옥수..."
             },
             "answers": [
               {
                 "vnString": "ng",
-                "cnTraditionalString": "ng",
-                "czechString": "ng",
-                "enString": "ng",
-                "frenchString": "ng",
-                "germanString": "ng",
-                "koString": "ng"
+                "cnTraditionalString": "粒",
+                "czechString": "i",
+                "enString": "o",
+                "frenchString": "a",
+                "germanString": "a",
+                "koString": "수"
               },
               {
                 "vnString": "ngh",
-                "cnTraditionalString": "恩格",
-                "czechString": "ngh",
-                "enString": "ngh",
-                "frenchString": "ngh",
-                "germanString": "ngh",
-                "koString": "으응"
+                "cnTraditionalString": "片",
+                "czechString": "y",
+                "enString": "a",
+                "frenchString": "e",
+                "germanString": "e",
+                "koString": "소"
               },
               {
                 "vnString": "n",
-                "cnTraditionalString": "n",
-                "czechString": "n",
-                "enString": "n",
-                "frenchString": "n",
-                "germanString": "n",
-                "koString": "n"
+                "cnTraditionalString": "粉",
+                "czechString": "a",
+                "enString": "e",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "사"
               },
               {
                 "vnString": "m",
-                "cnTraditionalString": "m",
-                "czechString": "m",
-                "enString": "m",
-                "frenchString": "m",
-                "germanString": "m",
-                "koString": "m"
+                "cnTraditionalString": "汁",
+                "czechString": "e",
+                "enString": "u",
+                "frenchString": "i",
+                "germanString": "u",
+                "koString": "시"
               }
             ],
             "correctAnswer": {
               "vnString": "ng",
-              "cnTraditionalString": "ng",
-              "czechString": "ng",
-              "enString": "ng",
-              "frenchString": "ng",
-              "germanString": "ng",
-              "koString": "ng"
+              "cnTraditionalString": "粒",
+              "czechString": "i",
+              "enString": "o",
+              "frenchString": "a",
+              "germanString": "a",
+              "koString": "수"
             },
             "hint": {
               "vnString": "bắp ngô",
@@ -17310,12 +17310,12 @@
             "id": 251,
             "question": {
               "vnString": "Từ nào viết sai chính tả?",
-              "cnTraditionalString": "哪個單字拼錯了？",
-              "czechString": "Které slovo je špatně napsané?",
+              "cnTraditionalString": "哪個字的拼寫是錯誤的？",
+              "czechString": "Které slovo je napsáno s chybou?",
               "enString": "Which word is misspelled?",
               "frenchString": "Quel mot est mal orthographié ?",
               "germanString": "Welches Wort ist falsch geschrieben?",
-              "koString": "어떤 단어의 철자가 틀리나요?"
+              "koString": "잘못된 철자가 쓰인 단어는 무엇입니까?"
             },
             "answers": [
               {
@@ -17323,8 +17323,8 @@
                 "cnTraditionalString": "糖果",
                 "czechString": "bonbón",
                 "enString": "candy",
-                "frenchString": "bonbons",
-                "germanString": "Süßigkeiten",
+                "frenchString": "bonbon",
+                "germanString": "Süßigkeit",
                 "koString": "사탕"
               },
               {
@@ -17338,12 +17338,12 @@
               },
               {
                 "vnString": "cái céo",
-                "cnTraditionalString": "剪刀",
-                "czechString": "nůžky",
-                "enString": "scissors",
-                "frenchString": "ciseaux",
-                "germanString": "Schere",
-                "koString": "가위"
+                "cnTraditionalString": "塘果",
+                "czechString": "bombón",
+                "enString": "candi",
+                "frenchString": "bonbno",
+                "germanString": "Süßekeit",
+                "koString": "사탱"
               },
               {
                 "vnString": "con kiến",
@@ -17357,12 +17357,12 @@
             ],
             "correctAnswer": {
               "vnString": "cái céo",
-              "cnTraditionalString": "剪刀",
-              "czechString": "nůžky",
-              "enString": "scissors",
-              "frenchString": "ciseaux",
-              "germanString": "Schere",
-              "koString": "가위"
+              "cnTraditionalString": "塘果",
+              "czechString": "bombón",
+              "enString": "candi",
+              "frenchString": "bonbno",
+              "germanString": "Süßekeit",
+              "koString": "사탱"
             },
             "hint": {
               "vnString": "Phải viết là 'cái kéo'",
@@ -17378,12 +17378,12 @@
             "id": 252,
             "question": {
               "vnString": "Ghép vần: u - i",
-              "cnTraditionalString": "押韻：u - i",
-              "czechString": "Rýmování: u - i",
-              "enString": "Rhyming: u - i",
-              "frenchString": "Rimes : toi - je",
-              "germanString": "Reim: u - i",
-              "koString": "운율: u - i"
+              "cnTraditionalString": "組合字母：\n u - i",
+              "czechString": "Spojte písmena:\n u - i",
+              "enString": "Combine the letters:\n u - i",
+              "frenchString": "Combinez les lettres :\n u - i",
+              "germanString": "Kombiniere die Buchstaben:\n u - i",
+              "koString": "글자를 조합하세요:\n ㅜ - ㅣ"
             },
             "answers": [
               {
@@ -17393,7 +17393,7 @@
                 "enString": "ui",
                 "frenchString": "ui",
                 "germanString": "ui",
-                "koString": "ui"
+                "koString": "위"
               },
               {
                 "vnString": "iu",
@@ -17402,7 +17402,7 @@
                 "enString": "iu",
                 "frenchString": "iu",
                 "germanString": "iu",
-                "koString": "iu"
+                "koString": "유"
               },
               {
                 "vnString": "uy",
@@ -17411,16 +17411,16 @@
                 "enString": "uy",
                 "frenchString": "uy",
                 "germanString": "uy",
-                "koString": "uy"
+                "koString": "우"
               },
               {
                 "vnString": "ưu",
-                "cnTraditionalString": "ưu",
-                "czechString": "ưu",
-                "enString": "ưu",
-                "frenchString": "ưu",
-                "germanString": "ưu",
-                "koString": "ưu"
+                "cnTraditionalString": "uu",
+                "czechString": "uu",
+                "enString": "uu",
+                "frenchString": "uu",
+                "germanString": "uu",
+                "koString": "이"
               }
             ],
             "correctAnswer": {
@@ -17430,7 +17430,7 @@
               "enString": "ui",
               "frenchString": "ui",
               "germanString": "ui",
-              "koString": "ui"
+              "koString": "위"
             },
             "hint": {
               "vnString": "ui",
@@ -17446,59 +17446,59 @@
             "id": 253,
             "question": {
               "vnString": "Điền ch hay tr? \n trường …ọc",
-              "cnTraditionalString": "填寫ch還是tr？ \n 學校…讀",
-              "czechString": "Vyplňte ch nebo tr? \n škola … číst",
-              "enString": "Fill in ch or tr? \n school … read",
-              "frenchString": "Remplir ch ou tr ? \n l'école… lire",
-              "germanString": "Lm oder Stb ausfüllen? \n Schule … lesen",
-              "koString": "ch 또는 tr을 입력하시겠습니까? \n 학교 … 읽기"
+              "cnTraditionalString": "填空：\n 學...",
+              "czechString": "Vyplňte:\n šk...la",
+              "enString": "Fill in the blank:\n sch...ol",
+              "frenchString": "Remplir:\n éc...le",
+              "germanString": "Ausfüllen:\n Sch...le",
+              "koString": "빈칸을 채우세요:\n 학..."
             },
             "answers": [
               {
                 "vnString": "h",
-                "cnTraditionalString": "h",
-                "czechString": "h",
-                "enString": "h",
-                "frenchString": "h",
-                "germanString": "h",
-                "koString": "h"
+                "cnTraditionalString": "校",
+                "czechString": "o",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "u",
+                "koString": "교"
               },
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "生",
+                "czechString": "u",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "o",
+                "koString": "고"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "習",
+                "czechString": "a",
+                "enString": "u",
+                "frenchString": "e",
+                "germanString": "a",
+                "koString": "규"
               },
               {
                 "vnString": "x",
-                "cnTraditionalString": "x",
-                "czechString": "x",
-                "enString": "x",
-                "frenchString": "x",
-                "germanString": "x",
-                "koString": "x"
+                "cnTraditionalString": "院",
+                "czechString": "e",
+                "enString": "e",
+                "frenchString": "i",
+                "germanString": "e",
+                "koString": "기"
               }
             ],
             "correctAnswer": {
               "vnString": "h",
-              "cnTraditionalString": "h",
-              "czechString": "h",
-              "enString": "h",
-              "frenchString": "h",
-              "germanString": "h",
-              "koString": "h"
+              "cnTraditionalString": "校",
+              "czechString": "o",
+              "enString": "o",
+              "frenchString": "o",
+              "germanString": "u",
+              "koString": "교"
             },
             "hint": {
               "vnString": "trường học",
@@ -17514,59 +17514,59 @@
             "id": 254,
             "question": {
               "vnString": "Điền ch hay tr? \n …ú bộ đội",
-              "cnTraditionalString": "填寫ch還是tr？ \n ……gu士兵",
-              "czechString": "Vyplňte ch nebo tr? \n …gu vojáci",
-              "enString": "Fill in ch or tr? \n …gu soldiers",
-              "frenchString": "Remplir ch ou tr ? \n …soldats gu",
-              "germanString": "Lm oder Stb ausfüllen? \n …Gu-Soldaten",
-              "koString": "ch 또는 tr을 입력하시겠습니까? \n …구군 병사들"
+              "cnTraditionalString": "填空：\n 軍...",
+              "czechString": "Vyplňte:\n v...ják",
+              "enString": "Fill in the blank:\n s...ldier",
+              "frenchString": "Remplir:\n s...ldat",
+              "germanString": "Ausfüllen:\n S...ldat",
+              "koString": "빈칸을 채우세요:\n 군..."
             },
             "answers": [
               {
                 "vnString": "ch",
-                "cnTraditionalString": "ch",
-                "czechString": "ch",
-                "enString": "ch",
-                "frenchString": "ch",
-                "germanString": "ch",
-                "koString": "ch"
+                "cnTraditionalString": "人",
+                "czechString": "o",
+                "enString": "o",
+                "frenchString": "o",
+                "germanString": "o",
+                "koString": "인"
               },
               {
                 "vnString": "tr",
-                "cnTraditionalString": "tr",
-                "czechString": "tr",
-                "enString": "tr",
-                "frenchString": "tr",
-                "germanString": "tr",
-                "koString": "tr"
+                "cnTraditionalString": "隊",
+                "czechString": "u",
+                "enString": "a",
+                "frenchString": "a",
+                "germanString": "u",
+                "koString": "안"
               },
               {
                 "vnString": "s",
-                "cnTraditionalString": "s",
-                "czechString": "s",
-                "enString": "s",
-                "frenchString": "s",
-                "germanString": "s",
-                "koString": "s"
+                "cnTraditionalString": "官",
+                "czechString": "a",
+                "enString": "u",
+                "frenchString": "e",
+                "germanString": "a",
+                "koString": "운"
               },
               {
                 "vnString": "x",
-                "cnTraditionalString": "x",
-                "czechString": "x",
-                "enString": "x",
-                "frenchString": "x",
-                "germanString": "x",
-                "koString": "x"
+                "cnTraditionalString": "兵",
+                "czechString": "e",
+                "enString": "e",
+                "frenchString": "i",
+                "germanString": "e",
+                "koString": "은"
               }
             ],
             "correctAnswer": {
               "vnString": "ch",
-              "cnTraditionalString": "ch",
-              "czechString": "ch",
-              "enString": "ch",
-              "frenchString": "ch",
-              "germanString": "ch",
-              "koString": "ch"
+              "cnTraditionalString": "人",
+              "czechString": "o",
+              "enString": "o",
+              "frenchString": "o",
+              "germanString": "o",
+              "koString": "인"
             },
             "hint": {
               "vnString": "chú bộ đội",
@@ -17582,59 +17582,59 @@
             "id": 255,
             "question": {
               "vnString": "Từ nào có vần 'ong'?",
-              "cnTraditionalString": "哪個字與「蜜蜂」押韻？",
-              "czechString": "Které slovo se rýmuje se slovem „včela“?",
-              "enString": "Which word rhymes with 'bee'?",
-              "frenchString": "Quel mot rime avec « abeille » ?",
-              "germanString": "Welches Wort reimt sich auf „Biene“?",
-              "koString": "'벌'과 운율이 맞는 단어는 무엇인가요?"
+              "cnTraditionalString": "哪個字包含「ㄠ」的音？",
+              "czechString": "Které slovo má zvuk 'ou'?",
+              "enString": "Which word has the 'ee' sound?",
+              "frenchString": "Quel mot contient le son 'ou' ?",
+              "germanString": "Welches Wort hat den 'au' Laut?",
+              "koString": "'오' 소리가 나는 단어는 무엇입니까?"
             },
             "answers": [
               {
                 "vnString": "con ong",
-                "cnTraditionalString": "蜜蜂",
-                "czechString": "včela",
+                "cnTraditionalString": "貓",
+                "czechString": "moucha",
                 "enString": "bee",
-                "frenchString": "abeille",
-                "germanString": "Biene",
-                "koString": "벌"
+                "frenchString": "loup",
+                "germanString": "Baum",
+                "koString": "오리"
               },
               {
                 "vnString": "quả bóng",
-                "cnTraditionalString": "球",
-                "czechString": "míč",
-                "enString": "ball",
-                "frenchString": "balle",
-                "germanString": "Ball",
-                "koString": "공"
+                "cnTraditionalString": "狗",
+                "czechString": "pes",
+                "enString": "dog",
+                "frenchString": "chien",
+                "germanString": "Hund",
+                "koString": "개"
               },
               {
                 "vnString": "dòng sông",
-                "cnTraditionalString": "河",
-                "czechString": "řeka",
-                "enString": "river",
-                "frenchString": "rivière",
-                "germanString": "Fluss",
-                "koString": "강"
+                "cnTraditionalString": "兔",
+                "czechString": "kočka",
+                "enString": "cat",
+                "frenchString": "chat",
+                "germanString": "Katze",
+                "koString": "고양이"
               },
               {
                 "vnString": "bông hoa",
-                "cnTraditionalString": "花",
-                "czechString": "květ",
-                "enString": "flower",
-                "frenchString": "fleur",
-                "germanString": "Blume",
-                "koString": "꽃"
+                "cnTraditionalString": "馬",
+                "czechString": "slunce",
+                "enString": "sun",
+                "frenchString": "soleil",
+                "germanString": "Sonne",
+                "koString": "태양"
               }
             ],
             "correctAnswer": {
               "vnString": "con ong",
-              "cnTraditionalString": "蜜蜂",
-              "czechString": "včela",
+              "cnTraditionalString": "貓",
+              "czechString": "moucha",
               "enString": "bee",
-              "frenchString": "abeille",
-              "germanString": "Biene",
-              "koString": "벌"
+              "frenchString": "loup",
+              "germanString": "Baum",
+              "koString": "오리"
             },
             "hint": {
               "vnString": "con ong (ong)",
