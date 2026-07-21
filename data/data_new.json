@@ -20628,7 +20628,7 @@
             "answers": [
               {
                 "vnString": "1 chục 5 đơn vị",
-                "enString": "1 dozen 5 units",
+                "enString": "1 ten and 5 units",
                 "frenchString": "1 douzaine de 5 unités",
                 "germanString": "1 Dutzend 5 Einheiten",
                 "spainString": "1 docena 5 unidades",
@@ -20654,7 +20654,7 @@
               },
               {
                 "vnString": "1 chục 0 đơn vị",
-                "enString": "1 dozen 0 units",
+                "enString": "1 ten and 0 units",
                 "frenchString": "1 douzaine 0 unités",
                 "germanString": "1 Dutzend 0 Einheiten",
                 "spainString": "1 docena 0 unidades",
@@ -20681,7 +20681,7 @@
             ],
             "correctAnswer": {
               "vnString": "1 chục 5 đơn vị",
-              "enString": "1 dozen 5 units",
+              "enString": "1 ten and 5 units",
               "frenchString": "1 douzaine de 5 unités",
               "germanString": "1 Dutzend 5 Einheiten",
               "spainString": "1 docena 5 unidades",
@@ -23302,30 +23302,30 @@
               }
             ],
             "correctAnswer": {
-              "vnString": "10",
-              "enString": "10",
-              "frenchString": "10",
-              "germanString": "10",
-              "spainString": "10",
-              "koreaString": "10",
-              "italiaString": "10",
-              "brazilString": "10",
-              "taiwanString": "10",
-              "saudiString": "10",
-              "mexicoString": "10"
+              "vnString": "12",
+              "enString": "12",
+              "frenchString": "12",
+              "germanString": "12",
+              "spainString": "12",
+              "koreaString": "12",
+              "italiaString": "12",
+              "brazilString": "12",
+              "taiwanString": "12",
+              "saudiString": "12",
+              "mexicoString": "12"
             },
             "hint": {
-              "vnString": "Một chục tương đương với 10.",
-              "enString": "One dozen is equivalent to 10.",
-              "frenchString": "Une douzaine équivaut à 10.",
-              "germanString": "Ein Dutzend entspricht 10.",
-              "spainString": "Una docena equivale a 10.",
-              "koreaString": "1다스는 10과 같습니다.",
-              "italiaString": "Una dozzina equivale a 10.",
-              "brazilString": "Uma dúzia equivale a 10.",
-              "taiwanString": "一打相當於10個。",
-              "saudiString": "العشرة تساوي 10.",
-              "mexicoString": "Una docena equivale a 10."
+              "vnString": "Một tá tương đương với 12.",
+              "enString": "One dozen is equivalent to 12.",
+              "frenchString": "Une douzaine équivaut à 12.",
+              "germanString": "Ein Dutzend entspricht 12.",
+              "spainString": "Una docena equivale a 12.",
+              "koreaString": "1다스는 12와 같습니다.",
+              "italiaString": "Una dozzina equivale a 12.",
+              "brazilString": "Uma dúzia equivale a 12.",
+              "taiwanString": "一打相當於12個。",
+              "saudiString": "الدزينة تساوي 12.",
+              "mexicoString": "Una docena equivale a 12."
             }
           }
         ],
@@ -49615,7 +49615,7 @@
               },
               {
                 "vnString": "Tám lăm",
-                "enString": "Eighty-five",
+                "enString": "Eight-five",
                 "frenchString": "Quatre-vingt-cinq",
                 "germanString": "Fünfundachtzig",
                 "spainString": "ochenta y cinco",
