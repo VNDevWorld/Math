@@ -102341,11 +102341,11 @@
             },
             "id": 1,
             "question": {
-              "arString": "What is 2 + 3?",
+              "arString": "ما حاصل 2 + 3؟",
               "enString": "What is 2 + 3?",
-              "frenchString": "What is 2 + 3?",
-              "idString": "What is 2 + 3?",
-              "vnString": "What is 2 + 3?"
+              "frenchString": "Combien font 2 + 3 ?",
+              "idString": "Berapakah hasil dari 2 + 3?",
+              "vnString": "2 + 3 bằng bao nhiêu?"
             }
           },
           {
@@ -102395,11 +102395,11 @@
             },
             "id": 2,
             "question": {
-              "arString": "What is 7 − 2?",
+              "arString": "ما حاصل 7 − 2؟",
               "enString": "What is 7 − 2?",
-              "frenchString": "What is 7 − 2?",
-              "idString": "What is 7 − 2?",
-              "vnString": "What is 7 − 2?"
+              "frenchString": "Combien font 7 − 2 ?",
+              "idString": "Berapakah hasil dari 7 − 2?",
+              "vnString": "7 − 2 bằng bao nhiêu?"
             }
           },
           {
@@ -102449,11 +102449,11 @@
             },
             "id": 3,
             "question": {
-              "arString": "What number comes after 14?",
+              "arString": "ما العدد الذي يأتي بعد 14؟",
               "enString": "What number comes after 14?",
-              "frenchString": "What number comes after 14?",
-              "idString": "What number comes after 14?",
-              "vnString": "What number comes after 14?"
+              "frenchString": "Quel nombre vient après 14 ?",
+              "idString": "Angka berapa yang datang setelah 14?",
+              "vnString": "Số nào liền sau số 14?"
             }
           },
           {
@@ -102503,11 +102503,11 @@
             },
             "id": 4,
             "question": {
-              "arString": "How many sides does a triangle have?",
+              "arString": "كم عدد أضلاع المثلث؟",
               "enString": "How many sides does a triangle have?",
-              "frenchString": "How many sides does a triangle have?",
-              "idString": "How many sides does a triangle have?",
-              "vnString": "How many sides does a triangle have?"
+              "frenchString": "Combien de côtés un triangle a-t-il ?",
+              "idString": "Berapa jumlah sisi yang dimiliki segitiga?",
+              "vnString": "Hình tam giác có bao nhiêu cạnh?"
             }
           },
           {
@@ -102557,11 +102557,11 @@
             },
             "id": 5,
             "question": {
-              "arString": "What is 10 − 6?",
+              "arString": "ما حاصل 10 − 6؟",
               "enString": "What is 10 − 6?",
-              "frenchString": "What is 10 − 6?",
-              "idString": "What is 10 − 6?",
-              "vnString": "What is 10 − 6?"
+              "frenchString": "Combien font 10 − 6 ?",
+              "idString": "Berapakah hasil dari 10 − 6?",
+              "vnString": "10 − 6 bằng bao nhiêu?"
             }
           }
         ],
@@ -102617,11 +102617,11 @@
             },
             "id": 6,
             "question": {
-              "arString": "Which is greater: 9 or 7?",
+              "arString": "أيهما أكبر: 9 أم 7؟",
               "enString": "Which is greater: 9 or 7?",
-              "frenchString": "Which is greater: 9 or 7?",
-              "idString": "Which is greater: 9 or 7?",
-              "vnString": "Which is greater: 9 or 7?"
+              "frenchString": "Lequel est le plus grand : 9 ou 7 ?",
+              "idString": "Manakah yang lebih besar: 9 atau 7?",
+              "vnString": "Số nào lớn hơn: 9 hay 7?"
             }
           },
           {
@@ -102671,11 +102671,11 @@
             },
             "id": 7,
             "question": {
-              "arString": "What is 1 more than 12?",
+              "arString": "ما العدد الأكبر من 12 بمقدار 1؟",
               "enString": "What is 1 more than 12?",
-              "frenchString": "What is 1 more than 12?",
-              "idString": "What is 1 more than 12?",
-              "vnString": "What is 1 more than 12?"
+              "frenchString": "Quel est le nombre qui est supérieur de 1 à 12 ?",
+              "idString": "Berapakah 1 lebih banyak dari 12?",
+              "vnString": "Số lớn hơn 12 một đơn vị là số nào?"
             }
           },
           {
@@ -102725,65 +102725,65 @@
             },
             "id": 8,
             "question": {
-              "arString": "What is 5 + 4?",
+              "arString": "ما حاصل 5 + 4؟",
               "enString": "What is 5 + 4?",
-              "frenchString": "What is 5 + 4?",
-              "idString": "What is 5 + 4?",
-              "vnString": "What is 5 + 4?"
+              "frenchString": "Combien font 5 + 4 ?",
+              "idString": "Berapakah hasil dari 5 + 4?",
+              "vnString": "5 + 4 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Square",
+                "arString": "مربع",
                 "enString": "Square",
-                "frenchString": "Square",
-                "idString": "Square",
-                "vnString": "Square"
+                "frenchString": "Carré",
+                "idString": "Persegi",
+                "vnString": "Hình vuông"
               },
               {
-                "arString": "Rectangle",
+                "arString": "مستطيل",
                 "enString": "Rectangle",
                 "frenchString": "Rectangle",
-                "idString": "Rectangle",
-                "vnString": "Rectangle"
+                "idString": "Persegi panjang",
+                "vnString": "Hình chữ nhật"
               },
               {
-                "arString": "Triangle",
+                "arString": "مثلث",
                 "enString": "Triangle",
                 "frenchString": "Triangle",
-                "idString": "Triangle",
-                "vnString": "Triangle"
+                "idString": "Segitiga",
+                "vnString": "Hình tam giác"
               },
               {
-                "arString": "Circle",
+                "arString": "دائرة",
                 "enString": "Circle",
-                "frenchString": "Circle",
-                "idString": "Circle",
-                "vnString": "Circle"
+                "frenchString": "Cercle",
+                "idString": "Lingkaran",
+                "vnString": "Hình tròn"
               }
             ],
             "correctAnswer": {
-              "arString": "Square",
+              "arString": "مربع",
               "enString": "Square",
-              "frenchString": "Square",
-              "idString": "Square",
-              "vnString": "Square"
+              "frenchString": "Carré",
+              "idString": "Persegi",
+              "vnString": "Hình vuông"
             },
             "hint": {
-              "arString": "Square",
+              "arString": "مربع",
               "enString": "Square",
-              "frenchString": "Square",
-              "idString": "Square",
-              "vnString": "Square"
+              "frenchString": "Carré",
+              "idString": "Persegi",
+              "vnString": "Hình vuông"
             },
             "id": 9,
             "question": {
-              "arString": "Which shape has 4 equal sides?",
+              "arString": "أي شكل له أربعة أضلاع متساوية؟",
               "enString": "Which shape has 4 equal sides?",
-              "frenchString": "Which shape has 4 equal sides?",
-              "idString": "Which shape has 4 equal sides?",
-              "vnString": "Which shape has 4 equal sides?"
+              "frenchString": "Quelle figure a 4 côtés égaux ?",
+              "idString": "Bangun apa yang memiliki 4 sisi yang sama panjang?",
+              "vnString": "Hình nào có 4 cạnh bằng nhau?"
             }
           },
           {
@@ -102833,11 +102833,11 @@
             },
             "id": 10,
             "question": {
-              "arString": "What is 3 + 6?",
+              "arString": "ما حاصل 3 + 6؟",
               "enString": "What is 3 + 6?",
-              "frenchString": "What is 3 + 6?",
-              "idString": "What is 3 + 6?",
-              "vnString": "What is 3 + 6?"
+              "frenchString": "Combien font 3 + 6 ?",
+              "idString": "Berapakah hasil dari 3 + 6?",
+              "vnString": "3 + 6 bằng bao nhiêu?"
             }
           }
         ],
@@ -102893,11 +102893,11 @@
             },
             "id": 11,
             "question": {
-              "arString": "What is 8 − 3?",
+              "arString": "ما حاصل 8 − 3؟",
               "enString": "What is 8 − 3?",
-              "frenchString": "What is 8 − 3?",
-              "idString": "What is 8 − 3?",
-              "vnString": "What is 8 − 3?"
+              "frenchString": "Combien font 8 − 3 ?",
+              "idString": "Berapakah hasil dari 8 − 3?",
+              "vnString": "8 − 3 bằng bao nhiêu?"
             }
           },
           {
@@ -102947,11 +102947,11 @@
             },
             "id": 12,
             "question": {
-              "arString": "Which number is smaller: 4 or 9?",
+              "arString": "أيهما أصغر: 4 أم 9؟",
               "enString": "Which number is smaller: 4 or 9?",
-              "frenchString": "Which number is smaller: 4 or 9?",
-              "idString": "Which number is smaller: 4 or 9?",
-              "vnString": "Which number is smaller: 4 or 9?"
+              "frenchString": "Lequel est le plus petit : 4 ou 9 ?",
+              "idString": "Manakah yang lebih kecil: 4 atau 9?",
+              "vnString": "Số nào nhỏ hơn: 4 hay 9?"
             }
           },
           {
@@ -103001,11 +103001,11 @@
             },
             "id": 13,
             "question": {
-              "arString": "What is 7 + 1?",
+              "arString": "ما حاصل 7 + 1؟",
               "enString": "What is 7 + 1?",
-              "frenchString": "What is 7 + 1?",
-              "idString": "What is 7 + 1?",
-              "vnString": "What is 7 + 1?"
+              "frenchString": "Combien font 7 + 1 ?",
+              "idString": "Berapakah hasil dari 7 + 1?",
+              "vnString": "7 + 1 bằng bao nhiêu?"
             }
           },
           {
@@ -103055,11 +103055,11 @@
             },
             "id": 14,
             "question": {
-              "arString": "How many sides does a square have?",
+              "arString": "كم عدد أضلاع المربع؟",
               "enString": "How many sides does a square have?",
-              "frenchString": "How many sides does a square have?",
-              "idString": "How many sides does a square have?",
-              "vnString": "How many sides does a square have?"
+              "frenchString": "Combien de côtés un carré a-t-il ?",
+              "idString": "Berapa jumlah sisi yang dimiliki persegi?",
+              "vnString": "Hình vuông có bao nhiêu cạnh?"
             }
           },
           {
@@ -103109,11 +103109,11 @@
             },
             "id": 15,
             "question": {
-              "arString": "What is 6 − 4?",
+              "arString": "ما حاصل 6 − 4؟",
               "enString": "What is 6 − 4?",
-              "frenchString": "What is 6 − 4?",
-              "idString": "What is 6 − 4?",
-              "vnString": "What is 6 − 4?"
+              "frenchString": "Combien font 6 − 4 ?",
+              "idString": "Berapakah hasil dari 6 − 4?",
+              "vnString": "6 − 4 bằng bao nhiêu?"
             }
           }
         ],
@@ -103169,11 +103169,11 @@
             },
             "id": 16,
             "question": {
-              "arString": "What number comes before 20?",
+              "arString": "ما العدد الذي يأتي قبل 20؟",
               "enString": "What number comes before 20?",
-              "frenchString": "What number comes before 20?",
-              "idString": "What number comes before 20?",
-              "vnString": "What number comes before 20?"
+              "frenchString": "Quel nombre vient avant 20 ?",
+              "idString": "Angka berapa yang datang sebelum 20?",
+              "vnString": "Số nào đứng trước 20?"
             }
           },
           {
@@ -103223,11 +103223,11 @@
             },
             "id": 17,
             "question": {
-              "arString": "What is 4 + 4?",
+              "arString": "ما حاصل 4 + 4؟",
               "enString": "What is 4 + 4?",
-              "frenchString": "What is 4 + 4?",
-              "idString": "What is 4 + 4?",
-              "vnString": "What is 4 + 4?"
+              "frenchString": "Combien font 4 + 4 ?",
+              "idString": "Berapakah hasil dari 4 + 4?",
+              "vnString": "4 + 4 bằng bao nhiêu?"
             }
           },
           {
@@ -103277,65 +103277,65 @@
             },
             "id": 18,
             "question": {
-              "arString": "What is 9 − 5?",
+              "arString": "ما حاصل 9 − 5؟",
               "enString": "What is 9 − 5?",
-              "frenchString": "What is 9 − 5?",
-              "idString": "What is 9 − 5?",
-              "vnString": "What is 9 − 5?"
+              "frenchString": "Combien font 9 − 5 ?",
+              "idString": "Berapakah hasil dari 9 − 5?",
+              "vnString": "9 − 5 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "A pencil",
+                "arString": "قلم رصاص",
                 "enString": "A pencil",
-                "frenchString": "A pencil",
-                "idString": "A pencil",
-                "vnString": "A pencil"
+                "frenchString": "Un crayon",
+                "idString": "Sebuah pensil",
+                "vnString": "Bút chì"
               },
               {
-                "arString": "A paperclip",
+                "arString": "مشبك ورق",
                 "enString": "A paperclip",
-                "frenchString": "A paperclip",
-                "idString": "A paperclip",
-                "vnString": "A paperclip"
+                "frenchString": "Un trombone",
+                "idString": "Sebuah penjepit kertas",
+                "vnString": "Kẹp giấy"
               },
               {
-                "arString": "They are equal",
+                "arString": "لهما الطول نفسه",
                 "enString": "They are equal",
-                "frenchString": "They are equal",
-                "idString": "They are equal",
-                "vnString": "They are equal"
+                "frenchString": "Ils sont de la même longueur",
+                "idString": "Panjangnya sama",
+                "vnString": "Chúng dài bằng nhau"
               },
               {
-                "arString": "Cannot tell",
+                "arString": "لا يمكن التحديد",
                 "enString": "Cannot tell",
-                "frenchString": "Cannot tell",
-                "idString": "Cannot tell",
-                "vnString": "Cannot tell"
+                "frenchString": "Impossible à déterminer",
+                "idString": "Tidak dapat ditentukan",
+                "vnString": "Không thể xác định"
               }
             ],
             "correctAnswer": {
-              "arString": "A pencil",
+              "arString": "قلم رصاص",
               "enString": "A pencil",
-              "frenchString": "A pencil",
-              "idString": "A pencil",
-              "vnString": "A pencil"
+              "frenchString": "Un crayon",
+              "idString": "Sebuah pensil",
+              "vnString": "Bút chì"
             },
             "hint": {
-              "arString": "A pencil",
+              "arString": "قلم رصاص",
               "enString": "A pencil",
-              "frenchString": "A pencil",
-              "idString": "A pencil",
-              "vnString": "A pencil"
+              "frenchString": "Un crayon",
+              "idString": "Sebuah pensil",
+              "vnString": "Bút chì"
             },
             "id": 19,
             "question": {
-              "arString": "Which is longer: a pencil or a paperclip?",
+              "arString": "أيهما أطول: قلم رصاص أم مشبك ورق؟",
               "enString": "Which is longer: a pencil or a paperclip?",
-              "frenchString": "Which is longer: a pencil or a paperclip?",
-              "idString": "Which is longer: a pencil or a paperclip?",
-              "vnString": "Which is longer: a pencil or a paperclip?"
+              "frenchString": "Lequel est le plus long : un crayon ou un trombone ?",
+              "idString": "Manakah yang lebih panjang: sebuah pensil atau penjepit kertas?",
+              "vnString": "Vật nào dài hơn: bút chì hay kẹp giấy?"
             }
           },
           {
@@ -103385,11 +103385,11 @@
             },
             "id": 20,
             "question": {
-              "arString": "What is 10 + 0?",
+              "arString": "ما حاصل 10 + 0؟",
               "enString": "What is 10 + 0?",
-              "frenchString": "What is 10 + 0?",
-              "idString": "What is 10 + 0?",
-              "vnString": "What is 10 + 0?"
+              "frenchString": "Combien font 10 + 0 ?",
+              "idString": "Berapakah hasil dari 10 + 0?",
+              "vnString": "10 + 0 bằng bao nhiêu?"
             }
           }
         ],
@@ -103445,11 +103445,11 @@
             },
             "id": 21,
             "question": {
-              "arString": "What is 3 + 1?",
+              "arString": "ما حاصل 3 + 1؟",
               "enString": "What is 3 + 1?",
-              "frenchString": "What is 3 + 1?",
-              "idString": "What is 3 + 1?",
-              "vnString": "What is 3 + 1?"
+              "frenchString": "Combien font 3 + 1 ?",
+              "idString": "Berapakah hasil dari 3 + 1?",
+              "vnString": "3 + 1 bằng bao nhiêu?"
             }
           },
           {
@@ -103499,11 +103499,11 @@
             },
             "id": 22,
             "question": {
-              "arString": "Which number is greater: 12 or 10?",
+              "arString": "أيهما أكبر: 12 أم 10؟",
               "enString": "Which number is greater: 12 or 10?",
-              "frenchString": "Which number is greater: 12 or 10?",
-              "idString": "Which number is greater: 12 or 10?",
-              "vnString": "Which number is greater: 12 or 10?"
+              "frenchString": "Lequel est le plus grand : 12 ou 10 ?",
+              "idString": "Manakah yang lebih besar: 12 atau 10?",
+              "vnString": "Số nào lớn hơn: 12 hay 10?"
             }
           },
           {
@@ -103553,11 +103553,11 @@
             },
             "id": 23,
             "question": {
-              "arString": "What is 8 + 1?",
+              "arString": "ما حاصل 8 + 1؟",
               "enString": "What is 8 + 1?",
-              "frenchString": "What is 8 + 1?",
-              "idString": "What is 8 + 1?",
-              "vnString": "What is 8 + 1?"
+              "frenchString": "Combien font 8 + 1 ?",
+              "idString": "Berapakah hasil dari 8 + 1?",
+              "vnString": "8 + 1 bằng bao nhiêu?"
             }
           },
           {
@@ -103607,65 +103607,65 @@
             },
             "id": 24,
             "question": {
-              "arString": "What is 5 − 2?",
+              "arString": "ما حاصل 5 − 2؟",
               "enString": "What is 5 − 2?",
-              "frenchString": "What is 5 − 2?",
-              "idString": "What is 5 − 2?",
-              "vnString": "What is 5 − 2?"
+              "frenchString": "Combien font 5 − 2 ?",
+              "idString": "Berapakah hasil dari 5 − 2?",
+              "vnString": "5 − 2 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Circle",
+                "arString": "دائرة",
                 "enString": "Circle",
-                "frenchString": "Circle",
-                "idString": "Circle",
-                "vnString": "Circle"
+                "frenchString": "Cercle",
+                "idString": "Lingkaran",
+                "vnString": "Hình tròn"
               },
               {
-                "arString": "Square",
+                "arString": "مربع",
                 "enString": "Square",
-                "frenchString": "Square",
-                "idString": "Square",
-                "vnString": "Square"
+                "frenchString": "Carré",
+                "idString": "Persegi",
+                "vnString": "Hình vuông"
               },
               {
-                "arString": "Triangle",
+                "arString": "مثلث",
                 "enString": "Triangle",
                 "frenchString": "Triangle",
-                "idString": "Triangle",
-                "vnString": "Triangle"
+                "idString": "Segitiga",
+                "vnString": "Hình tam giác"
               },
               {
-                "arString": "Rectangle",
+                "arString": "مستطيل",
                 "enString": "Rectangle",
                 "frenchString": "Rectangle",
-                "idString": "Rectangle",
-                "vnString": "Rectangle"
+                "idString": "Persegi panjang",
+                "vnString": "Hình chữ nhật"
               }
             ],
             "correctAnswer": {
-              "arString": "Circle",
+              "arString": "دائرة",
               "enString": "Circle",
-              "frenchString": "Circle",
-              "idString": "Circle",
-              "vnString": "Circle"
+              "frenchString": "Cercle",
+              "idString": "Lingkaran",
+              "vnString": "Hình tròn"
             },
             "hint": {
-              "arString": "Circle",
+              "arString": "دائرة",
               "enString": "Circle",
-              "frenchString": "Circle",
-              "idString": "Circle",
-              "vnString": "Circle"
+              "frenchString": "Cercle",
+              "idString": "Lingkaran",
+              "vnString": "Hình tròn"
             },
             "id": 25,
             "question": {
-              "arString": "What shape is perfectly round?",
+              "arString": "أي شكل مستدير تمامًا؟",
               "enString": "What shape is perfectly round?",
-              "frenchString": "What shape is perfectly round?",
-              "idString": "What shape is perfectly round?",
-              "vnString": "What shape is perfectly round?"
+              "frenchString": "Quelle figure est parfaitement ronde ?",
+              "idString": "Bangun apa yang berbentuk bulat sempurna?",
+              "vnString": "Hình nào không có cạnh?"
             }
           }
         ],
@@ -103721,11 +103721,11 @@
             },
             "id": 26,
             "question": {
-              "arString": "What is 2 + 7?",
+              "arString": "ما حاصل 2 + 7؟",
               "enString": "What is 2 + 7?",
-              "frenchString": "What is 2 + 7?",
-              "idString": "What is 2 + 7?",
-              "vnString": "What is 2 + 7?"
+              "frenchString": "Combien font 2 + 7 ?",
+              "idString": "Berapakah hasil dari 2 + 7?",
+              "vnString": "2 + 7 bằng bao nhiêu?"
             }
           },
           {
@@ -103775,65 +103775,65 @@
             },
             "id": 27,
             "question": {
-              "arString": "What is 6 − 1?",
+              "arString": "ما حاصل 6 − 1؟",
               "enString": "What is 6 − 1?",
-              "frenchString": "What is 6 − 1?",
-              "idString": "What is 6 − 1?",
-              "vnString": "What is 6 − 1?"
+              "frenchString": "Combien font 6 − 1 ?",
+              "idString": "Berapakah hasil dari 6 − 1?",
+              "vnString": "6 − 1 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "A crayon",
+                "arString": "قلم تلوين",
                 "enString": "A crayon",
-                "frenchString": "A crayon",
-                "idString": "A crayon",
-                "vnString": "A crayon"
+                "frenchString": "Un crayon de couleur",
+                "idString": "Sebuah krayon",
+                "vnString": "Bút sáp màu"
               },
               {
-                "arString": "A broom",
+                "arString": "مكنسة",
                 "enString": "A broom",
-                "frenchString": "A broom",
-                "idString": "A broom",
-                "vnString": "A broom"
+                "frenchString": "Un balai",
+                "idString": "Sapu",
+                "vnString": "Cây chổi"
               },
               {
-                "arString": "They are equal",
+                "arString": "لهما الطول نفسه",
                 "enString": "They are equal",
-                "frenchString": "They are equal",
-                "idString": "They are equal",
-                "vnString": "They are equal"
+                "frenchString": "Ils sont de la même longueur",
+                "idString": "Panjangnya sama",
+                "vnString": "Chúng dài bằng nhau"
               },
               {
-                "arString": "Cannot tell",
+                "arString": "لا يمكن التحديد",
                 "enString": "Cannot tell",
-                "frenchString": "Cannot tell",
-                "idString": "Cannot tell",
-                "vnString": "Cannot tell"
+                "frenchString": "Impossible à déterminer",
+                "idString": "Tidak dapat ditentukan",
+                "vnString": "Không thể xác định"
               }
             ],
             "correctAnswer": {
-              "arString": "A crayon",
+              "arString": "قلم تلوين",
               "enString": "A crayon",
-              "frenchString": "A crayon",
-              "idString": "A crayon",
-              "vnString": "A crayon"
+              "frenchString": "Un crayon de couleur",
+              "idString": "Sebuah krayon",
+              "vnString": "Bút sáp màu"
             },
             "hint": {
-              "arString": "A crayon",
+              "arString": "قلم تلوين",
               "enString": "A crayon",
-              "frenchString": "A crayon",
-              "idString": "A crayon",
-              "vnString": "A crayon"
+              "frenchString": "Un crayon de couleur",
+              "idString": "Sebuah krayon",
+              "vnString": "Bút sáp màu"
             },
             "id": 28,
             "question": {
-              "arString": "Which is shorter: a crayon or a broom?",
+              "arString": "أيهما أقصر: قلم تلوين أم مكنسة؟",
               "enString": "Which is shorter: a crayon or a broom?",
-              "frenchString": "Which is shorter: a crayon or a broom?",
-              "idString": "Which is shorter: a crayon or a broom?",
-              "vnString": "Which is shorter: a crayon or a broom?"
+              "frenchString": "Lequel est le plus court : un crayon de couleur ou un balai ?",
+              "idString": "Manakah yang lebih pendek: sebuah krayon atau sapu?",
+              "vnString": "Vật nào ngắn hơn: bút sáp màu hay cây chổi?"
             }
           },
           {
@@ -103883,11 +103883,11 @@
             },
             "id": 29,
             "question": {
-              "arString": "What is 4 + 1?",
+              "arString": "ما حاصل 4 + 1؟",
               "enString": "What is 4 + 1?",
-              "frenchString": "What is 4 + 1?",
-              "idString": "What is 4 + 1?",
-              "vnString": "What is 4 + 1?"
+              "frenchString": "Combien font 4 + 1 ?",
+              "idString": "Berapakah hasil dari 4 + 1?",
+              "vnString": "4 + 1 bằng bao nhiêu?"
             }
           },
           {
@@ -103937,11 +103937,11 @@
             },
             "id": 30,
             "question": {
-              "arString": "What is 7 − 1?",
+              "arString": "ما حاصل 7 − 1؟",
               "enString": "What is 7 − 1?",
-              "frenchString": "What is 7 − 1?",
-              "idString": "What is 7 − 1?",
-              "vnString": "What is 7 − 1?"
+              "frenchString": "Combien font 7 − 1 ?",
+              "idString": "Berapakah hasil dari 7 − 1?",
+              "vnString": "7 − 1 bằng bao nhiêu?"
             }
           }
         ],
@@ -103997,11 +103997,11 @@
             },
             "id": 31,
             "question": {
-              "arString": "What is 3 + 5?",
+              "arString": "ما حاصل 3 + 5؟",
               "enString": "What is 3 + 5?",
-              "frenchString": "What is 3 + 5?",
-              "idString": "What is 3 + 5?",
-              "vnString": "What is 3 + 5?"
+              "frenchString": "Combien font 3 + 5 ?",
+              "idString": "Berapakah hasil dari 3 + 5?",
+              "vnString": "3 + 5 bằng bao nhiêu?"
             }
           },
           {
@@ -104051,11 +104051,11 @@
             },
             "id": 32,
             "question": {
-              "arString": "How many sides does a rectangle have?",
+              "arString": "كم عدد أضلاع المستطيل؟",
               "enString": "How many sides does a rectangle have?",
-              "frenchString": "How many sides does a rectangle have?",
-              "idString": "How many sides does a rectangle have?",
-              "vnString": "How many sides does a rectangle have?"
+              "frenchString": "Combien de côtés un rectangle a-t-il ?",
+              "idString": "Berapa jumlah sisi yang dimiliki persegi panjang?",
+              "vnString": "Hình chữ nhật có bao nhiêu cạnh?"
             }
           },
           {
@@ -104105,11 +104105,11 @@
             },
             "id": 33,
             "question": {
-              "arString": "What is 1 less than 9?",
+              "arString": "ما العدد الأقل من 9 بمقدار 1؟",
               "enString": "What is 1 less than 9?",
-              "frenchString": "What is 1 less than 9?",
-              "idString": "What is 1 less than 9?",
-              "vnString": "What is 1 less than 9?"
+              "frenchString": "Quel est le nombre inférieur de 1 à 9 ?",
+              "idString": "Berapakah 1 lebih sedikit dari 9?",
+              "vnString": "Số nhỏ hơn 9 một đơn vị là số nào?"
             }
           },
           {
@@ -104159,11 +104159,11 @@
             },
             "id": 34,
             "question": {
-              "arString": "What is 6 + 2?",
+              "arString": "ما حاصل 6 + 2؟",
               "enString": "What is 6 + 2?",
-              "frenchString": "What is 6 + 2?",
-              "idString": "What is 6 + 2?",
-              "vnString": "What is 6 + 2?"
+              "frenchString": "Combien font 6 + 2 ?",
+              "idString": "Berapakah hasil dari 6 + 2?",
+              "vnString": "6 + 2 bằng bao nhiêu?"
             }
           },
           {
@@ -104213,11 +104213,11 @@
             },
             "id": 35,
             "question": {
-              "arString": "What is 9 − 4?",
+              "arString": "ما حاصل 9 − 4؟",
               "enString": "What is 9 − 4?",
-              "frenchString": "What is 9 − 4?",
-              "idString": "What is 9 − 4?",
-              "vnString": "What is 9 − 4?"
+              "frenchString": "Combien font 9 − 4 ?",
+              "idString": "Berapakah hasil dari 9 − 4?",
+              "vnString": "9 − 4 bằng bao nhiêu?"
             }
           }
         ],
@@ -104273,11 +104273,11 @@
             },
             "id": 36,
             "question": {
-              "arString": "What is the smallest number: 2, 5, 9?",
+              "arString": "ما أصغر عدد: 2، 5، أم 9؟",
               "enString": "What is the smallest number: 2, 5, 9?",
-              "frenchString": "What is the smallest number: 2, 5, 9?",
-              "idString": "What is the smallest number: 2, 5, 9?",
-              "vnString": "What is the smallest number: 2, 5, 9?"
+              "frenchString": "Quel est le plus petit nombre : 2, 5 ou 9 ?",
+              "idString": "Manakah angka yang paling kecil: 2, 5, atau 9?",
+              "vnString": "Số nhỏ nhất là số nào: 2, 5 hay 9?"
             }
           },
           {
@@ -104327,11 +104327,11 @@
             },
             "id": 37,
             "question": {
-              "arString": "What is 3 + 2?",
+              "arString": "ما حاصل 3 + 2؟",
               "enString": "What is 3 + 2?",
-              "frenchString": "What is 3 + 2?",
-              "idString": "What is 3 + 2?",
-              "vnString": "What is 3 + 2?"
+              "frenchString": "Combien font 3 + 2 ?",
+              "idString": "Berapakah hasil dari 3 + 2?",
+              "vnString": "3 + 2 bằng bao nhiêu?"
             }
           },
           {
@@ -104381,65 +104381,65 @@
             },
             "id": 38,
             "question": {
-              "arString": "What is 8 − 2?",
+              "arString": "ما حاصل 8 − 2؟",
               "enString": "What is 8 − 2?",
-              "frenchString": "What is 8 − 2?",
-              "idString": "What is 8 − 2?",
-              "vnString": "What is 8 − 2?"
+              "frenchString": "Combien font 8 − 2 ?",
+              "idString": "Berapakah hasil dari 8 − 2?",
+              "vnString": "8 − 2 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "Circle",
+                "arString": "دائرة",
                 "enString": "Circle",
-                "frenchString": "Circle",
-                "idString": "Circle",
-                "vnString": "Circle"
+                "frenchString": "Cercle",
+                "idString": "Lingkaran",
+                "vnString": "Hình tròn"
               },
               {
-                "arString": "Square",
+                "arString": "مربع",
                 "enString": "Square",
-                "frenchString": "Square",
-                "idString": "Square",
-                "vnString": "Square"
+                "frenchString": "Carré",
+                "idString": "Persegi",
+                "vnString": "Hình vuông"
               },
               {
-                "arString": "Rectangle",
+                "arString": "مستطيل",
                 "enString": "Rectangle",
                 "frenchString": "Rectangle",
-                "idString": "Rectangle",
-                "vnString": "Rectangle"
+                "idString": "Persegi panjang",
+                "vnString": "Hình chữ nhật"
               },
               {
-                "arString": "Triangle",
+                "arString": "مثلث",
                 "enString": "Triangle",
                 "frenchString": "Triangle",
-                "idString": "Triangle",
-                "vnString": "Triangle"
+                "idString": "Segitiga",
+                "vnString": "Hình tam giác"
               }
             ],
             "correctAnswer": {
-              "arString": "Circle",
+              "arString": "دائرة",
               "enString": "Circle",
-              "frenchString": "Circle",
-              "idString": "Circle",
-              "vnString": "Circle"
+              "frenchString": "Cercle",
+              "idString": "Lingkaran",
+              "vnString": "Hình tròn"
             },
             "hint": {
-              "arString": "Circle",
+              "arString": "دائرة",
               "enString": "Circle",
-              "frenchString": "Circle",
-              "idString": "Circle",
-              "vnString": "Circle"
+              "frenchString": "Cercle",
+              "idString": "Lingkaran",
+              "vnString": "Hình tròn"
             },
             "id": 39,
             "question": {
-              "arString": "Which shape has no corners?",
+              "arString": "أي شكل ليس له زوايا؟",
               "enString": "Which shape has no corners?",
-              "frenchString": "Which shape has no corners?",
-              "idString": "Which shape has no corners?",
-              "vnString": "Which shape has no corners?"
+              "frenchString": "Quelle figure n'a pas de coins ?",
+              "idString": "Bangun apa yang tidak memiliki sudut?",
+              "vnString": "Hình nào không có góc?"
             }
           },
           {
@@ -104489,11 +104489,11 @@
             },
             "id": 40,
             "question": {
-              "arString": "What is 5 + 3?",
+              "arString": "ما حاصل 5 + 3؟",
               "enString": "What is 5 + 3?",
-              "frenchString": "What is 5 + 3?",
-              "idString": "What is 5 + 3?",
-              "vnString": "What is 5 + 3?"
+              "frenchString": "Combien font 5 + 3 ?",
+              "idString": "Berapakah hasil dari 5 + 3?",
+              "vnString": "5 + 3 bằng bao nhiêu?"
             }
           }
         ],
@@ -104549,11 +104549,11 @@
             },
             "id": 41,
             "question": {
-              "arString": "What is 7 + 2?",
+              "arString": "ما حاصل 7 + 2؟",
               "enString": "What is 7 + 2?",
-              "frenchString": "What is 7 + 2?",
-              "idString": "What is 7 + 2?",
-              "vnString": "What is 7 + 2?"
+              "frenchString": "Combien font 7 + 2 ?",
+              "idString": "Berapakah hasil dari 7 + 2?",
+              "vnString": "7 + 2 bằng bao nhiêu?"
             }
           },
           {
@@ -104603,11 +104603,11 @@
             },
             "id": 42,
             "question": {
-              "arString": "What number comes after 8?",
+              "arString": "ما العدد الذي يأتي بعد 8؟",
               "enString": "What number comes after 8?",
-              "frenchString": "What number comes after 8?",
-              "idString": "What number comes after 8?",
-              "vnString": "What number comes after 8?"
+              "frenchString": "Quel nombre vient après 8 ?",
+              "idString": "Angka berapa yang datang setelah 8?",
+              "vnString": "Số nào đứng sau 8?"
             }
           },
           {
@@ -104657,65 +104657,65 @@
             },
             "id": 43,
             "question": {
-              "arString": "What is 10 − 7?",
+              "arString": "ما حاصل 10 − 7؟",
               "enString": "What is 10 − 7?",
-              "frenchString": "What is 10 − 7?",
-              "idString": "What is 10 − 7?",
-              "vnString": "What is 10 − 7?"
+              "frenchString": "Combien font 10 − 7 ?",
+              "idString": "Berapakah hasil dari 10 − 7?",
+              "vnString": "10 − 7 bằng bao nhiêu?"
             }
           },
           {
             "answers": [
               {
-                "arString": "A book",
+                "arString": "كتاب",
                 "enString": "A book",
-                "frenchString": "A book",
-                "idString": "A book",
-                "vnString": "A book"
+                "frenchString": "Un livre",
+                "idString": "Sebuah buku",
+                "vnString": "Quyển sách"
               },
               {
-                "arString": "A feather",
+                "arString": "ريشة",
                 "enString": "A feather",
-                "frenchString": "A feather",
-                "idString": "A feather",
-                "vnString": "A feather"
+                "frenchString": "Une plume",
+                "idString": "Sehelai bulu",
+                "vnString": "Chiếc lông vũ"
               },
               {
-                "arString": "Same weight",
+                "arString": "لهما الوزن نفسه",
                 "enString": "Same weight",
-                "frenchString": "Same weight",
-                "idString": "Same weight",
-                "vnString": "Same weight"
+                "frenchString": "Même poids",
+                "idString": "Beratnya sama",
+                "vnString": "Cùng trọng lượng"
               },
               {
-                "arString": "Cannot tell",
+                "arString": "لا يمكن التحديد",
                 "enString": "Cannot tell",
-                "frenchString": "Cannot tell",
-                "idString": "Cannot tell",
-                "vnString": "Cannot tell"
+                "frenchString": "Impossible à déterminer",
+                "idString": "Tidak dapat ditentukan",
+                "vnString": "Không thể xác định"
               }
             ],
             "correctAnswer": {
-              "arString": "A book",
+              "arString": "كتاب",
               "enString": "A book",
-              "frenchString": "A book",
-              "idString": "A book",
-              "vnString": "A book"
+              "frenchString": "Un livre",
+              "idString": "Sebuah buku",
+              "vnString": "Quyển sách"
             },
             "hint": {
-              "arString": "A book",
+              "arString": "كتاب",
               "enString": "A book",
-              "frenchString": "A book",
-              "idString": "A book",
-              "vnString": "A book"
+              "frenchString": "Un livre",
+              "idString": "Sebuah buku",
+              "vnString": "Quyển sách"
             },
             "id": 44,
             "question": {
-              "arString": "Which is heavier: a book or a feather?",
+              "arString": "أيهما أثقل: كتاب أم ريشة؟",
               "enString": "Which is heavier: a book or a feather?",
-              "frenchString": "Which is heavier: a book or a feather?",
-              "idString": "Which is heavier: a book or a feather?",
-              "vnString": "Which is heavier: a book or a feather?"
+              "frenchString": "Lequel est le plus lourd : un livre ou une plume ?",
+              "idString": "Manakah yang lebih berat: sebuah buku atau sehelai bulu?",
+              "vnString": "Vật nào nặng hơn: quyển sách hay chiếc lông vũ?"
             }
           },
           {
@@ -104765,11 +104765,11 @@
             },
             "id": 45,
             "question": {
-              "arString": "What is 1 more than 6?",
+              "arString": "ما العدد الأكبر من 6 بمقدار 1؟",
               "enString": "What is 1 more than 6?",
-              "frenchString": "What is 1 more than 6?",
-              "idString": "What is 1 more than 6?",
-              "vnString": "What is 1 more than 6?"
+              "frenchString": "Quel est le nombre qui est supérieur de 1 à 6 ?",
+              "idString": "Berapakah 1 lebih banyak dari 6?",
+              "vnString": "Số lớn hơn 6 một đơn vị là số nào?"
             }
           }
         ],
@@ -104825,11 +104825,11 @@
             },
             "id": 46,
             "question": {
-              "arString": "What is 4 − 1?",
+              "arString": "ما حاصل 4 − 1؟",
               "enString": "What is 4 − 1?",
-              "frenchString": "What is 4 − 1?",
-              "idString": "What is 4 − 1?",
-              "vnString": "What is 4 − 1?"
+              "frenchString": "Combien font 4 − 1 ?",
+              "idString": "Berapakah hasil dari 4 − 1?",
+              "vnString": "4 − 1 bằng bao nhiêu?"
             }
           },
           {
@@ -104879,11 +104879,11 @@
             },
             "id": 47,
             "question": {
-              "arString": "What is 2 + 5?",
+              "arString": "ما حاصل 2 + 5؟",
               "enString": "What is 2 + 5?",
-              "frenchString": "What is 2 + 5?",
-              "idString": "What is 2 + 5?",
-              "vnString": "What is 2 + 5?"
+              "frenchString": "Combien font 2 + 5 ?",
+              "idString": "Berapakah hasil dari 2 + 5?",
+              "vnString": "2 + 5 bằng bao nhiêu?"
             }
           },
           {
@@ -104933,11 +104933,11 @@
             },
             "id": 48,
             "question": {
-              "arString": "What is 6 + 1?",
+              "arString": "ما حاصل 6 + 1؟",
               "enString": "What is 6 + 1?",
-              "frenchString": "What is 6 + 1?",
-              "idString": "What is 6 + 1?",
-              "vnString": "What is 6 + 1?"
+              "frenchString": "Combien font 6 + 1 ?",
+              "idString": "Berapakah hasil dari 6 + 1?",
+              "vnString": "6 + 1 bằng bao nhiêu?"
             }
           },
           {
@@ -104987,11 +104987,11 @@
             },
             "id": 49,
             "question": {
-              "arString": "How many corners does a rectangle have?",
+              "arString": "كم عدد زوايا المستطيل؟",
               "enString": "How many corners does a rectangle have?",
-              "frenchString": "How many corners does a rectangle have?",
-              "idString": "How many corners does a rectangle have?",
-              "vnString": "How many corners does a rectangle have?"
+              "frenchString": "Combien de coins un rectangle a-t-il ?",
+              "idString": "Berapa jumlah sudut yang dimiliki persegi panjang?",
+              "vnString": "Hình chữ nhật có bao nhiêu góc?"
             }
           },
           {
@@ -105041,11 +105041,11 @@
             },
             "id": 50,
             "question": {
-              "arString": "What is 9 − 1?",
+              "arString": "ما حاصل 9 − 1؟",
               "enString": "What is 9 − 1?",
-              "frenchString": "What is 9 − 1?",
-              "idString": "What is 9 − 1?",
-              "vnString": "What is 9 − 1?"
+              "frenchString": "Combien font 9 − 1 ?",
+              "idString": "Berapakah hasil dari 9 − 1?",
+              "vnString": "9 − 1 bằng bao nhiêu?"
             }
           }
         ],
