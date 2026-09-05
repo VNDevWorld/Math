@@ -111665,17 +111665,17 @@
                         "vnString": "4500"
                     },
                     "hint": {
-                        "arString": "10 × 10 يحتوي على عاملين من 10، لذلك يساوي 10².",
-                        "cnTraditionalString": "10 × 10 有兩個 10 相乘，所以等於 10²。",
-                        "enString": "10 × 10 has two factors of 10.",
-                        "frenchString": "10 × 10 contient deux facteurs 10, donc cela vaut 10².",
-                        "germanString": "10 × 10 hat zwei Faktoren 10, also ist es 10².",
-                        "italiaString": "10 × 10 ha due fattori 10, quindi è 10².",
-                        "jaString": "10 × 10 には 10 が 2 個かけられているので、10² です。",
-                        "koString": "10 × 10에는 10이 두 번 곱해져 있으므로 10²입니다.",
-                        "portugueseBRString": "10 × 10 tem dois fatores 10, então é 10².",
-                        "spanishString": "10 × 10 tiene dos factores de 10, por lo tanto es 10².",
-                        "vnString": "Để tìm số cây thông có thể trồng trong 12 ngày, sử dụng tỷ lệ: 1500 cây/4 ngày × 12 ngày = 4500 cây."
+                      "arString": "يطلب منك السؤال التعبير عن الضرب المتكرر باستخدام الأس.\n\nبما أن العدد 10 مضروب في نفسه مرتين:\n\n10 × 10 = 10²",
+                      "cnTraditionalString": "題目要求你使用指數來表示重複乘法。\n\n由於 10 自乘了 2 次：\n\n10 × 10 = 10²",
+                      "enString": "The question is asking you to express repeated multiplication using an exponent.\n\nSince 10 is multiplied by itself 2 times:\n\n10 × 10 = 10²",
+                      "frenchString": "La question vous demande d'exprimer une multiplication répétée à l'aide d'un exposant.\n\nPuisque 10 est multiplié par lui-même 2 fois :\n\n10 × 10 = 10²",
+                      "germanString": "Die Frage verlangt von Ihnen, die wiederholte Multiplikation mit einem Exponenten auszudrücken.\n\nDa 10 zweimal mit sich selbst multipliziert wird:\n\n10 × 10 = 10²",
+                      "italiaString": "La domanda ti chiede di esprimere la moltiplicazione ripetuta usando un esponente.\n\nPoiché 10 è moltiplicato per se stesso 2 volte:\n\n10 × 10 = 10²",
+                      "jaString": "この問題は、同じ数の掛け算を指数を使って represented（ meikaku ni ）表すことを meikaku ni 求められています。\n\n10が2回掛け合わされているため：\n\n10 × 10 = 10²",
+                      "koString": "이 문제는 거듭제곱(지수)을 사용하여 반복된 곱셈을 나타내도록 요구하고 있습니다.\n\n10이 자기 자신과 2번 곱해지므로:\n\n10 × 10 = 10²",
+                      "portugueseBRString": "A questão está pedindo para você expressar a multiplicação repetida usando um expoente.\n\nComo o 10 é multiplicado por si mesmo 2 vezes:\n\n10 × 10 = 10²",
+                      "spanishString": "La pregunta te pide expresar la multiplicación repetida usando un exponente.\n\nDado que 10 se multiplica por sí mismo 2 veces:\n\n10 × 10 = 10²",
+                      "vnString": "Để tìm số cây thông có thể trồng trong 12 ngày, sử dụng tỷ lệ: 1500 cây/4 ngày × 12 ngày = 4500 cây."
                     }
                 },
                 {
