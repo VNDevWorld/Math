@@ -69485,15 +69485,15 @@
                     "question": {
                         "enString": "Round 32 to the nearest ten.",
                         "vnString": "Số lớn là 54, số bé là 9. Vậy số lớn gấp số bé",
-                        "arString": "قرّب 32 إلى أقرب ten.",
-                        "cnTraditionalString": "將 32 四捨五入到最接近的ten。",
-                        "frenchString": "Arrondis 32 au ten le plus proche.",
-                        "germanString": "Runde 32 auf den nächsten ten.",
-                        "italiaString": "Arrotonda 32 al ten più vicino.",
-                        "jaString": "32 を最も近いtenに丸めましょう。",
-                        "koString": "32을 가장 가까운 ten(으)로 반올림하세요.",
-                        "portugueseBRString": "Arredonde 32 para o ten mais próximo.",
-                        "spanishString": "Redondea 32 al ten más cercano."
+                        "arString": "قرّب 32 إلى أقرب عشرة.",
+                        "cnTraditionalString": "將 32 四捨五入到最接近的十位數。",
+                        "frenchString": "Arrondis 32 à la dizaine la plus proche.",
+                        "germanString": "Runde 32 auf den nächsten Zehner.",
+                        "italiaString": "Arrotonda 32 alla decina più vicina.",
+                        "jaString": "32を最も近い10の位に丸めましょう。",
+                        "koString": "32를 가장 가까운 십의 자리로 반올림하세요.",
+                        "portugueseBRString": "Arredonde 32 para a dezena mais próxima.",
+                        "spanishString": "Redondea 32 a la decena más cercana."
                     },
                     "answers": [
                         {
@@ -69563,17 +69563,17 @@
                         "spanishString": "30"
                     },
                     "hint": {
-                        "enString": "Round 32 to the nearest ten. 30",
+                        "enString": "Round 32 to the nearest ten. 32 is closer to 30 than to 40, so the answer is 30.",
                         "vnString": "Để xác định số lần lớn hơn của số lớn (54) so với số nhỏ (9), chia 54 cho 9. Kết quả là 6. Đáp án đúng là 6 lần.",
-                        "arString": "قرّب 32 إلى أقرب ten. 30",
-                        "cnTraditionalString": "將 32 四捨五入到最接近的ten。 30",
-                        "frenchString": "Arrondis 32 au ten le plus proche. 30",
-                        "germanString": "Runde 32 auf den nächsten ten. 30",
-                        "italiaString": "Arrotonda 32 al ten più vicino. 30",
-                        "jaString": "32 を最も近いtenに丸めましょう。 30",
-                        "koString": "32을 가장 가까운 ten(으)로 반올림하세요. 30",
-                        "portugueseBRString": "Arredonde 32 para o ten mais próximo. 30",
-                        "spanishString": "Redondea 32 al ten más cercano. 30"
+                        "arString": "قرّب 32 إلى أقرب عشرة. العدد 32 أقرب إلى 30 من 40، لذا الإجابة هي 30.",
+                        "cnTraditionalString": "將 32 四捨五入到最接近的十位數。32 比 40 更接近 30，所以答案是 30。",
+                        "frenchString": "Arrondis 32 à la dizaine la plus proche. 32 est plus proche de 30 que de 40, donc la réponse est 30.",
+                        "germanString": "Runde 32 auf den nächsten Zehner. 32 liegt näher an 30 als an 40, daher ist die Antwort 30.",
+                        "italiaString": "Arrotonda 32 alla decina più vicina. 32 è più vicino a 30 che a 40, quindi la risposta è 30.",
+                        "jaString": "32を最も近い10の位に丸めます。32は40より30に近いので、答えは30です。",
+                        "koString": "32를 가장 가까운 십의 자리로 반올림합니다. 32는 40보다 30에 더 가까우므로 정답은 30입니다.",
+                        "portugueseBRString": "Arredonde 32 para a dezena mais próxima. 32 está mais perto de 30 do que de 40, então a resposta é 30.",
+                        "spanishString": "Redondea 32 a la decena más cercana. 32 está más cerca de 30 que de 40, por lo tanto, la respuesta es 30."
                     }
                 }
             ],
