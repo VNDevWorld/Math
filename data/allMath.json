@@ -138042,7 +138042,7 @@
             "id": 4,
             "question": {
               "enString": "3³ =",
-              "vnString": "Tìm BCNN của các số 28, 54.",
+              "vnString": "Tìm bội chung nhỏ nhất(BCNN) của các số 28, 54.",
               "arString": "3³ =",
               "cnTraditionalString": "3³ =",
               "frenchString": "3³ =",
@@ -147180,7 +147180,7 @@
             "id": 3,
             "question": {
               "enString": "6² =",
-              "vnString": "BCNN(4; 6) = ___",
+              "vnString": "Tìm bội chung nhỏ nhất\n BCNN(4; 6) = ___",
               "arString": "6² =",
               "cnTraditionalString": "6² =",
               "frenchString": "6² =",
@@ -149802,7 +149802,7 @@
             "id": 5,
             "question": {
               "enString": "(-5)³ =",
-              "vnString": "BCNN(12; 18) = ___",
+              "vnString": "Tìm bội chung nhỏ nhất\nBCNN(12; 18) = ___",
               "arString": "(-5)³ =",
               "cnTraditionalString": "(-5)³ =",
               "frenchString": "(-5)³ =",
