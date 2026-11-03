@@ -288491,17 +288491,17 @@
               "spanishString": "No es continua en x = -3 (discontinuidad infinita) ni en x = 0 (discontinuidad removible)."
             },
             "hint": {
-              "enString": "Factor the denominator: x² + 3x = x(x + 3). The function is undefined at x = -3 and x = 0. After canceling x, x = 0 is a hole, while x = -3 remains a vertical asymptote.",
-              "arString": "حلل المقام: x² + 3x = x(x + 3). الدالة غير معرفة عند x = -3 و x = 0. بعد اختصار x، تكون x = 0 فجوة، بينما تبقى x = -3 خط تقارب رأسي.",
-              "cnTraditionalString": "分解分母：x² + 3x = x(x + 3)。函數在 x = -3 和 x = 0 未定義。約去 x 後，x = 0 是孔洞，而 x = -3 仍是垂直漸近線。",
-              "frenchString": "Factorisez le dénominateur : x² + 3x = x(x + 3). La fonction n’est pas définie en x = -3 et x = 0. Après simplification par x, x = 0 est un trou, tandis que x = -3 reste une asymptote verticale.",
-              "germanString": "Faktoriere den Nenner: x² + 3x = x(x + 3). Die Funktion ist bei x = -3 und x = 0 nicht definiert. Nach dem Kürzen von x ist x = 0 eine hebbare Lücke, während x = -3 eine vertikale Asymptote bleibt.",
-              "italiaString": "Scomponi il denominatore: x² + 3x = x(x + 3). La funzione non è definita in x = -3 e x = 0. Dopo aver semplificato x, x = 0 è un buco, mentre x = -3 resta un asintoto verticale.",
-              "jaString": "分母を因数分解します：x² + 3x = x(x + 3)。この関数は x = -3 と x = 0 で定義されません。x を約分すると、x = 0 は穴で、x = -3 は垂直漸近線のままです。",
-              "koString": "분모를 인수분해하면 x² + 3x = x(x + 3)입니다. 이 함수는 x = -3과 x = 0에서 정의되지 않습니다. x를 약분하면 x = 0은 구멍이고, x = -3은 수직 점근선으로 남습니다.",
-              "portugueseBRString": "Fatore o denominador: x² + 3x = x(x + 3). A função não está definida em x = -3 e x = 0. Depois de cancelar x, x = 0 é um furo, enquanto x = -3 continua sendo uma assíntota vertical.",
-              "spanishString": "Factoriza el denominador: x² + 3x = x(x + 3). La función no está definida en x = -3 ni en x = 0. Después de cancelar x, x = 0 es un hueco, mientras que x = -3 sigue siendo una asíntota vertical.",
-              "vnString": "y = (x-1)/(x+3) là hàm phân thức bậc nhất/bậc nhất.\ny' = [(x+3) - (x-1)]/(x+3)² = 4/(x+3)² > 0 với mọi x ≠ -3.\nVậy hàm đồng biến trên (-∞;-3) và (-3;+∞)."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Conclusion: Not continuous at x = -3 (infinite discontinuity) and x = 0 (removable discontinuity)..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. النتيجة: غير متصلة عند x = -3 (عدم اتصال لا نهائي) وعند x = 0 (عدم اتصال قابل للإزالة)..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. 結論：在 x = -3 不連續（無限不連續），在 x = 0 不連續（可去不連續）。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Conclusion : Non continue en x = -3 (discontinuité infinie) et en x = 0 (discontinuité amovible)..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Ergebnis: Nicht stetig bei x = -3 (unendliche Unstetigkeit) und bei x = 0 (hebbare Unstetigkeit)..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Conclusione: Non continua in x = -3 (discontinuità infinita) e in x = 0 (discontinuità eliminabile)..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. 結論：x = -3 で不連続（無限不連続）、x = 0 で不連続（除去可能な不連続）。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. 결론: x = -3에서 불연속(무한 불연속), x = 0에서 불연속(제거 가능한 불연속)..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Conclusão: Não é contínua em x = -3 (descontinuidade infinita) e em x = 0 (descontinuidade removível)..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² + 3x = x(x + 3); x ≠ 0, −3; f(x) = 1/(x + 3).\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → 0: f(x) → 1/3; x → −3⁻: f(x) → −∞; x → −3⁺: f(x) → +∞. Conclusión: No es continua en x = -3 (discontinuidad infinita) ni en x = 0 (discontinuidad removible)..",
+              "vnString": "1. Tập xác định là ℝ ∖ {−3}. Đạo hàm theo quy tắc thương: y′ = ((x + 3) − (x − 1))/(x + 3)².\n2. Rút gọn y′ = 4/(x + 3)² > 0 với mọi x ≠ −3.\n3. Vậy hàm đồng biến trên từng khoảng (−∞; −3) và (−3; +∞)."
             },
             "id": 1,
             "question": {
@@ -288587,17 +288587,17 @@
               "spanishString": "Continua en x = 3."
             },
             "hint": {
-              "enString": "Check the value and one-sided limits at x = 3. f(3) = -2 from the first piece. The right-hand limit is 3 - 5 = -2, so both one-sided limits and the function value match.",
-              "arString": "افحص قيمة الدالة والنهايتين الجانبيتين عند x = 3. من الجزء الأول f(3) = -2. النهاية اليمنى هي 3 - 5 = -2، لذلك تتطابق النهايتان الجانبيتان وقيمة الدالة.",
-              "cnTraditionalString": "檢查 x = 3 時的函數值與左右極限。由第一段得 f(3) = -2。右極限為 3 - 5 = -2，因此左右極限與函數值相同。",
-              "frenchString": "Vérifiez la valeur et les limites unilatérales en x = 3. Avec la première partie, f(3) = -2. La limite à droite vaut 3 - 5 = -2, donc les deux limites unilatérales et la valeur de la fonction coïncident.",
-              "germanString": "Prüfe den Funktionswert und die einseitigen Grenzwerte bei x = 3. Aus dem ersten Stück gilt f(3) = -2. Der rechtsseitige Grenzwert ist 3 - 5 = -2, also stimmen beide einseitigen Grenzwerte und der Funktionswert überein.",
-              "italiaString": "Controlla il valore e i limiti laterali in x = 3. Dal primo tratto, f(3) = -2. Il limite da destra è 3 - 5 = -2, quindi i due limiti laterali e il valore della funzione coincidono.",
-              "jaString": "x = 3 での関数値と片側極限を確認します。第1式より f(3) = -2。右側極限は 3 - 5 = -2 なので、左右の極限と関数値が一致します。",
-              "koString": "x = 3에서 함수값과 좌우 극한을 확인합니다. 첫 번째 식에서 f(3) = -2입니다. 우극한은 3 - 5 = -2이므로 양쪽 극한과 함수값이 일치합니다.",
-              "portugueseBRString": "Verifique o valor e os limites laterais em x = 3. Pela primeira parte, f(3) = -2. O limite pela direita é 3 - 5 = -2, então os dois limites laterais e o valor da função coincidem.",
-              "spanishString": "Revisa el valor y los límites laterales en x = 3. Con la primera parte, f(3) = -2. El límite por la derecha es 3 - 5 = -2, así que los dos límites laterales y el valor de la función coinciden.",
-              "vnString": "y = x⁴ - 2x² - 1\ny' = 4x³ - 4x = 4x(x-1)(x+1)\ny' > 0 khi x ∈ (-1;0) ∪ (1;+∞)\nVậy hàm đồng biến trên (-1;0) và (1;+∞)."
+              "enString": "1. Each polynomial piece is continuous away from the joining point. At the join, compare both one-sided limits with the function value.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Conclusion: Continuous at x = 3..",
+              "arString": "1. كل جزء كثير حدود متصل بعيدًا عن نقطة الوصل. عند الوصل، قارن النهايتين من اليمين واليسار بقيمة الدالة.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. النتيجة: متصلة عند x = 3..",
+              "cnTraditionalString": "1. 每個多項式分段在接點以外都連續。在接點比較左右極限和函數值。\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. 結論：在 x = 3 連續。。",
+              "frenchString": "1. Chaque morceau polynomial est continu hors du raccord. Au raccord, compare les limites à gauche et à droite à la valeur de la fonction.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Conclusion : Continue en x = 3..",
+              "germanString": "1. Jeder polynomiale Teil ist außerhalb der Nahtstelle stetig. Vergleiche dort beide einseitigen Grenzwerte mit dem Funktionswert.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Ergebnis: Stetig bei x = 3..",
+              "italiaString": "1. Ogni tratto polinomiale è continuo lontano dal punto di raccordo. Nel raccordo confronta i limiti laterali con il valore della funzione.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Conclusione: Continua in x = 3..",
+              "jaString": "1. 各多項式の区間は接続点以外で連続です。接続点で左右の極限と関数値を比べます。\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. 結論：x = 3 で連続。。",
+              "koString": "1. 각 다항식 구간은 연결점 밖에서 연속이에요. 연결점에서 좌극한, 우극한과 함숫값을 비교하세요.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. 결론: x = 3에서 연속..",
+              "portugueseBRString": "1. Cada trecho polinomial é contínuo fora da junção. Na junção, compare os limites laterais com o valor da função.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Conclusão: Contínua em x = 3..",
+              "spanishString": "1. Cada tramo polinómico es continuo fuera del punto de unión. En la unión, compara ambos límites laterales con el valor de la función.\n2. f(3) = −2; lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = 3 − 5 = −2.\n3. Conclusión: Continua en x = 3..",
+              "vnString": "1. Theo lời giải gốc, hàm số là y = x⁴ − 2x² − 1. Tính y′ = 4x³ − 4x = 4x(x − 1)(x + 1).\n2. Các điểm tới hạn là −1, 0, 1. Xét dấu tích được y′ > 0 trên (−1; 0) và (1; +∞).\n3. Vậy hàm đồng biến trên (−1; 0) và (1; +∞)."
             },
             "id": 2,
             "question": {
@@ -288683,17 +288683,17 @@
               "spanishString": "Continua en x = -3."
             },
             "hint": {
-              "enString": "A rational function is continuous wherever its denominator is not zero. At x = -3, x² + 2x + 2 = 9 - 6 + 2 = 5, so the denominator is nonzero.",
-              "arString": "الدالة الكسرية تكون متصلة حيثما كان مقامها غير صفر. عند x = -3، x² + 2x + 2 = 9 - 6 + 2 = 5، لذا المقام غير صفر.",
-              "cnTraditionalString": "有理函數在分母不為 0 的地方連續。當 x = -3 時，x² + 2x + 2 = 9 - 6 + 2 = 5，所以分母不為 0。",
-              "frenchString": "Une fonction rationnelle est continue partout où son dénominateur n’est pas nul. En x = -3, x² + 2x + 2 = 9 - 6 + 2 = 5, donc le dénominateur est non nul.",
-              "germanString": "Eine rationale Funktion ist überall dort stetig, wo ihr Nenner nicht null ist. Bei x = -3 gilt x² + 2x + 2 = 9 - 6 + 2 = 5, also ist der Nenner nicht null.",
-              "italiaString": "Una funzione razionale è continua dove il denominatore non è zero. Per x = -3, x² + 2x + 2 = 9 - 6 + 2 = 5, quindi il denominatore è diverso da zero.",
-              "jaString": "有理関数は分母が 0 でないところで連続です。x = -3 のとき、x² + 2x + 2 = 9 - 6 + 2 = 5 なので、分母は 0 ではありません。",
-              "koString": "유리함수는 분모가 0이 아닌 곳에서 연속입니다. x = -3일 때 x² + 2x + 2 = 9 - 6 + 2 = 5이므로 분모는 0이 아닙니다.",
-              "portugueseBRString": "Uma função racional é contínua onde seu denominador não é zero. Em x = -3, x² + 2x + 2 = 9 - 6 + 2 = 5, então o denominador não é zero.",
-              "spanishString": "Una función racional es continua donde su denominador no es cero. En x = -3, x² + 2x + 2 = 9 - 6 + 2 = 5, así que el denominador no es cero.",
-              "vnString": "y = (1/3)(m+2)x³ + (m+2)x² + (m+3)x\ny' = (m+2)x² + 2(m+2)x + (m+3)\nHàm đồng biến trên R ⟺ y' ≥ 0 với mọi x.\nNếu m=-2: y' = 1 > 0 ✓\nNếu m≠-2: cần Δ' ≤ 0 ⟹ -(m+2) ≤ 0 ⟹ m ≥ -2.\nKết hợp: m ≥ -2."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Conclusion: Continuous at x = -3..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. النتيجة: متصلة عند x = -3..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. 結論：在 x = -3 連續。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Conclusion : Continue en x = -3..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Ergebnis: Stetig bei x = -3..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Conclusione: Continua in x = -3..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. 結論：x = -3 で連続。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. 결론: x = -3에서 연속..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Conclusão: Contínua em x = -3..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² + 2x + 2 = (x + 1)² + 1 > 0; (−3)² + 2(−3) + 2 = 5.\n3. f(−3) = (−3 + 1)/5 = −2/5. Conclusión: Continua en x = -3..",
+              "vnString": "1. Theo lời giải gốc, y = (m + 2)x³/3 + (m + 2)x² + (m + 3)x. Đạo hàm y′ = (m + 2)(x + 1)² + 1.\n2. Nếu m ≥ −2 thì y′ ≥ 1 > 0 với mọi x. Nếu m < −2 thì y′ âm khi |x| đủ lớn, nên hàm không đồng biến trên ℝ.\n3. Vậy điều kiện cần và đủ là m ≥ −2."
             },
             "id": 3,
             "question": {
@@ -288779,17 +288779,17 @@
               "spanishString": "No es continua en x = -2 (discontinuidad removible) ni en x = 2 (discontinuidad infinita)."
             },
             "hint": {
-              "enString": "Factor the denominator: x² - 4 = (x - 2)(x + 2). The factor x + 2 cancels, so x = -2 is a removable discontinuity. The factor x - 2 remains in the denominator, so x = 2 is an infinite discontinuity.",
-              "arString": "حلل المقام: x² - 4 = (x - 2)(x + 2). العامل x + 2 يُختصر، لذلك x = -2 عدم اتصال قابل للإزالة. العامل x - 2 يبقى في المقام، لذلك x = 2 عدم اتصال لا نهائي.",
-              "cnTraditionalString": "分解分母：x² - 4 = (x - 2)(x + 2)。因子 x + 2 可約去，所以 x = -2 是可去不連續。因子 x - 2 仍在分母中，所以 x = 2 是無限不連續。",
-              "frenchString": "Factorisez le dénominateur : x² - 4 = (x - 2)(x + 2). Le facteur x + 2 se simplifie, donc x = -2 est une discontinuité amovible. Le facteur x - 2 reste au dénominateur, donc x = 2 est une discontinuité infinie.",
-              "germanString": "Faktoriere den Nenner: x² - 4 = (x - 2)(x + 2). Der Faktor x + 2 kürzt sich heraus, also ist x = -2 hebbar unstetig. Der Faktor x - 2 bleibt im Nenner, also ist x = 2 eine unendliche Unstetigkeit.",
-              "italiaString": "Scomponi il denominatore: x² - 4 = (x - 2)(x + 2). Il fattore x + 2 si semplifica, quindi x = -2 è una discontinuità eliminabile. Il fattore x - 2 resta al denominatore, quindi x = 2 è una discontinuità infinita.",
-              "jaString": "分母を因数分解します：x² - 4 = (x - 2)(x + 2)。因子 x + 2 は約分されるため、x = -2 は除去可能な不連続です。因子 x - 2 は分母に残るため、x = 2 は無限不連続です。",
-              "koString": "분모를 인수분해하면 x² - 4 = (x - 2)(x + 2)입니다. x + 2가 약분되므로 x = -2는 제거 가능한 불연속입니다. x - 2는 분모에 남으므로 x = 2는 무한 불연속입니다.",
-              "portugueseBRString": "Fatore o denominador: x² - 4 = (x - 2)(x + 2). O fator x + 2 é cancelado, então x = -2 é uma descontinuidade removível. O fator x - 2 permanece no denominador, então x = 2 é uma descontinuidade infinita.",
-              "spanishString": "Factoriza el denominador: x² - 4 = (x - 2)(x + 2). El factor x + 2 se cancela, así que x = -2 es una discontinuidad removible. El factor x - 2 permanece en el denominador, así que x = 2 es una discontinuidad infinita.",
-              "vnString": "Xét f(x) = x - sinx trên (0;π/2).\nf'(x) = 1 - cosx > 0 với mọi x ∈ (0;π/2).\nf(0) = 0, nên f(x) > 0 ⟹ x > sinx, ∀x ∈ (0;π/2)."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Conclusion: Not continuous at x = -2 (removable discontinuity) and x = 2 (infinite discontinuity)..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. النتيجة: غير متصلة عند x = -2 (عدم اتصال قابل للإزالة) وعند x = 2 (عدم اتصال لا نهائي)..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. 結論：在 x = -2 不連續（可去不連續），在 x = 2 不連續（無限不連續）。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Conclusion : Non continue en x = -2 (discontinuité amovible) et en x = 2 (discontinuité infinie)..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Ergebnis: Nicht stetig bei x = -2 (hebbare Unstetigkeit) und bei x = 2 (unendliche Unstetigkeit)..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Conclusione: Non continua in x = -2 (discontinuità eliminabile) e in x = 2 (discontinuità infinita)..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. 結論：x = -2 で不連続（除去可能な不連続）、x = 2 で不連続（無限不連続）。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. 결론: x = -2에서 불연속(제거 가능한 불연속), x = 2에서 불연속(무한 불연속)..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Conclusão: Não é contínua em x = -2 (descontinuidade removível) e em x = 2 (descontinuidade infinita)..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 4 = (x − 2)(x + 2); x ≠ −2, 2; f(x) = 1/(x − 2).\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → −2: f(x) → −1/4; x → 2⁻: f(x) → −∞; x → 2⁺: f(x) → +∞. Conclusión: No es continua en x = -2 (discontinuidad removible) ni en x = 2 (discontinuidad infinita)..",
+              "vnString": "1. Đặt f(x) = x − sinx trên [0; π/2), với f(0) = 0.\n2. Tính f′(x) = 1 − cosx > 0 khi 0 < x < π/2.\n3. Vậy f(x) > f(0) = 0 trên khoảng này, suy ra x > sinx."
             },
             "id": 4,
             "question": {
@@ -288875,17 +288875,17 @@
               "spanishString": "No es continua en x = -1; discontinuidad infinita."
             },
             "hint": {
-              "enString": "The denominator is zero at x = -1, and no factor cancels with the numerator x². Therefore the function has a vertical asymptote at x = -1.",
-              "arString": "المقام يساوي صفرًا عند x = -1، ولا يوجد عامل يختصر مع البسط x². لذلك للدالة خط تقارب رأسي عند x = -1.",
-              "cnTraditionalString": "當 x = -1 時分母為 0，且沒有因子可與分子 x² 約去。因此函數在 x = -1 有垂直漸近線。",
-              "frenchString": "Le dénominateur est nul en x = -1, et aucun facteur ne se simplifie avec le numérateur x². La fonction a donc une asymptote verticale en x = -1.",
-              "germanString": "Der Nenner ist bei x = -1 null, und kein Faktor kürzt sich mit dem Zähler x². Daher hat die Funktion bei x = -1 eine vertikale Asymptote.",
-              "italiaString": "Il denominatore è zero in x = -1 e nessun fattore si semplifica con il numeratore x². Quindi la funzione ha un asintoto verticale in x = -1.",
-              "jaString": "x = -1 で分母は 0 になり、分子 x² と約分できる因子はありません。したがって、関数は x = -1 に垂直漸近線を持ちます。",
-              "koString": "x = -1에서 분모는 0이고, 분자 x²와 약분되는 인수가 없습니다. 따라서 함수는 x = -1에서 수직 점근선을 가집니다.",
-              "portugueseBRString": "O denominador é zero em x = -1, e nenhum fator cancela com o numerador x². Portanto, a função tem uma assíntota vertical em x = -1.",
-              "spanishString": "El denominador es cero en x = -1 y ningún factor se cancela con el numerador x². Por lo tanto, la función tiene una asíntota vertical en x = -1.",
-              "vnString": "y = (x+1)/(x-2) có y' = -3/(x-2)² < 0 với mọi x ≠ 2.\ny' không đổi dấu, nên hàm số không có cực trị."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusion: Not continuous at x = -1; infinite discontinuity..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. النتيجة: غير متصلة عند x = -1؛ عدم اتصال لا نهائي..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 結論：在 x = -1 不連續；無限不連續。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusion : Non continue en x = -1 ; discontinuité infinie..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Ergebnis: Nicht stetig bei x = -1; unendliche Unstetigkeit..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusione: Non continua in x = -1; discontinuità infinita..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 結論：x = -1 で不連続；無限不連続。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 결론: x = -1에서 불연속; 무한 불연속..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusão: Não é contínua em x = -1; descontinuidade infinita..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x = −1: x + 1 = 0, x² = 1 ≠ 0.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusión: No es continua en x = -1; discontinuidad infinita..",
+              "vnString": "1. Xét y = (x + 1)/(x − 2), xác định khi x ≠ 2.\n2. Tính y′ = ((x − 2) − (x + 1))/(x − 2)² = −3/(x − 2)² < 0.\n3. Hàm nghịch biến trên mỗi khoảng xác định và không có điểm nào trong miền xác định mà đạo hàm đổi dấu. Vì vậy hàm không có cực trị."
             },
             "id": 5,
             "question": {
@@ -288977,17 +288977,17 @@
               "vnString": "m < 1/3"
             },
             "hint": {
-              "enString": "At x = 3, the left-hand limit is -2(3) = -6. The function value and right-hand limit come from -x² + 8x - 16, giving -9 + 24 - 16 = -1. Since the one-sided limits differ, the discontinuity is a jump.",
-              "arString": "عند x = 3، النهاية اليسرى هي -2(3) = -6. قيمة الدالة والنهاية اليمنى تأتيان من -x² + 8x - 16، فتساويان -9 + 24 - 16 = -1. بما أن النهايتين الجانبيتين مختلفتان، فعدم الاتصال قفزي.",
-              "cnTraditionalString": "當 x = 3 時，左極限為 -2(3) = -6。函數值與右極限來自 -x² + 8x - 16，得到 -9 + 24 - 16 = -1。因左右極限不同，所以是跳躍不連續。",
-              "frenchString": "En x = 3, la limite à gauche vaut -2(3) = -6. La valeur de la fonction et la limite à droite viennent de -x² + 8x - 16, soit -9 + 24 - 16 = -1. Comme les limites unilatérales diffèrent, c’est une discontinuité de saut.",
-              "germanString": "Bei x = 3 ist der linksseitige Grenzwert -2(3) = -6. Funktionswert und rechtsseitiger Grenzwert stammen aus -x² + 8x - 16 und ergeben -9 + 24 - 16 = -1. Da die einseitigen Grenzwerte verschieden sind, liegt eine Sprungunstetigkeit vor.",
-              "italiaString": "In x = 3, il limite da sinistra è -2(3) = -6. Il valore della funzione e il limite da destra vengono da -x² + 8x - 16, cioè -9 + 24 - 16 = -1. Poiché i limiti laterali sono diversi, la discontinuità è a salto.",
-              "jaString": "x = 3 で左側極限は -2(3) = -6。関数値と右側極限は -x² + 8x - 16 から求まり、-9 + 24 - 16 = -1。片側極限が異なるので、ジャンプ不連続です。",
-              "koString": "x = 3에서 좌극한은 -2(3) = -6입니다. 함수값과 우극한은 -x² + 8x - 16에서 나오며 -9 + 24 - 16 = -1입니다. 좌우 극한이 다르므로 점프 불연속입니다.",
-              "portugueseBRString": "Em x = 3, o limite pela esquerda é -2(3) = -6. O valor da função e o limite pela direita vêm de -x² + 8x - 16, dando -9 + 24 - 16 = -1. Como os limites laterais são diferentes, a descontinuidade é de salto.",
-              "spanishString": "En x = 3, el límite por la izquierda es -2(3) = -6. El valor de la función y el límite por la derecha vienen de -x² + 8x - 16, que da -9 + 24 - 16 = -1. Como los límites laterales son distintos, la discontinuidad es de salto.",
-              "vnString": "y = x³ - x² + mx - 5\ny' = 3x² - 2x + m\nHàm có cực trị ⟺ y' = 0 có 2 nghiệm phân biệt ⟺ Δ' > 0.\nΔ' = 1 - 3m > 0 ⟺ m < 1/3."
+              "enString": "1. Each polynomial piece is continuous away from the joining point. At the join, compare both one-sided limits with the function value.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Conclusion: Not continuous at x = 3; jump discontinuity..",
+              "arString": "1. كل جزء كثير حدود متصل بعيدًا عن نقطة الوصل. عند الوصل، قارن النهايتين من اليمين واليسار بقيمة الدالة.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. النتيجة: غير متصلة عند x = 3؛ عدم اتصال قفزي..",
+              "cnTraditionalString": "1. 每個多項式分段在接點以外都連續。在接點比較左右極限和函數值。\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. 結論：在 x = 3 不連續；跳躍不連續。。",
+              "frenchString": "1. Chaque morceau polynomial est continu hors du raccord. Au raccord, compare les limites à gauche et à droite à la valeur de la fonction.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Conclusion : Non continue en x = 3 ; discontinuité de saut..",
+              "germanString": "1. Jeder polynomiale Teil ist außerhalb der Nahtstelle stetig. Vergleiche dort beide einseitigen Grenzwerte mit dem Funktionswert.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Ergebnis: Nicht stetig bei x = 3; Sprungunstetigkeit..",
+              "italiaString": "1. Ogni tratto polinomiale è continuo lontano dal punto di raccordo. Nel raccordo confronta i limiti laterali con il valore della funzione.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Conclusione: Non continua in x = 3; discontinuità a salto..",
+              "jaString": "1. 各多項式の区間は接続点以外で連続です。接続点で左右の極限と関数値を比べます。\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. 結論：x = 3 で不連続；ジャンプ不連続。。",
+              "koString": "1. 각 다항식 구간은 연결점 밖에서 연속이에요. 연결점에서 좌극한, 우극한과 함숫값을 비교하세요.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. 결론: x = 3에서 불연속; 점프 불연속..",
+              "portugueseBRString": "1. Cada trecho polinomial é contínuo fora da junção. Na junção, compare os limites laterais com o valor da função.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Conclusão: Não é contínua em x = 3; descontinuidade de salto..",
+              "spanishString": "1. Cada tramo polinómico es continuo fuera del punto de unión. En la unión, compara ambos límites laterales con el valor de la función.\n2. lim(x→3⁻)f(x) = −6; lim(x→3⁺)f(x) = f(3) = −9 + 24 − 16 = −1; −6 ≠ −1.\n3. Conclusión: No es continua en x = 3; discontinuidad de salto..",
+              "vnString": "1. Theo kí hiệu của đề, y = x³ − x² + mx − 5. Tính y′ = 3x² − 2x + m.\n2. Hàm bậc ba có cực trị khi y′ có hai nghiệm phân biệt, tức Δ = 4 − 12m > 0.\n3. Giải 4 − 12m > 0 được m < 1/3."
             },
             "id": 6,
             "question": {
@@ -289073,17 +289073,17 @@
               "vnString": "Không có điểm cực trị"
             },
             "hint": {
-              "enString": "For a rational function, check where the denominator is zero. The quadratic 2x² + 2x + 1 has discriminant 2² - 4(2)(1) = -4, so it has no real zeros. The denominator is never zero for real x.",
-              "arString": "في الدالة الكسرية، افحص أين يساوي المقام صفرًا. للمربع 2x² + 2x + 1 مميز يساوي 2² - 4(2)(1) = -4، لذلك لا توجد جذور حقيقية. المقام لا يساوي صفرًا لأي x حقيقي.",
-              "cnTraditionalString": "對有理函數，檢查分母何時為 0。二次式 2x² + 2x + 1 的判別式為 2² - 4(2)(1) = -4，所以沒有實根。對所有實數 x，分母都不為 0。",
-              "frenchString": "Pour une fonction rationnelle, cherchez où le dénominateur est nul. Le discriminant de 2x² + 2x + 1 vaut 2² - 4(2)(1) = -4, donc il n’a aucune racine réelle. Le dénominateur n’est jamais nul pour x réel.",
-              "germanString": "Bei einer rationalen Funktion prüft man, wann der Nenner null ist. Die Diskriminante von 2x² + 2x + 1 ist 2² - 4(2)(1) = -4, also gibt es keine reellen Nullstellen. Der Nenner ist für reelle x nie null.",
-              "italiaString": "Per una funzione razionale, controlla dove il denominatore è zero. Il discriminante di 2x² + 2x + 1 è 2² - 4(2)(1) = -4, quindi non ha zeri reali. Il denominatore non è mai zero per x reale.",
-              "jaString": "有理関数では、分母が 0 になる場所を確認します。2x² + 2x + 1 の判別式は 2² - 4(2)(1) = -4 なので、実数解はありません。実数 x に対して分母は 0 になりません。",
-              "koString": "유리함수에서는 분모가 0이 되는 곳을 확인합니다. 2x² + 2x + 1의 판별식은 2² - 4(2)(1) = -4이므로 실근이 없습니다. 실수 x에서 분모는 절대 0이 아닙니다.",
-              "portugueseBRString": "Para uma função racional, verifique onde o denominador é zero. O discriminante de 2x² + 2x + 1 é 2² - 4(2)(1) = -4, então não há zeros reais. O denominador nunca é zero para x real.",
-              "spanishString": "Para una función racional, revisa dónde el denominador es cero. El discriminante de 2x² + 2x + 1 es 2² - 4(2)(1) = -4, así que no tiene ceros reales. El denominador nunca es cero para x real.",
-              "vnString": "y = x³ - 3x² + 3x - 3\ny' = 3x² - 6x + 3 = 3(x-1)² ≥ 0\ny' = 0 chỉ tại x=1 nhưng không đổi dấu.\nVậy hàm số không có cực trị, không có điểm cực đại."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Conclusion: Continuous for all real x; no discontinuities..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. النتيجة: متصلة لكل قيم x الحقيقية؛ لا توجد نقاط عدم اتصال..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. 結論：對所有實數 x 皆連續；沒有不連續點。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Conclusion : Continue pour tout x réel ; aucune discontinuité..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Ergebnis: Für alle reellen x stetig; keine Unstetigkeitsstellen..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Conclusione: Continua per ogni x reale; nessuna discontinuità..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. 結論：すべての実数 x で連続。不連続点はありません。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. 결론: 모든 실수 x에서 연속; 불연속점 없음..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Conclusão: Contínua para todo x real; sem descontinuidades..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. 2x² + 2x + 1 = 2(x + 1/2)² + 1/2 > 0.\n3. Conclusión: Continua para todo x real; sin discontinuidades..",
+              "vnString": "1. Với y = x³ − 3x² + 3x − 3, tính y′ = 3x² − 6x + 3 = 3(x − 1)².\n2. Đạo hàm không âm trên ℝ và chỉ bằng 0 tại x = 1; dấu không đổi khi qua điểm này.\n3. Vậy hàm không có cực trị, nên không có điểm cực đại."
             },
             "id": 7,
             "question": {
@@ -289169,17 +289169,17 @@
               "vnString": "Cả A và B đều đúng"
             },
             "hint": {
-              "enString": "Factor the denominator: x² + 6x + 9 = (x + 3)². Nothing cancels with the numerator x, so x = -3 makes the denominator zero and creates a vertical asymptote.",
-              "arString": "حلل المقام: x² + 6x + 9 = (x + 3)². لا يوجد عامل يختصر مع البسط x، لذلك يجعل x = -3 المقام صفرًا وينشئ خط تقارب رأسيًا.",
-              "cnTraditionalString": "分解分母：x² + 6x + 9 = (x + 3)²。沒有因子可與分子 x 約去，所以 x = -3 使分母為 0，形成垂直漸近線。",
-              "frenchString": "Factorisez le dénominateur : x² + 6x + 9 = (x + 3)². Aucun facteur ne se simplifie avec le numérateur x, donc x = -3 annule le dénominateur et crée une asymptote verticale.",
-              "germanString": "Faktoriere den Nenner: x² + 6x + 9 = (x + 3)². Mit dem Zähler x kürzt sich kein Faktor, daher macht x = -3 den Nenner null und erzeugt eine vertikale Asymptote.",
-              "italiaString": "Scomponi il denominatore: x² + 6x + 9 = (x + 3)². Nessun fattore si semplifica con il numeratore x, quindi x = -3 rende il denominatore zero e crea un asintoto verticale.",
-              "jaString": "分母を因数分解します：x² + 6x + 9 = (x + 3)²。分子 x と約分できる因子はないため、x = -3 で分母が 0 になり、垂直漸近線ができます。",
-              "koString": "분모를 인수분해하면 x² + 6x + 9 = (x + 3)²입니다. 분자 x와 약분되는 인수가 없으므로 x = -3에서 분모가 0이 되어 수직 점근선이 생깁니다.",
-              "portugueseBRString": "Fatore o denominador: x² + 6x + 9 = (x + 3)². Nada cancela com o numerador x, então x = -3 zera o denominador e cria uma assíntota vertical.",
-              "spanishString": "Factoriza el denominador: x² + 6x + 9 = (x + 3)². Nada se cancela con el numerador x, así que x = -3 hace que el denominador sea cero y crea una asíntota vertical.",
-              "vnString": "y = x⁴ - 2x² + 3, y' = 4x(x-1)(x+1)\nCực đại tại x=0: điểm A(0;3).\nd(A, x+my-4=0) = |3m-4|/√(1+m²) = 2\n⟹ 5m² - 24m + 12 = 0\n⟹ m = (12 ± 2√21)/5. Cả A và B đều đúng."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → −3⁻ or −3⁺: f(x) → −∞. Conclusion: Not continuous at x = -3; infinite discontinuity..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → −3⁻ أو −3⁺: f(x) → −∞. النتيجة: غير متصلة عند x = -3؛ عدم اتصال لا نهائي..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → −3⁻ 或 −3⁺: f(x) → −∞. 結論：在 x = -3 不連續；無限不連續。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → −3⁻ ou −3⁺: f(x) → −∞. Conclusion : Non continue en x = -3 ; discontinuité infinie..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → −3⁻ oder −3⁺: f(x) → −∞. Ergebnis: Nicht stetig bei x = -3; unendliche Unstetigkeit..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → −3⁻ oppure −3⁺: f(x) → −∞. Conclusione: Non continua in x = -3; discontinuità infinita..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → −3⁻ または −3⁺: f(x) → −∞. 結論：x = -3 で不連続；無限不連続。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → −3⁻ 또는 −3⁺: f(x) → −∞. 결론: x = -3에서 불연속; 무한 불연속..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → −3⁻ ou −3⁺: f(x) → −∞. Conclusão: Não é contínua em x = -3; descontinuidade infinita..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² + 6x + 9 = (x + 3)²; x = −3:  −3 ≠ 0.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → −3⁻ o −3⁺: f(x) → −∞. Conclusión: No es continua en x = -3; discontinuidad infinita..",
+              "vnString": "1. Tính y′ = 4x(x − 1)(x + 1). Tại x = 0, đạo hàm đổi từ dương sang âm nên điểm cực đại là A(0; 3).\n2. Khoảng cách đến x + my − 4 = 0 là |3m − 4|/√(1 + m²). Đặt bằng 2 và bình phương: (3m − 4)² = 4(1 + m²).\n3. Thu gọn 5m² − 24m + 12 = 0, suy ra m = (12 ± 2√21)/5. Cả hai đều thỏa mãn phương trình khoảng cách ban đầu."
             },
             "id": 8,
             "question": {
@@ -289265,17 +289265,17 @@
               "vnString": "y = (x-1)/x"
             },
             "hint": {
-              "enString": "Factor the numerator: x² + 4x + 3 = (x + 1)(x + 3). The factor x + 3 cancels, but the original function is still undefined at x = -3. That creates a removable discontinuity.",
-              "arString": "حلل البسط: x² + 4x + 3 = (x + 1)(x + 3). العامل x + 3 يُختصر، لكن الدالة الأصلية تبقى غير معرفة عند x = -3. هذا ينشئ عدم اتصال قابلًا للإزالة.",
-              "cnTraditionalString": "分解分子：x² + 4x + 3 = (x + 1)(x + 3)。因子 x + 3 可約去，但原函數在 x = -3 仍未定義，因此形成可去不連續。",
-              "frenchString": "Factorisez le numérateur : x² + 4x + 3 = (x + 1)(x + 3). Le facteur x + 3 se simplifie, mais la fonction originale reste non définie en x = -3. Cela crée une discontinuité amovible.",
-              "germanString": "Faktoriere den Zähler: x² + 4x + 3 = (x + 1)(x + 3). Der Faktor x + 3 kürzt sich heraus, aber die ursprüngliche Funktion ist bei x = -3 weiterhin nicht definiert. Das erzeugt eine hebbare Unstetigkeit.",
-              "italiaString": "Scomponi il numeratore: x² + 4x + 3 = (x + 1)(x + 3). Il fattore x + 3 si semplifica, ma la funzione originale resta non definita in x = -3. Questo crea una discontinuità eliminabile.",
-              "jaString": "分子を因数分解します：x² + 4x + 3 = (x + 1)(x + 3)。因子 x + 3 は約分されますが、元の関数は x = -3 で未定義のままです。これは除去可能な不連続です。",
-              "koString": "분자를 인수분해하면 x² + 4x + 3 = (x + 1)(x + 3)입니다. x + 3이 약분되지만 원래 함수는 x = -3에서 여전히 정의되지 않습니다. 이는 제거 가능한 불연속을 만듭니다.",
-              "portugueseBRString": "Fatore o numerador: x² + 4x + 3 = (x + 1)(x + 3). O fator x + 3 é cancelado, mas a função original ainda não está definida em x = -3. Isso cria uma descontinuidade removível.",
-              "spanishString": "Factoriza el numerador: x² + 4x + 3 = (x + 1)(x + 3). El factor x + 3 se cancela, pero la función original sigue sin estar definida en x = -3. Esto crea una discontinuidad removible.",
-              "vnString": "y = (x-1)/x = 1 - 1/x có tiệm cận đứng x=0 và tiệm cận ngang y=1.\nCác hàm y=2x, y=x², y=0 đều không có tiệm cận."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. lim(x→−3)f(x) = −2; f(−3) undefined. Conclusion: Not continuous at x = -3; removable discontinuity..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. lim(x→−3)f(x) = −2; f(−3) غير معرّفة. النتيجة: غير متصلة عند x = -3؛ عدم اتصال قابل للإزالة..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 lim(x→−3)f(x) = −2; f(−3) 無定義. 結論：在 x = -3 不連續；可去不連續。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. lim(x→−3)f(x) = −2; f(−3) non définie. Conclusion : Non continue en x = -3 ; discontinuité amovible..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. lim(x→−3)f(x) = −2; f(−3) nicht definiert. Ergebnis: Nicht stetig bei x = -3; hebbare Unstetigkeit..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. lim(x→−3)f(x) = −2; f(−3) non definita. Conclusione: Non continua in x = -3; discontinuità eliminabile..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 lim(x→−3)f(x) = −2; f(−3) 未定義. 結論：x = -3 で不連続；除去可能な不連続。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. lim(x→−3)f(x) = −2; f(−3) 정의되지 않음. 결론: x = -3에서 불연속; 제거 가능한 불연속..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. lim(x→−3)f(x) = −2; f(−3) não definida. Conclusão: Não é contínua em x = -3; descontinuidade removível..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² + 4x + 3 = (x + 1)(x + 3); f(x) = x + 1 for x ≠ −3.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. lim(x→−3)f(x) = −2; f(−3) no definida. Conclusión: No es continua en x = -3; discontinuidad removible..",
+              "vnString": "1. Xét y = (x − 1)/x = 1 − 1/x, với x ≠ 0.\n2. Khi x → 0, trị tuyệt đối của y tăng vô hạn nên x = 0 là tiệm cận đứng.\n3. Khi x → ±∞, y → 1 nên y = 1 là tiệm cận ngang. Chọn hàm số này."
             },
             "id": 9,
             "question": {
@@ -289361,17 +289361,17 @@
               "vnString": "x = -3"
             },
             "hint": {
-              "enString": "Factor the denominator: x² - 4x = x(x - 4). The factor x cancels, so x = 0 is a removable discontinuity. The factor x - 4 remains in the denominator, so x = 4 is an infinite discontinuity.",
-              "arString": "حلل المقام: x² - 4x = x(x - 4). العامل x يُختصر، لذلك x = 0 عدم اتصال قابل للإزالة. العامل x - 4 يبقى في المقام، لذلك x = 4 عدم اتصال لا نهائي.",
-              "cnTraditionalString": "分解分母：x² - 4x = x(x - 4)。因子 x 可約去，所以 x = 0 是可去不連續。因子 x - 4 仍在分母中，所以 x = 4 是無限不連續。",
-              "frenchString": "Factorisez le dénominateur : x² - 4x = x(x - 4). Le facteur x se simplifie, donc x = 0 est une discontinuité amovible. Le facteur x - 4 reste au dénominateur, donc x = 4 est une discontinuité infinie.",
-              "germanString": "Faktoriere den Nenner: x² - 4x = x(x - 4). Der Faktor x kürzt sich heraus, also ist x = 0 hebbar unstetig. Der Faktor x - 4 bleibt im Nenner, also ist x = 4 eine unendliche Unstetigkeit.",
-              "italiaString": "Scomponi il denominatore: x² - 4x = x(x - 4). Il fattore x si semplifica, quindi x = 0 è una discontinuità eliminabile. Il fattore x - 4 resta al denominatore, quindi x = 4 è una discontinuità infinita.",
-              "jaString": "分母を因数分解します：x² - 4x = x(x - 4)。因子 x は約分されるため、x = 0 は除去可能な不連続です。因子 x - 4 は分母に残るため、x = 4 は無限不連続です。",
-              "koString": "분모를 인수분해하면 x² - 4x = x(x - 4)입니다. x가 약분되므로 x = 0은 제거 가능한 불연속입니다. x - 4는 분모에 남으므로 x = 4는 무한 불연속입니다.",
-              "portugueseBRString": "Fatore o denominador: x² - 4x = x(x - 4). O fator x é cancelado, então x = 0 é uma descontinuidade removível. O fator x - 4 permanece no denominador, então x = 4 é uma descontinuidade infinita.",
-              "spanishString": "Factoriza el denominador: x² - 4x = x(x - 4). El factor x se cancela, así que x = 0 es una discontinuidad removible. El factor x - 4 permanece en el denominador, así que x = 4 es una discontinuidad infinita.",
-              "vnString": "y = (x-1)/(x+3): mẫu x+3 = 0 ⟹ x = -3.\nVậy tiệm cận đứng là x = -3."
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Conclusion: Not continuous at x = 0 (removable discontinuity) and x = 4 (infinite discontinuity)..",
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. النتيجة: غير متصلة عند x = 0 (عدم اتصال قابل للإزالة) وعند x = 4 (عدم اتصال لا نهائي)..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. 結論：在 x = 0 不連續（可去不連續），在 x = 4 不連續（無限不連續）。。",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Conclusion : Non continue en x = 0 (discontinuité amovible) et en x = 4 (discontinuité infinie)..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Ergebnis: Nicht stetig bei x = 0 (hebbare Unstetigkeit) und bei x = 4 (unendliche Unstetigkeit)..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Conclusione: Non continua in x = 0 (discontinuità eliminabile) e in x = 4 (discontinuità infinita)..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. 結論：x = 0 で不連続（除去可能な不連続）、x = 4 で不連続（無限不連続）。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. 결론: x = 0에서 불연속(제거 가능한 불연속), x = 4에서 불연속(무한 불연속)..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Conclusão: Não é contínua em x = 0 (descontinuidade removível) e em x = 4 (descontinuidade infinita)..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 4x = x(x − 4); f(x) = 1/(x − 4) for x ≠ 0, 4.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → 0: f(x) → −1/4; x → 4⁻: f(x) → −∞; x → 4⁺: f(x) → +∞. Conclusión: No es continua en x = 0 (discontinuidad removible) ni en x = 4 (discontinuidad infinita)..",
+              "vnString": "1. Mẫu x + 3 bằng 0 tại x = −3.\n2. Tử số tại x = −3 bằng −4 khác 0, nên không thể khử điểm làm mẫu bằng 0.\n3. Khi x tiến đến −3, trị tuyệt đối của hàm tăng vô hạn. Vậy tiệm cận đứng là x = −3."
             },
             "id": 10,
             "question": {
@@ -289463,17 +289463,17 @@
               "vnString": "(III) "
             },
             "hint": {
-              "arString": "عند x = -2، يعطي الجزء الأيسر -2 + 4 = 2. النهاية اليمنى تعطي -2(-2) - 11 = -7. النهايتان الجانبيتان مختلفتان، لذلك عدم الاتصال قفزي عند x = -2.",
-              "cnTraditionalString": "當 x = -2 時，左段給出 -2 + 4 = 2。右極限給出 -2(-2) - 11 = -7。左右極限不同，所以在 x = -2 是跳躍不連續。",
-              "enString": "At x = -2, the left piece gives -2 + 4 = 2. The right-hand limit gives -2(-2) - 11 = -7. The one-sided limits are different, so the discontinuity is a jump at x = -2.",
-              "frenchString": "En x = -2, la partie de gauche donne -2 + 4 = 2. La limite à droite donne -2(-2) - 11 = -7. Les limites unilatérales sont différentes, donc la discontinuité est un saut en x = -2.",
-              "germanString": "Bei x = -2 ergibt das linke Stück -2 + 4 = 2. Der rechtsseitige Grenzwert ist -2(-2) - 11 = -7. Die einseitigen Grenzwerte sind verschieden, also liegt bei x = -2 eine Sprungunstetigkeit vor.",
-              "italiaString": "In x = -2, il tratto sinistro dà -2 + 4 = 2. Il limite da destra dà -2(-2) - 11 = -7. I limiti laterali sono diversi, quindi la discontinuità è a salto in x = -2.",
-              "jaString": "x = -2 で左側の式は -2 + 4 = 2。右側極限は -2(-2) - 11 = -7。片側極限が異なるので、x = -2 でジャンプ不連続です。",
-              "koString": "x = -2에서 왼쪽 식은 -2 + 4 = 2입니다. 우극한은 -2(-2) - 11 = -7입니다. 좌우 극한이 다르므로 x = -2에서 점프 불연속입니다.",
-              "portugueseBRString": "Em x = -2, a parte da esquerda dá -2 + 4 = 2. O limite pela direita dá -2(-2) - 11 = -7. Os limites laterais são diferentes, então há uma descontinuidade de salto em x = -2.",
-              "spanishString": "En x = -2, la parte izquierda da -2 + 4 = 2. El límite por la derecha da -2(-2) - 11 = -7. Los límites laterales son diferentes, así que hay una discontinuidad de salto en x = -2.",
-              "vnString": "y = -x - 1/(x-1)\ny' = -1 + 1/(x-1)² = -x(x-2)/(x-1)²\ny'=0 tại x=0 (cực đại, y=1) và x=2 (cực tiểu, y=-3).\nMệnh đề (I) đúng một phần, (II) sai. Chỉ (III) đúng hoàn toàn."
+              "arString": "1. كل جزء كثير حدود متصل بعيدًا عن نقطة الوصل. عند الوصل، قارن النهايتين من اليمين واليسار بقيمة الدالة.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. النتيجة: غير متصلة عند x = -2؛ عدم اتصال قفزي..",
+              "cnTraditionalString": "1. 每個多項式分段在接點以外都連續。在接點比較左右極限和函數值。\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. 結論：在 x = -2 不連續；跳躍不連續。。",
+              "enString": "1. Each polynomial piece is continuous away from the joining point. At the join, compare both one-sided limits with the function value.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Conclusion: Not continuous at x = -2; jump discontinuity..",
+              "frenchString": "1. Chaque morceau polynomial est continu hors du raccord. Au raccord, compare les limites à gauche et à droite à la valeur de la fonction.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Conclusion : Non continue en x = -2 ; discontinuité de saut..",
+              "germanString": "1. Jeder polynomiale Teil ist außerhalb der Nahtstelle stetig. Vergleiche dort beide einseitigen Grenzwerte mit dem Funktionswert.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Ergebnis: Nicht stetig bei x = -2; Sprungunstetigkeit..",
+              "italiaString": "1. Ogni tratto polinomiale è continuo lontano dal punto di raccordo. Nel raccordo confronta i limiti laterali con il valore della funzione.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Conclusione: Non continua in x = -2; discontinuità a salto..",
+              "jaString": "1. 各多項式の区間は接続点以外で連続です。接続点で左右の極限と関数値を比べます。\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. 結論：x = -2 で不連続；ジャンプ不連続。。",
+              "koString": "1. 각 다항식 구간은 연결점 밖에서 연속이에요. 연결점에서 좌극한, 우극한과 함숫값을 비교하세요.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. 결론: x = -2에서 불연속; 점프 불연속..",
+              "portugueseBRString": "1. Cada trecho polinomial é contínuo fora da junção. Na junção, compare os limites laterais com o valor da função.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Conclusão: Não é contínua em x = -2; descontinuidade de salto..",
+              "spanishString": "1. Cada tramo polinómico es continuo fuera del punto de unión. En la unión, compara ambos límites laterales con el valor de la función.\n2. f(−2) = lim(x→−2⁻)f(x) = 2; lim(x→−2⁺)f(x) = −2(−2) − 11 = −7; 2 ≠ −7.\n3. Conclusión: No es continua en x = -2; discontinuidad de salto..",
+              "vnString": "1. Tính y′ = −1 + 1/(x − 1)² = −x(x − 2)/(x − 1)², với x ≠ 1.\n2. Dấu y′ lần lượt là âm, dương, dương, âm trên các khoảng chia bởi 0, 1, 2. Vậy x = 0 là cực tiểu với y = 1; x = 2 là cực đại với y = −3.\n3. Mệnh đề (III) đúng. (II) sai; (I) viết chưa chuẩn vì y = −x là tiệm cận xiên, không phải tiệm cận đứng. Chọn (III) theo cách ghi của đề."
             },
             "id": 11,
             "question": {
@@ -289559,17 +289559,17 @@
               "vnString": "Một kết quả khác"
             },
             "hint": {
-              "arString": "حلل المقام: x² + 3x = x(x + 3). البسط x + 7 لا يختصر مع أي عامل، لذلك x = 0 و x = -3 خطا تقارب رأسيان.",
-              "cnTraditionalString": "分解分母：x² + 3x = x(x + 3)。分子 x + 7 不能約去任一因子，所以 x = 0 和 x = -3 是垂直漸近線。",
-              "enString": "Factor the denominator: x² + 3x = x(x + 3). The numerator x + 7 does not cancel either factor, so x = 0 and x = -3 are vertical asymptotes.",
-              "frenchString": "Factorisez le dénominateur : x² + 3x = x(x + 3). Le numérateur x + 7 ne simplifie aucun facteur, donc x = 0 et x = -3 sont des asymptotes verticales.",
-              "germanString": "Faktoriere den Nenner: x² + 3x = x(x + 3). Der Zähler x + 7 kürzt keinen Faktor, daher sind x = 0 und x = -3 vertikale Asymptoten.",
-              "italiaString": "Scomponi il denominatore: x² + 3x = x(x + 3). Il numeratore x + 7 non si semplifica con alcun fattore, quindi x = 0 e x = -3 sono asintoti verticali.",
-              "jaString": "分母を因数分解します：x² + 3x = x(x + 3)。分子 x + 7 はどの因子とも約分できないため、x = 0 と x = -3 は垂直漸近線です。",
-              "koString": "분모를 인수분해하면 x² + 3x = x(x + 3)입니다. 분자 x + 7은 어떤 인수와도 약분되지 않으므로 x = 0과 x = -3은 수직 점근선입니다.",
-              "portugueseBRString": "Fatore o denominador: x² + 3x = x(x + 3). O numerador x + 7 não cancela nenhum fator, então x = 0 e x = -3 são assíntotas verticais.",
-              "spanishString": "Factoriza el denominador: x² + 3x = x(x + 3). El numerador x + 7 no cancela ningún factor, así que x = 0 y x = -3 son asíntotas verticales.",
-              "vnString": "y = (mx²-2)/((x-1)(x-2))\nHai tiệm cận đứng khi tử ≠ 0 tại x=1 và x=2:\n- x=1: m-2 ≠ 0 ⟹ m ≠ 2\n- x=2: 4m-2 ≠ 0 ⟹ m ≠ 1/2\nĐiều kiện: m ≠ 2 và m ≠ 1/2."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x = −3, 0. النتيجة: غير متصلة عند x = -3 و x = 0؛ كلاهما عدم اتصال لا نهائي..",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x = −3, 0. 結論：在 x = -3 和 x = 0 不連續；兩者都是無限不連續。。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x = −3, 0. Conclusion: Not continuous at x = -3 and x = 0; both are infinite discontinuities..",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x = −3, 0. Conclusion : Non continue en x = -3 et en x = 0 ; les deux sont des discontinuités infinies..",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x = −3, 0. Ergebnis: Nicht stetig bei x = -3 und x = 0; beide sind unendliche Unstetigkeiten..",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x = −3, 0. Conclusione: Non continua in x = -3 e x = 0; entrambe sono discontinuità infinite..",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x = −3, 0. 結論：x = -3 と x = 0 で不連続。どちらも無限不連続。。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x = −3, 0. 결론: x = -3과 x = 0에서 불연속이며 둘 다 무한 불연속입니다..",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x = −3, 0. Conclusão: Não é contínua em x = -3 e em x = 0; ambas são descontinuidades infinitas..",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² + 3x = x(x + 3); x = 0: x + 7 = 7 ≠ 0; x = −3: x + 7 = 4 ≠ 0.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x = −3, 0. Conclusión: No es continua en x = -3 y en x = 0; ambas son discontinuidades infinitas..",
+              "vnString": "1. Đọc xpqrt là x³: y = (mx³ − 2)/((x − 1)(x − 2)). Các điểm có thể là tiệm cận đứng là 1 và 2.\n2. Để cả hai là tiệm cận đứng, tử phải khác 0 tại mỗi điểm: m − 2 ≠ 0 và 8m − 2 ≠ 0.\n3. Vậy m ≠ 2 và m ≠ 1/4. Đối chiếu các lựa chọn và chọn Một kết quả khác."
             },
             "id": 12,
             "question": {
@@ -289655,17 +289655,17 @@
               "vnString": "(0;0)"
             },
             "hint": {
-              "arString": "عندما x ≠ 4، تساوي الدالة x وهي متصلة. عند x = 4، النهاية تساوي 4 لكن f(4) = 2، لذلك الدالة غير متصلة عند x = 4.",
-              "cnTraditionalString": "當 x ≠ 4 時，函數等於 x 且連續。當 x = 4 時，極限為 4，但 f(4) = 2，所以函數在 x = 4 不連續。",
-              "enString": "For x ≠ 4, the function equals x and is continuous. At x = 4, the limit is 4 but f(4) = 2, so the function is not continuous at x = 4.",
-              "frenchString": "Pour x ≠ 4, la fonction vaut x et elle est continue. En x = 4, la limite vaut 4 mais f(4) = 2, donc la fonction n’est pas continue en x = 4.",
-              "germanString": "Für x ≠ 4 gilt f(x) = x und die Funktion ist stetig. Bei x = 4 ist der Grenzwert 4, aber f(4) = 2, also ist die Funktion dort nicht stetig.",
-              "italiaString": "Per x ≠ 4, la funzione è x ed è continua. In x = 4, il limite è 4 ma f(4) = 2, quindi la funzione non è continua in x = 4.",
-              "jaString": "x ≠ 4 では関数は x に等しく連続です。x = 4 では極限は 4 ですが f(4) = 2 なので、x = 4 で連続ではありません。",
-              "koString": "x ≠ 4일 때 함수는 x와 같고 연속입니다. x = 4에서 극한은 4이지만 f(4) = 2이므로 x = 4에서 연속이 아닙니다.",
-              "portugueseBRString": "Para x ≠ 4, a função é igual a x e é contínua. Em x = 4, o limite é 4, mas f(4) = 2, então a função não é contínua em x = 4.",
-              "spanishString": "Para x ≠ 4, la función es igual a x y es continua. En x = 4, el límite es 4 pero f(4) = 2, así que la función no es continua en x = 4.",
-              "vnString": "Hàm cắt trục tung khi x = 0.\ny(0) = -(0)³ + 9(0) = 0.\nVậy cắt trục tung tại (0;0)."
+              "arString": "1. كل جزء كثير حدود متصل بعيدًا عن نقطة الوصل. عند الوصل، قارن النهايتين من اليمين واليسار بقيمة الدالة.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 4) و (4, ∞).",
+              "cnTraditionalString": "1. 每個多項式分段在接點以外都連續。在接點比較左右極限和函數值。\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 4) 和 (4, ∞)。",
+              "enString": "1. Each polynomial piece is continuous away from the joining point. At the join, compare both one-sided limits with the function value.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 4) and (4, ∞).",
+              "frenchString": "1. Chaque morceau polynomial est continu hors du raccord. Au raccord, compare les limites à gauche et à droite à la valeur de la fonction.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 4) et (4, ∞).",
+              "germanString": "1. Jeder polynomiale Teil ist außerhalb der Nahtstelle stetig. Vergleiche dort beide einseitigen Grenzwerte mit dem Funktionswert.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 4) und (4, ∞).",
+              "italiaString": "1. Ogni tratto polinomiale è continuo lontano dal punto di raccordo. Nel raccordo confronta i limiti laterali con il valore della funzione.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 4) e (4, ∞).",
+              "jaString": "1. 各多項式の区間は接続点以外で連続です。接続点で左右の極限と関数値を比べます。\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 4) と (4, ∞)。",
+              "koString": "1. 각 다항식 구간은 연결점 밖에서 연속이에요. 연결점에서 좌극한, 우극한과 함숫값을 비교하세요.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 4) 및 (4, ∞).",
+              "portugueseBRString": "1. Cada trecho polinomial é contínuo fora da junção. Na junção, compare os limites laterais com o valor da função.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 4) e (4, ∞).",
+              "spanishString": "1. Cada tramo polinómico es continuo fuera del punto de unión. En la unión, compara ambos límites laterales con el valor de la función.\n2. lim(x→4)f(x) = 4 ≠ f(4) = 2.\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 4) y (4, ∞).",
+              "vnString": "1. Điểm trên trục tung có hoành độ x = 0.\n2. Thay vào y = −x³ + 9x: y(0) = −0³ + 9 × 0 = 0.\n3. Vậy đồ thị cắt trục tung tại (0; 0)."
             },
             "id": 13,
             "question": {
@@ -289751,17 +289751,17 @@
               "vnString": "Có đồ thị đối xứng qua trục tung "
             },
             "hint": {
-              "arString": "كل جزء متصل على فترته. عند x = 3، النهاية اليسرى هي -2، بينما النهاية اليمنى وقيمة الدالة هما -2(3) + 6 = 0. بما أن القيم مختلفة، يجب استبعاد x = 3.",
-              "cnTraditionalString": "每一段在自己的區間上連續。當 x = 3 時，左極限為 -2，而右極限與函數值為 -2(3) + 6 = 0。因為不同，所以必須排除 x = 3。",
-              "enString": "Each piece is continuous on its own interval. At x = 3, the left-hand limit is -2, while the right-hand limit and value are -2(3) + 6 = 0. Since these differ, x = 3 must be excluded.",
-              "frenchString": "Chaque partie est continue sur son propre intervalle. En x = 3, la limite à gauche vaut -2, tandis que la limite à droite et la valeur sont -2(3) + 6 = 0. Comme elles diffèrent, x = 3 doit être exclu.",
-              "germanString": "Jedes Stück ist auf seinem eigenen Intervall stetig. Bei x = 3 ist der linksseitige Grenzwert -2, während rechtsseitiger Grenzwert und Funktionswert -2(3) + 6 = 0 sind. Da sie verschieden sind, muss x = 3 ausgeschlossen werden.",
-              "italiaString": "Ogni tratto è continuo sul proprio intervallo. In x = 3, il limite da sinistra è -2, mentre il limite da destra e il valore sono -2(3) + 6 = 0. Poiché sono diversi, x = 3 va escluso.",
-              "jaString": "各部分はそれぞれの区間で連続です。x = 3 で左側極限は -2、右側極限と関数値は -2(3) + 6 = 0。異なるため、x = 3 は除外します。",
-              "koString": "각 조각은 자기 구간에서 연속입니다. x = 3에서 좌극한은 -2이고, 우극한과 함수값은 -2(3) + 6 = 0입니다. 서로 다르므로 x = 3은 제외해야 합니다.",
-              "portugueseBRString": "Cada parte é contínua em seu próprio intervalo. Em x = 3, o limite pela esquerda é -2, enquanto o limite pela direita e o valor são -2(3) + 6 = 0. Como são diferentes, x = 3 deve ser excluído.",
-              "spanishString": "Cada parte es continua en su propio intervalo. En x = 3, el límite por la izquierda es -2, mientras que el límite por la derecha y el valor son -2(3) + 6 = 0. Como son distintos, x = 3 debe excluirse.",
-              "vnString": "y = ax⁴ + bx² + c (a≠0)\nVì f(-x) = a(-x)⁴ + b(-x)² + c = f(x).\nĐồ thị đối xứng qua trục tung Oy."
+              "arString": "1. كل جزء كثير حدود متصل بعيدًا عن نقطة الوصل. عند الوصل، قارن النهايتين من اليمين واليسار بقيمة الدالة.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 3) و (3, ∞).",
+              "cnTraditionalString": "1. 每個多項式分段在接點以外都連續。在接點比較左右極限和函數值。\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 3) 和 (3, ∞)。",
+              "enString": "1. Each polynomial piece is continuous away from the joining point. At the join, compare both one-sided limits with the function value.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 3) and (3, ∞).",
+              "frenchString": "1. Chaque morceau polynomial est continu hors du raccord. Au raccord, compare les limites à gauche et à droite à la valeur de la fonction.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 3) et (3, ∞).",
+              "germanString": "1. Jeder polynomiale Teil ist außerhalb der Nahtstelle stetig. Vergleiche dort beide einseitigen Grenzwerte mit dem Funktionswert.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 3) und (3, ∞).",
+              "italiaString": "1. Ogni tratto polinomiale è continuo lontano dal punto di raccordo. Nel raccordo confronta i limiti laterali con il valore della funzione.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 3) e (3, ∞).",
+              "jaString": "1. 各多項式の区間は接続点以外で連続です。接続点で左右の極限と関数値を比べます。\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 3) と (3, ∞)。",
+              "koString": "1. 각 다항식 구간은 연결점 밖에서 연속이에요. 연결점에서 좌극한, 우극한과 함숫값을 비교하세요.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 3) 및 (3, ∞).",
+              "portugueseBRString": "1. Cada trecho polinomial é contínuo fora da junção. Na junção, compare os limites laterais com o valor da função.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 3) e (3, ∞).",
+              "spanishString": "1. Cada tramo polinómico es continuo fuera del punto de unión. En la unión, compara ambos límites laterales con el valor de la función.\n2. lim(x→3⁻)f(x) = −2; lim(x→3⁺)f(x) = f(3) = 0.\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 3) y (3, ∞).",
+              "vnString": "1. Đặt f(x) = ax⁴ + bx² + c. Tập xác định là ℝ, đối xứng qua 0.\n2. Tính f(−x) = a(−x)⁴ + b(−x)² + c = ax⁴ + bx² + c = f(x).\n3. Hàm số chẵn nên đồ thị đối xứng qua trục tung."
             },
             "id": 14,
             "question": {
@@ -289847,17 +289847,17 @@
               "vnString": "0 < m < 2"
             },
             "hint": {
-              "arString": "حلل المقام: x² - 4x + 3 = (x - 1)(x - 3). الدالة الكسرية الأصلية غير معرفة عند x = 1 و x = 3، لذلك تقسم هاتان النقطتان خط الأعداد إلى فترات اتصال.",
-              "cnTraditionalString": "分解分母：x² - 4x + 3 = (x - 1)(x - 3)。原有理函數在 x = 1 和 x = 3 未定義，因此這兩點將實數線分成連續區間。",
-              "enString": "Factor the denominator: x² - 4x + 3 = (x - 1)(x - 3). The original rational function is undefined at x = 1 and x = 3, so those points split the real line into continuity intervals.",
-              "frenchString": "Factorisez le dénominateur : x² - 4x + 3 = (x - 1)(x - 3). La fonction rationnelle originale n’est pas définie en x = 1 et x = 3, donc ces points divisent la droite réelle en intervalles de continuité.",
-              "germanString": "Faktoriere den Nenner: x² - 4x + 3 = (x - 1)(x - 3). Die ursprüngliche rationale Funktion ist bei x = 1 und x = 3 nicht definiert, daher teilen diese Punkte die reelle Achse in Stetigkeitsintervalle.",
-              "italiaString": "Scomponi il denominatore: x² - 4x + 3 = (x - 1)(x - 3). La funzione razionale originale non è definita in x = 1 e x = 3, quindi questi punti dividono la retta reale in intervalli di continuità.",
-              "jaString": "分母を因数分解します：x² - 4x + 3 = (x - 1)(x - 3)。元の有理関数は x = 1 と x = 3 で定義されないため、この2点で実数直線が連続区間に分かれます。",
-              "koString": "분모를 인수분해하면 x² - 4x + 3 = (x - 1)(x - 3)입니다. 원래 유리함수는 x = 1과 x = 3에서 정의되지 않으므로, 이 점들이 실수선을 연속 구간으로 나눕니다.",
-              "portugueseBRString": "Fatore o denominador: x² - 4x + 3 = (x - 1)(x - 3). A função racional original não está definida em x = 1 e x = 3, então esses pontos dividem a reta real em intervalos de continuidade.",
-              "spanishString": "Factoriza el denominador: x² - 4x + 3 = (x - 1)(x - 3). La función racional original no está definida en x = 1 ni en x = 3, así que esos puntos dividen la recta real en intervalos de continuidad.",
-              "vnString": "y = x³ - 3x + 2\ny' = 3(x-1)(x+1)\nCực đại y(-1)=4, cực tiểu y(1)=0.\ny=m cắt 3 điểm phân biệt khi: 0 < m < 4.\nTheo bài: 0 < m < 2."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 1)، (1, 3)، و (3, ∞).",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 1)、(1, 3) 和 (3, ∞)。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 1), (1, 3), and (3, ∞).",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 1), (1, 3) et (3, ∞).",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 1), (1, 3) und (3, ∞).",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 1), (1, 3) e (3, ∞).",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 1)、(1, 3)、(3, ∞)。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 1), (1, 3) 및 (3, ∞).",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 1), (1, 3) e (3, ∞).",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 4x + 3 = (x − 1)(x − 3); x ≠ 1, 3.\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 1), (1, 3) y (3, ∞).",
+              "vnString": "1. Với y = x³ − 3x + 2, y′ = 3(x − 1)(x + 1). Cực đại tại x = −1 có y = 4, cực tiểu tại x = 1 có y = 0.\n2. Đường thẳng ngang y = m cắt đồ thị tại 3 điểm phân biệt khi nằm giữa hai mức cực trị: 0 < m < 4.\n3. Vậy điều kiện đúng là 0 < m < 4. Đáp án đang lưu 0 < m < 2 không khớp hàm số đã cho."
             },
             "id": 15,
             "question": {
@@ -289949,17 +289949,17 @@
               "vnString": "3"
             },
             "hint": {
-              "arString": "هذا تعبير كثير حدود. كثيرات الحدود متصلة لكل قيمة حقيقية لـ x.",
-              "cnTraditionalString": "這是多項式。多項式對每個實數 x 都連續。",
-              "enString": "This is a polynomial expression. Polynomials are continuous for every real value of x.",
-              "frenchString": "C’est une expression polynomiale. Les polynômes sont continus pour toute valeur réelle de x.",
-              "germanString": "Dies ist ein Polynom. Polynome sind für jeden reellen Wert von x stetig.",
-              "italiaString": "Questa è un’espressione polinomiale. I polinomi sono continui per ogni valore reale di x.",
-              "jaString": "これは多項式です。多項式はすべての実数 x で連続です。",
-              "koString": "이것은 다항식입니다. 다항식은 모든 실수 x에서 연속입니다.",
-              "portugueseBRString": "Esta é uma expressão polinomial. Polinômios são contínuos para todo valor real de x.",
-              "spanishString": "Esta es una expresión polinómica. Los polinomios son continuos para todo valor real de x.",
-              "vnString": "y = √(5-4x) nghịch biến trên [-1;1].\nMax tại x=-1: y(-1) = √(5+4) = √9 = 3."
+              "arString": "1. كثيرة الحدود متصلة عند كل عدد حقيقي.\n2. f(x) = (1/2)x² + 4x + 10.\n3. لا يوجد مقام قد يساوي صفرًا ولا جذر أو لوغاريتم يقيّد المجال. المجال هو جميع الأعداد الحقيقية.  النتيجة: جميع الأعداد الحقيقية.",
+              "cnTraditionalString": "1. 多項式函數在所有實數處都連續。\n2. f(x) = (1/2)x² + 4x + 10.\n3. 沒有可能為 0 的分母，也沒有根式或對數限制定義域，因此定義域為所有實數。  結論：所有實數。",
+              "enString": "1. A polynomial is continuous at every real number.\n2. f(x) = (1/2)x² + 4x + 10.\n3. There is no denominator that can vanish and no radical or logarithm restricting the domain. The domain is all real numbers.  Conclusion: All real numbers.",
+              "frenchString": "1. Une fonction polynomiale est continue en tout réel.\n2. f(x) = (1/2)x² + 4x + 10.\n3. Aucun dénominateur ne peut s’annuler et aucune racine ni logarithme ne restreint le domaine : il est égal à ℝ.  Conclusion : Tous les nombres réels.",
+              "germanString": "1. Ein Polynom ist an jeder reellen Stelle stetig.\n2. f(x) = (1/2)x² + 4x + 10.\n3. Es gibt keinen Nenner, der null werden kann, und keine Wurzel oder Logarithmusbedingung. Der Definitionsbereich ist ℝ.  Ergebnis: Alle reellen Zahlen.",
+              "italiaString": "1. Una funzione polinomiale è continua per ogni numero reale.\n2. f(x) = (1/2)x² + 4x + 10.\n3. Non ci sono denominatori che si annullano né radici o logaritmi che limitano il dominio: il dominio è ℝ.  Conclusione: Tutti i numeri reali.",
+              "jaString": "1. 多項式関数はすべての実数で連続です。\n2. f(x) = (1/2)x² + 4x + 10.\n3. 分母が 0 になる条件や根号・対数による制限がないため、定義域はすべての実数です。  結論：すべての実数。",
+              "koString": "1. 다항함수는 모든 실수에서 연속이에요.\n2. f(x) = (1/2)x² + 4x + 10.\n3. 0이 될 수 있는 분모나 근호, 로그의 제한이 없으므로 정의역은 모든 실수예요.  결론: 모든 실수.",
+              "portugueseBRString": "1. Uma função polinomial é contínua em todos os números reais.\n2. f(x) = (1/2)x² + 4x + 10.\n3. Não há denominador que possa zerar nem raiz ou logaritmo restringindo o domínio; o domínio é ℝ.  Conclusão: Todos os números reais.",
+              "spanishString": "1. Una función polinómica es continua en todos los números reales.\n2. f(x) = (1/2)x² + 4x + 10.\n3. No hay denominadores que se anulen ni raíces o logaritmos que restrinjan el dominio; el dominio es ℝ.  Conclusión: Todos los números reales.",
+              "vnString": "1. Trên [−1; 1], biểu thức dưới căn 5 − 4x ≥ 1 > 0.\n2. Tính y′ = −2/√(5 − 4x) < 0 nên hàm nghịch biến trên đoạn.\n3. Giá trị lớn nhất tại x = −1: y = √9 = 3."
             },
             "id": 16,
             "question": {
@@ -290045,17 +290045,17 @@
               "vnString": "8/3 "
             },
             "hint": {
-              "arString": "هذا أيضًا تعبير كثير حدود. لا يوجد مقام أو قيد جذري، لذلك هو متصل على خط الأعداد الحقيقي كله.",
-              "cnTraditionalString": "這也是多項式。沒有分母或根式限制，所以在整條實數線上連續。",
-              "enString": "This is also a polynomial expression. It has no denominator or radical restriction, so it is continuous on the entire real line.",
-              "frenchString": "C’est aussi une expression polynomiale. Il n’y a ni dénominateur ni restriction de racine, donc elle est continue sur toute la droite réelle.",
-              "germanString": "Auch dies ist ein Polynom. Es gibt keinen Nenner und keine Wurzelbedingung, also ist es auf der ganzen reellen Achse stetig.",
-              "italiaString": "Anche questa è un’espressione polinomiale. Non ci sono denominatori o restrizioni radicali, quindi è continua su tutta la retta reale.",
-              "jaString": "これも多項式です。分母や根号による制限がないため、実数全体で連続です。",
-              "koString": "이것도 다항식입니다. 분모나 근호 제한이 없으므로 전체 실수선에서 연속입니다.",
-              "portugueseBRString": "Esta também é uma expressão polinomial. Não há denominador nem restrição de raiz, então ela é contínua em toda a reta real.",
-              "spanishString": "Esta también es una expresión polinómica. No hay denominador ni restricción de raíz, así que es continua en toda la recta real.",
-              "vnString": "y = x - 1/x trên (0;3]\ny'(x) = 1 + 1/x² > 0 ⟹ đồng biến.\nMax tại x=3: y(3) = 3 - 1/3 = 8/3."
+              "arString": "1. كثيرة الحدود متصلة عند كل عدد حقيقي.\n2. f(x) = −x² − 4x + 2.\n3. لا يوجد مقام قد يساوي صفرًا ولا جذر أو لوغاريتم يقيّد المجال. المجال هو جميع الأعداد الحقيقية.  النتيجة: جميع الأعداد الحقيقية.",
+              "cnTraditionalString": "1. 多項式函數在所有實數處都連續。\n2. f(x) = −x² − 4x + 2.\n3. 沒有可能為 0 的分母，也沒有根式或對數限制定義域，因此定義域為所有實數。  結論：所有實數。",
+              "enString": "1. A polynomial is continuous at every real number.\n2. f(x) = −x² − 4x + 2.\n3. There is no denominator that can vanish and no radical or logarithm restricting the domain. The domain is all real numbers.  Conclusion: All real numbers.",
+              "frenchString": "1. Une fonction polynomiale est continue en tout réel.\n2. f(x) = −x² − 4x + 2.\n3. Aucun dénominateur ne peut s’annuler et aucune racine ni logarithme ne restreint le domaine : il est égal à ℝ.  Conclusion : Tous les nombres réels.",
+              "germanString": "1. Ein Polynom ist an jeder reellen Stelle stetig.\n2. f(x) = −x² − 4x + 2.\n3. Es gibt keinen Nenner, der null werden kann, und keine Wurzel oder Logarithmusbedingung. Der Definitionsbereich ist ℝ.  Ergebnis: Alle reellen Zahlen.",
+              "italiaString": "1. Una funzione polinomiale è continua per ogni numero reale.\n2. f(x) = −x² − 4x + 2.\n3. Non ci sono denominatori che si annullano né radici o logaritmi che limitano il dominio: il dominio è ℝ.  Conclusione: Tutti i numeri reali.",
+              "jaString": "1. 多項式関数はすべての実数で連続です。\n2. f(x) = −x² − 4x + 2.\n3. 分母が 0 になる条件や根号・対数による制限がないため、定義域はすべての実数です。  結論：すべての実数。",
+              "koString": "1. 다항함수는 모든 실수에서 연속이에요.\n2. f(x) = −x² − 4x + 2.\n3. 0이 될 수 있는 분모나 근호, 로그의 제한이 없으므로 정의역은 모든 실수예요.  결론: 모든 실수.",
+              "portugueseBRString": "1. Uma função polinomial é contínua em todos os números reais.\n2. f(x) = −x² − 4x + 2.\n3. Não há denominador que possa zerar nem raiz ou logaritmo restringindo o domínio; o domínio é ℝ.  Conclusão: Todos os números reais.",
+              "spanishString": "1. Una función polinómica es continua en todos los números reales.\n2. f(x) = −x² − 4x + 2.\n3. No hay denominadores que se anulen ni raíces o logaritmos que restrinjan el dominio; el dominio es ℝ.  Conclusión: Todos los números reales.",
+              "vnString": "1. Trên (0; 3], tính y′ = 1 + 1/x² > 0.\n2. Hàm đồng biến nên mọi giá trị đều không vượt quá giá trị tại đầu phải x = 3.\n3. Giá trị lớn nhất là y(3) = 3 − 1/3 = 8/3."
             },
             "id": 17,
             "question": {
@@ -290141,17 +290141,17 @@
               "vnString": "23/27"
             },
             "hint": {
-              "arString": "حلل المقام: x² - 3x + 2 = (x - 1)(x - 2). الدالة الأصلية غير معرفة عند x = 1 و x = 2، لذلك تنقسم فترات الاتصال حول هاتين النقطتين.",
-              "cnTraditionalString": "分解分母：x² - 3x + 2 = (x - 1)(x - 2)。原函數在 x = 1 和 x = 2 未定義，因此連續區間被這兩點分開。",
-              "enString": "Factor the denominator: x² - 3x + 2 = (x - 1)(x - 2). The original function is undefined at x = 1 and x = 2, so continuity is split around those points.",
-              "frenchString": "Factorisez le dénominateur : x² - 3x + 2 = (x - 1)(x - 2). La fonction originale n’est pas définie en x = 1 et x = 2, donc les intervalles de continuité sont séparés par ces points.",
-              "germanString": "Faktoriere den Nenner: x² - 3x + 2 = (x - 1)(x - 2). Die ursprüngliche Funktion ist bei x = 1 und x = 2 nicht definiert, daher werden die Stetigkeitsintervalle durch diese Punkte getrennt.",
-              "italiaString": "Scomponi il denominatore: x² - 3x + 2 = (x - 1)(x - 2). La funzione originale non è definita in x = 1 e x = 2, quindi gli intervalli di continuità sono separati da questi punti.",
-              "jaString": "分母を因数分解します：x² - 3x + 2 = (x - 1)(x - 2)。元の関数は x = 1 と x = 2 で定義されないため、連続区間はその点で分かれます。",
-              "koString": "분모를 인수분해하면 x² - 3x + 2 = (x - 1)(x - 2)입니다. 원래 함수는 x = 1과 x = 2에서 정의되지 않으므로 연속 구간은 이 점들을 기준으로 나뉩니다.",
-              "portugueseBRString": "Fatore o denominador: x² - 3x + 2 = (x - 1)(x - 2). A função original não está definida em x = 1 e x = 2, então os intervalos de continuidade são separados por esses pontos.",
-              "spanishString": "Factoriza el denominador: x² - 3x + 2 = (x - 1)(x - 2). La función original no está definida en x = 1 ni en x = 2, así que los intervalos de continuidad se separan en esos puntos.",
-              "vnString": "y = sin²x - cos2x + sinx + 2\nDùng cos2x = 1-2sin²x:\ny = 3sin²x + sinx + 1\nĐặt t = sinx ∈ [-1;1], g(t) = 3t²+t+1.\ng'(t)=0 ⟹ t=-1/6 ⟹ g(-1/6)=11/12.\nMin ≈ 23/27 (theo đáp án đề bài)."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 1)، (1, 2)، و (2, ∞).",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 1)、(1, 2) 和 (2, ∞)。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 1), (1, 2), and (2, ∞).",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 1), (1, 2) et (2, ∞).",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 1), (1, 2) und (2, ∞).",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 1), (1, 2) e (2, ∞).",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 1)、(1, 2)、(2, ∞)。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 1), (1, 2) 및 (2, ∞).",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 1), (1, 2) e (2, ∞).",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 3x + 2 = (x − 1)(x − 2); x ≠ 1, 2; f(x) = −1/(x − 1).\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 1), (1, 2) y (2, ∞).",
+              "vnString": "1. Đọc sinpqrtx là sin³x. Đặt t = sinx ∈ [−1; 1], dùng cos2x = 1 − 2sin²x được g(t) = t³ + 2t² + t + 1.\n2. Tính g′(t) = 3t² + 4t + 1 = (3t + 1)(t + 1). Trên [−1; 1], hàm giảm đến t = −1/3 rồi tăng.\n3. So sánh g(−1) = 1, g(−1/3) = 23/27, g(1) = 5. Giá trị nhỏ nhất là 23/27."
             },
             "id": 18,
             "question": {
@@ -290237,17 +290237,17 @@
               "vnString": "9asqrt|b|"
             },
             "hint": {
-              "arString": "حلل المقام: x² - x = x(x - 1). الدالة الأصلية غير معرفة عند x = 0 و x = 1، حتى لو أمكن اختصار x - 1 بعد التحليل.",
-              "cnTraditionalString": "分解分母：x² - x = x(x - 1)。原函數在 x = 0 和 x = 1 未定義，即使因式分解後 x - 1 可以約去。",
-              "enString": "Factor the denominator: x² - x = x(x - 1). The original function is undefined at x = 0 and x = 1, even though x - 1 can cancel after factoring.",
-              "frenchString": "Factorisez le dénominateur : x² - x = x(x - 1). La fonction originale n’est pas définie en x = 0 et x = 1, même si x - 1 peut se simplifier après factorisation.",
-              "germanString": "Faktoriere den Nenner: x² - x = x(x - 1). Die ursprüngliche Funktion ist bei x = 0 und x = 1 nicht definiert, auch wenn x - 1 nach dem Faktorisieren gekürzt werden kann.",
-              "italiaString": "Scomponi il denominatore: x² - x = x(x - 1). La funzione originale non è definita in x = 0 e x = 1, anche se x - 1 può essere semplificato dopo la scomposizione.",
-              "jaString": "分母を因数分解します：x² - x = x(x - 1)。因数分解後に x - 1 を約分できても、元の関数は x = 0 と x = 1 で定義されません。",
-              "koString": "분모를 인수분해하면 x² - x = x(x - 1)입니다. 인수분해 후 x - 1을 약분할 수 있어도 원래 함수는 x = 0과 x = 1에서 정의되지 않습니다.",
-              "portugueseBRString": "Fatore o denominador: x² - x = x(x - 1). A função original não está definida em x = 0 e x = 1, mesmo que x - 1 possa ser cancelado após a fatoração.",
-              "spanishString": "Factoriza el denominador: x² - x = x(x - 1). La función original no está definida en x = 0 ni en x = 1, aunque x - 1 pueda cancelarse después de factorizar.",
-              "vnString": "√(81a⁴b²) = √81 · √(a⁴) · √(b²) = 9 · a² · |b| = 9a²|b|."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 0)، (0, 1)، و (1, ∞).",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 0)、(0, 1) 和 (1, ∞)。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 0), (0, 1), and (1, ∞).",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 0), (0, 1) et (1, ∞).",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 0), (0, 1) und (1, ∞).",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 0), (0, 1) e (1, ∞).",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 0)、(0, 1)、(1, ∞)。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 0), (0, 1) 및 (1, ∞).",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 0), (0, 1) e (1, ∞).",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − x = x(x − 1); x ≠ 0, 1; f(x) = −1/x.\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 0), (0, 1) y (1, ∞).",
+              "vnString": "1. Tách căn: √(81a⁴b²) = √81 × √(a⁴) × √(b²).\n2. Tính √81 = 9, √(a⁴) = a² vì a² ≥ 0, và √(b²) = |b|.\n3. Vậy biểu thức bằng 9a²|b|."
             },
             "id": 19,
             "question": {
@@ -290333,17 +290333,17 @@
               "vnString": "log<a>b . log<a>c = log<a>(b+c)"
             },
             "hint": {
-              "arString": "حلل المقام: x² - 6x + 9 = (x - 3)². بما أن المقام يساوي صفرًا عند x = 3 ولا يوجد ما يختصر مع x، فالدالة متصلة في كل مكان ما عدا x = 3.",
-              "cnTraditionalString": "分解分母：x² - 6x + 9 = (x - 3)²。因為 x = 3 時分母為 0，且沒有因子可與 x 約去，所以函數除 x = 3 外皆連續。",
-              "enString": "Factor the denominator: x² - 6x + 9 = (x - 3)². Since the denominator is zero at x = 3 and nothing cancels with x, the function is continuous everywhere except x = 3.",
-              "frenchString": "Factorisez le dénominateur : x² - 6x + 9 = (x - 3)². Comme le dénominateur est nul en x = 3 et que rien ne se simplifie avec x, la fonction est continue partout sauf en x = 3.",
-              "germanString": "Faktoriere den Nenner: x² - 6x + 9 = (x - 3)². Da der Nenner bei x = 3 null ist und sich nichts mit x kürzt, ist die Funktion überall außer bei x = 3 stetig.",
-              "italiaString": "Scomponi il denominatore: x² - 6x + 9 = (x - 3)². Poiché il denominatore è zero in x = 3 e nulla si semplifica con x, la funzione è continua ovunque tranne in x = 3.",
-              "jaString": "分母を因数分解します：x² - 6x + 9 = (x - 3)²。x = 3 で分母が 0 になり、x と約分できるものがないため、関数は x = 3 を除いて連続です。",
-              "koString": "분모를 인수분해하면 x² - 6x + 9 = (x - 3)²입니다. x = 3에서 분모가 0이고 x와 약분되는 것이 없으므로 함수는 x = 3을 제외하고 연속입니다.",
-              "portugueseBRString": "Fatore o denominador: x² - 6x + 9 = (x - 3)². Como o denominador é zero em x = 3 e nada cancela com x, a função é contínua em todos os pontos exceto x = 3.",
-              "spanishString": "Factoriza el denominador: x² - 6x + 9 = (x - 3)². Como el denominador es cero en x = 3 y nada se cancela con x, la función es continua en todos los puntos excepto x = 3.",
-              "vnString": "Tính chất đúng: log_a(bc) = log_a(b)+log_a(c) ✓\nKhẳng định SAI: log_a(b)·log_a(c) ≠ log_a(b+c)."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. استبعد كل نقطة خارج المجال الأصلي أو تفشل عندها الاستمرارية. الفترات المتصلة المتبقية هي فترات الاتصال.  النتيجة: (-∞, 3) و (3, ∞).",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. 排除原定義域之外及不連續的點，其餘相連的區間就是連續區間。  結論：(-∞, 3) 和 (3, ∞)。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Exclude every point outside the original domain or where continuity fails. The remaining connected intervals are intervals of continuity.  Conclusion: (-∞, 3) and (3, ∞).",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Exclus tous les points hors du domaine initial ou où la continuité échoue. Les intervalles connexes restants sont les intervalles de continuité.  Conclusion : (-∞, 3) et (3, ∞).",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Schließe alle Stellen außerhalb des ursprünglichen Definitionsbereichs oder mit Unstetigkeit aus. Die verbleibenden zusammenhängenden Intervalle sind Stetigkeitsintervalle.  Ergebnis: (-∞, 3) und (3, ∞).",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Escludi i punti fuori dal dominio originale o in cui manca la continuità. Gli intervalli connessi restanti sono gli intervalli di continuità.  Conclusione: (-∞, 3) e (3, ∞).",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. 元の定義域にない点や不連続な点を除きます。残るつながった区間が連続な区間です。  結論：(-∞, 3) と (3, ∞)。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. 원래 정의역에 없거나 연속이 아닌 점을 제외하세요. 남은 연결된 구간이 연속 구간이에요.  결론: (-∞, 3) 및 (3, ∞).",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Exclua os pontos fora do domínio original ou onde a continuidade falha. Os intervalos conexos restantes são os intervalos de continuidade.  Conclusão: (-∞, 3) e (3, ∞).",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 6x + 9 = (x − 3)²; x ≠ 3.\n3. Excluye los puntos fuera del dominio original o donde falla la continuidad. Los intervalos conexos restantes son los intervalos de continuidad.  Conclusión: (-∞, 3) y (3, ∞).",
+              "vnString": "1. Tính chất đúng của logarit là logₐ(bc) = logₐb + logₐc.\n2. Không có quy tắc tổng quát logₐb × logₐc = logₐ(b + c). Lấy a = 2, b = c = 1: vế trái bằng 0, vế phải bằng 1.\n3. Vậy khẳng định logₐb × logₐc = logₐ(b + c) là sai."
             },
             "id": 20,
             "question": {
@@ -290435,17 +290435,17 @@
               "vnString": "4a"
             },
             "hint": {
-              "arString": "يحدث عدم الاتصال اللانهائي عندما يساوي المقام صفرًا ولا يختصر العامل. مثال بسيط هو f(x) = 1/(x - 100).",
-              "cnTraditionalString": "當分母為 0 且因子不能約去時，會出現無限不連續。一個簡單例子是 f(x) = 1/(x - 100)。",
-              "enString": "An infinite discontinuity occurs when the denominator is zero and the factor does not cancel. A simple example is f(x) = 1/(x - 100).",
-              "frenchString": "Une discontinuité infinie se produit quand le dénominateur est nul et que le facteur ne se simplifie pas. Un exemple simple est f(x) = 1/(x - 100).",
-              "germanString": "Eine unendliche Unstetigkeit entsteht, wenn der Nenner null wird und der Faktor sich nicht kürzt. Ein einfaches Beispiel ist f(x) = 1/(x - 100).",
-              "italiaString": "Una discontinuità infinita si verifica quando il denominatore è zero e il fattore non si semplifica. Un esempio semplice è f(x) = 1/(x - 100).",
-              "jaString": "分母が 0 になり、その因子が約分されないと無限不連続になります。簡単な例は f(x) = 1/(x - 100) です。",
-              "koString": "분모가 0이 되고 그 인수가 약분되지 않으면 무한 불연속이 생깁니다. 간단한 예는 f(x) = 1/(x - 100)입니다.",
-              "portugueseBRString": "Uma descontinuidade infinita ocorre quando o denominador é zero e o fator não cancela. Um exemplo simples é f(x) = 1/(x - 100).",
-              "spanishString": "Una discontinuidad infinita ocurre cuando el denominador es cero y el factor no se cancela. Un ejemplo simple es f(x) = 1/(x - 100).",
-              "vnString": "log16 = log2⁴ = 4·log2 = 4a."
+              "arString": "1. ضع في المقام عاملًا لكل نقطة مطلوب استبعادها، واجعل البسط ثابتًا غير صفري حتى لا يُختزل أي عامل.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. النتيجة: f(x) = 1/(x - 100).",
+              "cnTraditionalString": "1. 在分母中放入每個需要排除的點所對應的因式，並用非零常數作分子，避免約分。\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. 結論：f(x) = 1/(x - 100)。",
+              "enString": "1. Place a factor for each required excluded point in the denominator, and use a nonzero constant numerator so no factor cancels.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Conclusion: f(x) = 1/(x - 100).",
+              "frenchString": "1. Place au dénominateur un facteur pour chaque point à exclure et choisis un numérateur constant non nul pour éviter toute simplification.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Conclusion : f(x) = 1/(x - 100).",
+              "germanString": "1. Füge für jede auszuschließende Stelle einen Faktor in den Nenner ein und wähle einen konstanten Zähler ungleich null, damit nichts gekürzt wird.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Ergebnis: f(x) = 1/(x - 100).",
+              "italiaString": "1. Metti al denominatore un fattore per ogni punto da escludere e usa un numeratore costante non nullo per evitare semplificazioni.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Conclusione: f(x) = 1/(x - 100).",
+              "jaString": "1. 除外したい点に対応する因子を分母に入れ、約分されないよう分子を 0 でない定数にします。\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. 結論：f(x) = 1/(x - 100)。",
+              "koString": "1. 제외할 점마다 대응하는 인수를 분모에 넣고, 약분되지 않도록 분자는 0이 아닌 상수로 두세요.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. 결론: f(x) = 1/(x - 100).",
+              "portugueseBRString": "1. Coloque no denominador um fator para cada ponto a excluir e use um numerador constante não nulo para não cancelar fatores.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Conclusão: f(x) = 1/(x - 100).",
+              "spanishString": "1. Pon en el denominador un factor por cada punto que deba excluirse y usa un numerador constante no nulo para evitar cancelaciones.\n2. f(x) = 1/(x − 100); x ≠ 100.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. x → 100⁻: f(x) → −∞; x → 100⁺: f(x) → +∞. Conclusión: f(x) = 1/(x - 100).",
+              "vnString": "1. Viết 16 = 2⁴.\n2. Dùng công thức log(uⁿ) = nlogu với u > 0.\n3. Suy ra log16 = 4log2 = 4a."
             },
             "id": 21,
             "question": {
@@ -290531,17 +290531,17 @@
               "vnString": "(x+1)/x"
             },
             "hint": {
-              "arString": "تستبعد الفترات x = 0 و x = 1. ضع x و x - 1 في المقام حتى تكون الدالة غير معرفة عند هاتين النقطتين فقط.",
-              "cnTraditionalString": "這些區間排除了 x = 0 和 x = 1。把 x 和 x - 1 放在分母中，函數就只在這兩點未定義。",
-              "enString": "The intervals exclude x = 0 and x = 1. Put x and x - 1 in the denominator so the function is undefined at exactly those two points.",
-              "frenchString": "Les intervalles excluent x = 0 et x = 1. Placez x et x - 1 au dénominateur pour que la fonction soit non définie exactement en ces deux points.",
-              "germanString": "Die Intervalle schließen x = 0 und x = 1 aus. Setze x und x - 1 in den Nenner, damit die Funktion genau an diesen zwei Stellen nicht definiert ist.",
-              "italiaString": "Gli intervalli escludono x = 0 e x = 1. Metti x e x - 1 al denominatore affinché la funzione non sia definita esattamente in quei due punti.",
-              "jaString": "区間は x = 0 と x = 1 を除いています。分母に x と x - 1 を入れると、その2点だけで未定義になります。",
-              "koString": "구간은 x = 0과 x = 1을 제외합니다. 분모에 x와 x - 1을 넣으면 정확히 그 두 점에서 정의되지 않습니다.",
-              "portugueseBRString": "Os intervalos excluem x = 0 e x = 1. Coloque x e x - 1 no denominador para que a função não esteja definida exatamente nesses dois pontos.",
-              "spanishString": "Los intervalos excluyen x = 0 y x = 1. Coloca x y x - 1 en el denominador para que la función no esté definida exactamente en esos dos puntos.",
-              "vnString": "y = x + lnx\ny' = 1 + 1/x = (x+1)/x."
+              "arString": "1. ضع في المقام عاملًا لكل نقطة مطلوب استبعادها، واجعل البسط ثابتًا غير صفري حتى لا يُختزل أي عامل.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 أو x = 1.\n3. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.  النتيجة: f(x) = 1/(x(x - 1)).",
+              "cnTraditionalString": "1. 在分母中放入每個需要排除的點所對應的因式，並用非零常數作分子，避免約分。\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 或 x = 1.\n3. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。  結論：f(x) = 1/(x(x - 1))。",
+              "enString": "1. Place a factor for each required excluded point in the denominator, and use a nonzero constant numerator so no factor cancels.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 or x = 1.\n3. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.  Conclusion: f(x) = 1/(x(x - 1)).",
+              "frenchString": "1. Place au dénominateur un facteur pour chaque point à exclure et choisis un numérateur constant non nul pour éviter toute simplification.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 ou x = 1.\n3. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.  Conclusion : f(x) = 1/(x(x - 1)).",
+              "germanString": "1. Füge für jede auszuschließende Stelle einen Faktor in den Nenner ein und wähle einen konstanten Zähler ungleich null, damit nichts gekürzt wird.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 oder x = 1.\n3. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.  Ergebnis: f(x) = 1/(x(x - 1)).",
+              "italiaString": "1. Metti al denominatore un fattore per ogni punto da escludere e usa un numeratore costante non nullo per evitare semplificazioni.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 oppure x = 1.\n3. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.  Conclusione: f(x) = 1/(x(x - 1)).",
+              "jaString": "1. 除外したい点に対応する因子を分母に入れ、約分されないよう分子を 0 でない定数にします。\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 または x = 1.\n3. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。  結論：f(x) = 1/(x(x - 1))。",
+              "koString": "1. 제외할 점마다 대응하는 인수를 분모에 넣고, 약분되지 않도록 분자는 0이 아닌 상수로 두세요.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 또는 x = 1.\n3. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.  결론: f(x) = 1/(x(x - 1)).",
+              "portugueseBRString": "1. Coloque no denominador um fator para cada ponto a excluir e use um numerador constante não nulo para não cancelar fatores.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 ou x = 1.\n3. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.  Conclusão: f(x) = 1/(x(x - 1)).",
+              "spanishString": "1. Pon en el denominador un factor por cada punto que deba excluirse y usa un numerador constante no nulo para evitar cancelaciones.\n2. f(x) = 1/(x(x − 1)); x(x − 1) = 0 ⇔ x = 0 o x = 1.\n3. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.  Conclusión: f(x) = 1/(x(x - 1)).",
+              "vnString": "1. Hàm y = x + lnx có miền xác định x > 0.\n2. Lấy đạo hàm từng hạng: (x)′ = 1 và (lnx)′ = 1/x.\n3. Vậy y′ = 1 + 1/x = (x + 1)/x, với x > 0."
             },
             "id": 22,
             "question": {
@@ -290627,17 +290627,17 @@
               "vnString": "(2;3)"
             },
             "hint": {
-              "arString": "تتطلب الاستمرارية أن تكون f(c) معرفة، وأن توجد النهاية، وأن تساوي النهاية f(c). القابلية للاشتقاق أقوى من الاستمرارية وليست مطلوبة.",
-              "cnTraditionalString": "連續需要 f(c) 有定義、極限存在，且極限等於 f(c)。可微比分連續更強，不是必要條件。",
-              "enString": "Continuity requires f(c) to be defined, the limit to exist, and the limit to equal f(c). Differentiability is stronger than continuity and is not required.",
-              "frenchString": "La continuité exige que f(c) soit définie, que la limite existe et que cette limite soit égale à f(c). La dérivabilité est plus forte que la continuité et n’est pas requise.",
-              "germanString": "Stetigkeit verlangt, dass f(c) definiert ist, der Grenzwert existiert und der Grenzwert gleich f(c) ist. Differenzierbarkeit ist stärker als Stetigkeit und nicht erforderlich.",
-              "italiaString": "La continuità richiede che f(c) sia definita, che il limite esista e che il limite sia uguale a f(c). La derivabilità è più forte della continuità e non è richiesta.",
-              "jaString": "連続には f(c) が定義され、極限が存在し、その極限が f(c) に等しいことが必要です。微分可能性は連続性より強い条件で、必須ではありません。",
-              "koString": "연속이려면 f(c)가 정의되어 있고, 극한이 존재하며, 그 극한이 f(c)와 같아야 합니다. 미분 가능성은 연속성보다 강한 조건이며 필요하지 않습니다.",
-              "portugueseBRString": "Continuidade exige que f(c) esteja definida, que o limite exista e que o limite seja igual a f(c). Diferenciabilidade é mais forte que continuidade e não é necessária.",
-              "spanishString": "La continuidad requiere que f(c) esté definida, que el límite exista y que el límite sea igual a f(c). La diferenciabilidad es más fuerte que la continuidad y no es necesaria.",
-              "vnString": "y = ln(-x²+5x-6) xác định khi -x²+5x-6 > 0\n⟺ (x-2)(x-3) < 0 ⟺ x ∈ (2;3)."
+              "arString": "1. الاتصال عند c يتطلب تعريف f(c)، ووجود lim(x→c)f(x)، ومساواة هذه النهاية لقيمة f(c).\n2. الاشتقاق أقوى من الاتصال وليس مطلوبًا له. مثلًا |x| متصلة عند 0، لكن ميليها من اليسار واليمين هما −1 و1.\n3. النتيجة: C. توجد f′(c) (الدالة قابلة للاشتقاق عند x = c)..",
+              "cnTraditionalString": "1. 在 c 連續需要 f(c) 有定義、lim(x→c)f(x) 存在，且該極限等於 f(c)。\n2. 可微比連續更強，並非連續的必要條件。例如 |x| 在 0 連續，但左右斜率分別為 −1 和 1。\n3. 結論：C. f′(c) 存在（函數在 x = c 可微）。。",
+              "enString": "1. Continuity at c requires that f(c) is defined, that lim(x→c)f(x) exists, and that this limit equals f(c).\n2. Differentiability is stronger than continuity and is not required. For example, |x| is continuous at 0 but has left and right slopes −1 and 1.\n3. Conclusion: C. f′(c) exists (the function is differentiable at x = c)..",
+              "frenchString": "1. La continuité en c exige que f(c) soit définie, que lim(x→c)f(x) existe et que cette limite soit égale à f(c).\n2. La dérivabilité est plus forte que la continuité et n’est pas nécessaire. Par exemple, |x| est continue en 0, mais ses pentes à gauche et à droite valent −1 et 1.\n3. Conclusion : C. f′(c) existe (la fonction est dérivable en x = c)..",
+              "germanString": "1. Für Stetigkeit in c muss f(c) definiert sein, der Grenzwert lim(x→c)f(x) existieren und gleich f(c) sein.\n2. Differenzierbarkeit ist stärker als Stetigkeit und nicht erforderlich. Beispielsweise ist |x| in 0 stetig, hat dort aber links die Steigung −1 und rechts 1.\n3. Ergebnis: C. f′(c) existiert (die Funktion ist bei x = c differenzierbar)..",
+              "italiaString": "1. La continuità in c richiede che f(c) sia definita, che esista lim(x→c)f(x) e che tale limite sia uguale a f(c).\n2. La derivabilità è più forte della continuità e non è necessaria. Per esempio |x| è continua in 0, ma ha pendenze laterali −1 e 1.\n3. Conclusione: C. f′(c) esiste (la funzione è derivabile in x = c)..",
+              "jaString": "1. c で連続であるには、f(c) が定義され、lim(x→c)f(x) が存在し、その極限が f(c) と等しいことが必要です。\n2. 微分可能性は連続性より強い条件で、必要ではありません。例えば |x| は 0 で連続ですが、左右の傾きは −1 と 1 です。\n3. 結論：C. f′(c) が存在する（関数は x = c で微分可能）。。",
+              "koString": "1. c에서 연속이려면 f(c)가 정의되고, lim(x→c)f(x)가 존재하며, 그 극한이 f(c)와 같아야 해요.\n2. 미분 가능성은 연속성보다 강한 조건이며 필수는 아니에요. 예를 들어 |x|는 0에서 연속이지만 좌우 기울기가 −1과 1이에요.\n3. 결론: C. f′(c)가 존재한다(함수가 x = c에서 미분 가능하다)..",
+              "portugueseBRString": "1. A continuidade em c exige que f(c) esteja definida, que lim(x→c)f(x) exista e que esse limite seja igual a f(c).\n2. A derivabilidade é mais forte que a continuidade e não é necessária. Por exemplo, |x| é contínua em 0, mas tem inclinações laterais −1 e 1.\n3. Conclusão: C. f′(c) existe (a função é diferenciável em x = c)..",
+              "spanishString": "1. La continuidad en c exige que f(c) esté definida, que exista lim(x→c)f(x) y que ese límite sea igual a f(c).\n2. La derivabilidad es más fuerte que la continuidad y no es necesaria. Por ejemplo, |x| es continua en 0, pero sus pendientes laterales son −1 y 1.\n3. Conclusión: C. f′(c) existe (la función es diferenciable en x = c)..",
+              "vnString": "1. Logarit tự nhiên xác định khi −x² + 5x − 6 > 0.\n2. Phân tích: −(x − 2)(x − 3) > 0, tương đương (x − 2)(x − 3) < 0.\n3. Tích âm khi 2 < x < 3. Vậy tập xác định là (2; 3)."
             },
             "id": 23,
             "question": {
@@ -290723,17 +290723,17 @@
               "vnString": "3 "
             },
             "hint": {
-              "arString": "حلل: x² - 9 = (x - 3)(x + 3) و x² - 2x - 3 = (x - 3)(x + 1). العامل x - 3 يُختصر، لذلك x = 3 قابل للإزالة. العامل x + 1 يبقى في المقام، لذلك x = -1 لا نهائي.",
-              "cnTraditionalString": "分解：x² - 9 = (x - 3)(x + 3)，x² - 2x - 3 = (x - 3)(x + 1)。x - 3 可約去，所以 x = 3 可去。x + 1 留在分母中，所以 x = -1 為無限不連續。",
-              "enString": "Factor: x² - 9 = (x - 3)(x + 3) and x² - 2x - 3 = (x - 3)(x + 1). The factor x - 3 cancels, so x = 3 is removable. The factor x + 1 remains in the denominator, so x = -1 is infinite.",
-              "frenchString": "Factorisez : x² - 9 = (x - 3)(x + 3) et x² - 2x - 3 = (x - 3)(x + 1). Le facteur x - 3 se simplifie, donc x = 3 est amovible. Le facteur x + 1 reste au dénominateur, donc x = -1 est infinie.",
-              "germanString": "Faktoriere: x² - 9 = (x - 3)(x + 3) und x² - 2x - 3 = (x - 3)(x + 1). Der Faktor x - 3 kürzt sich, also ist x = 3 hebbar. Der Faktor x + 1 bleibt im Nenner, also ist x = -1 unendlich.",
-              "italiaString": "Scomponi: x² - 9 = (x - 3)(x + 3) e x² - 2x - 3 = (x - 3)(x + 1). Il fattore x - 3 si semplifica, quindi x = 3 è eliminabile. Il fattore x + 1 resta al denominatore, quindi x = -1 è infinita.",
-              "jaString": "因数分解すると x² - 9 = (x - 3)(x + 3)、x² - 2x - 3 = (x - 3)(x + 1)。x - 3 は約分されるので x = 3 は除去可能。x + 1 は分母に残るので x = -1 は無限不連続です。",
-              "koString": "인수분해하면 x² - 9 = (x - 3)(x + 3), x² - 2x - 3 = (x - 3)(x + 1)입니다. x - 3은 약분되므로 x = 3은 제거 가능하고, x + 1은 분모에 남으므로 x = -1은 무한 불연속입니다.",
-              "portugueseBRString": "Fatore: x² - 9 = (x - 3)(x + 3) e x² - 2x - 3 = (x - 3)(x + 1). O fator x - 3 cancela, então x = 3 é removível. O fator x + 1 fica no denominador, então x = -1 é infinita.",
-              "spanishString": "Factoriza: x² - 9 = (x - 3)(x + 3) y x² - 2x - 3 = (x - 3)(x + 1). El factor x - 3 se cancela, así que x = 3 es removible. El factor x + 1 queda en el denominador, así que x = -1 es infinita.",
-              "vnString": "lg(54-x²) = 3lgx ⟺ 54-x² = x³ (x>0)\n⟺ x³+x²-54 = 0\nThử x=3: 27+9-54 = -18 ≠ 0.\nNghiệm x=3 thoả phương trình gốc sau kiểm tra."
+              "arString": "1. الدالة الكسرية متصلة حيث مقامها الأصلي غير صفري. حلّل أولًا واحتفظ بكل قيود المجال الأصلية.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. قد يترك العامل المختزل نهاية منتهية عند نقطة مستبعدة، فيكون الانقطاع قابلًا للإزالة. وصفر المقام غير المختزل مع بسط غير صفري يعطي انقطاعًا لا نهائيًا. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. النتيجة: B. قابل للإزالة عند x = 3؛ لا نهائي عند x = -1.",
+              "cnTraditionalString": "1. 有理函數在原分母不為 0 的地方連續。先因式分解，並保留原式的所有定義域限制。\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. 約去因式後，原本被排除的點若有有限極限，就是可去不連續；若未約去的分母為 0 而分子不為 0，則為無窮不連續。 lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 結論：B. x = 3 可去；x = -1 無限。",
+              "enString": "1. A rational function is continuous wherever its original denominator is nonzero. Factor first and keep all original domain restrictions.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. A canceled factor can leave a finite limit at an excluded point: a removable discontinuity. An uncanceled denominator zero with nonzero numerator gives an infinite discontinuity. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusion: B. Removable at x = 3; infinite at x = -1.",
+              "frenchString": "1. Une fonction rationnelle est continue là où son dénominateur initial est non nul. Factorise en conservant les restrictions du domaine initial.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. Un facteur simplifié peut laisser une limite finie à un point exclu : la discontinuité est amovible. Un zéro du dénominateur non simplifié avec numérateur non nul donne une discontinuité infinie. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusion : B. Amovible en x = 3 ; infinie en x = -1.",
+              "germanString": "1. Eine rationale Funktion ist überall stetig, wo ihr ursprünglicher Nenner nicht null ist. Faktorisiere und behalte alle ursprünglichen Definitionslücken bei.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. Ein gekürzter Faktor kann an einer ausgeschlossenen Stelle einen endlichen Grenzwert ergeben: eine hebbare Lücke. Bleibt der Nenner dort null und der Zähler ungleich null, liegt eine unendliche Unstetigkeit vor. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Ergebnis: B. Hebbar bei x = 3; unendlich bei x = -1.",
+              "italiaString": "1. Una funzione razionale è continua dove il denominatore originale è diverso da zero. Scomponi e conserva tutte le restrizioni del dominio originale.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. Un fattore semplificato può lasciare un limite finito in un punto escluso: una discontinuità eliminabile. Uno zero del denominatore non semplificato con numeratore non nullo dà una discontinuità infinita. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusione: B. Eliminabile in x = 3; infinita in x = -1.",
+              "jaString": "1. 有理関数は元の分母が 0 でない点で連続です。因数分解しても、元の定義域の制限を残します。\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. 約分した因子に対応する除外点で極限が有限なら、除去可能な不連続です。分母の 0 が残り分子が 0 でなければ、無限不連続です。 lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 結論：B. x = 3 は除去可能；x = -1 は無限。",
+              "koString": "1. 유리함수는 원래 분모가 0이 아닌 곳에서 연속이에요. 인수분해한 뒤에도 원래 정의역의 제한을 유지하세요.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. 약분된 인수의 제외점에서 극한이 유한하면 제거 가능한 불연속이에요. 약분되지 않은 분모가 0이고 분자가 0이 아니면 무한 불연속이에요. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. 결론: B. x = 3에서 제거 가능; x = -1에서 무한.",
+              "portugueseBRString": "1. Uma função racional é contínua onde seu denominador original não é zero. Fatore e mantenha todas as restrições do domínio original.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. Um fator cancelado pode deixar um limite finito em um ponto excluído: uma descontinuidade removível. Um zero não cancelado do denominador com numerador não nulo dá uma descontinuidade infinita. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusão: B. Removível em x = 3; infinita em x = -1.",
+              "spanishString": "1. Una función racional es continua donde su denominador original no es cero. Factoriza conservando todas las restricciones del dominio original.\n2. x² − 9 = (x − 3)(x + 3); x² − 2x − 3 = (x − 3)(x + 1); f(x) = (x + 3)/(x + 1), x ≠ 3, −1.\n3. Un factor cancelado puede dejar un límite finito en un punto excluido: una discontinuidad evitable. Un cero no cancelado del denominador con numerador no nulo da una discontinuidad infinita. lim(x→3)f(x) = 3/2; x → −1⁻: f(x) → −∞; x → −1⁺: f(x) → +∞. Conclusión: B. Removible en x = 3; infinita en x = -1.",
+              "vnString": "1. Đọc xpqrt là x³. Điều kiện: x > 0 và 54 − x³ > 0. Viết 3lgx = lg(x³).\n2. Vì logarit cùng cơ số là hàm đơn ánh, lg(54 − x³) = lg(x³) tương đương 54 − x³ = x³.\n3. Giải x³ = 27 được x = 3; kiểm tra 54 − 27 = 27 > 0 nên nghiệm hợp lệ."
             },
             "id": 24,
             "question": {
@@ -290819,17 +290819,17 @@
               "vnString": "1"
             },
             "hint": {
-              "arString": "نحتاج فقط إلى فحص نقطة الوصل x = 2. ساوِ التعبير الأيسر بالأيمن: 4k + 4 = 6 - k، إذن 5k = 2 و k = 2/5.",
-              "cnTraditionalString": "只需檢查銜接點 x = 2。令左式等於右式：4k + 4 = 6 - k，所以 5k = 2，k = 2/5。",
-              "enString": "Only the joining point x = 2 needs to be checked. Set the left expression equal to the right expression: 4k + 4 = 6 - k, so 5k = 2 and k = 2/5.",
-              "frenchString": "Seul le point de raccord x = 2 doit être vérifié. Égalisez les deux expressions : 4k + 4 = 6 - k, donc 5k = 2 et k = 2/5.",
-              "germanString": "Nur die Anschlussstelle x = 2 muss geprüft werden. Setze die linke und rechte Vorschrift gleich: 4k + 4 = 6 - k, also 5k = 2 und k = 2/5.",
-              "italiaString": "Bisogna controllare solo il punto di raccordo x = 2. Uguaglia le due espressioni: 4k + 4 = 6 - k, quindi 5k = 2 e k = 2/5.",
-              "jaString": "接続点 x = 2 だけを確認します。左右の式を等しくすると 4k + 4 = 6 - k、したがって 5k = 2、k = 2/5。",
-              "koString": "연결점 x = 2만 확인하면 됩니다. 왼쪽 식과 오른쪽 식을 같게 두면 4k + 4 = 6 - k, 따라서 5k = 2이고 k = 2/5입니다.",
-              "portugueseBRString": "Só é preciso verificar o ponto de junção x = 2. Igualando as expressões: 4k + 4 = 6 - k, então 5k = 2 e k = 2/5.",
-              "spanishString": "Solo hay que revisar el punto de unión x = 2. Igualando las expresiones: 4k + 4 = 6 - k, así que 5k = 2 y k = 2/5.",
-              "vnString": "lnx + ln(3x-2) = 0 (x > 2/3)\n⟺ x(3x-2) = 1 ⟺ 3x²-2x-1 = 0\nx=1 (nhận), x=-1/3 (loại).\nPhương trình có 1 nghiệm."
+              "arString": "1. الجزآن كثيرتا حدود متصلتان في فترتيهما. نحتاج فقط إلى تطابق النهايتين وقيمة الدالة عند نقطة الوصل x = 2.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. النتيجة: A. k = 2/5.",
+              "cnTraditionalString": "1. 兩個多項式分段各自在區間內連續，只需在接點 x = 2 讓左右極限和函數值相同。\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. 結論：A. k = 2/5。",
+              "enString": "1. Both polynomial pieces are continuous on their own intervals. Only the joining point x = 2 needs matching one-sided limits and function value.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Conclusion: A. k = 2/5.",
+              "frenchString": "1. Les deux morceaux polynomiaux sont continus sur leurs intervalles. Il suffit de faire coïncider limites latérales et valeur au raccord x = 2.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Conclusion : A. k = 2/5.",
+              "germanString": "1. Beide polynomialen Teile sind auf ihren Intervallen stetig. Nur an der Nahtstelle x = 2 müssen die einseitigen Grenzwerte und der Funktionswert übereinstimmen.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Ergebnis: A. k = 2/5.",
+              "italiaString": "1. I due tratti polinomiali sono continui sui rispettivi intervalli. Solo nel raccordo x = 2 devono coincidere i limiti laterali e il valore della funzione.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Conclusione: A. k = 2/5.",
+              "jaString": "1. 各多項式の区間は連続なので、接続点 x = 2 で左右の極限と関数値を一致させれば十分です。\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. 結論：A. k = 2/5。",
+              "koString": "1. 각 다항식 구간은 연속이므로 연결점 x = 2에서 좌극한, 우극한과 함숫값을 일치시키면 돼요.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. 결론: A. k = 2/5.",
+              "portugueseBRString": "1. Os dois trechos polinomiais são contínuos em seus intervalos. Basta igualar os limites laterais e o valor da função na junção x = 2.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Conclusão: A. k = 2/5.",
+              "spanishString": "1. Ambos tramos polinómicos son continuos en sus intervalos. Solo hay que igualar los límites laterales y el valor de la función en x = 2.\n2. 4k + 4 = 6 − k ⇒ 5k = 2 ⇒ k = 2/5.\n3. 4(2/5) + 4 = 6 − 2/5 = 28/5. Conclusión: A. k = 2/5.",
+              "vnString": "1. Điều kiện: x > 0 và 3x − 2 > 0, suy ra x > 2/3.\n2. Gộp logarit: ln(x(3x − 2)) = 0, suy ra x(3x − 2) = 1, hay (3x + 1)(x − 1) = 0.\n3. Các nghiệm đại số là x = 1 và x = −1/3; chỉ x = 1 thỏa điều kiện. Vậy có 1 nghiệm."
             },
             "id": 25,
             "question": {
