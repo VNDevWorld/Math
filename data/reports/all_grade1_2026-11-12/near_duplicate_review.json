@@ -1,0 +1,36 @@
+[
+  {
+    "id": 126,
+    "new": "Which word means not noisy?",
+    "old": "Which word means 'fast'?",
+    "score": 0.766,
+    "decision": "Keep: shared short question form, but different lexical target or category; not a paraphrase of the old answer."
+  },
+  {
+    "id": 126,
+    "new": "Which word means not noisy?",
+    "old": "Which word means 'cold'?",
+    "score": 0.766,
+    "decision": "Keep: shared short question form, but different lexical target or category; not a paraphrase of the old answer."
+  },
+  {
+    "id": 135,
+    "new": "Which word tells a taste?",
+    "old": "Which word means 'fast'?",
+    "score": 0.756,
+    "decision": "Keep: shared short question form, but different lexical target or category; not a paraphrase of the old answer."
+  },
+  {
+    "id": 143,
+    "new": "Which word is the opposite of open?",
+    "old": "Which word means the opposite of 'big'?",
+    "score": 0.829,
+    "decision": "Keep: shared short question form, but different lexical target or category; not a paraphrase of the old answer."
+  },
+  {
+    "id": 139,
+    "other_new_id": 115,
+    "score": 0.893,
+    "decision": "Keep: missing addend and missing subtrahend are distinct positions/operations, not merely changed operands."
+  }
+]

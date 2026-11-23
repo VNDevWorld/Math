@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Ada is third in line. How many children are before her?",
+    "computed_answer": 2
+  },
+  {
+    "question": "Which number has 1 ten and 6 ones?",
+    "computed_answer": 16
+  },
+  {
+    "question": "Count the pens: pen, cup, pen, pen.",
+    "computed_answer": 3
+  },
+  {
+    "question": "Fill the gap: 11, 12, __, 14.",
+    "computed_answer": 13
+  },
+  {
+    "question": "Order 8, 3, 6 from smallest to largest.",
+    "computed_answer": "3, 6, 8"
+  },
+  {
+    "question": "Find the missing number: __ + 4 = 9.",
+    "computed_answer": 5
+  },
+  {
+    "question": "Find the missing number: 12 − __ = 10.",
+    "computed_answer": 2
+  },
+  {
+    "question": "Which sign makes this true: 6 __ 2 = 8?",
+    "computed_answer": "+"
+  },
+  {
+    "question": "There are 4 red beads and 3 blue beads. How many beads altogether?",
+    "computed_answer": 7
+  },
+  {
+    "question": "There are 9 apples; 3 are eaten. How many remain?",
+    "computed_answer": 6
+  },
+  {
+    "question": "More children join 5 children, making 8. How many joined?",
+    "computed_answer": 3
+  },
+  {
+    "question": "Correct the answer: 11 + 2 = 12.",
+    "computed_answer": 13
+  },
+  {
+    "question": "Some birds are on a branch; 3 arrive, making 7. How many were there first?",
+    "computed_answer": 4
+  },
+  {
+    "question": "Continue: red, blue, blue, red, blue, blue, __.",
+    "computed_answer": "red"
+  },
+  {
+    "question": "Continue the number pattern: 2, 4, 6, __.",
+    "computed_answer": 8
+  },
+  {
+    "question": "A red ribbon is 5 cm long; a blue one is 8 cm. Which is longer?",
+    "computed_answer": "blue"
+  },
+  {
+    "question": "Using identical blocks, a toy balances 2 and a book balances 5. Which weighs more?",
+    "computed_answer": "book"
+  },
+  {
+    "question": "Using the same full spoon, filling A takes 3 spoonfuls and B takes 5. Which cup holds less?",
+    "computed_answer": "A"
+  }
+]

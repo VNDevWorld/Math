@@ -1,0 +1,1124 @@
+[
+  {
+    "subject": "science",
+    "subtopic": "materials_water",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "In a test, water passes through paper, cloth and card, not plastic. Which tested cover keeps a book dry?",
+      "frenchString": "Dans un essai, l'eau traverse le papier, le tissu et le carton, pas le plastique. Quelle protection testée garde un livre sec?",
+      "idString": "Dalam uji, air melewati kertas, kain, dan karton, tetapi tidak plastik. Penutup yang diuji mana menjaga buku tetap kering?",
+      "vnString": "Trong thử nghiệm, nước qua giấy, vải và bìa, không qua nhựa. Mẫu nào che sách khỏi ướt?",
+      "arString": "في اختبار يعبر الماء الورق والقماش والورق المقوى ولا يعبر البلاستيك. أي غطاء مختبر يحفظ الكتاب جافا؟"
+    },
+    "id": 101,
+    "quiz_id": 21,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "count_order",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "sort",
+      "items": [
+        8,
+        3,
+        6
+      ],
+      "result": "3, 6, 8"
+    },
+    "question": {
+      "enString": "Order 8, 3, 6 from smallest to largest.",
+      "frenchString": "Range 8, 3, 6 du plus petit au plus grand.",
+      "idString": "Urutkan 8, 3, 6 dari terkecil ke terbesar.",
+      "vnString": "Xếp 8, 3, 6 từ bé đến lớn.",
+      "arString": "رتب 8 و3 و6 من الأصغر إلى الأكبر."
+    },
+    "id": 102,
+    "quiz_id": 21,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "sentence",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "The cat sleeps under a chair. Where is the cat?",
+      "frenchString": "Le chat dort sous une chaise. Où est le chat ?",
+      "idString": "Kucing tidur di bawah kursi. Di mana kucing itu?",
+      "vnString": "Mèo ngủ dưới ghế. Mèo ở đâu?",
+      "arString": "ينام القط تحت كرسي. أين القط؟"
+    },
+    "id": 103,
+    "quiz_id": 21,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "add",
+      "a": 11,
+      "b": 2,
+      "result": 13
+    },
+    "question": {
+      "enString": "Correct the answer: 11 + 2 = 12.",
+      "frenchString": "Corrige le résultat : 11 + 2 = 12.",
+      "idString": "Perbaiki hasilnya: 11 + 2 = 12.",
+      "vnString": "Sửa kết quả: 11 + 2 = 12.",
+      "arString": "صحح الناتج: 11 + 2 = 12."
+    },
+    "id": 104,
+    "quiz_id": 21,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "care",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Why close a water bottle before putting it in a bag?",
+      "frenchString": "Pourquoi fermer une gourde avant de la mettre dans un sac ?",
+      "idString": "Mengapa botol air ditutup sebelum dimasukkan ke tas?",
+      "vnString": "Vì sao đậy bình nước trước khi cho vào cặp?",
+      "arString": "لماذا نغلق زجاجة الماء قبل وضعها في حقيبة؟"
+    },
+    "id": 105,
+    "quiz_id": 21,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "cooperation",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "meaning",
+    "check": null,
+    "question": {
+      "enString": "Which phrase politely asks for help?",
+      "frenchString": "Quelle phrase demande poliment de l'aide ?",
+      "idString": "Kalimat mana meminta bantuan dengan sopan?",
+      "vnString": "Câu nào lịch sự nhờ giúp đỡ?",
+      "arString": "أي عبارة تطلب المساعدة بأدب؟"
+    },
+    "id": 106,
+    "quiz_id": 22,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "sentence",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "Mai carries a red bag. What does Mai carry?",
+      "frenchString": "Mai porte un sac rouge. Que porte Mai ?",
+      "idString": "Mai membawa tas merah. Apa yang Mai bawa?",
+      "vnString": "Mai mang chiếc túi đỏ. Mai mang gì?",
+      "arString": "تحمل ماي حقيبة حمراء. ماذا تحمل ماي؟"
+    },
+    "id": 107,
+    "quiz_id": 22,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "add",
+      "a": 4,
+      "b": 3,
+      "result": 7
+    },
+    "question": {
+      "enString": "There are 4 red beads and 3 blue beads. How many beads altogether?",
+      "frenchString": "Il y a 4 perles rouges et 3 bleues. Combien en tout ?",
+      "idString": "Ada 4 manik merah dan 3 manik biru. Berapa semuanya?",
+      "vnString": "Có 4 hạt đỏ và 3 hạt xanh. Có tất cả mấy hạt?",
+      "arString": "توجد 4 خرزات حمراء و3 زرقاء. كم خرزة في المجموع؟"
+    },
+    "id": 108,
+    "quiz_id": 22,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "body_senses",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "BODY",
+    "check": null,
+    "question": {
+      "enString": "Which part joins your head to your body?",
+      "frenchString": "Quelle partie relie la tête au reste du corps ?",
+      "idString": "Bagian apa yang menghubungkan kepala dengan tubuh?",
+      "vnString": "Bộ phận nào nối đầu với thân?",
+      "arString": "أي جزء يصل الرأس بالجسم؟"
+    },
+    "id": 109,
+    "quiz_id": 22,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "shape_pattern",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "pattern",
+    "check": {
+      "kind": "repeat",
+      "items": [
+        "red",
+        "blue",
+        "blue",
+        "red",
+        "blue",
+        "blue"
+      ],
+      "period": [
+        "red",
+        "blue",
+        "blue"
+      ],
+      "result": "red"
+    },
+    "question": {
+      "enString": "Continue: red, blue, blue, red, blue, blue, __.",
+      "frenchString": "Continue : rouge, bleu, bleu, rouge, bleu, bleu, __.",
+      "idString": "Lanjutkan: merah, biru, biru, merah, biru, biru, __.",
+      "vnString": "Tiếp tục: đỏ, xanh lam, xanh lam, đỏ, xanh lam, xanh lam, __.",
+      "arString": "أكمل: أحمر، أزرق، أزرق، أحمر، أزرق، أزرق، __."
+    },
+    "id": 110,
+    "quiz_id": 22,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "passage",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "An umbrella keeps rain off. Leo walks in rain. What should he take?",
+      "frenchString": "Un parapluie protège de la pluie. Léo marche sous la pluie. Que doit-il prendre ?",
+      "idString": "Payung melindungi dari hujan. Leo berjalan saat hujan. Apa yang perlu dibawanya?",
+      "vnString": "Ô che mưa. Leo đi dưới mưa. Leo nên mang gì?",
+      "arString": "تحمي المظلة من المطر. يمشي ليو تحت المطر. ماذا يأخذ؟"
+    },
+    "id": 111,
+    "quiz_id": 23,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "measurement",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "compare",
+      "a": 5,
+      "b": 8,
+      "relation": "larger",
+      "result": "blue"
+    },
+    "question": {
+      "enString": "A red ribbon is 5 cm long; a blue one is 8 cm. Which is longer?",
+      "frenchString": "Un ruban rouge mesure 5 cm et un bleu 8 cm. Lequel est plus long ?",
+      "idString": "Pita merah panjangnya 5 cm dan pita biru 8 cm. Mana lebih panjang?",
+      "vnString": "Dây đỏ dài 5 cm, dây xanh dài 8 cm. Dây nào dài hơn?",
+      "arString": "طول شريط أحمر 5 cm وأزرق 8 cm. أيهما أطول؟"
+    },
+    "id": 112,
+    "quiz_id": 23,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "roles",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "JOBS",
+    "check": null,
+    "question": {
+      "enString": "Who repairs torn clothes as a job?",
+      "frenchString": "Qui répare les vêtements déchirés dans son métier ?",
+      "idString": "Siapa yang bekerja memperbaiki pakaian robek?",
+      "vnString": "Ai làm nghề sửa quần áo rách?",
+      "arString": "من يصلح الملابس الممزقة في عمله؟"
+    },
+    "id": 113,
+    "quiz_id": 23,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "living_things",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "SPIDER",
+    "check": null,
+    "question": {
+      "enString": "Which animal can spin a web to catch food?",
+      "frenchString": "Quel animal peut tisser une toile pour attraper sa nourriture ?",
+      "idString": "Hewan mana dapat membuat jaring untuk menangkap makanan?",
+      "vnString": "Con vật nào có thể giăng tơ bắt mồi?",
+      "arString": "أي حيوان يستطيع نسج شبكة لصيد غذائه؟"
+    },
+    "id": 114,
+    "quiz_id": 23,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "missing_subtrahend",
+      "start": 12,
+      "end": 10,
+      "result": 2
+    },
+    "question": {
+      "enString": "Find the missing number: 12 − __ = 10.",
+      "frenchString": "Trouve le nombre manquant : 12 − __ = 10.",
+      "idString": "Cari bilangan yang hilang: 12 − __ = 10.",
+      "vnString": "Tìm số thiếu: 12 − __ = 10.",
+      "arString": "جد العدد الناقص: 12 − __ = 10."
+    },
+    "id": 115,
+    "quiz_id": 23,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "shape_pattern",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "sequence",
+      "items": [
+        2,
+        4,
+        6,
+        null
+      ],
+      "step": 2,
+      "result": 8
+    },
+    "question": {
+      "enString": "Continue the number pattern: 2, 4, 6, __.",
+      "frenchString": "Continue la suite : 2, 4, 6, __.",
+      "idString": "Lanjutkan pola bilangan: 2, 4, 6, __.",
+      "vnString": "Tiếp tục dãy số: 2, 4, 6, __.",
+      "arString": "أكمل النمط العددي: 2، 4، 6، __."
+    },
+    "id": 116,
+    "quiz_id": 24,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "living_things",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "HABITAT",
+    "check": null,
+    "question": {
+      "enString": "A bird adds grass to finish its nest. Which need does this meet?",
+      "frenchString": "Un oiseau ajoute de l'herbe pour finir son nid. Quel besoin satisfait-il ?",
+      "idString": "Burung menambah rumput untuk menyelesaikan sarang. Kebutuhan apa yang dipenuhi?",
+      "vnString": "Chim thêm cỏ để hoàn thành tổ. Việc này đáp ứng nhu cầu nào?",
+      "arString": "يضيف طائر عشبا لإكمال عشه. أي حاجة يلبي ذلك؟"
+    },
+    "id": 117,
+    "quiz_id": 24,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "sentence",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "Put the book in the bag. Where should it go?",
+      "frenchString": "Mets le livre dans le sac. Où doit-il aller ?",
+      "idString": "Masukkan buku ke dalam tas. Di mana buku harus diletakkan?",
+      "vnString": "Đặt sách vào túi. Sách cần ở đâu?",
+      "arString": "ضع الكتاب في الحقيبة. أين ينبغي وضعه؟"
+    },
+    "id": 118,
+    "quiz_id": 24,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "cooperation",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Two children each need one turn with one stamp. Which plan lets both finish?",
+      "frenchString": "Deux enfants ont chacun besoin d'utiliser un tampon une fois. Quel plan permet aux deux de finir ?",
+      "idString": "Dua anak masing-masing perlu memakai satu stempel sekali. Rencana mana membuat keduanya selesai?",
+      "vnString": "Hai bạn mỗi bạn cần dùng con dấu một lượt. Cách nào giúp cả hai làm xong?",
+      "arString": "يحتاج طفلان إلى استعمال ختم واحد مرة لكل منهما. أي خطة تنهي عملهما؟"
+    },
+    "id": 119,
+    "quiz_id": 24,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "count_order",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "code",
+    "check": {
+      "kind": "place",
+      "tens": 1,
+      "ones": 6,
+      "result": 16
+    },
+    "question": {
+      "enString": "Which number has 1 ten and 6 ones?",
+      "frenchString": "Quel nombre contient 1 dizaine et 6 unités ?",
+      "idString": "Bilangan mana terdiri dari 1 puluhan dan 6 satuan?",
+      "vnString": "Số nào gồm 1 chục và 6 đơn vị?",
+      "arString": "أي عدد يتكون من عشرة واحدة و6 آحاد؟"
+    },
+    "id": 120,
+    "quiz_id": 24,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "living_things",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "BUTTERFLY",
+    "check": null,
+    "question": {
+      "enString": "What is a butterfly's crawling young called?",
+      "frenchString": "Comment appelle-t-on le petit de papillon qui rampe ?",
+      "idString": "Apa sebutan anak kupu-kupu yang merayap?",
+      "vnString": "Con non bò của bướm gọi là gì?",
+      "arString": "ماذا تسمى صغيرة الفراشة التي تزحف؟"
+    },
+    "id": 121,
+    "quiz_id": 25,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "subtract",
+      "a": 9,
+      "b": 3,
+      "result": 6
+    },
+    "question": {
+      "enString": "There are 9 apples; 3 are eaten. How many remain?",
+      "frenchString": "Il y a 9 pommes; 3 sont mangées. Combien reste-t-il ?",
+      "idString": "Ada 9 apel; 3 dimakan. Berapa yang tersisa?",
+      "vnString": "Có 9 quả táo, ăn hết 3 quả. Còn mấy quả?",
+      "arString": "توجد 9 تفاحات وأكلت 3 منها. كم تفاحة بقيت؟"
+    },
+    "id": 122,
+    "quiz_id": 25,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "care",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Why put all puzzle pieces back in their box?",
+      "frenchString": "Pourquoi remettre toutes les pièces du puzzle dans leur boîte ?",
+      "idString": "Mengapa semua keping puzzle dikembalikan ke kotaknya?",
+      "vnString": "Vì sao cất đủ miếng ghép lại vào hộp?",
+      "arString": "لماذا نعيد كل قطع الأحجية إلى صندوقها؟"
+    },
+    "id": 123,
+    "quiz_id": 25,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "word",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "meaning",
+    "check": null,
+    "question": {
+      "enString": "Which word names something you wear?",
+      "frenchString": "Quel mot nomme quelque chose que l'on porte sur soi ?",
+      "idString": "Kata mana menyebut sesuatu yang dipakai sebagai pakaian?",
+      "vnString": "Từ nào chỉ đồ để mặc?",
+      "arString": "أي كلمة تسمي شيئا نرتديه؟"
+    },
+    "id": 124,
+    "quiz_id": 25,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "measurement",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "compare",
+      "a": 3,
+      "b": 5,
+      "relation": "smaller",
+      "result": "A"
+    },
+    "question": {
+      "enString": "Using the same full spoon, filling A takes 3 spoonfuls and B takes 5. Which cup holds less?",
+      "frenchString": "Avec la même cuillère pleine, remplir A demande 3 cuillerées et B en demande 5. Quel gobelet contient moins?",
+      "idString": "Dengan sendok penuh yang sama, cangkir A perlu 3 sendok dan B perlu 5 sendok agar penuh. Mana memuat lebih sedikit?",
+      "vnString": "Dùng cùng một thìa đầy, cần 3 thìa để đầy cốc A, 5 thìa để đầy cốc B. Cốc nào chứa ít hơn?",
+      "arString": "باستخدام الملعقة نفسها مملوءة نحتاج إلى 3 ملاعق لملء الكوب أ و5 لملء الكوب ب. أيهما يسع أقل؟"
+    },
+    "id": 125,
+    "quiz_id": 25,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "word",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "meaning",
+    "check": null,
+    "question": {
+      "enString": "Which word means not noisy?",
+      "frenchString": "Quel mot signifie sans bruit ?",
+      "idString": "Kata mana berarti tidak berisik?",
+      "vnString": "Từ nào có nghĩa là không ồn?",
+      "arString": "أي كلمة تعني قليل الضوضاء؟"
+    },
+    "id": 126,
+    "quiz_id": 26,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "count_order",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "code",
+    "check": {
+      "kind": "count",
+      "items": [
+        "pen",
+        "cup",
+        "pen",
+        "pen"
+      ],
+      "target": "pen",
+      "result": 3
+    },
+    "question": {
+      "enString": "Count the pens: pen, cup, pen, pen.",
+      "frenchString": "Compte les stylos : stylo, tasse, stylo, stylo.",
+      "idString": "Hitung pena: pena, cangkir, pena, pena.",
+      "vnString": "Đếm bút: bút, cốc, bút, bút.",
+      "arString": "عد الأقلام: قلم، كوب، قلم، قلم."
+    },
+    "id": 127,
+    "quiz_id": 26,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "materials_water",
+    "thinking": "understand",
+    "difficulty": "basic",
+    "basis": "FREEZE",
+    "check": null,
+    "question": {
+      "enString": "Water in a tray freezes into ice. What changed?",
+      "frenchString": "L'eau d'un bac gèle. Qu'est-ce qui a changé ?",
+      "idString": "Air dalam wadah membeku menjadi es. Apa yang berubah?",
+      "vnString": "Nước trong khay đông thành đá. Điều gì thay đổi?",
+      "arString": "يتجمد الماء في صينية فيصبح جليدا. ما الذي تغير؟"
+    },
+    "id": 128,
+    "quiz_id": 26,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "roles",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "JOBS",
+    "check": null,
+    "question": {
+      "enString": "Who drives a bus as a job?",
+      "frenchString": "Qui conduit un bus dans son métier ?",
+      "idString": "Siapa yang bekerja mengemudikan bus?",
+      "vnString": "Ai làm nghề lái xe buýt?",
+      "arString": "من يقود الحافلة في عمله؟"
+    },
+    "id": 129,
+    "quiz_id": 26,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "basis": "code",
+    "check": {
+      "kind": "change",
+      "before": 5,
+      "after": 8,
+      "result": 3
+    },
+    "question": {
+      "enString": "More children join 5 children, making 8. How many joined?",
+      "frenchString": "Des enfants rejoignent un groupe de 5, qui devient 8. Combien sont arrivés ?",
+      "idString": "Anak-anak bergabung dengan 5 anak hingga menjadi 8. Berapa yang bergabung?",
+      "vnString": "Có thêm bạn vào nhóm 5 bạn thành 8 bạn. Có mấy bạn mới vào?",
+      "arString": "انضم أطفال إلى 5 أطفال فأصبحوا 8. كم طفلا انضم؟"
+    },
+    "id": 130,
+    "quiz_id": 26,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "body_senses",
+    "thinking": "understand",
+    "difficulty": "basic",
+    "basis": "HEARING",
+    "check": null,
+    "question": {
+      "enString": "A bell rings behind you. Which sense detects its sound?",
+      "frenchString": "Une cloche sonne derrière toi. Quel sens perçoit ce son ?",
+      "idString": "Lonceng berbunyi di belakangmu. Indra apa yang menangkap bunyinya?",
+      "vnString": "Chuông reo sau lưng em. Giác quan nào nhận ra tiếng chuông?",
+      "arString": "يرن جرس خلفك. أي حاسة تدرك صوته؟"
+    },
+    "id": 131,
+    "quiz_id": 27,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "cooperation",
+    "thinking": "understand",
+    "difficulty": "basic",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Two children carry one box together. What are they doing?",
+      "frenchString": "Deux enfants portent une boîte ensemble. Que font-ils ?",
+      "idString": "Dua anak membawa satu kotak bersama. Apa yang mereka lakukan?",
+      "vnString": "Hai bạn cùng khiêng một hộp. Hai bạn đang làm gì?",
+      "arString": "يحمل طفلان صندوقا معا. ماذا يفعلان؟"
+    },
+    "id": 132,
+    "quiz_id": 27,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "basis": "code",
+    "check": {
+      "kind": "initial",
+      "after": 7,
+      "added": 3,
+      "result": 4
+    },
+    "question": {
+      "enString": "Some birds are on a branch; 3 arrive, making 7. How many were there first?",
+      "frenchString": "Des oiseaux sont sur une branche; 3 arrivent, ils sont alors 7. Combien étaient là avant ?",
+      "idString": "Ada burung di dahan; 3 datang sehingga menjadi 7. Berapa burung semula?",
+      "vnString": "Có chim trên cành, thêm 3 con thành 7 con. Lúc đầu có mấy con?",
+      "arString": "على غصن طيور وجاءت 3 فأصبحت 7. كم طائرا كان أولا؟"
+    },
+    "id": 133,
+    "quiz_id": 27,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "count_order",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "ordinal_before",
+      "position": 3,
+      "result": 2
+    },
+    "question": {
+      "enString": "Ada is third in line. How many children are before her?",
+      "frenchString": "Ada est troisième dans la file. Combien d'enfants sont avant elle ?",
+      "idString": "Ada berada di urutan ketiga. Berapa anak di depannya?",
+      "vnString": "Ada đứng thứ ba trong hàng. Có mấy bạn trước Ada?",
+      "arString": "آدا ثالثة في الصف. كم طفلا يقف قبلها؟"
+    },
+    "id": 134,
+    "quiz_id": 27,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "word",
+    "thinking": "understand",
+    "difficulty": "basic",
+    "basis": "meaning",
+    "check": null,
+    "question": {
+      "enString": "Which word tells a taste?",
+      "frenchString": "Quel mot décrit un goût ?",
+      "idString": "Kata mana menyatakan rasa?",
+      "vnString": "Từ nào chỉ vị?",
+      "arString": "أي كلمة تصف طعما؟"
+    },
+    "id": 135,
+    "quiz_id": 27,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "passage",
+    "thinking": "understand",
+    "difficulty": "basic",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "Mina lost her hat. Ali found it. What did Ali find?",
+      "frenchString": "Mina a perdu son chapeau. Ali l'a trouvé. Qu'a trouvé Ali ?",
+      "idString": "Mina kehilangan topinya. Ali menemukannya. Apa yang Ali temukan?",
+      "vnString": "Mina mất mũ. Ali tìm thấy nó. Ali tìm thấy gì?",
+      "arString": "فقدت مينا قبعتها. وجدها علي. ماذا وجد علي؟"
+    },
+    "id": 136,
+    "quiz_id": 28,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "materials_water",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "ABSORB",
+    "check": null,
+    "question": {
+      "enString": "Which pair can soak up a little spilled water?",
+      "frenchString": "Quelle paire peut absorber un peu d'eau renversée ?",
+      "idString": "Pasangan mana dapat menyerap sedikit air tumpah?",
+      "vnString": "Cặp nào thấm được ít nước đổ ra?",
+      "arString": "أي زوج يستطيع امتصاص قليل من الماء المسكوب؟"
+    },
+    "id": 137,
+    "quiz_id": 28,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "cooperation",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Your friend needs a book on a high shelf. How can you help get that book safely?",
+      "frenchString": "Ton ami veut un livre sur une étagère haute. Comment l'aider à l'obtenir sans danger ?",
+      "idString": "Temanmu memerlukan buku di rak tinggi. Bagaimana membantu mengambil buku itu dengan aman?",
+      "vnString": "Bạn cần sách trên giá cao. Em giúp lấy sách an toàn thế nào?",
+      "arString": "يحتاج صديقك إلى كتاب على رف عال. كيف تساعده على أخذه بأمان؟"
+    },
+    "id": 138,
+    "quiz_id": 28,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "missing_addend",
+      "total": 9,
+      "known": 4,
+      "result": 5
+    },
+    "question": {
+      "enString": "Find the missing number: __ + 4 = 9.",
+      "frenchString": "Trouve le nombre manquant : __ + 4 = 9.",
+      "idString": "Cari bilangan yang hilang: __ + 4 = 9.",
+      "vnString": "Tìm số thiếu: __ + 4 = 9.",
+      "arString": "جد العدد الناقص: __ + 4 = 9."
+    },
+    "id": 139,
+    "quiz_id": 28,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "shape_pattern",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "SHAPES",
+    "check": null,
+    "question": {
+      "enString": "Which pair has corners on both shapes?",
+      "frenchString": "Dans quelle paire les deux formes ont-elles des sommets ?",
+      "idString": "Pasangan mana yang kedua bentuknya memiliki sudut?",
+      "vnString": "Cặp nào có góc ở cả hai hình?",
+      "arString": "أي زوج فيه زوايا في كلا الشكلين؟"
+    },
+    "id": 140,
+    "quiz_id": 28,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "addition_subtraction",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "basis": "code",
+    "check": {
+      "kind": "sign",
+      "left": 6,
+      "right": 2,
+      "total": 8,
+      "result": "+"
+    },
+    "question": {
+      "enString": "Which sign makes this true: 6 __ 2 = 8?",
+      "frenchString": "Quel signe complète : 6 __ 2 = 8 ?",
+      "idString": "Tanda mana yang membuat ini benar: 6 __ 2 = 8?",
+      "vnString": "Dấu nào làm phép tính đúng: 6 __ 2 = 8?",
+      "arString": "أي رمز يجعل العبارة صحيحة: 6 __ 2 = 8؟"
+    },
+    "id": 141,
+    "quiz_id": 29,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "roles",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "JOBS",
+    "check": null,
+    "question": {
+      "enString": "Who cares for plants in a park as a job?",
+      "frenchString": "Qui entretient les plantes d'un parc dans son métier ?",
+      "idString": "Siapa yang bekerja merawat tanaman di taman?",
+      "vnString": "Ai làm nghề chăm cây trong công viên?",
+      "arString": "من يعتني بنباتات الحديقة في عمله؟"
+    },
+    "id": 142,
+    "quiz_id": 29,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "word",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "meaning",
+    "check": null,
+    "question": {
+      "enString": "Which word is the opposite of open?",
+      "frenchString": "Quel mot est le contraire d'ouvert ?",
+      "idString": "Kata apa yang berlawanan dengan terbuka?",
+      "vnString": "Từ nào trái nghĩa với mở?",
+      "arString": "ما عكس كلمة مفتوح؟"
+    },
+    "id": 143,
+    "quiz_id": 29,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "living_things",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "SEEDS",
+    "check": null,
+    "question": {
+      "enString": "Which can grow into a bean plant?",
+      "frenchString": "Qu'est-ce qui peut devenir un plant de haricot ?",
+      "idString": "Mana yang dapat tumbuh menjadi tanaman kacang?",
+      "vnString": "Thứ nào có thể lớn thành cây đậu?",
+      "arString": "أي شيء يمكن أن ينمو ليصبح نبات فاصوليا؟"
+    },
+    "id": 144,
+    "quiz_id": 29,
+    "correct_index": 0,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "measurement",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "basis": "code",
+    "check": {
+      "kind": "compare",
+      "a": 2,
+      "b": 5,
+      "relation": "larger",
+      "result": "book"
+    },
+    "question": {
+      "enString": "Using identical blocks, a toy balances 2 and a book balances 5. Which weighs more?",
+      "frenchString": "Avec des cubes identiques, un jouet en équilibre 2 et un livre 5. Lequel pèse plus?",
+      "idString": "Dengan balok yang identik, mainan seimbang dengan 2 balok dan buku dengan 5 balok. Mana lebih berat?",
+      "vnString": "Dùng các khối giống hệt nhau, đồ chơi cân bằng 2 khối, sách cân bằng 5 khối. Vật nào nặng hơn?",
+      "arString": "باستخدام كتل متماثلة تتعادل لعبة مع كتلتين وكتاب مع 5 كتل. أيهما أثقل؟"
+    },
+    "id": 145,
+    "quiz_id": 29,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "count_order",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "code",
+    "check": {
+      "kind": "sequence",
+      "items": [
+        11,
+        12,
+        null,
+        14
+      ],
+      "step": 1,
+      "result": 13
+    },
+    "question": {
+      "enString": "Fill the gap: 11, 12, __, 14.",
+      "frenchString": "Complète : 11, 12, __, 14.",
+      "idString": "Isi bagian kosong: 11, 12, __, 14.",
+      "vnString": "Điền số thiếu: 11, 12, __, 14.",
+      "arString": "أكمل: 11، 12، __، 14."
+    },
+    "id": 146,
+    "quiz_id": 30,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "science",
+    "subtopic": "body_senses",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "BODY",
+    "check": null,
+    "question": {
+      "enString": "Which joint bends in the middle of your arm?",
+      "frenchString": "Quelle articulation plie au milieu du bras ?",
+      "idString": "Sendi apa yang menekuk di tengah lengan?",
+      "vnString": "Khớp nào gập ở giữa cánh tay?",
+      "arString": "أي مفصل ينثني في وسط الذراع؟"
+    },
+    "id": 147,
+    "quiz_id": 30,
+    "correct_index": 3,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "social",
+    "subtopic": "care",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "basis": "scenario",
+    "check": null,
+    "question": {
+      "enString": "Class rule: wet brushes go in the tray. Your brush is wet; where does it go?",
+      "frenchString": "Règle de classe : les pinceaux mouillés vont dans le bac. Le tien est mouillé; où le mets-tu ?",
+      "idString": "Aturan kelas: kuas basah masuk ke baki. Kuasmu basah; di mana kamu menaruhnya?",
+      "vnString": "Quy định lớp: cọ ướt để vào khay. Cọ em ướt, em để ở đâu?",
+      "arString": "قاعدة الصف: توضع الفرش المبللة في الصينية. فرشاتك مبللة فأين تضعها؟"
+    },
+    "id": 148,
+    "quiz_id": 30,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "language",
+    "subtopic": "sentence",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "text",
+    "check": null,
+    "question": {
+      "enString": "Sam feeds a duck. Who feeds the duck?",
+      "frenchString": "Sam nourrit un canard. Qui nourrit le canard ?",
+      "idString": "Sam memberi makan bebek. Siapa yang memberi makan bebek?",
+      "vnString": "Sam cho vịt ăn. Ai cho vịt ăn?",
+      "arString": "يطعم سام بطة. من يطعم البطة؟"
+    },
+    "id": 149,
+    "quiz_id": 30,
+    "correct_index": 1,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  },
+  {
+    "subject": "math",
+    "subtopic": "shape_pattern",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "basis": "SHAPES",
+    "check": null,
+    "question": {
+      "enString": "Which solid has the shape of a ball?",
+      "frenchString": "Quel solide a la forme d'une balle ?",
+      "idString": "Bangun ruang mana berbentuk seperti bola mainan?",
+      "vnString": "Khối nào có dạng quả bóng?",
+      "arString": "أي مجسم له شكل كرة اللعب؟"
+    },
+    "id": 150,
+    "quiz_id": 30,
+    "correct_index": 2,
+    "origin": "original educational item; scenarios and passages are fictional",
+    "localization": "equivalent native-language learning"
+  }
+]

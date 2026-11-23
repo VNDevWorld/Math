@@ -1,0 +1,1702 @@
+[
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Why might a diary miss part of an event?",
+      "frenchString": "Pourquoi un journal personnel peut-il omettre une partie d'un événement ?",
+      "idString": "Mengapa buku harian bisa melewatkan sebagian peristiwa?",
+      "vnString": "Vì sao nhật ký có thể không kể đủ một sự kiện?",
+      "arString": "لماذا قد تغيب بعض تفاصيل حدث عن مذكرات شخص؟"
+    },
+    "id": 51,
+    "quiz_id": 11,
+    "correct_index": 2
+  },
+  {
+    "topic": "culture",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "A hypothetical US class can fund either a quilt storage box alone or a workshop requested by makers who need new learners. Which directly addresses the stated transmission need?",
+      "frenchString": "Une classe fictive en France veut aider des boulangers qui cherchent des apprentis. Quel projet répond directement à ce besoin de transmission ?",
+      "idString": "Kelas rekaan ingin membantu perajin batik yang memerlukan murid baru. Proyek mana langsung menjawab kebutuhan pewarisan itu?",
+      "vnString": "Lớp giả định muốn giúp nghệ nhân gốm Chăm đang cần người học nghề. Dự án nào trực tiếp đáp ứng nhu cầu truyền nghề?",
+      "arString": "يريد صف افتراضي مساعدة خطاطين يحتاجون إلى متعلمين جدد. أي مشروع يستجيب مباشرة لحاجة نقل المهارة؟"
+    },
+    "id": 52,
+    "quiz_id": 11,
+    "correct_index": 0
+  },
+  {
+    "topic": "geography",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "Which term means land surrounded by water?",
+      "frenchString": "Quel terme désigne une terre entourée d'eau ?",
+      "idString": "Apa sebutan daratan yang dikelilingi air?",
+      "vnString": "Vùng đất được nước bao quanh gọi là gì?",
+      "arString": "ما اسم اليابسة المحاطة بالماء من جميع الجهات؟"
+    },
+    "id": 53,
+    "quiz_id": 11,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Why is treating everyone fairly not always giving identical help?",
+      "frenchString": "Pourquoi l'équité ne consiste-t-elle pas toujours à donner la même aide ?",
+      "idString": "Mengapa adil tidak selalu berarti memberi bantuan yang sama?",
+      "vnString": "Vì sao công bằng không phải lúc nào cũng là hỗ trợ giống hệt nhau?",
+      "arString": "لماذا لا تعني العدالة دائما تقديم مساعدة متطابقة؟"
+    },
+    "id": 54,
+    "quiz_id": 11,
+    "correct_index": 2
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "An imagined Appalachian community builds a winding road instead of a straight steep route. Why?",
+      "frenchString": "Une commune fictive des Alpes construit une route en lacets plutôt qu'une montée droite très raide. Pourquoi ?",
+      "idString": "Desa rekaan di pegunungan Sulawesi membuat jalan berkelok daripada lurus terjal. Mengapa?",
+      "vnString": "Một bản giả định ở miền núi phía Bắc làm đường uốn thay vì đi thẳng dốc đứng. Vì sao?",
+      "arString": "تشق قرية افتراضية في جبال الأطلس طريقا متعرجا بدلا من طريق مستقيم شديد الانحدار. لماذا؟"
+    },
+    "id": 55,
+    "quiz_id": 11,
+    "correct_index": 2
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Which is a peaceful way to express a disagreement?",
+      "frenchString": "Comment exprimer un désaccord pacifiquement ?",
+      "idString": "Bagaimana menyampaikan ketidaksetujuan secara damai?",
+      "vnString": "Cách nào thể hiện bất đồng một cách ôn hòa?",
+      "arString": "كيف نعبر عن اختلاف الرأي سلميا؟"
+    },
+    "id": 56,
+    "quiz_id": 12,
+    "correct_index": 2
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Which behavior shows respect when visiting an unfamiliar cultural place?",
+      "frenchString": "Quel comportement est respectueux dans un lieu culturel inconnu ?",
+      "idString": "Sikap apa yang menghormati tempat budaya yang belum dikenal?",
+      "vnString": "Hành vi nào tôn trọng nơi sinh hoạt văn hóa chưa quen thuộc?",
+      "arString": "أي سلوك يحترم مكانا ثقافيا غير مألوف؟"
+    },
+    "id": 57,
+    "quiz_id": 12,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "In an imagined New York family archive, a letter describes arrival by ship. Why compare it with a passenger record?",
+      "frenchString": "Dans des archives familiales fictives à Marseille, une lettre décrit un voyage en bateau. Pourquoi la comparer à un registre de passagers ?",
+      "idString": "Dalam arsip keluarga rekaan di Surabaya, surat menceritakan perjalanan kapal. Mengapa dibandingkan dengan daftar penumpang?",
+      "vnString": "Trong hồ sơ gia đình giả định ở Hải Phòng, thư kể chuyến đi tàu biển. Vì sao nên đối chiếu danh sách hành khách?",
+      "arString": "في أرشيف أسرة افتراضي بالإسكندرية تصف رسالة رحلة بحرية. لماذا نقارنها بسجل الركاب؟"
+    },
+    "id": 58,
+    "quiz_id": 12,
+    "correct_index": 0
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "NPS",
+    "question": {
+      "enString": "Why record where an old object was found?",
+      "frenchString": "Pourquoi noter le lieu de découverte d'un objet ancien ?",
+      "idString": "Mengapa lokasi penemuan benda kuno dicatat?",
+      "vnString": "Vì sao cần ghi lại nơi tìm thấy hiện vật cổ?",
+      "arString": "لماذا نسجل مكان العثور على قطعة قديمة؟"
+    },
+    "id": 59,
+    "quiz_id": 12,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "A hypothetical Great Plains town needs a map for comparing farms with railway access. Which two layers help most directly?",
+      "frenchString": "Une commune fictive de la Beauce compare l'accès des fermes au rail. Quelles données cartographiques sont directement utiles ?",
+      "idString": "Daerah rekaan di Jawa membandingkan akses sawah ke jalan pengangkutan. Lapisan peta apa yang langsung berguna?",
+      "vnString": "Một huyện giả định ở đồng bằng sông Cửu Long so sánh vườn cây với tuyến kênh chở hàng. Cần hai lớp bản đồ nào?",
+      "arString": "تقارن منطقة زراعية افتراضية قرب النيل وصول الحقول إلى طرق النقل. أي طبقتين على الخريطة تفيدان مباشرة؟"
+    },
+    "id": 60,
+    "quiz_id": 12,
+    "correct_index": 1
+  },
+  {
+    "topic": "culture",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Why is one family's custom not enough to describe an entire country?",
+      "frenchString": "Pourquoi la coutume d'une famille ne décrit-elle pas tout un pays ?",
+      "idString": "Mengapa kebiasaan satu keluarga tidak mewakili seluruh negara?",
+      "vnString": "Vì sao phong tục một gia đình chưa đủ mô tả cả nước?",
+      "arString": "لماذا لا تكفي عادة أسرة واحدة لوصف بلد كامل؟"
+    },
+    "id": 61,
+    "quiz_id": 13,
+    "correct_index": 1
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "Which item is a tool used in production?",
+      "frenchString": "Quel objet est un outil de production ?",
+      "idString": "Benda mana yang menjadi alat produksi?",
+      "vnString": "Vật nào là công cụ sản xuất?",
+      "arString": "أي شيء أداة تستخدم في الإنتاج؟"
+    },
+    "id": 62,
+    "quiz_id": 13,
+    "correct_index": 0
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Which project documents a traditional recipe?",
+      "frenchString": "Quel projet documente une recette traditionnelle ?",
+      "idString": "Proyek mana mendokumentasikan resep tradisional?",
+      "vnString": "Dự án nào ghi chép công thức món truyền thống?",
+      "arString": "أي مشروع يوثق وصفة تقليدية؟"
+    },
+    "id": 63,
+    "quiz_id": 13,
+    "correct_index": 2
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "A hypothetical California evacuation map marks one road closed by a flood. Two routes reach the shelter; only Route B avoids that road. Which should be chosen on this evidence?",
+      "frenchString": "Un plan fictif d'évacuation en France indique une route inondée fermée. Seul l'itinéraire B l'évite et atteint l'abri. Lequel choisir d'après ces données ?",
+      "idString": "Peta evakuasi rekaan di Jawa menunjukkan jalan ditutup banjir. Hanya rute B menghindarinya dan mencapai tempat aman. Mana yang dipilih?",
+      "vnString": "Sơ đồ sơ tán giả định ở miền Trung ghi một đường đóng do lũ. Chỉ tuyến B tránh đường đó và tới nơi trú. Nên chọn gì theo dữ kiện?",
+      "arString": "تشير خريطة إخلاء افتراضية في عمان إلى طريق مغلق بالفيضان. المسار ب وحده يتجنبه ويصل إلى الملجأ. أي مسار نختار؟"
+    },
+    "id": 64,
+    "quiz_id": 13,
+    "correct_index": 3
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "In an imagined US town, a bakery buys flour from a mill. What does this show?",
+      "frenchString": "Dans une ville fictive en France, un fromager achète du lait à une ferme. Que montre cet exemple ?",
+      "idString": "Di kota rekaan Indonesia, pembuat tempe membeli kedelai dari petani. Apa yang ditunjukkan?",
+      "vnString": "Ở thị trấn giả định tại Việt Nam, cơ sở làm bún mua gạo từ nông dân. Điều này cho thấy gì?",
+      "arString": "في بلدة عربية افتراضية يشتري خباز الدقيق من مطحنة. ماذا يبين ذلك؟"
+    },
+    "id": 65,
+    "quiz_id": 13,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Which action shows care for shared public space?",
+      "frenchString": "Quel geste protège un espace public partagé ?",
+      "idString": "Tindakan mana yang merawat ruang publik bersama?",
+      "vnString": "Việc nào thể hiện giữ gìn không gian công cộng?",
+      "arString": "أي تصرف يحافظ على المكان العام المشترك؟"
+    },
+    "id": 66,
+    "quiz_id": 14,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A hypothetical US town publishes reasons for a park redesign. Why is this useful to residents?",
+      "frenchString": "Une mairie fictive en France explique son projet de place publique. Pourquoi est-ce utile aux habitants ?",
+      "idString": "Kelurahan rekaan di Indonesia menjelaskan rencana perbaikan taman. Apa manfaatnya bagi warga?",
+      "vnString": "Một địa phương giả định ở Việt Nam công bố lý do sửa sân chơi. Vì sao có ích cho người dân?",
+      "arString": "توضح بلدية افتراضية في بلد عربي أسباب تعديل حديقة. لماذا يفيد ذلك السكان؟"
+    },
+    "id": 67,
+    "quiz_id": 14,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A fictional US park survey asks only morning visitors, but the decision concerns all users. What improves the evidence?",
+      "frenchString": "Une enquête fictive dans un parc français interroge seulement les visiteurs du matin. Comment mieux connaître l'ensemble des usages ?",
+      "idString": "Survei taman rekaan di Indonesia hanya bertanya kepada pengunjung pagi. Apa yang memperbaiki bukti tentang semua pengguna?",
+      "vnString": "Khảo sát công viên giả định ở Việt Nam chỉ hỏi khách buổi sáng. Làm gì để hiểu thêm mọi nhóm dùng?",
+      "arString": "تسأل دراسة افتراضية لحديقة في مدينة عربية زوار الصباح فقط. ما الذي يحسن الأدلة عن جميع المستخدمين؟"
+    },
+    "id": 68,
+    "quiz_id": 14,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "What is a river mouth?",
+      "frenchString": "Qu'est-ce que l'embouchure d'un fleuve ?",
+      "idString": "Apa yang dimaksud dengan muara sungai?",
+      "vnString": "Cửa sông là gì?",
+      "arString": "ما مصب النهر؟"
+    },
+    "id": 69,
+    "quiz_id": 14,
+    "correct_index": 0
+  },
+  {
+    "topic": "culture",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "In an imagined project, pupils want to record a storyteller. What should they do before recording and publishing?",
+      "frenchString": "Dans un projet fictif, des élèves veulent enregistrer un conteur. Que faire avant d'enregistrer et publier ?",
+      "idString": "Dalam proyek rekaan, siswa ingin merekam pendongeng. Apa yang dilakukan sebelum merekam dan menerbitkan?",
+      "vnString": "Trong dự án giả định, học sinh muốn ghi âm người kể chuyện. Cần làm gì trước khi ghi và đăng?",
+      "arString": "في مشروع افتراضي يريد طلاب تسجيل راو. ماذا يفعلون قبل التسجيل والنشر؟"
+    },
+    "id": 70,
+    "quiz_id": 14,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "local",
+    "source": "SITES",
+    "question": {
+      "enString": "The Statue of Liberty was dedicated in 1886. Which period includes that year?",
+      "frenchString": "Le pont du Gard est un ouvrage romain antique. Quelle période lui correspond ?",
+      "idString": "Borobudur dibangun pada abad ke-8 dan ke-9, lalu dipugar dengan bantuan UNESCO pada 1970-an. Mana yang lebih dahulu?",
+      "vnString": "Huế là kinh đô từ năm 1802 đến năm 1945. Mốc nào bắt đầu giai đoạn này?",
+      "arString": "تأسست فاس في القرن التاسع ونقلت العاصمة السياسية إلى الرباط عام 1912. أيهما وقع أولا؟"
+    },
+    "id": 71,
+    "quiz_id": 15,
+    "correct_index": 3
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Why can a ramp help make a library more inclusive?",
+      "frenchString": "Pourquoi une rampe rend-elle une bibliothèque plus accessible ?",
+      "idString": "Mengapa jalur landai membuat perpustakaan lebih inklusif?",
+      "vnString": "Vì sao đường dốc giúp thư viện phục vụ nhiều người hơn?",
+      "arString": "لماذا يجعل المنحدر المكتبة أكثر شمولا؟"
+    },
+    "id": 72,
+    "quiz_id": 15,
+    "correct_index": 3
+  },
+  {
+    "topic": "civics",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A fictional school collects playground ideas only in writing. Some pupils cannot yet read well. What would widen participation?",
+      "frenchString": "Une école fictive recueille seulement des propositions écrites. Certains élèves lisent difficilement. Comment élargir la participation ?",
+      "idString": "Sekolah rekaan hanya menerima usulan tertulis. Sebagian siswa belum lancar membaca. Apa yang memperluas partisipasi?",
+      "vnString": "Trường giả định chỉ nhận ý tưởng sân chơi bằng chữ. Một số bạn chưa đọc tốt. Làm gì để thêm bạn tham gia?",
+      "arString": "تجمع مدرسة افتراضية أفكار الملعب كتابة فقط وبعض الطلاب لا يجيدون القراءة بعد. كيف توسع المشاركة؟"
+    },
+    "id": 73,
+    "quiz_id": 15,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Two imagined maps show the same village in 1900 and 2000. Only the later map shows a railway. What change is supported?",
+      "frenchString": "Deux cartes fictives montrent un village en 1900 et en 2000. Seule la seconde indique une voie ferrée. Quel changement est établi ?",
+      "idString": "Dua peta rekaan menunjukkan desa pada 1900 dan 2000. Hanya peta kedua memuat rel. Perubahan apa yang didukung?",
+      "vnString": "Hai bản đồ giả định vẽ cùng một làng năm 1900 và 2000. Chỉ bản đồ sau có đường sắt. Thay đổi nào có căn cứ?",
+      "arString": "تظهر خريطتان افتراضيتان قرية عامي 1900 و2000. لا يظهر خط القطار إلا في الثانية. أي تغير تدعمه الخريطتان؟"
+    },
+    "id": 74,
+    "quiz_id": 15,
+    "correct_index": 0
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "NOAA",
+    "question": {
+      "enString": "A hypothetical Arizona town limits watering during a long dry period. Which local condition explains the choice?",
+      "frenchString": "Une commune fictive de Provence limite l'arrosage pendant une longue sécheresse. Quelle condition explique ce choix ?",
+      "idString": "Desa rekaan di Nusa Tenggara membatasi penyiraman saat kemarau panjang. Kondisi apa menjelaskan pilihan itu?",
+      "vnString": "Một xã giả định ở Ninh Thuận hạn chế tưới khi khô hạn kéo dài. Điều kiện nào giải thích lựa chọn đó?",
+      "arString": "تحد قرية افتراضية قرب واحة من الري خلال فترة جفاف طويلة. ما الذي يفسر القرار؟"
+    },
+    "id": 75,
+    "quiz_id": 15,
+    "correct_index": 0
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "In an imagined town, a bridge opened in 1920 and a library in 1935. Which statement follows?",
+      "frenchString": "Dans une ville imaginaire, un pont ouvre en 1920 et une bibliothèque en 1935. Que peut-on conclure ?",
+      "idString": "Di kota rekaan, jembatan dibuka pada 1920 dan perpustakaan pada 1935. Apa kesimpulannya?",
+      "vnString": "Ở một thị trấn giả định, cầu mở năm 1920 và thư viện mở năm 1935. Kết luận nào có căn cứ?",
+      "arString": "في بلدة خيالية افتتح جسر عام 1920 ومكتبة عام 1935. ماذا نستنتج؟"
+    },
+    "id": 76,
+    "quiz_id": 16,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "A baker makes bread for sale. In this activity, the baker is a ___.",
+      "frenchString": "Un boulanger fabrique du pain pour le vendre. Dans cette activité, il est un ___.",
+      "idString": "Pembuat roti membuat roti untuk dijual. Dalam kegiatan ini, ia adalah ___.",
+      "vnString": "Thợ bánh làm bánh để bán. Trong hoạt động này, người đó là ___.",
+      "arString": "يخبز شخص خبزا للبيع. ما دوره في هذا النشاط؟"
+    },
+    "id": 77,
+    "quiz_id": 16,
+    "correct_index": 0
+  },
+  {
+    "topic": "culture",
+    "thinking": "understand",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "An imagined US exhibit shows a quilt but gives no information about its maker or community. What important context is missing?",
+      "frenchString": "Une exposition fictive en France montre une baguette sans expliquer le travail du boulanger. Quel contexte manque ?",
+      "idString": "Pameran rekaan Indonesia menampilkan batik tanpa cerita pembuatnya. Konteks penting apa yang hilang?",
+      "vnString": "Trưng bày giả định ở Việt Nam có gốm Chăm mà không kể về người làm. Thiếu bối cảnh quan trọng nào?",
+      "arString": "يعرض معرض افتراضي لوحة خط عربي دون معلومات عن خطاطها. ما السياق المهم الغائب؟"
+    },
+    "id": 78,
+    "quiz_id": 16,
+    "correct_index": 3
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Who should help explain the meaning of a community tradition?",
+      "frenchString": "Qui devrait contribuer à expliquer le sens d'une tradition ?",
+      "idString": "Siapa yang perlu dilibatkan untuk menjelaskan makna tradisi?",
+      "vnString": "Ai nên tham gia giải thích ý nghĩa truyền thống cộng đồng?",
+      "arString": "من ينبغي أن يشارك في شرح معنى تقليد مجتمعي؟"
+    },
+    "id": 79,
+    "quiz_id": 16,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "In a fictional Chicago history display, a factory owner's account praises long working hours. Why seek workers' accounts too?",
+      "frenchString": "Dans une exposition fictive à Lille, un patron vante de longues journées d'usine. Pourquoi consulter aussi les ouvriers ?",
+      "idString": "Dalam pameran rekaan di Bandung, pemilik pabrik memuji jam kerja panjang. Mengapa mencari cerita pekerja?",
+      "vnString": "Trong trưng bày giả định ở Nam Định, chủ xưởng khen ngày làm việc dài. Vì sao cần tìm lời kể của công nhân?",
+      "arString": "في معرض افتراضي بالدار البيضاء يمدح صاحب مصنع ساعات العمل الطويلة. لماذا نبحث عن روايات العمال؟"
+    },
+    "id": 80,
+    "quiz_id": 16,
+    "correct_index": 3
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "Which purchase pays mainly for a service?",
+      "frenchString": "Quel achat paie surtout un service ?",
+      "idString": "Pembelian mana yang terutama membayar jasa?",
+      "vnString": "Khoản mua nào chủ yếu trả cho dịch vụ?",
+      "arString": "أي شراء يدفع أساسا مقابل خدمة؟"
+    },
+    "id": 81,
+    "quiz_id": 17,
+    "correct_index": 2
+  },
+  {
+    "topic": "geography",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "local",
+    "source": "SITES",
+    "question": {
+      "enString": "The Statue of Liberty stands at the entrance to New York Harbor. Which setting does this describe?",
+      "frenchString": "Le pont du Gard permettait à un aqueduc de franchir le Gardon. Quel obstacle naturel franchissait-il ?",
+      "idString": "Borobudur berada di Jawa Tengah. Wilayah mana yang perlu dicari pada peta Indonesia untuk menemukannya?",
+      "vnString": "Sông Hương uốn qua khu vực di tích Huế. Yếu tố tự nhiên nào được nhắc đến?",
+      "arString": "تقع مدينة فاس القديمة في المغرب. أي بلد نبحث عنه لتحديد موقعها على خريطة المنطقة؟"
+    },
+    "id": 82,
+    "quiz_id": 17,
+    "correct_index": 2
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "Why does a very detailed town map usually cover less land than a country map?",
+      "frenchString": "Pourquoi une carte urbaine très détaillée couvre-t-elle souvent moins de territoire qu'une carte nationale ?",
+      "idString": "Mengapa peta kota yang rinci biasanya mencakup wilayah lebih kecil daripada peta negara?",
+      "vnString": "Vì sao bản đồ phố rất chi tiết thường vẽ vùng nhỏ hơn bản đồ cả nước?",
+      "arString": "لماذا تغطي خريطة بلدة مفصلة مساحة أصغر عادة من خريطة دولة؟"
+    },
+    "id": 83,
+    "quiz_id": 17,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A hypothetical US class wants to post a map of pupils' homes publicly. Which alternative protects privacy while showing the class's general area?",
+      "frenchString": "Une classe fictive en France veut publier une carte des domiciles. Quelle solution montre les zones générales sans exposer la vie privée ?",
+      "idString": "Kelas rekaan di Indonesia ingin memublikasikan peta rumah siswa. Pilihan mana menjaga privasi sambil menunjukkan wilayah umum?",
+      "vnString": "Lớp giả định ở Việt Nam muốn đăng bản đồ nhà học sinh. Cách nào vừa cho biết khu vực chung vừa giữ riêng tư?",
+      "arString": "يريد صف افتراضي في مدرسة عربية نشر خريطة منازل الطلاب. أي بديل يحمي الخصوصية ويبين المناطق العامة؟"
+    },
+    "id": 84,
+    "quiz_id": 17,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Which action lets children contribute ideas about their playground?",
+      "frenchString": "Quelle action permet aux enfants de proposer des idées pour leur cour ?",
+      "idString": "Tindakan apa yang memberi anak kesempatan mengusulkan ide taman bermain?",
+      "vnString": "Việc nào giúp trẻ đóng góp ý tưởng về sân chơi?",
+      "arString": "أي إجراء يتيح للأطفال اقتراح أفكار لملعبهم؟"
+    },
+    "id": 85,
+    "quiz_id": 17,
+    "correct_index": 0
+  },
+  {
+    "topic": "culture",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "For an imagined US quilt display, makers ask to approve captions before publication. Which plan respects this request?",
+      "frenchString": "Pour une exposition fictive sur la baguette en France, les boulangers demandent à valider les légendes. Quel plan respecte leur demande ?",
+      "idString": "Untuk pameran batik rekaan, perajin meminta memeriksa keterangan sebelum terbit. Rencana mana menghormatinya?",
+      "vnString": "Trong triển lãm gốm Chăm giả định, nghệ nhân muốn duyệt chú thích trước khi đăng. Cách nào tôn trọng yêu cầu?",
+      "arString": "في معرض خط عربي افتراضي يطلب الخطاطون مراجعة الشروح قبل نشرها. أي خطة تحترم الطلب؟"
+    },
+    "id": 86,
+    "quiz_id": 18,
+    "correct_index": 1
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "What does saving part of an allowance make possible?",
+      "frenchString": "Que permet d'épargner une partie de son argent de poche ?",
+      "idString": "Apa manfaat menyisihkan sebagian uang saku?",
+      "vnString": "Để dành một phần tiền tiêu vặt giúp làm gì?",
+      "arString": "ماذا يتيح ادخار جزء من المصروف؟"
+    },
+    "id": 87,
+    "quiz_id": 18,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "How can learning a new skill help a worker?",
+      "frenchString": "Comment apprendre une compétence peut-il aider un travailleur ?",
+      "idString": "Bagaimana mempelajari keterampilan baru membantu pekerja?",
+      "vnString": "Học kỹ năng mới có thể giúp người lao động thế nào?",
+      "arString": "كيف يفيد تعلم مهارة جديدة العامل؟"
+    },
+    "id": 88,
+    "quiz_id": 18,
+    "correct_index": 0
+  },
+  {
+    "topic": "economics",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "A fictional bakery has flour but its oven breaks. Which resource must be repaired to bake again?",
+      "frenchString": "Une boulangerie fictive a de la farine, mais son four tombe en panne. Que faut-il réparer pour cuire à nouveau ?",
+      "idString": "Toko roti rekaan punya tepung, tetapi ovennya rusak. Sumber daya apa yang perlu diperbaiki?",
+      "vnString": "Tiệm bánh giả định có bột nhưng lò bị hỏng. Nguồn lực nào cần sửa để nướng tiếp?",
+      "arString": "لدى مخبز افتراضي دقيق لكن فرنه تعطل. أي مورد يحتاج إلى الإصلاح لاستئناف الخبز؟"
+    },
+    "id": 89,
+    "quiz_id": 18,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "A hypothetical Boston exhibition shows a dated 1905 tram ticket and an undated drawing of a tram. Which directly supports a claim about a fare in 1905?",
+      "frenchString": "Une exposition fictive à Paris montre un ticket de métro daté de 1905 et un dessin non daté. Quelle pièce étaye directement le prix du trajet en 1905 ?",
+      "idString": "Pameran rekaan di Surabaya memuat tiket trem bertanggal 1905 dan gambar tanpa tanggal. Apa bukti langsung tarif pada 1905?",
+      "vnString": "Trưng bày giả định ở Hà Nội có vé tàu điện đề năm 1935 và hình vẽ không ghi năm. Nguồn nào trực tiếp chứng minh giá vé năm 1935?",
+      "arString": "يعرض معرض افتراضي بالإسكندرية تذكرة ترام مؤرخة بعام 1905 ورسما غير مؤرخ. ما الدليل المباشر على الأجرة في ذلك العام؟"
+    },
+    "id": 90,
+    "quiz_id": 18,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Which activity is volunteering?",
+      "frenchString": "Quelle activité est du bénévolat ?",
+      "idString": "Kegiatan mana yang termasuk kerja sukarela?",
+      "vnString": "Hoạt động nào là tình nguyện?",
+      "arString": "أي نشاط يعد تطوعا؟"
+    },
+    "id": 91,
+    "quiz_id": 19,
+    "correct_index": 0
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "A fictional map uses blue dots for wells. Three blue dots appear beside a road. What does this show?",
+      "frenchString": "Sur une carte fictive, les points bleus représentent des puits. Trois bordent une route. Que montrent-ils ?",
+      "idString": "Pada peta rekaan, titik biru berarti sumur. Ada tiga di tepi jalan. Apa artinya?",
+      "vnString": "Bản đồ giả định dùng chấm xanh chỉ giếng. Có ba chấm xanh cạnh đường. Chúng cho biết điều gì?",
+      "arString": "تستخدم خريطة افتراضية نقاطا زرقاء للآبار. تظهر ثلاث نقاط بجانب طريق. ماذا تعني؟"
+    },
+    "id": 92,
+    "quiz_id": 19,
+    "correct_index": 2
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A hypothetical US library offers notices in languages used by local families. What barrier does this reduce?",
+      "frenchString": "Une bibliothèque fictive en France propose des informations dans plusieurs langues du quartier. Quel obstacle réduit-elle ?",
+      "idString": "Perpustakaan rekaan di Indonesia memberi informasi dalam bahasa Indonesia dan bahasa daerah setempat. Hambatan apa yang berkurang?",
+      "vnString": "Thư viện giả định ở vùng nhiều dân tộc tại Việt Nam có thông báo bằng các ngôn ngữ địa phương. Giảm rào cản nào?",
+      "arString": "تعرض مكتبة افتراضية في حي عربي متعدد اللغات إعلانات بلغات الأسر المحلية. أي عائق تخففه؟"
+    },
+    "id": 93,
+    "quiz_id": 19,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "local",
+    "source": "SITES",
+    "question": {
+      "enString": "The Statue of Liberty was a gift from France to the United States. What does this example show?",
+      "frenchString": "Le pont du Gard faisait partie d'un aqueduc alimentant Nîmes. Quel besoin cet ouvrage aidait-il à satisfaire ?",
+      "idString": "Borobudur di Jawa Tengah adalah candi Buddha. Aspek kehidupan masa lalu apa yang terutama berkaitan dengan fungsi ini?",
+      "vnString": "Huế từng là kinh đô dưới triều Nguyễn. Vai trò đó chủ yếu gắn với lĩnh vực nào?",
+      "arString": "تضم مدينة فاس القديمة في المغرب مدارس ومساجد تاريخية. أي جانب من الحياة تساعد هذه المباني على دراسته؟"
+    },
+    "id": 94,
+    "quiz_id": 19,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Which object helps historians study how people cooked long ago?",
+      "frenchString": "Quel objet aide à étudier la cuisine d'autrefois ?",
+      "idString": "Benda apa yang membantu mempelajari cara memasak pada masa lalu?",
+      "vnString": "Hiện vật nào giúp tìm hiểu cách nấu ăn thời xưa?",
+      "arString": "أي شيء يساعد على دراسة الطبخ قديما؟"
+    },
+    "id": 95,
+    "quiz_id": 19,
+    "correct_index": 1
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "On a hypothetical New York ferry map, the museum is north of the dock and the park is east of the museum. Which route reaches the park from the dock?",
+      "frenchString": "Sur un plan fictif de Lyon, le musée est au nord de la gare et le parc à l'est du musée. Quel trajet mène de la gare au parc ?",
+      "idString": "Pada peta rekaan Yogyakarta, museum di utara pasar dan taman di timur museum. Rute mana menuju taman dari pasar?",
+      "vnString": "Trên sơ đồ giả định ở Đà Nẵng, bảo tàng ở bắc bến xe, công viên ở đông bảo tàng. Từ bến xe đi thế nào tới công viên?",
+      "arString": "في مخطط افتراضي لعمّان يقع المتحف شمال المحطة والحديقة شرق المتحف. كيف نصل من المحطة إلى الحديقة؟"
+    },
+    "id": 96,
+    "quiz_id": 20,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "In a hypothetical US class vote, a winning playground plan blocks wheelchair access. Why should it be revised?",
+      "frenchString": "Dans un vote de classe fictif en France, le projet gagnant bloque l'accès en fauteuil. Pourquoi le revoir ?",
+      "idString": "Dalam pemungutan suara kelas rekaan di Indonesia, rencana terpilih menutup akses kursi roda. Mengapa perlu direvisi?",
+      "vnString": "Trong cuộc biểu quyết giả định tại lớp ở Việt Nam, phương án thắng chặn lối xe lăn. Vì sao cần sửa?",
+      "arString": "في تصويت صفي افتراضي بمدرسة عربية يسد المقترح الفائز ممر الكراسي المتحركة. لماذا يراجع؟"
+    },
+    "id": 97,
+    "quiz_id": 20,
+    "correct_index": 2
+  },
+  {
+    "topic": "culture",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Why can a tradition change and still be living heritage?",
+      "frenchString": "Pourquoi une tradition peut-elle évoluer tout en restant un patrimoine vivant ?",
+      "idString": "Mengapa tradisi bisa berubah tetapi tetap menjadi warisan hidup?",
+      "vnString": "Vì sao truyền thống có thể thay đổi mà vẫn là di sản sống?",
+      "arString": "لماذا قد يتغير تقليد ويبقى تراثا حيا؟"
+    },
+    "id": 98,
+    "quiz_id": 20,
+    "correct_index": 3
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "Why can a faster delivery route help a shop?",
+      "frenchString": "Pourquoi un trajet de livraison plus rapide peut-il aider un magasin ?",
+      "idString": "Mengapa jalur pengiriman lebih cepat dapat membantu toko?",
+      "vnString": "Vì sao tuyến giao hàng nhanh hơn có thể giúp cửa hàng?",
+      "arString": "لماذا قد يفيد مسار توصيل أسرع متجرا؟"
+    },
+    "id": 99,
+    "quiz_id": 20,
+    "correct_index": 1
+  },
+  {
+    "topic": "geography",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "Which map is designed to show country borders?",
+      "frenchString": "Quelle carte montre surtout les frontières des pays ?",
+      "idString": "Peta apa yang terutama menunjukkan batas negara?",
+      "vnString": "Bản đồ nào chủ yếu thể hiện biên giới quốc gia?",
+      "arString": "أي خريطة تبين حدود الدول أساسا؟"
+    },
+    "id": 100,
+    "quiz_id": 20,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Why hear several views before choosing a class project?",
+      "frenchString": "Pourquoi écouter plusieurs avis avant de choisir un projet de classe ?",
+      "idString": "Mengapa mendengar beberapa pendapat sebelum memilih proyek kelas?",
+      "vnString": "Vì sao nên nghe nhiều ý kiến trước khi chọn dự án lớp?",
+      "arString": "لماذا نستمع إلى آراء متعددة قبل اختيار مشروع صفي؟"
+    },
+    "id": 101,
+    "quiz_id": 21,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "A hypothetical US school must choose a playground location. One proposal is cheaper but crosses a busy delivery route. What should the group compare?",
+      "frenchString": "Une école fictive en France choisit l'emplacement d'un jardin. Le moins cher oblige à traverser une voie de livraison très fréquentée. Que comparer ?",
+      "idString": "Sekolah rekaan di Indonesia memilih lokasi kebun. Pilihan murah melewati jalur pengiriman ramai. Apa yang dibandingkan?",
+      "vnString": "Trường giả định ở Việt Nam chọn nơi làm vườn. Chỗ rẻ hơn phải băng qua lối giao hàng đông xe. Cần so sánh gì?",
+      "arString": "تختار مدرسة افتراضية في مدينة عربية موقع حديقة. الموقع الأرخص يتطلب عبور طريق توصيل مزدحم. ماذا تقارن المجموعة؟"
+    },
+    "id": 102,
+    "quiz_id": 21,
+    "correct_index": 1
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "Why might a mountain pass become a trade route?",
+      "frenchString": "Pourquoi un col peut-il devenir une route commerciale ?",
+      "idString": "Mengapa celah pegunungan dapat menjadi jalur perdagangan?",
+      "vnString": "Vì sao đèo có thể trở thành tuyến giao thương?",
+      "arString": "لماذا قد يصبح الممر الجبلي طريقا تجاريا؟"
+    },
+    "id": 103,
+    "quiz_id": 21,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "In an imagined California exhibition, a school notebook shows arithmetic exercises but no games. Which conclusion stays within the evidence?",
+      "frenchString": "Dans une exposition fictive en Bretagne, un cahier montre des dictées mais aucun jeu. Quelle conclusion est justifiée ?",
+      "idString": "Dalam pameran rekaan di Bali, buku siswa berisi latihan hitung tanpa permainan. Kesimpulan apa yang didukung?",
+      "vnString": "Trong trưng bày giả định ở Cần Thơ, vở học có bài tập tính nhưng không ghi trò chơi. Kết luận nào có căn cứ?",
+      "arString": "في معرض افتراضي ببيروت يحتوي دفتر مدرسي على تمارين حساب ولا يذكر ألعابا. أي استنتاج تدعمه الأدلة؟"
+    },
+    "id": 104,
+    "quiz_id": 21,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "CENSUS",
+    "question": {
+      "enString": "Two fictional towns have the same population. Town A covers less land. Which has higher population density?",
+      "frenchString": "Deux villes fictives ont autant d'habitants. La ville A est moins étendue. Laquelle est plus densément peuplée ?",
+      "idString": "Dua kota rekaan berpenduduk sama. Wilayah kota A lebih kecil. Mana yang lebih padat?",
+      "vnString": "Hai thị trấn giả định có số dân bằng nhau. Thị trấn A có diện tích nhỏ hơn. Nơi nào có mật độ cao hơn?",
+      "arString": "لبلدتين افتراضيتين العدد نفسه من السكان ومساحة البلدة أ أصغر. أيهما أعلى كثافة؟"
+    },
+    "id": 105,
+    "quiz_id": 21,
+    "correct_index": 1
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Which example is a living cultural practice?",
+      "frenchString": "Quel exemple est une pratique culturelle vivante ?",
+      "idString": "Contoh mana yang merupakan praktik budaya hidup?",
+      "vnString": "Ví dụ nào là thực hành văn hóa được lưu truyền?",
+      "arString": "أي مثال يمثل ممارسة ثقافية حية؟"
+    },
+    "id": 106,
+    "quiz_id": 22,
+    "correct_index": 0
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "What does a timeline arrange?",
+      "frenchString": "Que classe une frise chronologique ?",
+      "idString": "Apa yang disusun pada garis waktu?",
+      "vnString": "Trục thời gian sắp xếp điều gì?",
+      "arString": "ماذا يرتب الخط الزمني؟"
+    },
+    "id": 107,
+    "quiz_id": 22,
+    "correct_index": 2
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "NOAA",
+    "question": {
+      "enString": "How does climate differ from today's weather?",
+      "frenchString": "En quoi le climat diffère-t-il du temps d'aujourd'hui ?",
+      "idString": "Apa perbedaan iklim dan cuaca hari ini?",
+      "vnString": "Khí hậu khác thời tiết hôm nay như thế nào?",
+      "arString": "كيف يختلف المناخ عن طقس اليوم؟"
+    },
+    "id": 108,
+    "quiz_id": 22,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "At a hypothetical US market, two identical baskets have the same price. One stall adds a delivery fee. What should a buyer compare?",
+      "frenchString": "Sur un marché fictif en France, deux paniers identiques ont le même prix, mais un vendeur ajoute une livraison payante. Que comparer ?",
+      "idString": "Di pasar daring rekaan Indonesia, dua tas sama memiliki harga sama, tetapi satu penjual menambah ongkir. Apa yang dibandingkan?",
+      "vnString": "Ở chợ trực tuyến giả định tại Việt Nam, hai cặp sách giống nhau cùng giá nhưng một nơi thêm phí giao hàng. Cần so sánh gì?",
+      "arString": "في سوق إلكتروني عربي افتراضي لحقيبتين متماثلتين السعر نفسه لكن بائعا يضيف أجرة توصيل. ماذا نقارن؟"
+    },
+    "id": 109,
+    "quiz_id": 22,
+    "correct_index": 3
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "A hypothetical museum in Boston labels a coat as a replica of an older one. How should it be used?",
+      "frenchString": "Un musée fictif à Lyon présente une copie d'un ancien métier à tisser. Comment l'utiliser ?",
+      "idString": "Museum rekaan di Yogyakarta menampilkan replika alat tenun lama. Bagaimana menggunakannya?",
+      "vnString": "Bảo tàng giả định ở Hà Nội trưng bày bản phục dựng trống cổ. Nên sử dụng nó thế nào?",
+      "arString": "يعرض متحف افتراضي في مسقط نسخة من سفينة قديمة. كيف نستخدمها؟"
+    },
+    "id": 110,
+    "quiz_id": 22,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "How does a historical explanation differ from a list of dates?",
+      "frenchString": "En quoi une explication historique diffère-t-elle d'une liste de dates ?",
+      "idString": "Apa perbedaan penjelasan sejarah dan daftar tanggal?",
+      "vnString": "Giải thích lịch sử khác danh sách ngày tháng ở điểm nào?",
+      "arString": "كيف يختلف التفسير التاريخي عن قائمة تواريخ؟"
+    },
+    "id": 111,
+    "quiz_id": 23,
+    "correct_index": 1
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "Why do limited time and money force choices?",
+      "frenchString": "Pourquoi le temps et l'argent limités imposent-ils des choix ?",
+      "idString": "Mengapa keterbatasan waktu dan uang menuntut pilihan?",
+      "vnString": "Vì sao thời gian và tiền có hạn buộc ta lựa chọn?",
+      "arString": "لماذا يفرض الوقت والمال المحدودان الاختيار؟"
+    },
+    "id": 112,
+    "quiz_id": 23,
+    "correct_index": 3
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Which place keeps historical records for researchers?",
+      "frenchString": "Quel lieu conserve des documents historiques pour la recherche ?",
+      "idString": "Tempat apa yang menyimpan dokumen sejarah untuk penelitian?",
+      "vnString": "Nơi nào lưu giữ hồ sơ lịch sử phục vụ nghiên cứu?",
+      "arString": "أي مكان يحفظ السجلات التاريخية للباحثين؟"
+    },
+    "id": 113,
+    "quiz_id": 23,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "In a hypothetical US food project, a farmer grows wheat, a mill makes flour, and a bakery makes bread. Which order follows the production chain?",
+      "frenchString": "Dans un projet fictif en France, une ferme fournit du lait, une fromagerie fait du fromage, puis un magasin le vend. Quel ordre suit la chaîne ?",
+      "idString": "Dalam proyek rekaan Indonesia, petani menanam kedelai, perajin membuat tempe, lalu pedagang menjualnya. Mana urutannya?",
+      "vnString": "Trong dự án giả định tại Việt Nam, nông dân trồng lúa, cơ sở xay thành gạo, rồi cơ sở làm bún. Thứ tự nào đúng?",
+      "arString": "في مشروع غذائي عربي افتراضي يزرع مزارع القمح وتطحنه مطحنة ويخبزه مخبز. أي ترتيب يتبع سلسلة الإنتاج؟"
+    },
+    "id": 114,
+    "quiz_id": 23,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "In an imagined Mississippi riverside town, homes stand on raised floors. What relationship could this illustrate?",
+      "frenchString": "Dans un village fictif près de la Loire, des logements ont un plancher surélevé. Quel lien cela peut-il illustrer ?",
+      "idString": "Di desa rekaan dekat sungai di Kalimantan, rumah dibuat berpanggung. Hubungan apa yang dapat ditunjukkan?",
+      "vnString": "Ở làng giả định gần sông tại Đồng Tháp, sàn nhà được nâng cao. Điều này có thể thể hiện gì?",
+      "arString": "في قرية افتراضية قرب النيل ترتفع أرضيات بعض البيوت. أي علاقة قد يوضح ذلك؟"
+    },
+    "id": 115,
+    "quiz_id": 23,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "USGS",
+    "question": {
+      "enString": "In a hypothetical Great Lakes port, ships bring grain to a rail terminal. Why can this location support trade?",
+      "frenchString": "Dans un port fictif sur la Seine, des bateaux livrent du blé près d'une gare de fret. Pourquoi ce lieu favorise-t-il les échanges ?",
+      "idString": "Di pelabuhan rekaan di Jawa, hasil panen dipindah dari kapal ke truk. Mengapa lokasi itu mendukung perdagangan?",
+      "vnString": "Ở cảng giả định tại Hải Phòng, hàng được chuyển từ tàu sang xe tải. Vì sao vị trí này hỗ trợ giao thương?",
+      "arString": "في ميناء افتراضي بصلالة تنقل البضائع من السفن إلى الشاحنات. لماذا يدعم الموقع التجارة؟"
+    },
+    "id": 116,
+    "quiz_id": 24,
+    "correct_index": 0
+  },
+  {
+    "topic": "economics",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "In an imagined club, funds can buy either paint or sports balls, not both. Members choose paint. What is the forgone alternative?",
+      "frenchString": "Dans un club fictif, le budget permet d'acheter de la peinture ou des ballons, pas les deux. Le club choisit la peinture. À quoi renonce-t-il ?",
+      "idString": "Dalam klub rekaan, dana cukup untuk cat atau bola, bukan keduanya. Anggota memilih cat. Pilihan apa yang dilepas?",
+      "vnString": "Câu lạc bộ giả định đủ tiền mua sơn hoặc bóng, không đủ mua cả hai. Nhóm chọn sơn. Phương án bị từ bỏ là gì?",
+      "arString": "في ناد افتراضي يكفي المال لطلاء أو كرات لا لكليهما. اختير الطلاء. ما البديل المتروك؟"
+    },
+    "id": 117,
+    "quiz_id": 24,
+    "correct_index": 2
+  },
+  {
+    "topic": "culture",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "A hypothetical US pupil writes, 'Every family in the country makes quilts.' Which revision avoids overgeneralizing?",
+      "frenchString": "Un élève fictif écrit : « Toutes les familles françaises fabriquent des baguettes. » Quelle correction évite la généralisation ?",
+      "idString": "Siswa rekaan menulis, 'Semua keluarga Indonesia membuat batik.' Perbaikan mana menghindari generalisasi?",
+      "vnString": "Một học sinh giả định viết: “Mọi gia đình Việt Nam đều làm gốm Chăm.” Sửa thế nào để tránh khái quát sai?",
+      "arString": "يكتب طالب افتراضي: «كل أسرة عربية تمارس الخط العربي». أي تعديل يتجنب التعميم؟"
+    },
+    "id": 118,
+    "quiz_id": 24,
+    "correct_index": 3
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "What does cultural exchange involve?",
+      "frenchString": "Que comprend un échange culturel ?",
+      "idString": "Apa yang termasuk pertukaran budaya?",
+      "vnString": "Giao lưu văn hóa bao gồm điều gì?",
+      "arString": "ماذا يشمل التبادل الثقافي؟"
+    },
+    "id": 119,
+    "quiz_id": 24,
+    "correct_index": 3
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Why does an old photograph not prove what everyone thought?",
+      "frenchString": "Pourquoi une photo ancienne ne prouve-t-elle pas ce que chacun pensait ?",
+      "idString": "Mengapa foto lama tidak membuktikan pikiran semua orang?",
+      "vnString": "Vì sao ảnh cũ không chứng minh được suy nghĩ của mọi người?",
+      "arString": "لماذا لا تثبت صورة قديمة أفكار جميع الناس؟"
+    },
+    "id": 120,
+    "quiz_id": 24,
+    "correct_index": 1
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "At a hypothetical US farmers' market, a grower sells apples. Which part is a physical good?",
+      "frenchString": "Sur un marché fictif en France, une boulangère vend du pain. Quel élément est un bien matériel ?",
+      "idString": "Di pasar rekaan Indonesia, petani menjual beras. Mana yang merupakan barang berwujud?",
+      "vnString": "Ở chợ giả định tại Việt Nam, người trồng bán rau. Đâu là hàng hóa hữu hình?",
+      "arString": "في سوق افتراضي ببلد عربي يبيع مزارع تمورا. أي عنصر سلعة مادية؟"
+    },
+    "id": 121,
+    "quiz_id": 25,
+    "correct_index": 0
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Why compare accounts from different witnesses?",
+      "frenchString": "Pourquoi comparer les récits de plusieurs témoins ?",
+      "idString": "Mengapa membandingkan cerita beberapa saksi?",
+      "vnString": "Vì sao cần so sánh lời kể của nhiều nhân chứng?",
+      "arString": "لماذا نقارن روايات شهود مختلفين؟"
+    },
+    "id": 122,
+    "quiz_id": 25,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "A fictional town grew after both a new port and new farms opened. What should a historian investigate?",
+      "frenchString": "Une ville fictive grandit après l'ouverture d'un port et de fermes. Que faut-il étudier ?",
+      "idString": "Kota rekaan berkembang setelah pelabuhan dan pertanian baru dibuka. Apa yang perlu diteliti?",
+      "vnString": "Một thị trấn giả định phát triển sau khi có cả cảng và nông trại mới. Cần tìm hiểu điều gì?",
+      "arString": "نمت بلدة افتراضية بعد إنشاء ميناء ومزارع جديدة. ماذا ينبغي بحثه؟"
+    },
+    "id": 123,
+    "quiz_id": 25,
+    "correct_index": 0
+  },
+  {
+    "topic": "culture",
+    "thinking": "understand",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "In a hypothetical US quilting workshop, learners practice stitches with experienced makers. Why can this support living heritage?",
+      "frenchString": "Dans un atelier fictif en France, des apprentis façonnent des baguettes avec un boulanger. Pourquoi cela soutient-il un patrimoine vivant ?",
+      "idString": "Dalam lokakarya rekaan di Indonesia, siswa berlatih membatik bersama perajin. Mengapa mendukung warisan hidup?",
+      "vnString": "Trong lớp giả định ở Việt Nam, người học nặn gốm cùng nghệ nhân Chăm. Vì sao giúp gìn giữ di sản sống?",
+      "arString": "في ورشة افتراضية يتدرب متعلمون على الخط العربي مع خطاط. لماذا يدعم ذلك التراث الحي؟"
+    },
+    "id": 124,
+    "quiz_id": 25,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Who studies objects left by past communities?",
+      "frenchString": "Qui étudie les objets laissés par les sociétés anciennes ?",
+      "idString": "Siapa yang meneliti benda peninggalan masyarakat masa lalu?",
+      "vnString": "Ai nghiên cứu hiện vật do cộng đồng xưa để lại?",
+      "arString": "من يدرس الأشياء التي تركتها مجتمعات الماضي؟"
+    },
+    "id": 125,
+    "quiz_id": 25,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Why should shared rules be explained clearly?",
+      "frenchString": "Pourquoi expliquer clairement les règles communes ?",
+      "idString": "Mengapa aturan bersama perlu dijelaskan dengan jelas?",
+      "vnString": "Vì sao cần giải thích rõ quy định chung?",
+      "arString": "لماذا ينبغي شرح القواعد المشتركة بوضوح؟"
+    },
+    "id": 126,
+    "quiz_id": 26,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "CENSUS",
+    "question": {
+      "enString": "What does population density describe?",
+      "frenchString": "Que décrit la densité de population ?",
+      "idString": "Apa yang dijelaskan oleh kepadatan penduduk?",
+      "vnString": "Mật độ dân số cho biết điều gì?",
+      "arString": "ماذا تصف الكثافة السكانية؟"
+    },
+    "id": 127,
+    "quiz_id": 26,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "A hypothetical US class has $20 left after paying necessary costs. Art supplies cost $20 and seeds cost $20. Which plan fits without borrowing?",
+      "frenchString": "Une classe fictive en France a 20 euros après ses dépenses nécessaires. Du matériel d'art coûte 20 euros et des graines 20 euros. Quel plan ne demande pas d'emprunt ?",
+      "idString": "Kelas rekaan di Indonesia memiliki sisa Rp100.000 setelah biaya wajib. Alat seni dan benih masing-masing Rp100.000. Rencana mana tanpa meminjam?",
+      "vnString": "Lớp giả định ở Việt Nam còn 200.000 đồng sau chi phí cần thiết. Đồ mỹ thuật và hạt giống mỗi loại giá 200.000 đồng. Cách nào không cần vay?",
+      "arString": "لدى صف افتراضي 20 وحدة نقدية بعد النفقات الضرورية. أدوات الرسم والبذور تكلف كل منهما 20 وحدة. أي خطة لا تحتاج إلى اقتراض؟"
+    },
+    "id": 128,
+    "quiz_id": 26,
+    "correct_index": 1
+  },
+  {
+    "topic": "geography",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "Why can a river valley attract farming communities?",
+      "frenchString": "Pourquoi une vallée fluviale peut-elle attirer des agriculteurs ?",
+      "idString": "Mengapa lembah sungai dapat menarik masyarakat petani?",
+      "vnString": "Vì sao thung lũng sông có thể thu hút cộng đồng làm nông?",
+      "arString": "لماذا قد تجذب أودية الأنهار المجتمعات الزراعية؟"
+    },
+    "id": 129,
+    "quiz_id": 26,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "A hypothetical US apple grower pays for boxes and delivery. Why can the selling price include more than growing costs?",
+      "frenchString": "Un producteur fictif de pommes en France paie les cageots et la livraison. Pourquoi son prix peut-il dépasser les seuls frais de culture ?",
+      "idString": "Petani cabai rekaan di Indonesia membayar kemasan dan angkutan. Mengapa harga jual dapat mencakup lebih dari biaya menanam?",
+      "vnString": "Người trồng thanh long giả định ở Việt Nam trả tiền thùng và chở hàng. Vì sao giá bán có thể gồm hơn chi phí trồng?",
+      "arString": "يدفع مزارع تمور افتراضي ثمن العبوات والتوصيل. لماذا قد يشمل السعر أكثر من تكلفة الزراعة؟"
+    },
+    "id": 130,
+    "quiz_id": 26,
+    "correct_index": 3
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "In an imagined US neighborhood, residents and shopkeepers discuss a street closure. Why include both groups?",
+      "frenchString": "Dans un quartier fictif en France, habitants et commerçants discutent d'une rue piétonne. Pourquoi consulter les deux ?",
+      "idString": "Di lingkungan rekaan Indonesia, warga dan pedagang membahas penutupan jalan untuk acara. Mengapa melibatkan keduanya?",
+      "vnString": "Ở khu phố giả định tại Việt Nam, dân cư và người bán hàng bàn việc đóng đường cho hội chợ. Vì sao cần cả hai nhóm?",
+      "arString": "يناقش سكان وتجار في حي عربي افتراضي إغلاق شارع لسوق. لماذا نشرك الطرفين؟"
+    },
+    "id": 131,
+    "quiz_id": 27,
+    "correct_index": 0
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "What does a simple budget plan compare?",
+      "frenchString": "Que compare un budget simple ?",
+      "idString": "Apa yang dibandingkan dalam rencana anggaran sederhana?",
+      "vnString": "Kế hoạch ngân sách đơn giản so sánh điều gì?",
+      "arString": "ماذا تقارن خطة ميزانية بسيطة؟"
+    },
+    "id": 132,
+    "quiz_id": 27,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "local",
+    "source": "UNICEF",
+    "question": {
+      "enString": "In a hypothetical US school, a student council collects pupils' ideas for recess. What role does it serve?",
+      "frenchString": "Dans une école française fictive, les délégués recueillent des idées pour la récréation. Quel rôle jouent-ils ?",
+      "idString": "Di sekolah rekaan Indonesia, wakil kelas mengumpulkan usulan waktu istirahat. Apa perannya?",
+      "vnString": "Ở trường giả định tại Việt Nam, đại diện lớp thu ý tưởng về giờ ra chơi. Vai trò đó là gì?",
+      "arString": "في مدرسة افتراضية في مجتمع عربي يجمع ممثلو الصف أفكار الطلاب للاستراحة. ما دورهم؟"
+    },
+    "id": 133,
+    "quiz_id": 27,
+    "correct_index": 0
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "On an imagined map, north is at the top. The clinic is right of the school. Which direction is the clinic from the school?",
+      "frenchString": "Sur un plan fictif, le nord est en haut. Le dispensaire est à droite de l'école. Dans quelle direction se trouve-t-il depuis l'école ?",
+      "idString": "Pada peta rekaan, utara di atas. Klinik berada di kanan sekolah. Di arah mana klinik dari sekolah?",
+      "vnString": "Trên bản đồ giả định, phía bắc ở trên. Trạm y tế nằm bên phải trường. Từ trường, trạm y tế ở hướng nào?",
+      "arString": "في خريطة افتراضية الشمال في الأعلى والعيادة يمين المدرسة. في أي اتجاه تقع العيادة من المدرسة؟"
+    },
+    "id": 134,
+    "quiz_id": 27,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "A fictional museum label says an object is 'probably a lamp.' What does 'probably' tell the reader?",
+      "frenchString": "Une étiquette fictive indique « probablement une lampe ». Que signifie « probablement » ?",
+      "idString": "Label museum rekaan menyebut 'kemungkinan sebuah lampu'. Apa arti 'kemungkinan'?",
+      "vnString": "Nhãn bảo tàng giả định ghi “có lẽ là đèn”. Cụm “có lẽ” cho biết điều gì?",
+      "arString": "تقول بطاقة متحف افتراضية: «ربما مصباح». ماذا تعني «ربما»؟"
+    },
+    "id": 135,
+    "quiz_id": 27,
+    "correct_index": 3
+  },
+  {
+    "topic": "economics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "When you buy a notebook to use, what is your role?",
+      "frenchString": "Quand tu achètes un cahier pour l'utiliser, quel est ton rôle ?",
+      "idString": "Saat membeli buku tulis untuk dipakai, apa peranmu?",
+      "vnString": "Khi mua vở để dùng, em đóng vai trò gì?",
+      "arString": "عندما تشتري دفترا لتستخدمه فما دورك؟"
+    },
+    "id": 136,
+    "quiz_id": 28,
+    "correct_index": 0
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "For a hypothetical New Orleans history project, a family shares a flood memory. Which label keeps its scope accurate?",
+      "frenchString": "Pour un projet fictif à Tours, une famille raconte une ancienne crue. Quel titre respecte la portée du récit ?",
+      "idString": "Dalam proyek rekaan di Jakarta, satu keluarga bercerita tentang banjir. Judul apa yang tepat?",
+      "vnString": "Trong dự án giả định ở Huế, một gia đình kể ký ức về lũ. Nhãn nào đúng phạm vi?",
+      "arString": "في مشروع افتراضي بالخرطوم تشارك أسرة ذكرى فيضان. أي عنوان يحدد نطاق الرواية بدقة؟"
+    },
+    "id": 137,
+    "quiz_id": 28,
+    "correct_index": 3
+  },
+  {
+    "topic": "civics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Why check the source before sharing a claim about a community?",
+      "frenchString": "Pourquoi vérifier une affirmation sur une communauté avant de la partager ?",
+      "idString": "Mengapa sumber klaim tentang suatu masyarakat perlu diperiksa sebelum dibagikan?",
+      "vnString": "Vì sao cần kiểm tra nguồn trước khi chia sẻ thông tin về cộng đồng?",
+      "arString": "لماذا نتحقق من مصدر ادعاء عن مجتمع قبل نشره؟"
+    },
+    "id": 138,
+    "quiz_id": 28,
+    "correct_index": 2
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "In a fictional Philadelphia neighborhood project, two old shop records disagree about a closing date. What should pupils do next?",
+      "frenchString": "Dans un projet fictif à Bordeaux, deux registres donnent des dates différentes pour la fermeture d'un marché. Que faire ?",
+      "idString": "Dalam proyek rekaan di Semarang, dua catatan berbeda tentang tanggal tutup pasar. Apa langkah berikutnya?",
+      "vnString": "Dự án giả định ở Hội An có hai sổ ghi khác ngày đóng một cửa hiệu. Nên làm gì tiếp?",
+      "arString": "في مشروع افتراضي بتونس يختلف سجلان في تاريخ إغلاق سوق. ما الخطوة التالية؟"
+    },
+    "id": 139,
+    "quiz_id": 28,
+    "correct_index": 1
+  },
+  {
+    "topic": "civics",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "Which action respects another child's privacy?",
+      "frenchString": "Quel geste respecte la vie privée d'un enfant ?",
+      "idString": "Tindakan mana yang menghormati privasi anak lain?",
+      "vnString": "Việc nào tôn trọng đời tư của bạn?",
+      "arString": "أي تصرف يحترم خصوصية طفل آخر؟"
+    },
+    "id": 140,
+    "quiz_id": 28,
+    "correct_index": 1
+  },
+  {
+    "topic": "culture",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "ICH",
+    "question": {
+      "enString": "Which example shows a skill being passed on?",
+      "frenchString": "Quel exemple montre la transmission d'un savoir-faire ?",
+      "idString": "Contoh mana menunjukkan pewarisan keterampilan?",
+      "vnString": "Ví dụ nào thể hiện truyền nghề?",
+      "arString": "أي مثال يبين نقل مهارة؟"
+    },
+    "id": 141,
+    "quiz_id": 29,
+    "correct_index": 2
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "FED",
+    "question": {
+      "enString": "Why can different regions trade with each other?",
+      "frenchString": "Pourquoi des régions différentes peuvent-elles échanger ?",
+      "idString": "Mengapa daerah berbeda dapat berdagang?",
+      "vnString": "Vì sao các vùng có thể trao đổi hàng hóa với nhau?",
+      "arString": "لماذا قد تتاجر مناطق مختلفة فيما بينها؟"
+    },
+    "id": 142,
+    "quiz_id": 29,
+    "correct_index": 3
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "A hypothetical US shoe-repair shop trains an apprentice. Which resource is being developed?",
+      "frenchString": "Un atelier fictif de réparation de vélos en France forme une apprentie. Quelle ressource développe-t-il ?",
+      "idString": "Bengkel sepeda rekaan di Indonesia melatih murid baru. Sumber daya apa yang dikembangkan?",
+      "vnString": "Xưởng may giả định ở Việt Nam đào tạo người học việc. Nguồn lực nào được phát triển?",
+      "arString": "تدرب ورشة نجارة افتراضية في مدينة عربية متعلما جديدا. أي مورد يتطور؟"
+    },
+    "id": 143,
+    "quiz_id": 29,
+    "correct_index": 3
+  },
+  {
+    "topic": "culture",
+    "thinking": "understand",
+    "difficulty": "challenge",
+    "localization": "local",
+    "source": "CRAFTS",
+    "question": {
+      "enString": "A hypothetical US quilt exhibition includes several makers explaining different designs. Why is this more informative than calling every quilt identical?",
+      "frenchString": "Une exposition fictive en France fait expliquer à plusieurs boulangers leurs gestes. Pourquoi est-ce plus instructif que de dire tous les savoir-faire identiques ?",
+      "idString": "Pameran batik rekaan menghadirkan perajin dari beberapa daerah untuk menjelaskan motif. Mengapa lebih informatif daripada menyebut semua batik sama?",
+      "vnString": "Triển lãm giả định mời nhiều nghệ nhân Chăm giải thích cách làm gốm. Vì sao tốt hơn nói mọi sản phẩm giống nhau?",
+      "arString": "يشرح خطاطون أساليب مختلفة في معرض افتراضي للخط العربي. لماذا يفيد ذلك أكثر من وصف كل الأعمال بالمتطابقة؟"
+    },
+    "id": 144,
+    "quiz_id": 29,
+    "correct_index": 1
+  },
+  {
+    "topic": "history",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "An imagined letter says, 'I walked to school.' What extra evidence would help test whether all children walked?",
+      "frenchString": "Une lettre fictive dit : « J'allais à l'école à pied. » Quelle source aiderait à savoir si tous les enfants le faisaient ?",
+      "idString": "Surat rekaan berbunyi, 'Saya berjalan ke sekolah.' Bukti apa membantu menguji apakah semua anak berjalan?",
+      "vnString": "Một lá thư giả định viết: “Tôi đi bộ đến trường.” Cần thêm gì để biết mọi trẻ có đi bộ không?",
+      "arString": "تقول رسالة افتراضية: «كنت أمشي إلى المدرسة». أي دليل يساعد على معرفة إن كان كل الأطفال يمشون؟"
+    },
+    "id": 145,
+    "quiz_id": 29,
+    "correct_index": 3
+  },
+  {
+    "topic": "history",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "LOC",
+    "question": {
+      "enString": "A fictional Arizona exhibit uses one photograph to describe all Indigenous communities. What is the problem?",
+      "frenchString": "Une exposition fictive utilise une photo pour décrire toutes les régions de France. Quel est le problème ?",
+      "idString": "Pameran rekaan memakai satu foto untuk menggambarkan semua masyarakat Indonesia. Apa masalahnya?",
+      "vnString": "Trưng bày giả định dùng một ảnh để mô tả mọi dân tộc Việt Nam. Vấn đề là gì?",
+      "arString": "يستخدم معرض افتراضي صورة واحدة لوصف جميع المجتمعات العربية. ما المشكلة؟"
+    },
+    "id": 146,
+    "quiz_id": 30,
+    "correct_index": 1
+  },
+  {
+    "topic": "economics",
+    "thinking": "understand",
+    "difficulty": "medium",
+    "localization": "local",
+    "source": "FED",
+    "question": {
+      "enString": "In an imagined US town, a storm closes the only road used for milk deliveries. Why might shops receive less milk that day?",
+      "frenchString": "Dans une commune fictive en France, une tempête ferme la seule route de livraison du lait. Pourquoi les magasins peuvent-ils en recevoir moins ?",
+      "idString": "Di desa rekaan Indonesia, banjir menutup satu-satunya jalan pengiriman sayur. Mengapa toko bisa menerima lebih sedikit sayur hari itu?",
+      "vnString": "Ở xã giả định tại Việt Nam, lũ đóng tuyến duy nhất chở rau. Vì sao cửa hàng có thể nhận ít rau hôm đó?",
+      "arString": "تغلق عاصفة الطريق الوحيد لنقل الخضراوات في بلدة عربية افتراضية. لماذا قد تستلم المتاجر كمية أقل ذلك اليوم؟"
+    },
+    "id": 147,
+    "quiz_id": 30,
+    "correct_index": 0
+  },
+  {
+    "topic": "civics",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "UNICEF",
+    "question": {
+      "enString": "In an imagined class, two groups want the same meeting room. Which plan gives both a chance to use it?",
+      "frenchString": "Dans une classe fictive, deux groupes veulent la même salle. Quel plan donne une possibilité à chacun ?",
+      "idString": "Dalam kelas rekaan, dua kelompok ingin memakai ruang yang sama. Rencana apa memberi kesempatan kepada keduanya?",
+      "vnString": "Trong lớp giả định, hai nhóm muốn dùng cùng phòng họp. Cách nào cho cả hai cơ hội sử dụng?",
+      "arString": "في صف افتراضي تريد مجموعتان الغرفة نفسها. أي خطة تمنح كلتيهما فرصة لاستخدامها؟"
+    },
+    "id": 148,
+    "quiz_id": 30,
+    "correct_index": 3
+  },
+  {
+    "topic": "history",
+    "thinking": "recognize",
+    "difficulty": "basic",
+    "localization": "common",
+    "source": "LOC",
+    "question": {
+      "enString": "Which source records a person's own memories in spoken form?",
+      "frenchString": "Quelle source conserve des souvenirs racontés oralement ?",
+      "idString": "Sumber apa yang merekam ingatan seseorang secara lisan?",
+      "vnString": "Nguồn nào ghi lại ký ức được một người kể bằng lời?",
+      "arString": "أي مصدر يسجل ذكريات شخص بصوته؟"
+    },
+    "id": 149,
+    "quiz_id": 30,
+    "correct_index": 3
+  },
+  {
+    "topic": "geography",
+    "thinking": "apply",
+    "difficulty": "medium",
+    "localization": "common",
+    "source": "USGS",
+    "question": {
+      "enString": "An imagined village often floods on low riverbanks. Which site reduces flood exposure for a new store?",
+      "frenchString": "Un village fictif subit des crues près de la rivière. Quel emplacement réduit ce risque pour un magasin ?",
+      "idString": "Desa rekaan sering banjir di tepi sungai yang rendah. Lokasi toko mana mengurangi risiko itu?",
+      "vnString": "Một làng giả định hay ngập ở bờ sông thấp. Nơi nào giảm nguy cơ ngập cho cửa hàng mới?",
+      "arString": "تتعرض ضفاف قرية افتراضية المنخفضة للفيضانات. أي موقع يقلل تعرض متجر جديد لها؟"
+    },
+    "id": 150,
+    "quiz_id": 30,
+    "correct_index": 3
+  }
+]
